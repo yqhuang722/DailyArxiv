@@ -24,7 +24,7 @@ jobs:
 
       - name: Fetch arXiv papers
         run: |
-          python fetch_arxiv.py
+          python main.py
 
       - name: Commit and push changes
         run: |
