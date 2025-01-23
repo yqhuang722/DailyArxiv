@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install arxiv
+          pip install -r requirements.txt
 
       - name: Fetch arXiv papers
         run: |
