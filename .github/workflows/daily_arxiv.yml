@@ -5,6 +5,10 @@ on:
     - cron: '0 12 * * *'  # 每天 UTC 时间 8:00 运行
   workflow_dispatch:     # 允许手动触发
 
+permissions:
+  contents: write
+  issues: write 
+
 jobs:
   update-papers:
     runs-on: ubuntu-latest
@@ -43,3 +47,8 @@ jobs:
           files: README.md .github/ISSUE_TEMPLATE.md
           name: Yongqi Huang
           email: yqhuang@tju.edu.cn
+
+      - name: Create an issue to notify
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
