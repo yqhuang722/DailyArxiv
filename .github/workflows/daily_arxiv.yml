@@ -33,3 +33,13 @@ jobs:
           git add README.md
           git commit -m "Update arXiv papers"
           git push
+      - name: Commit and push changes
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: 'master'
+          commit-message: '✏️ Update papers automatically.'
+          force-add: 'true'
+          files: README.md .github/ISSUE_TEMPLATE.md
+          name: Yongqi Huang
+          email: yqhuang@tju.edu.cn
