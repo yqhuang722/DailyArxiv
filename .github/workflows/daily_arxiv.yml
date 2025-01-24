@@ -26,18 +26,18 @@ jobs:
         run: |
           python main.py
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "Yongqi Huang"
-          git config --global user.email "yqhuang@tju.edu.cn"
-          git add README.md
-          git commit -m "Update arXiv papers"
-          git push
+      # - name: Commit and push changes
+      #   run: |
+      #     git config --global user.name "Yongqi Huang"
+      #     git config --global user.email "yqhuang@tju.edu.cn"
+      #     git add README.md
+      #     git commit -m "Update arXiv papers"
+      #     git push
       - name: Commit and push changes
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: 'master'
+          push-branch: 'main'
           commit-message: '✏️ Update papers automatically.'
           force-add: 'true'
           files: README.md .github/ISSUE_TEMPLATE.md
