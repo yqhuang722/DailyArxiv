@@ -1,8 +1,8 @@
 ---
-title: Latest 10 Papers - January 24, 2025
+title: Latest 10 Papers - January 25, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
 
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,20 @@ labels: documentation
 | **[Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs](http://arxiv.org/abs/2501.01644v1)** | 2025-01-03 |  |
 | **[Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments, Analysis, and Improvements](http://arxiv.org/abs/2501.00773v1)** | 2025-01-01 |  |
 | **[Perfect Alignment May be Poisonous to Graph Contrastive Learning](http://arxiv.org/abs/2310.03977v3)** | 2024-12-24 | ICML 24 |
+
+## Graph Self Supervised Learning
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Enhancing Graph Self-Supervised Learning with Graph Interplay](http://arxiv.org/abs/2410.04061v3)** | 2025-01-16 | <details><summary>Due t...</summary><p>Due to potential implicit data leakage in our experimental setup, where the pretraining dataset was ordered by default labels, we withdraw this manuscript for further self-examination and rigorous validation</p></details> |
+| **[PyG-SSL: A Graph Self-Supervised Learning Toolkit](http://arxiv.org/abs/2412.21151v1)** | 2024-12-30 |  |
+| **[Transferable Watermarking to Self-supervised Pre-trained Graph Encoders by Trigger Embeddings](http://arxiv.org/abs/2406.13177v3)** | 2024-12-07 | <details><summary>This ...</summary><p>This is the latest version (see highlighted content, slight different from the final version submitted to IEEE Xplore)</p></details> |
+| **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](http://arxiv.org/abs/2405.19600v2)** | 2024-12-04 |  |
+| **[Negative-Free Self-Supervised Gaussian Embedding of Graphs](http://arxiv.org/abs/2411.01157v1)** | 2024-11-02 | <details><summary>Accep...</summary><p>Accepted by Neural Networks</p></details> |
+| **[LangGFM: A Large Language Model Alone Can be a Powerful Graph Foundation Model](http://arxiv.org/abs/2410.14961v1)** | 2024-10-19 | under review |
+| **[Learning Graph Quantized Tokenizers for Transformers](http://arxiv.org/abs/2410.13798v1)** | 2024-10-17 |  |
+| **[Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective](http://arxiv.org/abs/2410.10241v1)** | 2024-10-14 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
+| **[Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?](http://arxiv.org/abs/2408.11243v2)** | 2024-08-26 |  |
+| **[Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning](http://arxiv.org/abs/2408.05087v1)** | 2024-08-09 | <details><summary>Accep...</summary><p>Accepted by ECML PKDD 2024</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
