@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - January 25, 2025
+title: Latest 10 Papers - January 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -55,10 +55,6 @@ labels: documentation
 | **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](http://arxiv.org/abs/2405.19600v2)** | 2024-12-04 |  |
 | **[Negative-Free Self-Supervised Gaussian Embedding of Graphs](http://arxiv.org/abs/2411.01157v1)** | 2024-11-02 | <details><summary>Accep...</summary><p>Accepted by Neural Networks</p></details> |
 | **[LangGFM: A Large Language Model Alone Can be a Powerful Graph Foundation Model](http://arxiv.org/abs/2410.14961v1)** | 2024-10-19 | under review |
-| **[Learning Graph Quantized Tokenizers for Transformers](http://arxiv.org/abs/2410.13798v1)** | 2024-10-17 |  |
-| **[Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective](http://arxiv.org/abs/2410.10241v1)** | 2024-10-14 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
-| **[Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?](http://arxiv.org/abs/2408.11243v2)** | 2024-08-26 |  |
-| **[Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning](http://arxiv.org/abs/2408.05087v1)** | 2024-08-09 | <details><summary>Accep...</summary><p>Accepted by ECML PKDD 2024</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
