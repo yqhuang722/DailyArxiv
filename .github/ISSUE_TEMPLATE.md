@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - January 26, 2025
+title: Latest 10 Papers - January 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -55,18 +55,22 @@ labels: documentation
 | **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](http://arxiv.org/abs/2405.19600v2)** | 2024-12-04 |  |
 | **[Negative-Free Self-Supervised Gaussian Embedding of Graphs](http://arxiv.org/abs/2411.01157v1)** | 2024-11-02 | <details><summary>Accep...</summary><p>Accepted by Neural Networks</p></details> |
 | **[LangGFM: A Large Language Model Alone Can be a Powerful Graph Foundation Model](http://arxiv.org/abs/2410.14961v1)** | 2024-10-19 | under review |
+| **[Learning Graph Quantized Tokenizers for Transformers](http://arxiv.org/abs/2410.13798v1)** | 2024-10-17 |  |
+| **[Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective](http://arxiv.org/abs/2410.10241v1)** | 2024-10-14 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
+| **[Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?](http://arxiv.org/abs/2408.11243v2)** | 2024-08-26 |  |
+| **[Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning](http://arxiv.org/abs/2408.05087v1)** | 2024-08-09 | <details><summary>Accep...</summary><p>Accepted by ECML PKDD 2024</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Crossfire: An Elastic Defense Framework for Graph Neural Networks Under Bit Flip Attacks](http://arxiv.org/abs/2501.13776v1)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025, DOI will be included after publication</p></details> |
-| **[Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function](http://arxiv.org/abs/2501.13734v1)** | 2025-01-23 | 48 pages, 4 figures |
-| **[The Road to Learning Explainable Inverse Kinematic Models: Graph Neural Networks as Inductive Bias for Symbolic Regression](http://arxiv.org/abs/2501.13641v1)** | 2025-01-23 |  |
-| **[FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling](http://arxiv.org/abs/2501.12592v2)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted to SDM2025 (SIAM Data Mining 2025)</p></details> |
-| **[VARFVV: View-Adaptive Real-Time Interactive Free-View Video Streaming with Edge Computing](http://arxiv.org/abs/2501.13630v1)** | 2025-01-23 |  |
-| **[GCAD: Anomaly Detection in Multivariate Time Series from the Perspective of Granger Causality](http://arxiv.org/abs/2501.13493v1)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
-| **[MeshMask: Physics-Based Simulations with Masked Graph Neural Networks](http://arxiv.org/abs/2501.08738v2)** | 2025-01-23 |  |
-| **[RIDA: A Robust Attack Framework on Incomplete Graphs](http://arxiv.org/abs/2407.18170v2)** | 2025-01-23 |  |
-| **[Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](http://arxiv.org/abs/2405.13707v2)** | 2025-01-23 | <details><summary>ACM W...</summary><p>ACM Web Conference 2025 (WWW '25)</p></details> |
-| **[KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks](http://arxiv.org/abs/2501.13456v1)** | 2025-01-23 |  |
+| **[An Attentive Graph Agent for Topology-Adaptive Cyber Defence](http://arxiv.org/abs/2501.14700v1)** | 2025-01-24 |  |
+| **[On the Homophily of Heterogeneous Graphs: Understanding and Unleashing](http://arxiv.org/abs/2501.14600v1)** | 2025-01-24 |  |
+| **[Disentangled Condensation for Large-scale Graphs](http://arxiv.org/abs/2401.12231v3)** | 2025-01-24 |  |
+| **[Backdoor Attack on Vertical Federated Graph Neural Network Learning](http://arxiv.org/abs/2410.11290v2)** | 2025-01-24 |  |
+| **[Polynomial Selection in Spectral Graph Neural Networks: An Error-Sum of Function Slices Approach](http://arxiv.org/abs/2404.15354v2)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted in ACM The Web Conference 2025, WWW 2025</p></details> |
+| **[Convergence of gradient based training for linear Graph Neural Networks](http://arxiv.org/abs/2501.14440v1)** | 2025-01-24 | 27 pages, 8 figures |
+| **[GraFPrint: A GNN-Based Approach for Audio Identification](http://arxiv.org/abs/2410.10994v2)** | 2025-01-24 | <details><summary>Submi...</summary><p>Submitted to IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)</p></details> |
+| **[MeshMask: Physics-Based Simulations with Masked Graph Neural Networks](http://arxiv.org/abs/2501.08738v3)** | 2025-01-24 |  |
+| **[Adaptive Progressive Attention Graph Neural Network for EEG Emotion Recognition](http://arxiv.org/abs/2501.14246v1)** | 2025-01-24 |  |
+| **[Top Ten Challenges Towards Agentic Neural Graph Databases](http://arxiv.org/abs/2501.14224v1)** | 2025-01-24 | 12 Pages |
 
