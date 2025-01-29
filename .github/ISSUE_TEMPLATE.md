@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - January 28, 2025
+title: Latest 10 Papers - January 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -10,6 +10,13 @@ labels: documentation
 | **[Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs](http://arxiv.org/abs/2412.17609v1)** | 2024-12-23 | <details><summary>Accep...</summary><p>Accepted and presented at the NeurIPS 2024 workshop "Symmetry and Geometry in Neural Representations" (NeuReps 2024)</p></details> |
 | **[Learning Cross-Task Generalities Across Graphs via Task-trees](http://arxiv.org/abs/2412.16441v1)** | 2024-12-21 |  |
 | **[IOHunter: Graph Foundation Model to Uncover Online Information Operations](http://arxiv.org/abs/2412.14663v1)** | 2024-12-19 | 9 pages |
+| **[GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts](http://arxiv.org/abs/2412.11085v1)** | 2024-12-15 | <details><summary>Accep...</summary><p>Accepted by the Main Technical Track of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-2025)</p></details> |
+| **[Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings](http://arxiv.org/abs/2412.07407v1)** | 2024-12-10 |  |
+| **[RAGraph: A General Retrieval-Augmented Graph Learning Framework](http://arxiv.org/abs/2410.23855v2)** | 2024-12-07 | NeurIPS 2024 |
+| **[Topology Only Pre-Training: Towards Generalised Multi-Domain Graph Models](http://arxiv.org/abs/2311.03976v4)** | 2024-12-02 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables. For in-development code see https://github.com/neutralpronoun/general-gcl</p></details> |
+| **[GFT: Graph Foundation Model with Transferable Tree Vocabulary](http://arxiv.org/abs/2411.06070v1)** | 2024-11-09 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024</p></details> |
+| **[Scalable Training of Trustworthy and Energy-Efficient Predictive Graph Foundation Models for Atomistic Materials Modeling: A Case Study with HydraGNN](http://arxiv.org/abs/2406.12909v4)** | 2024-11-01 | 51 pages, 32 figures |
+| **[GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](http://arxiv.org/abs/2410.10329v3)** | 2024-10-29 | Under Review |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -28,6 +35,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conditional Distribution Learning on Graphs](http://arxiv.org/abs/2411.15206v2)** | 2025-01-28 | 9 pages |
+| **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v3)** | 2025-01-28 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
 | **[Fusion Self-supervised Learning for Recommendation](http://arxiv.org/abs/2407.19692v4)** | 2025-01-16 |  |
 | **[A Simple Graph Contrastive Learning Framework for Short Text Classification](http://arxiv.org/abs/2501.09219v1)** | 2025-01-16 | AAAI2025 |
 | **[Molecular Graph Contrastive Learning with Line Graph](http://arxiv.org/abs/2501.08589v1)** | 2025-01-15 |  |
@@ -36,8 +45,6 @@ labels: documentation
 | **[Why Does Dropping Edges Usually Outperform Adding Edges in Graph Contrastive Learning?](http://arxiv.org/abs/2412.08128v4)** | 2025-01-08 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
 | **[Multimodal Graph Constrastive Learning and Prompt for ChartQA](http://arxiv.org/abs/2501.04303v1)** | 2025-01-08 |  |
 | **[Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs](http://arxiv.org/abs/2501.01644v1)** | 2025-01-03 |  |
-| **[Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments, Analysis, and Improvements](http://arxiv.org/abs/2501.00773v1)** | 2025-01-01 |  |
-| **[Perfect Alignment May be Poisonous to Graph Contrastive Learning](http://arxiv.org/abs/2310.03977v3)** | 2024-12-24 | ICML 24 |
 
 ## Graph Self Supervised Learning
 | **Title** | **Date** | **Comment** |
@@ -56,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement](http://arxiv.org/abs/2501.17059v1)** | 2025-01-28 | <details><summary>This ...</summary><p>This manuscript has been submitted to IEEE journal for possible publication</p></details> |
+| **[Conditional Distribution Learning on Graphs](http://arxiv.org/abs/2411.15206v2)** | 2025-01-28 | 9 pages |
+| **[Few Edges Are Enough: Few-Shot Network Attack Detection with Graph Neural Networks](http://arxiv.org/abs/2501.16964v1)** | 2025-01-28 | <details><summary>This ...</summary><p>This is the version of the author, accepted for publication at IWSEC 2024. Published version available at https://link.springer.com/chapter/10.1007/978-981-97-7737-2_15</p></details> |
+| **[Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks](http://arxiv.org/abs/2501.16944v1)** | 2025-01-28 | <details><summary>Prepr...</summary><p>Preprint Version. Accepted at ICLR 2025</p></details> |
+| **[Dynamic Hypergraph Representation for Bone Metastasis Cancer Analysis](http://arxiv.org/abs/2501.16787v1)** | 2025-01-28 | 12 pages,11 figures |
+| **[Hypergraph Diffusion for High-Order Recommender Systems](http://arxiv.org/abs/2501.16722v1)** | 2025-01-28 | Technical Report |
+| **[Data Mining in Transportation Networks with Graph Neural Networks: A Review and Outlook](http://arxiv.org/abs/2501.16656v1)** | 2025-01-28 | 41 pages, 6 figures |
+| **[Applying Ensemble Models based on Graph Neural Network and Reinforcement Learning for Wind Power Forecasting](http://arxiv.org/abs/2501.16591v1)** | 2025-01-28 |  |
+| **[GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control](http://arxiv.org/abs/2401.14554v3)** | 2025-01-27 | <details><summary>20 pa...</summary><p>20 pages, 15 figures; Accepted by IEEE Transactions on Robotics (T-RO)</p></details> |
 | **[Graph Neural Network Based Hybrid Beamforming Design in Wideband Terahertz MIMO-OFDM Systems](http://arxiv.org/abs/2501.16306v1)** | 2025-01-27 | <details><summary>6 pag...</summary><p>6 pages, 7 figures. This conference paper was published in the 2024 IEEE International Symposium on Phased Array Systems and Technology</p></details> |
-| **[From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases](http://arxiv.org/abs/2501.16271v1)** | 2025-01-27 | 25 pages, 12 figures |
-| **[ReFill: Reinforcement Learning for Fill-In Minimization](http://arxiv.org/abs/2501.16130v1)** | 2025-01-27 |  |
-| **[ScaDyG:A New Paradigm for Large-scale Dynamic Graph Learning](http://arxiv.org/abs/2501.16002v1)** | 2025-01-27 |  |
-| **[Multi-View Attention Syntactic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis](http://arxiv.org/abs/2501.15968v1)** | 2025-01-27 | <details><summary>This ...</summary><p>This paper is accepted by DASFAA 2025</p></details> |
-| **[Graph Condensation: A Survey](http://arxiv.org/abs/2401.11720v3)** | 2025-01-27 | <details><summary>Trans...</summary><p>Transactions on Knowledge and Data Engineering (TKDE) 2025</p></details> |
-| **[An Efficient Sparse Kernel Generator for O(3)-Equivariant Deep Networks](http://arxiv.org/abs/2501.13986v2)** | 2025-01-27 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
-| **[Adaptive AI-based Decentralized Resource Management in the Cloud-Edge Continuum](http://arxiv.org/abs/2501.15802v1)** | 2025-01-27 |  |
-| **[GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design](http://arxiv.org/abs/2501.15755v1)** | 2025-01-27 |  |
-| **[Vehicle-group-based Crash Risk Prediction and Interpretation on Highways](http://arxiv.org/abs/2402.12415v2)** | 2025-01-27 | <details><summary>13 pa...</summary><p>13 pages, 12 figures; vehicle grouping method updated, explainable GNN framework incorporated</p></details> |
 
