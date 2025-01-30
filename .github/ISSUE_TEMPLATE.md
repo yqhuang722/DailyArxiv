@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - January 29, 2025
+title: Latest 10 Papers - January 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement](http://arxiv.org/abs/2501.17059v1)** | 2025-01-28 | <details><summary>This ...</summary><p>This manuscript has been submitted to IEEE journal for possible publication</p></details> |
-| **[Conditional Distribution Learning on Graphs](http://arxiv.org/abs/2411.15206v2)** | 2025-01-28 | 9 pages |
-| **[Few Edges Are Enough: Few-Shot Network Attack Detection with Graph Neural Networks](http://arxiv.org/abs/2501.16964v1)** | 2025-01-28 | <details><summary>This ...</summary><p>This is the version of the author, accepted for publication at IWSEC 2024. Published version available at https://link.springer.com/chapter/10.1007/978-981-97-7737-2_15</p></details> |
-| **[Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks](http://arxiv.org/abs/2501.16944v1)** | 2025-01-28 | <details><summary>Prepr...</summary><p>Preprint Version. Accepted at ICLR 2025</p></details> |
-| **[Dynamic Hypergraph Representation for Bone Metastasis Cancer Analysis](http://arxiv.org/abs/2501.16787v1)** | 2025-01-28 | 12 pages,11 figures |
-| **[Hypergraph Diffusion for High-Order Recommender Systems](http://arxiv.org/abs/2501.16722v1)** | 2025-01-28 | Technical Report |
-| **[Data Mining in Transportation Networks with Graph Neural Networks: A Review and Outlook](http://arxiv.org/abs/2501.16656v1)** | 2025-01-28 | 41 pages, 6 figures |
-| **[Applying Ensemble Models based on Graph Neural Network and Reinforcement Learning for Wind Power Forecasting](http://arxiv.org/abs/2501.16591v1)** | 2025-01-28 |  |
-| **[GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control](http://arxiv.org/abs/2401.14554v3)** | 2025-01-27 | <details><summary>20 pa...</summary><p>20 pages, 15 figures; Accepted by IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Graph Neural Network Based Hybrid Beamforming Design in Wideband Terahertz MIMO-OFDM Systems](http://arxiv.org/abs/2501.16306v1)** | 2025-01-27 | <details><summary>6 pag...</summary><p>6 pages, 7 figures. This conference paper was published in the 2024 IEEE International Symposium on Phased Array Systems and Technology</p></details> |
+| **[Through the Dual-Prism: A Spectral Perspective on Graph Data Augmentation for Graph Classification](http://arxiv.org/abs/2401.09953v3)** | 2025-01-29 | Accepted by AAAI'25 |
+| **[SynthFormer: Equivariant Pharmacophore-based Generation of Synthesizable Molecules for Ligand-Based Drug Design](http://arxiv.org/abs/2410.02718v2)** | 2025-01-29 |  |
+| **[LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging](http://arxiv.org/abs/2501.03464v2)** | 2025-01-29 |  |
+| **[RegionGCN: Spatial-Heterogeneity-Aware Graph Convolutional Networks](http://arxiv.org/abs/2501.17599v1)** | 2025-01-29 | 28 pages, 6 figures |
+| **[Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models](http://arxiv.org/abs/2501.17549v1)** | 2025-01-29 |  |
+| **[Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement](http://arxiv.org/abs/2501.17059v2)** | 2025-01-29 | <details><summary>This ...</summary><p>This manuscript has been submitted to IEEE journal for possible publication</p></details> |
+| **[Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction](http://arxiv.org/abs/2410.03802v2)** | 2025-01-29 |  |
+| **[Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems](http://arxiv.org/abs/2412.04276v2)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted to The Web Conference 2025</p></details> |
+| **[Reqo: A Robust and Explainable Query Optimization Cost Model](http://arxiv.org/abs/2501.17414v1)** | 2025-01-29 |  |
+| **[A Geometric Perspective for High-Dimensional Multiplex Graphs](http://arxiv.org/abs/2501.17374v1)** | 2025-01-29 | <details><summary>Publi...</summary><p>Published in Proceedings of the ACM Conference on Information and Knowledge Management (CIKM) 2024, DOI: 10.1145/3627673.3679541</p></details> |
 
