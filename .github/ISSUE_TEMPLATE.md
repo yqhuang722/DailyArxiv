@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - January 30, 2025
+title: Latest 10 Papers - January 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global](http://arxiv.org/abs/2501.18357v1)** | 2025-01-30 | 9 pages, 2 figures |
 | **[Conditional Distribution Learning on Graphs](http://arxiv.org/abs/2411.15206v2)** | 2025-01-28 | 9 pages |
 | **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v3)** | 2025-01-28 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
 | **[Fusion Self-supervised Learning for Recommendation](http://arxiv.org/abs/2407.19692v4)** | 2025-01-16 |  |
@@ -44,7 +45,6 @@ labels: documentation
 | **[Graph Contrastive Learning on Multi-label Classification for Recommendations](http://arxiv.org/abs/2501.06985v1)** | 2025-01-13 | <details><summary>Prepr...</summary><p>Preprint. 10 figures, 5 tables</p></details> |
 | **[Why Does Dropping Edges Usually Outperform Adding Edges in Graph Contrastive Learning?](http://arxiv.org/abs/2412.08128v4)** | 2025-01-08 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
 | **[Multimodal Graph Constrastive Learning and Prompt for ChartQA](http://arxiv.org/abs/2501.04303v1)** | 2025-01-08 |  |
-| **[Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs](http://arxiv.org/abs/2501.01644v1)** | 2025-01-03 |  |
 
 ## Graph Self Supervised Learning
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Through the Dual-Prism: A Spectral Perspective on Graph Data Augmentation for Graph Classification](http://arxiv.org/abs/2401.09953v3)** | 2025-01-29 | Accepted by AAAI'25 |
-| **[SynthFormer: Equivariant Pharmacophore-based Generation of Synthesizable Molecules for Ligand-Based Drug Design](http://arxiv.org/abs/2410.02718v2)** | 2025-01-29 |  |
-| **[LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging](http://arxiv.org/abs/2501.03464v2)** | 2025-01-29 |  |
-| **[RegionGCN: Spatial-Heterogeneity-Aware Graph Convolutional Networks](http://arxiv.org/abs/2501.17599v1)** | 2025-01-29 | 28 pages, 6 figures |
-| **[Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models](http://arxiv.org/abs/2501.17549v1)** | 2025-01-29 |  |
-| **[Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement](http://arxiv.org/abs/2501.17059v2)** | 2025-01-29 | <details><summary>This ...</summary><p>This manuscript has been submitted to IEEE journal for possible publication</p></details> |
-| **[Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction](http://arxiv.org/abs/2410.03802v2)** | 2025-01-29 |  |
-| **[Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems](http://arxiv.org/abs/2412.04276v2)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted to The Web Conference 2025</p></details> |
-| **[Reqo: A Robust and Explainable Query Optimization Cost Model](http://arxiv.org/abs/2501.17414v1)** | 2025-01-29 |  |
-| **[A Geometric Perspective for High-Dimensional Multiplex Graphs](http://arxiv.org/abs/2501.17374v1)** | 2025-01-29 | <details><summary>Publi...</summary><p>Published in Proceedings of the ACM Conference on Information and Knowledge Management (CIKM) 2024, DOI: 10.1145/3627673.3679541</p></details> |
+| **[Node Classification and Search on the Rubik's Cube Graph with GNNs](http://arxiv.org/abs/2501.18580v1)** | 2025-01-30 |  |
+| **[MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability](http://arxiv.org/abs/2501.18439v1)** | 2025-01-30 |  |
+| **[A Cartesian Encoding Graph Neural Network for Crystal Structures Property Prediction: Application to Thermal Ellipsoid Estimation](http://arxiv.org/abs/2501.18369v1)** | 2025-01-30 |  |
+| **[Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global](http://arxiv.org/abs/2501.18357v1)** | 2025-01-30 | 9 pages, 2 figures |
+| **[ScaDyG:A New Paradigm for Large-scale Dynamic Graph Learning](http://arxiv.org/abs/2501.16002v2)** | 2025-01-30 |  |
+| **[Mixed-Precision Graph Neural Quantization for Low Bit Large Language Models](http://arxiv.org/abs/2501.18154v1)** | 2025-01-30 | ICASSP 2025 |
+| **[ACTGNN: Assessment of Clustering Tendency with Synthetically-Trained Graph Neural Networks](http://arxiv.org/abs/2501.18112v1)** | 2025-01-30 | 10 pages, 4 figures |
+| **[ReFill: Reinforcement Learning for Fill-In Minimization](http://arxiv.org/abs/2501.16130v2)** | 2025-01-30 | <details><summary>appen...</summary><p>appendix added with remaining experiments</p></details> |
+| **[General Geospatial Inference with a Population Dynamics Foundation Model](http://arxiv.org/abs/2411.07207v4)** | 2025-01-30 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, preprint; v4: updated authors</p></details> |
+| **[Decidability of Graph Neural Networks via Logical Characterizations](http://arxiv.org/abs/2404.18151v4)** | 2025-01-29 |  |
 
