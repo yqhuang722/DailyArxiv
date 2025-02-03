@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 02, 2025
+title: Latest 10 Papers - February 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees](http://arxiv.org/abs/2412.16441v2)** | 2025-01-30 |  |
 | **[Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs](http://arxiv.org/abs/2412.17609v1)** | 2024-12-23 | <details><summary>Accep...</summary><p>Accepted and presented at the NeurIPS 2024 workshop "Symmetry and Geometry in Neural Representations" (NeuReps 2024)</p></details> |
-| **[Learning Cross-Task Generalities Across Graphs via Task-trees](http://arxiv.org/abs/2412.16441v1)** | 2024-12-21 |  |
 | **[IOHunter: Graph Foundation Model to Uncover Online Information Operations](http://arxiv.org/abs/2412.14663v1)** | 2024-12-19 | 9 pages |
 | **[GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts](http://arxiv.org/abs/2412.11085v1)** | 2024-12-15 | <details><summary>Accep...</summary><p>Accepted by the Main Technical Track of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-2025)</p></details> |
 | **[Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings](http://arxiv.org/abs/2412.07407v1)** | 2024-12-10 |  |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Node Classification and Search on the Rubik's Cube Graph with GNNs](http://arxiv.org/abs/2501.18580v1)** | 2025-01-30 |  |
-| **[MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability](http://arxiv.org/abs/2501.18439v1)** | 2025-01-30 |  |
-| **[A Cartesian Encoding Graph Neural Network for Crystal Structures Property Prediction: Application to Thermal Ellipsoid Estimation](http://arxiv.org/abs/2501.18369v1)** | 2025-01-30 |  |
-| **[Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global](http://arxiv.org/abs/2501.18357v1)** | 2025-01-30 | 9 pages, 2 figures |
-| **[ScaDyG:A New Paradigm for Large-scale Dynamic Graph Learning](http://arxiv.org/abs/2501.16002v2)** | 2025-01-30 |  |
-| **[Mixed-Precision Graph Neural Quantization for Low Bit Large Language Models](http://arxiv.org/abs/2501.18154v1)** | 2025-01-30 | ICASSP 2025 |
-| **[ACTGNN: Assessment of Clustering Tendency with Synthetically-Trained Graph Neural Networks](http://arxiv.org/abs/2501.18112v1)** | 2025-01-30 | 10 pages, 4 figures |
-| **[ReFill: Reinforcement Learning for Fill-In Minimization](http://arxiv.org/abs/2501.16130v2)** | 2025-01-30 | <details><summary>appen...</summary><p>appendix added with remaining experiments</p></details> |
-| **[General Geospatial Inference with a Population Dynamics Foundation Model](http://arxiv.org/abs/2411.07207v4)** | 2025-01-30 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, preprint; v4: updated authors</p></details> |
-| **[Decidability of Graph Neural Networks via Logical Characterizations](http://arxiv.org/abs/2404.18151v4)** | 2025-01-29 |  |
+| **[Node Classification and Search on the Rubik's Cube Graph with GNNs](http://arxiv.org/abs/2501.18580v2)** | 2025-01-31 |  |
+| **[\underline{E2}Former: A Linear-time \underline{E}fficient and \underline{E}quivariant Trans\underline{former} for Scalable Molecular Modeling](http://arxiv.org/abs/2501.19216v1)** | 2025-01-31 |  |
+| **[RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains](http://arxiv.org/abs/2501.19205v1)** | 2025-01-31 |  |
+| **[Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration](http://arxiv.org/abs/2501.19179v1)** | 2025-01-31 |  |
+| **[Understanding Oversmoothing in GNNs as Consensus in Opinion Dynamics](http://arxiv.org/abs/2501.19089v1)** | 2025-01-31 | 23 pages, 3 figures |
+| **[Optimizing Job Allocation using Reinforcement Learning with Graph Neural Networks](http://arxiv.org/abs/2501.19063v1)** | 2025-01-31 | 12 pages, 5 figures |
+| **[A Review of Graph-Powered Data Quality Applications for IoT Monitoring Sensor Networks](http://arxiv.org/abs/2410.21006v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted to Journal of Network and Computer Applications</p></details> |
+| **[MaxCutPool: differentiable feature-aware Maxcut for pooling in graph neural networks](http://arxiv.org/abs/2409.05100v3)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
+| **[Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks](http://arxiv.org/abs/2501.18851v1)** | 2025-01-31 |  |
+| **[Neural Graph Pattern Machine](http://arxiv.org/abs/2501.18739v1)** | 2025-01-30 |  |
 
