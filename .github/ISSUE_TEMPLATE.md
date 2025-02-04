@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 03, 2025
+title: Latest 10 Papers - February 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Node Classification and Search on the Rubik's Cube Graph with GNNs](http://arxiv.org/abs/2501.18580v2)** | 2025-01-31 |  |
-| **[\underline{E2}Former: A Linear-time \underline{E}fficient and \underline{E}quivariant Trans\underline{former} for Scalable Molecular Modeling](http://arxiv.org/abs/2501.19216v1)** | 2025-01-31 |  |
-| **[RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains](http://arxiv.org/abs/2501.19205v1)** | 2025-01-31 |  |
-| **[Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration](http://arxiv.org/abs/2501.19179v1)** | 2025-01-31 |  |
-| **[Understanding Oversmoothing in GNNs as Consensus in Opinion Dynamics](http://arxiv.org/abs/2501.19089v1)** | 2025-01-31 | 23 pages, 3 figures |
-| **[Optimizing Job Allocation using Reinforcement Learning with Graph Neural Networks](http://arxiv.org/abs/2501.19063v1)** | 2025-01-31 | 12 pages, 5 figures |
-| **[A Review of Graph-Powered Data Quality Applications for IoT Monitoring Sensor Networks](http://arxiv.org/abs/2410.21006v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted to Journal of Network and Computer Applications</p></details> |
-| **[MaxCutPool: differentiable feature-aware Maxcut for pooling in graph neural networks](http://arxiv.org/abs/2409.05100v3)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
-| **[Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks](http://arxiv.org/abs/2501.18851v1)** | 2025-01-31 |  |
-| **[Neural Graph Pattern Machine](http://arxiv.org/abs/2501.18739v1)** | 2025-01-30 |  |
+| **[E2Former: A Linear-time Efficient and Equivariant Transformer for Scalable Molecular Modeling](http://arxiv.org/abs/2501.19216v2)** | 2025-02-03 |  |
+| **[Leveraging Multi-facet Paths for Heterogeneous Graph Representation Learning](http://arxiv.org/abs/2407.20648v2)** | 2025-02-03 |  |
+| **[Learning from Linear Algebra: A Graph Neural Network Approach to Preconditioner Design for Conjugate Gradient Solvers](http://arxiv.org/abs/2405.15557v3)** | 2025-02-03 |  |
+| **[Clarify Confused Nodes via Separated Learning](http://arxiv.org/abs/2306.02285v6)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
+| **[P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network](http://arxiv.org/abs/2410.13905v2)** | 2025-02-03 | Accepted by WWW25 |
+| **[Dynamic Graph Unlearning: A General and Efficient Post-Processing Method via Gradient Transformation](http://arxiv.org/abs/2405.14407v2)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted by the 2025 ACM Web Conference (WWW)</p></details> |
+| **[Learning and Reconstructing Conflicts in O-RAN: A Graph Neural Network Approach](http://arxiv.org/abs/2412.14119v2)** | 2025-02-02 |  |
+| **[Enhancing Link Prediction with Fuzzy Graph Attention Networks and Dynamic Negative Sampling](http://arxiv.org/abs/2411.07482v3)** | 2025-02-01 | Accepted to ISMSI'25 |
+| **[GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration](http://arxiv.org/abs/2410.18032v3)** | 2025-02-01 |  |
+| **[Discovering robust biomarkers of psychiatric disorders from resting-state functional MRI via graph neural networks: A systematic review](http://arxiv.org/abs/2405.00577v2)** | 2025-02-01 |  |
 
