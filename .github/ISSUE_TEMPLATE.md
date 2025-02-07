@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 06, 2025
+title: Latest 10 Papers - February 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v2)** | 2025-02-06 | 8 pages |
 | **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v1)** | 2025-02-05 | Accepted by WWW25 |
 | **[Flatten Graphs as Sequences: Transformers are Scalable Graph Generators](http://arxiv.org/abs/2502.02216v1)** | 2025-02-04 |  |
 | **[Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment](http://arxiv.org/abs/2502.02017v1)** | 2025-02-04 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees](http://arxiv.org/abs/2412.16441v2)** | 2025-01-30 |  |
 | **[Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs](http://arxiv.org/abs/2412.17609v1)** | 2024-12-23 | <details><summary>Accep...</summary><p>Accepted and presented at the NeurIPS 2024 workshop "Symmetry and Geometry in Neural Representations" (NeuReps 2024)</p></details> |
 | **[IOHunter: Graph Foundation Model to Uncover Online Information Operations](http://arxiv.org/abs/2412.14663v1)** | 2024-12-19 | 9 pages |
-| **[GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts](http://arxiv.org/abs/2412.11085v1)** | 2024-12-15 | <details><summary>Accep...</summary><p>Accepted by the Main Technical Track of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-2025)</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators](http://arxiv.org/abs/2502.03424v1)** | 2025-02-05 | <details><summary>This ...</summary><p>This paper is currently under review at Computer-Aided Civil and Infrastructure Engineering</p></details> |
-| **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v1)** | 2025-02-05 | Accepted by WWW25 |
-| **[SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels](http://arxiv.org/abs/2502.03201v1)** | 2025-02-05 |  |
-| **[Optimizing Electric Vehicles Charging using Large Language Models and Graph Neural Networks](http://arxiv.org/abs/2502.03067v1)** | 2025-02-05 |  |
-| **[TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics](http://arxiv.org/abs/2502.02975v1)** | 2025-02-05 | <details><summary>publi...</summary><p>published at ICLR 2025</p></details> |
-| **[Cardinality Estimation on Hyper-relational Knowledge Graphs](http://arxiv.org/abs/2405.15231v2)** | 2025-02-05 |  |
-| **[Beyond Topological Self-Explainable GNNs: A Formal Explainability Perspective](http://arxiv.org/abs/2502.02719v1)** | 2025-02-04 |  |
-| **[HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2310.15318v4)** | 2025-02-04 | <details><summary>Publi...</summary><p>Published in The ACM Web Conference 2024 (WWW '24)</p></details> |
-| **[Product Manifold Representations for Learning on Biological Pathways](http://arxiv.org/abs/2401.15478v2)** | 2025-02-04 | 29 pages, 19 figures |
-| **[scBIT: Integrating Single-cell Transcriptomic Data into fMRI-based Prediction for Alzheimer's Disease Diagnosis](http://arxiv.org/abs/2502.02630v1)** | 2025-02-04 | 31 pages, 5 figures |
+| **[Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks](http://arxiv.org/abs/2502.04224v1)** | 2025-02-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[E(n) Equivariant Topological Neural Networks](http://arxiv.org/abs/2405.15429v5)** | 2025-02-06 | <details><summary>43 pa...</summary><p>43 pages, 11 figures, 12 tables</p></details> |
+| **[G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks](http://arxiv.org/abs/2410.11782v3)** | 2025-02-06 |  |
+| **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v2)** | 2025-02-06 | 8 pages |
+| **[Graph-Enhanced EEG Foundation Model](http://arxiv.org/abs/2411.19507v2)** | 2025-02-06 |  |
+| **[G-Adaptivity: optimised graph-based mesh relocation for finite element methods](http://arxiv.org/abs/2407.04516v2)** | 2025-02-06 |  |
+| **[Generalizing Weisfeiler-Lehman Kernels to Subgraphs](http://arxiv.org/abs/2412.02181v2)** | 2025-02-06 | <details><summary>ICLR ...</summary><p>ICLR 2025 Camera Ready (15 pages)</p></details> |
+| **[Graph Neural Network-Driven Hierarchical Mining for Complex Imbalanced Data](http://arxiv.org/abs/2502.03803v1)** | 2025-02-06 |  |
+| **[Network-Wide Traffic Flow Estimation Across Multiple Cities with Global Open Multi-Source Data: A Large-Scale Case Study in Europe and North America](http://arxiv.org/abs/2502.03798v1)** | 2025-02-06 |  |
+| **[Efficient IAM Greybox Penetration Testing](http://arxiv.org/abs/2304.14540v6)** | 2025-02-06 |  |
 
