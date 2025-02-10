@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 09, 2025
+title: Latest 10 Papers - February 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Contrastive Learning for Connectome Classification](http://arxiv.org/abs/2502.05109v1)** | 2025-02-07 | <details><summary>Submi...</summary><p>Submitted to EMBC '25</p></details> |
 | **[Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global](http://arxiv.org/abs/2501.18357v1)** | 2025-01-30 | 9 pages, 2 figures |
 | **[Conditional Distribution Learning on Graphs](http://arxiv.org/abs/2411.15206v2)** | 2025-01-28 | 9 pages |
 | **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v3)** | 2025-01-28 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
@@ -44,7 +45,6 @@ labels: documentation
 | **[Homophily-aware Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2501.08538v1)** | 2025-01-15 |  |
 | **[Graph Contrastive Learning on Multi-label Classification for Recommendations](http://arxiv.org/abs/2501.06985v1)** | 2025-01-13 | <details><summary>Prepr...</summary><p>Preprint. 10 figures, 5 tables</p></details> |
 | **[Why Does Dropping Edges Usually Outperform Adding Edges in Graph Contrastive Learning?](http://arxiv.org/abs/2412.08128v4)** | 2025-01-08 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
-| **[Multimodal Graph Constrastive Learning and Prompt for ChartQA](http://arxiv.org/abs/2501.04303v1)** | 2025-01-08 |  |
 
 ## Graph Self Supervised Learning
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks](http://arxiv.org/abs/2502.04224v1)** | 2025-02-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[E(n) Equivariant Topological Neural Networks](http://arxiv.org/abs/2405.15429v5)** | 2025-02-06 | <details><summary>43 pa...</summary><p>43 pages, 11 figures, 12 tables</p></details> |
-| **[G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks](http://arxiv.org/abs/2410.11782v3)** | 2025-02-06 |  |
-| **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v2)** | 2025-02-06 | 8 pages |
-| **[Graph-Enhanced EEG Foundation Model](http://arxiv.org/abs/2411.19507v2)** | 2025-02-06 |  |
-| **[G-Adaptivity: optimised graph-based mesh relocation for finite element methods](http://arxiv.org/abs/2407.04516v2)** | 2025-02-06 |  |
-| **[Generalizing Weisfeiler-Lehman Kernels to Subgraphs](http://arxiv.org/abs/2412.02181v2)** | 2025-02-06 | <details><summary>ICLR ...</summary><p>ICLR 2025 Camera Ready (15 pages)</p></details> |
-| **[Graph Neural Network-Driven Hierarchical Mining for Complex Imbalanced Data](http://arxiv.org/abs/2502.03803v1)** | 2025-02-06 |  |
-| **[Network-Wide Traffic Flow Estimation Across Multiple Cities with Global Open Multi-Source Data: A Large-Scale Case Study in Europe and North America](http://arxiv.org/abs/2502.03798v1)** | 2025-02-06 |  |
-| **[Efficient IAM Greybox Penetration Testing](http://arxiv.org/abs/2304.14540v6)** | 2025-02-06 |  |
+| **[Predicting Steady-State Behavior in Complex Networks with Graph Neural Networks](http://arxiv.org/abs/2502.01693v2)** | 2025-02-07 | 13 pages, 7 figures |
+| **[Graph Contrastive Learning for Connectome Classification](http://arxiv.org/abs/2502.05109v1)** | 2025-02-07 | <details><summary>Submi...</summary><p>Submitted to EMBC '25</p></details> |
+| **[GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control](http://arxiv.org/abs/2401.14554v4)** | 2025-02-07 | <details><summary>20 pa...</summary><p>20 pages, 15 figures; Accepted by IEEE Transactions on Robotics (T-RO)</p></details> |
+| **[Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification](http://arxiv.org/abs/2502.05000v1)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted for poster at WWW 2025</p></details> |
+| **[Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function](http://arxiv.org/abs/2501.13734v2)** | 2025-02-07 | 50 pages, 4 figures |
+| **[Scalable Parameter Design for Superconducting Quantum Circuits with Graph Neural Networks](http://arxiv.org/abs/2411.16354v2)** | 2025-02-07 |  |
+| **[GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring](http://arxiv.org/abs/2502.04891v1)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
+| **[Graph Federated Learning Based Proactive Content Caching in Edge Computing](http://arxiv.org/abs/2502.04760v1)** | 2025-02-07 |  |
+| **[Can LLMs Convert Graphs to Text-Attributed Graphs?](http://arxiv.org/abs/2412.10136v2)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted by NAACL 25 Main Conference</p></details> |
+| **[Rethinking Oversmoothing in Graph Neural Networks: A Rank-Based Perspective](http://arxiv.org/abs/2502.04591v1)** | 2025-02-07 |  |
 
