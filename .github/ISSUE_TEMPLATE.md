@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 10, 2025
+title: Latest 10 Papers - February 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v1)** | 2025-02-08 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
 | **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v2)** | 2025-02-06 | 8 pages |
 | **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v1)** | 2025-02-05 | Accepted by WWW25 |
 | **[Flatten Graphs as Sequences: Transformers are Scalable Graph Generators](http://arxiv.org/abs/2502.02216v1)** | 2025-02-04 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](http://arxiv.org/abs/2502.00806v1)** | 2025-02-02 | WWW 2025 |
 | **[Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees](http://arxiv.org/abs/2412.16441v2)** | 2025-01-30 |  |
 | **[Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs](http://arxiv.org/abs/2412.17609v1)** | 2024-12-23 | <details><summary>Accep...</summary><p>Accepted and presented at the NeurIPS 2024 workshop "Symmetry and Geometry in Neural Representations" (NeuReps 2024)</p></details> |
-| **[IOHunter: Graph Foundation Model to Uncover Online Information Operations](http://arxiv.org/abs/2412.14663v1)** | 2024-12-19 | 9 pages |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predicting Steady-State Behavior in Complex Networks with Graph Neural Networks](http://arxiv.org/abs/2502.01693v2)** | 2025-02-07 | 13 pages, 7 figures |
-| **[Graph Contrastive Learning for Connectome Classification](http://arxiv.org/abs/2502.05109v1)** | 2025-02-07 | <details><summary>Submi...</summary><p>Submitted to EMBC '25</p></details> |
-| **[GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control](http://arxiv.org/abs/2401.14554v4)** | 2025-02-07 | <details><summary>20 pa...</summary><p>20 pages, 15 figures; Accepted by IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification](http://arxiv.org/abs/2502.05000v1)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted for poster at WWW 2025</p></details> |
-| **[Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function](http://arxiv.org/abs/2501.13734v2)** | 2025-02-07 | 50 pages, 4 figures |
-| **[Scalable Parameter Design for Superconducting Quantum Circuits with Graph Neural Networks](http://arxiv.org/abs/2411.16354v2)** | 2025-02-07 |  |
-| **[GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring](http://arxiv.org/abs/2502.04891v1)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
-| **[Graph Federated Learning Based Proactive Content Caching in Edge Computing](http://arxiv.org/abs/2502.04760v1)** | 2025-02-07 |  |
-| **[Can LLMs Convert Graphs to Text-Attributed Graphs?](http://arxiv.org/abs/2412.10136v2)** | 2025-02-07 | <details><summary>Accep...</summary><p>Accepted by NAACL 25 Main Conference</p></details> |
-| **[Rethinking Oversmoothing in Graph Neural Networks: A Rank-Based Perspective](http://arxiv.org/abs/2502.04591v1)** | 2025-02-07 |  |
+| **[RelGNN: Composite Message Passing for Relational Deep Learning](http://arxiv.org/abs/2502.06784v1)** | 2025-02-10 | 14 pages |
+| **[Adaptive Reconstruction for Graph Neural Networks](http://arxiv.org/abs/2406.17281v2)** | 2025-02-10 |  |
+| **[Better Fair than Sorry: Adversarial Missing Data Imputation for Fair GNNs](http://arxiv.org/abs/2311.01591v3)** | 2025-02-10 |  |
+| **[Arrhythmia Classification Using Graph Neural Networks Based on Correlation Matrix](http://arxiv.org/abs/2410.10758v4)** | 2025-02-10 | Corrected typos |
+| **[Prompt-Driven Continual Graph Learning](http://arxiv.org/abs/2502.06327v1)** | 2025-02-10 | 12 pages, 7figures |
+| **[IceBerg: Debiased Self-Training for Class-Imbalanced Node Classification](http://arxiv.org/abs/2502.06280v1)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted by TheWebConf (WWW) 2025</p></details> |
+| **[DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale](http://arxiv.org/abs/2502.01681v2)** | 2025-02-10 |  |
+| **[Graph Neural Networks at a Fraction](http://arxiv.org/abs/2502.06136v1)** | 2025-02-10 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, accepted at PAKKD 2025</p></details> |
+| **[Epidemiology-informed Network for Robust Rumor Detection](http://arxiv.org/abs/2411.12949v2)** | 2025-02-10 |  |
+| **[Norm Augmented Graph AutoEncoders for Link Prediction](http://arxiv.org/abs/2502.05868v1)** | 2025-02-09 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2025</p></details> |
 
