@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 11, 2025
+title: Latest 10 Papers - February 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TopoTune : A Framework for Generalized Combinatorial Complex Neural Networks](http://arxiv.org/abs/2410.06530v3)** | 2025-02-11 |  |
+| **[MeMo: Meaningful, Modular Controllers via Noise Injection](http://arxiv.org/abs/2407.01567v2)** | 2025-02-11 | <details><summary>NeurI...</summary><p>NeurIPS 2024; 29 pages, 21 figures</p></details> |
+| **[Graph Neural Networks in EEG-based Emotion Recognition: A Survey](http://arxiv.org/abs/2402.01138v4)** | 2025-02-11 |  |
+| **[Higher-Order Message Passing for Glycan Representation Learning](http://arxiv.org/abs/2409.13467v3)** | 2025-02-11 | <details><summary>Accep...</summary><p>Accepted to MLSB Workshop at NeurIPS 2024</p></details> |
+| **[Effects of Random Edge-Dropping on Over-Squashing in Graph Neural Networks](http://arxiv.org/abs/2502.07364v1)** | 2025-02-11 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 2 tables</p></details> |
+| **[Graph Neural Networks at a Fraction](http://arxiv.org/abs/2502.06136v2)** | 2025-02-11 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, accepted at PAKKD 2025</p></details> |
 | **[RelGNN: Composite Message Passing for Relational Deep Learning](http://arxiv.org/abs/2502.06784v1)** | 2025-02-10 | 14 pages |
+| **[Neighborhood-Order Learning Graph Attention Network for Fake News Detection](http://arxiv.org/abs/2502.06927v1)** | 2025-02-10 | 37 pages |
 | **[Adaptive Reconstruction for Graph Neural Networks](http://arxiv.org/abs/2406.17281v2)** | 2025-02-10 |  |
-| **[Better Fair than Sorry: Adversarial Missing Data Imputation for Fair GNNs](http://arxiv.org/abs/2311.01591v3)** | 2025-02-10 |  |
-| **[Arrhythmia Classification Using Graph Neural Networks Based on Correlation Matrix](http://arxiv.org/abs/2410.10758v4)** | 2025-02-10 | Corrected typos |
-| **[Prompt-Driven Continual Graph Learning](http://arxiv.org/abs/2502.06327v1)** | 2025-02-10 | 12 pages, 7figures |
-| **[IceBerg: Debiased Self-Training for Class-Imbalanced Node Classification](http://arxiv.org/abs/2502.06280v1)** | 2025-02-10 | <details><summary>Accep...</summary><p>Accepted by TheWebConf (WWW) 2025</p></details> |
-| **[DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale](http://arxiv.org/abs/2502.01681v2)** | 2025-02-10 |  |
-| **[Graph Neural Networks at a Fraction](http://arxiv.org/abs/2502.06136v1)** | 2025-02-10 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, accepted at PAKKD 2025</p></details> |
-| **[Epidemiology-informed Network for Robust Rumor Detection](http://arxiv.org/abs/2411.12949v2)** | 2025-02-10 |  |
-| **[Norm Augmented Graph AutoEncoders for Link Prediction](http://arxiv.org/abs/2502.05868v1)** | 2025-02-09 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2025</p></details> |
+| **[GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units](http://arxiv.org/abs/2502.06921v1)** | 2025-02-10 |  |
 
