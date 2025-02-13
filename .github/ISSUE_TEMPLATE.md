@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 12, 2025
+title: Latest 10 Papers - February 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v1)** | 2025-02-12 |  |
 | **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v1)** | 2025-02-08 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
 | **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v2)** | 2025-02-06 | 8 pages |
 | **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v1)** | 2025-02-05 | Accepted by WWW25 |
@@ -16,7 +17,6 @@ labels: documentation
 | **[A Comprehensive Analysis on LLM-based Node Classification Algorithms](http://arxiv.org/abs/2502.00829v1)** | 2025-02-02 |  |
 | **[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](http://arxiv.org/abs/2502.00806v1)** | 2025-02-02 | WWW 2025 |
 | **[Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees](http://arxiv.org/abs/2412.16441v2)** | 2025-01-30 |  |
-| **[Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs](http://arxiv.org/abs/2412.17609v1)** | 2024-12-23 | <details><summary>Accep...</summary><p>Accepted and presented at the NeurIPS 2024 workshop "Symmetry and Geometry in Neural Representations" (NeuReps 2024)</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TopoTune : A Framework for Generalized Combinatorial Complex Neural Networks](http://arxiv.org/abs/2410.06530v3)** | 2025-02-11 |  |
-| **[MeMo: Meaningful, Modular Controllers via Noise Injection](http://arxiv.org/abs/2407.01567v2)** | 2025-02-11 | <details><summary>NeurI...</summary><p>NeurIPS 2024; 29 pages, 21 figures</p></details> |
-| **[Graph Neural Networks in EEG-based Emotion Recognition: A Survey](http://arxiv.org/abs/2402.01138v4)** | 2025-02-11 |  |
-| **[Higher-Order Message Passing for Glycan Representation Learning](http://arxiv.org/abs/2409.13467v3)** | 2025-02-11 | <details><summary>Accep...</summary><p>Accepted to MLSB Workshop at NeurIPS 2024</p></details> |
-| **[Effects of Random Edge-Dropping on Over-Squashing in Graph Neural Networks](http://arxiv.org/abs/2502.07364v1)** | 2025-02-11 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 2 tables</p></details> |
-| **[Graph Neural Networks at a Fraction](http://arxiv.org/abs/2502.06136v2)** | 2025-02-11 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, accepted at PAKKD 2025</p></details> |
-| **[RelGNN: Composite Message Passing for Relational Deep Learning](http://arxiv.org/abs/2502.06784v1)** | 2025-02-10 | 14 pages |
-| **[Neighborhood-Order Learning Graph Attention Network for Fake News Detection](http://arxiv.org/abs/2502.06927v1)** | 2025-02-10 | 37 pages |
-| **[Adaptive Reconstruction for Graph Neural Networks](http://arxiv.org/abs/2406.17281v2)** | 2025-02-10 |  |
-| **[GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units](http://arxiv.org/abs/2502.06921v1)** | 2025-02-10 |  |
+| **[Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function](http://arxiv.org/abs/2501.13734v3)** | 2025-02-12 | 50 pages, 4 figures |
+| **[Matcha: Mitigating Graph Structure Shifts with Test-Time Adaptation](http://arxiv.org/abs/2410.06976v2)** | 2025-02-12 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[Efficient IAM Greybox Penetration Testing](http://arxiv.org/abs/2304.14540v7)** | 2025-02-12 |  |
+| **[Bridging Domain Adaptation and Graph Neural Networks: A Tensor-Based Framework for Effective Label Propagation](http://arxiv.org/abs/2502.08505v1)** | 2025-02-12 |  |
+| **[GraphXAIN: Narratives to Explain Graph Neural Networks](http://arxiv.org/abs/2411.02540v3)** | 2025-02-12 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 2 tables</p></details> |
+| **[Convergence of Message Passing Graph Neural Networks with Generic Aggregation On Large Random Graphs](http://arxiv.org/abs/2304.11140v4)** | 2025-02-12 |  |
+| **[GNN-based Anchor Embedding for Exact Subgraph Matching](http://arxiv.org/abs/2502.00031v2)** | 2025-02-12 |  |
+| **[Trustworthy GNNs with LLMs: A Systematic Review and Taxonomy](http://arxiv.org/abs/2502.08353v1)** | 2025-02-12 | <details><summary>Submi...</summary><p>Submitted to IJCAI 2025</p></details> |
+| **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v1)** | 2025-02-12 |  |
+| **[Data Pricing for Graph Neural Networks without Pre-purchased Inspection](http://arxiv.org/abs/2502.08284v1)** | 2025-02-12 | <details><summary>Accep...</summary><p>Accepted by AAMAS-2025</p></details> |
 
