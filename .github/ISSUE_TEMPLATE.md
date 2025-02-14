@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 13, 2025
+title: Latest 10 Papers - February 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](http://arxiv.org/abs/2502.09254v1)** | 2025-02-13 | 14 pages |
 | **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v1)** | 2025-02-12 |  |
 | **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v1)** | 2025-02-08 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
 | **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v2)** | 2025-02-06 | 8 pages |
@@ -16,11 +17,11 @@ labels: documentation
 | **[GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](http://arxiv.org/abs/2502.01113v1)** | 2025-02-03 | 19 pages, 6 figures |
 | **[A Comprehensive Analysis on LLM-based Node Classification Algorithms](http://arxiv.org/abs/2502.00829v1)** | 2025-02-02 |  |
 | **[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](http://arxiv.org/abs/2502.00806v1)** | 2025-02-02 | WWW 2025 |
-| **[Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees](http://arxiv.org/abs/2412.16441v2)** | 2025-01-30 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLEAR: Cluster-based Prompt Learning on Heterogeneous Graphs](http://arxiv.org/abs/2502.08918v1)** | 2025-02-13 | <details><summary>accep...</summary><p>accepted by PAKDD 2025</p></details> |
 | **[HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2310.15318v4)** | 2025-02-04 | <details><summary>Publi...</summary><p>Published in The ACM Web Conference 2024 (WWW '24)</p></details> |
 | **[DAGPrompT: Pushing the Limits of Graph Prompting with a Distribution-aware Graph Prompt Tuning Approach](http://arxiv.org/abs/2501.15142v1)** | 2025-01-25 | <details><summary>To be...</summary><p>To be published in WWW '25, April 28-May 2, 2025, Sydney, NSW, Australia</p></details> |
 | **[RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning](http://arxiv.org/abs/2408.03195v3)** | 2025-01-17 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025 (camera-ready version). Due to the space limitation, please refer to the V2 version for more details</p></details> |
@@ -30,11 +31,11 @@ labels: documentation
 | **[LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings](http://arxiv.org/abs/2408.14512v3)** | 2024-12-19 |  |
 | **[How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot Learning Approach](http://arxiv.org/abs/2412.11387v1)** | 2024-12-16 |  |
 | **[Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?](http://arxiv.org/abs/2412.08174v2)** | 2024-12-15 | Preprint, 25 pages |
-| **[Adapting Unsigned Graph Neural Networks for Signed Graphs: A Few-Shot Prompt Tuning Approach](http://arxiv.org/abs/2412.12155v1)** | 2024-12-11 |  |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits](http://arxiv.org/abs/2502.08949v1)** | 2025-02-13 |  |
 | **[Graph Contrastive Learning for Connectome Classification](http://arxiv.org/abs/2502.05109v1)** | 2025-02-07 | <details><summary>Submi...</summary><p>Submitted to EMBC '25</p></details> |
 | **[Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global](http://arxiv.org/abs/2501.18357v1)** | 2025-01-30 | 9 pages, 2 figures |
 | **[Conditional Distribution Learning on Graphs](http://arxiv.org/abs/2411.15206v2)** | 2025-01-28 | 9 pages |
@@ -44,7 +45,6 @@ labels: documentation
 | **[Molecular Graph Contrastive Learning with Line Graph](http://arxiv.org/abs/2501.08589v1)** | 2025-01-15 |  |
 | **[Homophily-aware Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2501.08538v1)** | 2025-01-15 |  |
 | **[Graph Contrastive Learning on Multi-label Classification for Recommendations](http://arxiv.org/abs/2501.06985v1)** | 2025-01-13 | <details><summary>Prepr...</summary><p>Preprint. 10 figures, 5 tables</p></details> |
-| **[Why Does Dropping Edges Usually Outperform Adding Edges in Graph Contrastive Learning?](http://arxiv.org/abs/2412.08128v4)** | 2025-01-08 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
 
 ## Graph Self Supervised Learning
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing the Utility of Higher-Order Information in Relational Learning](http://arxiv.org/abs/2502.09570v1)** | 2025-02-13 |  |
+| **[Machine learning for modelling unstructured grid data in computational physics: a review](http://arxiv.org/abs/2502.09346v1)** | 2025-02-13 |  |
+| **[Revisiting Topological Interference Management: A Learning-to-Code on Graphs Perspective](http://arxiv.org/abs/2502.09344v1)** | 2025-02-13 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2305.07186</p></details> |
+| **[Graph Diffusion Network for Drug-Gene Prediction](http://arxiv.org/abs/2502.09335v1)** | 2025-02-13 | <details><summary>IEEE/...</summary><p>IEEE/ACM TCBB. 14 pages</p></details> |
+| **[LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection](http://arxiv.org/abs/2502.09271v1)** | 2025-02-13 |  |
+| **[Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence](http://arxiv.org/abs/2502.09263v1)** | 2025-02-13 |  |
+| **[Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits](http://arxiv.org/abs/2502.08949v1)** | 2025-02-13 |  |
+| **[Invariant Graph Learning Meets Information Bottleneck for Out-of-Distribution Generalization](http://arxiv.org/abs/2408.01697v2)** | 2025-02-13 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-025-40798-3}</p></details> |
+| **[GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units](http://arxiv.org/abs/2502.06921v2)** | 2025-02-13 |  |
 | **[Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function](http://arxiv.org/abs/2501.13734v3)** | 2025-02-12 | 50 pages, 4 figures |
-| **[Matcha: Mitigating Graph Structure Shifts with Test-Time Adaptation](http://arxiv.org/abs/2410.06976v2)** | 2025-02-12 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[Efficient IAM Greybox Penetration Testing](http://arxiv.org/abs/2304.14540v7)** | 2025-02-12 |  |
-| **[Bridging Domain Adaptation and Graph Neural Networks: A Tensor-Based Framework for Effective Label Propagation](http://arxiv.org/abs/2502.08505v1)** | 2025-02-12 |  |
-| **[GraphXAIN: Narratives to Explain Graph Neural Networks](http://arxiv.org/abs/2411.02540v3)** | 2025-02-12 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 2 tables</p></details> |
-| **[Convergence of Message Passing Graph Neural Networks with Generic Aggregation On Large Random Graphs](http://arxiv.org/abs/2304.11140v4)** | 2025-02-12 |  |
-| **[GNN-based Anchor Embedding for Exact Subgraph Matching](http://arxiv.org/abs/2502.00031v2)** | 2025-02-12 |  |
-| **[Trustworthy GNNs with LLMs: A Systematic Review and Taxonomy](http://arxiv.org/abs/2502.08353v1)** | 2025-02-12 | <details><summary>Submi...</summary><p>Submitted to IJCAI 2025</p></details> |
-| **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v1)** | 2025-02-12 |  |
-| **[Data Pricing for Graph Neural Networks without Pre-purchased Inspection](http://arxiv.org/abs/2502.08284v1)** | 2025-02-12 | <details><summary>Accep...</summary><p>Accepted by AAMAS-2025</p></details> |
 
