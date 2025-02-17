@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 16, 2025
+title: Latest 10 Papers - February 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v2)** | 2025-02-14 |  |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](http://arxiv.org/abs/2502.09254v1)** | 2025-02-13 | 14 pages |
-| **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v1)** | 2025-02-12 |  |
 | **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v1)** | 2025-02-08 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
 | **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v2)** | 2025-02-06 | 8 pages |
 | **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v1)** | 2025-02-05 | Accepted by WWW25 |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing the Utility of Higher-Order Information in Relational Learning](http://arxiv.org/abs/2502.09570v1)** | 2025-02-13 |  |
-| **[Machine learning for modelling unstructured grid data in computational physics: a review](http://arxiv.org/abs/2502.09346v1)** | 2025-02-13 |  |
-| **[Revisiting Topological Interference Management: A Learning-to-Code on Graphs Perspective](http://arxiv.org/abs/2502.09344v1)** | 2025-02-13 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2305.07186</p></details> |
-| **[Graph Diffusion Network for Drug-Gene Prediction](http://arxiv.org/abs/2502.09335v1)** | 2025-02-13 | <details><summary>IEEE/...</summary><p>IEEE/ACM TCBB. 14 pages</p></details> |
-| **[LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection](http://arxiv.org/abs/2502.09271v1)** | 2025-02-13 |  |
-| **[Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence](http://arxiv.org/abs/2502.09263v1)** | 2025-02-13 |  |
-| **[Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits](http://arxiv.org/abs/2502.08949v1)** | 2025-02-13 |  |
-| **[Invariant Graph Learning Meets Information Bottleneck for Out-of-Distribution Generalization](http://arxiv.org/abs/2408.01697v2)** | 2025-02-13 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-025-40798-3}</p></details> |
-| **[GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units](http://arxiv.org/abs/2502.06921v2)** | 2025-02-13 |  |
-| **[Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function](http://arxiv.org/abs/2501.13734v3)** | 2025-02-12 | 50 pages, 4 figures |
+| **[The Graph's Apprentice: Teaching an LLM Low Level Knowledge for Circuit Quality Estimation](http://arxiv.org/abs/2411.00843v2)** | 2025-02-14 |  |
+| **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v2)** | 2025-02-14 |  |
+| **[SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks](http://arxiv.org/abs/2502.10208v1)** | 2025-02-14 |  |
+| **[COMBINEX: A Unified Counterfactual Explainer for Graph Neural Networks via Node Feature and Structural Perturbations](http://arxiv.org/abs/2502.10111v1)** | 2025-02-14 |  |
+| **[Federated Temporal Graph Clustering](http://arxiv.org/abs/2410.12343v2)** | 2025-02-14 | 8 pages, 1 figure |
+| **[Data Center Cooling System Optimization Using Offline Reinforcement Learning](http://arxiv.org/abs/2501.15085v2)** | 2025-02-14 | <details><summary>Accep...</summary><p>Accepted in ICLR 2025</p></details> |
+| **[Transformer-based Graph Neural Networks for Battery Range Prediction in AIoT Battery-Swap Services](http://arxiv.org/abs/2407.16115v2)** | 2025-02-14 | <details><summary>9page...</summary><p>9pages, 6figures, accepted by IEEE ICWS 2024 The International Conference on Web Services</p></details> |
+| **[TransGUNet: Transformer Meets Graph-based Skip Connection for Medical Image Segmentation](http://arxiv.org/abs/2502.09931v1)** | 2025-02-14 | 24 pages, 12 figures |
+| **[Evaluating and Improving Graph-based Explanation Methods for Multi-Agent Coordination](http://arxiv.org/abs/2502.09889v1)** | 2025-02-14 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 6 tables</p></details> |
+| **[LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection](http://arxiv.org/abs/2502.09271v2)** | 2025-02-14 | PAKDD 2025 |
 
