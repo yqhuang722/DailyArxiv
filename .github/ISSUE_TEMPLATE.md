@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 17, 2025
+title: Latest 10 Papers - February 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v2)** | 2025-02-14 |  |
+| **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v3)** | 2025-02-17 |  |
+| **[MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs](http://arxiv.org/abs/2406.10426v3)** | 2025-02-15 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, preprint version</p></details> |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](http://arxiv.org/abs/2502.09254v1)** | 2025-02-13 | 14 pages |
 | **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v1)** | 2025-02-08 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
 | **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v2)** | 2025-02-06 | 8 pages |
@@ -16,11 +17,11 @@ labels: documentation
 | **[Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment](http://arxiv.org/abs/2502.02017v1)** | 2025-02-04 |  |
 | **[GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](http://arxiv.org/abs/2502.01113v1)** | 2025-02-03 | 19 pages, 6 figures |
 | **[A Comprehensive Analysis on LLM-based Node Classification Algorithms](http://arxiv.org/abs/2502.00829v1)** | 2025-02-02 |  |
-| **[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](http://arxiv.org/abs/2502.00806v1)** | 2025-02-02 | WWW 2025 |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CuriousLLM: Elevating Multi-Document Question Answering with LLM-Enhanced Knowledge Graph Reasoning](http://arxiv.org/abs/2404.09077v2)** | 2025-02-17 |  |
 | **[CLEAR: Cluster-based Prompt Learning on Heterogeneous Graphs](http://arxiv.org/abs/2502.08918v1)** | 2025-02-13 | <details><summary>accep...</summary><p>accepted by PAKDD 2025</p></details> |
 | **[HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2310.15318v4)** | 2025-02-04 | <details><summary>Publi...</summary><p>Published in The ACM Web Conference 2024 (WWW '24)</p></details> |
 | **[DAGPrompT: Pushing the Limits of Graph Prompting with a Distribution-aware Graph Prompt Tuning Approach](http://arxiv.org/abs/2501.15142v1)** | 2025-01-25 | <details><summary>To be...</summary><p>To be published in WWW '25, April 28-May 2, 2025, Sydney, NSW, Australia</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Prompt-based Unifying Inference Attack on Graph Neural Networks](http://arxiv.org/abs/2412.15735v1)** | 2024-12-20 | <details><summary>Accep...</summary><p>Accepted by the 39th AAAI Conference on Artificial Intelligence (AAAI-25)</p></details> |
 | **[LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings](http://arxiv.org/abs/2408.14512v3)** | 2024-12-19 |  |
 | **[How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot Learning Approach](http://arxiv.org/abs/2412.11387v1)** | 2024-12-16 |  |
-| **[Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?](http://arxiv.org/abs/2412.08174v2)** | 2024-12-15 | Preprint, 25 pages |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Graph's Apprentice: Teaching an LLM Low Level Knowledge for Circuit Quality Estimation](http://arxiv.org/abs/2411.00843v2)** | 2025-02-14 |  |
-| **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v2)** | 2025-02-14 |  |
-| **[SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks](http://arxiv.org/abs/2502.10208v1)** | 2025-02-14 |  |
-| **[COMBINEX: A Unified Counterfactual Explainer for Graph Neural Networks via Node Feature and Structural Perturbations](http://arxiv.org/abs/2502.10111v1)** | 2025-02-14 |  |
-| **[Federated Temporal Graph Clustering](http://arxiv.org/abs/2410.12343v2)** | 2025-02-14 | 8 pages, 1 figure |
-| **[Data Center Cooling System Optimization Using Offline Reinforcement Learning](http://arxiv.org/abs/2501.15085v2)** | 2025-02-14 | <details><summary>Accep...</summary><p>Accepted in ICLR 2025</p></details> |
-| **[Transformer-based Graph Neural Networks for Battery Range Prediction in AIoT Battery-Swap Services](http://arxiv.org/abs/2407.16115v2)** | 2025-02-14 | <details><summary>9page...</summary><p>9pages, 6figures, accepted by IEEE ICWS 2024 The International Conference on Web Services</p></details> |
-| **[TransGUNet: Transformer Meets Graph-based Skip Connection for Medical Image Segmentation](http://arxiv.org/abs/2502.09931v1)** | 2025-02-14 | 24 pages, 12 figures |
-| **[Evaluating and Improving Graph-based Explanation Methods for Multi-Agent Coordination](http://arxiv.org/abs/2502.09889v1)** | 2025-02-14 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 6 tables</p></details> |
-| **[LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection](http://arxiv.org/abs/2502.09271v2)** | 2025-02-14 | PAKDD 2025 |
+| **[LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities](http://arxiv.org/abs/2502.12128v1)** | 2025-02-17 | <details><summary>Proje...</summary><p>Project page: https://ml-jku.github.io/LaM-SLidE/</p></details> |
+| **[Data assimilation performed with robust shape registration and graph neural networks: application to aortic coarctation](http://arxiv.org/abs/2502.12097v1)** | 2025-02-17 |  |
+| **[Machine Learning Surrogates for Optimizing Transportation Policies with Agent-Based Models](http://arxiv.org/abs/2501.11057v2)** | 2025-02-17 |  |
+| **[Dual-Channel Multiplex Graph Neural Networks for Recommendation](http://arxiv.org/abs/2403.11624v4)** | 2025-02-17 |  |
+| **[UniGO: A Unified Graph Neural Network for Modeling Opinion Dynamics on Graphs](http://arxiv.org/abs/2502.11519v1)** | 2025-02-17 | WWW2025 |
+| **[A GNN-based Spectral Filtering Mechanism for Imbalance Classification in Network Digital Twin](http://arxiv.org/abs/2502.11505v1)** | 2025-02-17 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2406.06595</p></details> |
+| **[PHLP: Sole Persistent Homology for Link Prediction - Interpretable Feature Extraction](http://arxiv.org/abs/2404.15225v2)** | 2025-02-17 |  |
+| **[Effective Graph-Neural-Network based Models for Discovering Structural Hole Spanners in Large-Scale and Diverse Networks](http://arxiv.org/abs/2302.12442v2)** | 2025-02-17 |  |
+| **[Structure based SAT dataset for analysing GNN generalisation](http://arxiv.org/abs/2502.11410v1)** | 2025-02-17 | <details><summary>to be...</summary><p>to be published in 28th International Conference on Artificial Intelligence and Statistics (AISTATS) 2025</p></details> |
+| **[Discovering Structural Hole Spanners in Dynamic Networks via Graph Neural Networks](http://arxiv.org/abs/2212.08239v2)** | 2025-02-17 |  |
 
