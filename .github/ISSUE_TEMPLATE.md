@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 23, 2025
+title: Latest 10 Papers - February 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception](http://arxiv.org/abs/2409.11146v2)** | 2025-02-20 | <details><summary>6 pag...</summary><p>6 pages, 5 figures; This work has been accepted to ICRA 2025 and will soon be published</p></details> |
-| **[Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural Networks](http://arxiv.org/abs/2311.11782v2)** | 2025-02-20 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, The German Conference on Pattern Recognition (GCPR) 2024</p></details> |
-| **[Small Graph Is All You Need: DeepStateGNN for Scalable Traffic Forecasting](http://arxiv.org/abs/2502.14525v1)** | 2025-02-20 | <details><summary>Yanni...</summary><p>Yannick W\"olker and Arash Hajisafi contributed equally to this work</p></details> |
-| **[KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks](http://arxiv.org/abs/2501.13456v2)** | 2025-02-20 |  |
-| **[MAGNNET: Multi-Agent Graph Neural Network-based Efficient Task Allocation for Autonomous Vehicles with Deep Reinforcement Learning](http://arxiv.org/abs/2502.02311v2)** | 2025-02-20 | <details><summary>Submi...</summary><p>Submitted to IEEE Intelligent Vehicle Symposium (2025)</p></details> |
-| **[Graph-Guided Textual Explanation Generation Framework](http://arxiv.org/abs/2412.12318v2)** | 2025-02-20 |  |
-| **[DAG: Deep Adaptive and Generative $K$-Free Community Detection on Attributed Graphs](http://arxiv.org/abs/2502.14294v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2024</p></details> |
-| **[Adaptive Sparsified Graph Learning Framework for Vessel Behavior Anomalies](http://arxiv.org/abs/2502.14197v1)** | 2025-02-20 | <details><summary>Anoma...</summary><p>Anomaly Detection in Scientific Domains AAAI Workshop</p></details> |
-| **[Dual-level Mixup for Graph Few-shot Learning with Fewer Tasks](http://arxiv.org/abs/2502.14158v1)** | 2025-02-19 | WWW25 |
-| **[SALTY: Explainable Artificial Intelligence Guided Structural Analysis for Hardware Trojan Detection](http://arxiv.org/abs/2502.14116v1)** | 2025-02-19 |  |
+| **[A graph neural network-based model with Out-of-Distribution Robustness for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1](http://arxiv.org/abs/2312.17506v2)** | 2025-02-21 | 32 pages, 2 figures |
+| **[Game State and Spatio-temporal Action Detection in Soccer using Graph Neural Networks and 3D Convolutional Networks](http://arxiv.org/abs/2502.15462v1)** | 2025-02-21 |  |
+| **[Graph Neural Diffusion Networks for Semi-supervised Learning](http://arxiv.org/abs/2201.09698v3)** | 2025-02-21 | 7 pages |
+| **[Drug-Target Interaction/Affinity Prediction: Deep Learning Models and Advances Review](http://arxiv.org/abs/2502.15346v1)** | 2025-02-21 | <details><summary>64 pa...</summary><p>64 pages, 7 figures, 10 tables</p></details> |
+| **[GraphFM: Graph Factorization Machines for Feature Interaction Modeling](http://arxiv.org/abs/2105.11866v5)** | 2025-02-21 | <details><summary>The c...</summary><p>The code and data are available at https://github.com/CRIPAC-DIG/GraphCTR</p></details> |
+| **[Graph Perceiver IO: A General Architecture for Graph Structured Data](http://arxiv.org/abs/2209.06418v2)** | 2025-02-21 |  |
+| **[LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities](http://arxiv.org/abs/2502.12128v2)** | 2025-02-21 | <details><summary>Proje...</summary><p>Project page: https://ml-jku.github.io/LaM-SLidE/</p></details> |
+| **[GNN-Coder: Boosting Semantic Code Retrieval with Combined GNNs and Transformer](http://arxiv.org/abs/2502.15202v1)** | 2025-02-21 |  |
+| **[Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients](http://arxiv.org/abs/2502.15198v1)** | 2025-02-21 |  |
+| **[Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning](http://arxiv.org/abs/2412.19229v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
 
