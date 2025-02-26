@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 25, 2025
+title: Latest 10 Papers - February 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sustainable Greenhouse Management: A Comparative Analysis of Recurrent and Graph Neural Networks](http://arxiv.org/abs/2502.17371v1)** | 2025-02-24 |  |
-| **[Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains](http://arxiv.org/abs/2406.11423v3)** | 2025-02-24 |  |
-| **[Applications of Large Models in Medicine](http://arxiv.org/abs/2502.17132v1)** | 2025-02-24 |  |
-| **[A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications](http://arxiv.org/abs/2403.00485v2)** | 2025-02-24 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-025-41426-w}</p></details> |
-| **[GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration](http://arxiv.org/abs/2410.18032v4)** | 2025-02-24 |  |
-| **[Reconsidering the Performance of GAE in Link Prediction](http://arxiv.org/abs/2411.03845v2)** | 2025-02-24 |  |
-| **[Detecting Code Vulnerabilities with Heterogeneous GNN Training](http://arxiv.org/abs/2502.16835v1)** | 2025-02-24 |  |
-| **[VGFL-SA: Vertical Graph Federated Learning Structure Attack Based on Contrastive Learning](http://arxiv.org/abs/2502.16793v1)** | 2025-02-24 |  |
-| **[Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach](http://arxiv.org/abs/2412.08038v3)** | 2025-02-24 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
-| **[Accelerating Sparse Graph Neural Networks with Tensor Core Optimization](http://arxiv.org/abs/2412.12218v2)** | 2025-02-23 |  |
+| **[Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs](http://arxiv.org/abs/2502.12352v2)** | 2025-02-25 |  |
+| **[Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations](http://arxiv.org/abs/2408.16115v4)** | 2025-02-25 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025 as Spotlight. 17 pages including appendix</p></details> |
+| **[Graph Augmentation for Cross Graph Domain Generalization](http://arxiv.org/abs/2502.18188v1)** | 2025-02-25 |  |
+| **[A Self-Explainable Heterogeneous GNN for Relational Deep Learning](http://arxiv.org/abs/2412.00521v2)** | 2025-02-25 |  |
+| **[Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs](http://arxiv.org/abs/2401.14381v2)** | 2025-02-25 | <details><summary>New e...</summary><p>New experiments, an ablation study, and a more general nonlinear activation function were added</p></details> |
+| **[Adaptive Soft Error Protection for Neural Network Processing](http://arxiv.org/abs/2407.19664v2)** | 2025-02-25 |  |
+| **[ExPath: Towards Explaining Targeted Pathways for Biological Knowledge Bases](http://arxiv.org/abs/2502.18026v1)** | 2025-02-25 | Under review |
+| **[GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes](http://arxiv.org/abs/2502.17999v1)** | 2025-02-25 | <details><summary>This ...</summary><p>This is a preprint. Paper accepted for publication at the 21st EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (Mobiquitous)</p></details> |
+| **[gRNAde: Geometric Deep Learning for 3D RNA inverse design](http://arxiv.org/abs/2305.14749v7)** | 2025-02-25 | <details><summary>ICLR ...</summary><p>ICLR 2025 camera-ready version (Spotlight presentation). Previously titled 'Multi-State RNA Design with Geometric Multi-Graph Neural Networks', presented at ICML 2023 Computational Biology Workshop</p></details> |
+| **[LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection](http://arxiv.org/abs/2502.09271v3)** | 2025-02-25 | PAKDD 2025 |
 
