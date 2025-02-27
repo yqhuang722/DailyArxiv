@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 26, 2025
+title: Latest 10 Papers - February 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,9 +35,9 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HyperGCL: Multi-Modal Graph Contrastive Learning via Learnable Hypergraph Views](http://arxiv.org/abs/2502.13277v2)** | 2025-02-26 | 9 pages, 2 figures |
 | **[Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning](http://arxiv.org/abs/2310.18209v2)** | 2025-02-22 | <details><summary>This ...</summary><p>This paper is accepted by The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025</p></details> |
 | **[AS-GCL: Asymmetric Spectral Augmentation on Graph Contrastive Learning](http://arxiv.org/abs/2502.13525v1)** | 2025-02-19 | Accepted by TMM |
-| **[HyperGCL: Multi-Modal Graph Contrastive Learning via Learnable Hypergraph Views](http://arxiv.org/abs/2502.13277v1)** | 2025-02-18 | 9 pages, 2 figures |
 | **[Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits](http://arxiv.org/abs/2502.08949v1)** | 2025-02-13 |  |
 | **[Graph Contrastive Learning for Connectome Classification](http://arxiv.org/abs/2502.05109v1)** | 2025-02-07 | <details><summary>Submi...</summary><p>Submitted to EMBC '25</p></details> |
 | **[Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global](http://arxiv.org/abs/2501.18357v1)** | 2025-01-30 | 9 pages, 2 figures |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs](http://arxiv.org/abs/2502.12352v2)** | 2025-02-25 |  |
-| **[Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations](http://arxiv.org/abs/2408.16115v4)** | 2025-02-25 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025 as Spotlight. 17 pages including appendix</p></details> |
-| **[Graph Augmentation for Cross Graph Domain Generalization](http://arxiv.org/abs/2502.18188v1)** | 2025-02-25 |  |
-| **[A Self-Explainable Heterogeneous GNN for Relational Deep Learning](http://arxiv.org/abs/2412.00521v2)** | 2025-02-25 |  |
-| **[Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs](http://arxiv.org/abs/2401.14381v2)** | 2025-02-25 | <details><summary>New e...</summary><p>New experiments, an ablation study, and a more general nonlinear activation function were added</p></details> |
-| **[Adaptive Soft Error Protection for Neural Network Processing](http://arxiv.org/abs/2407.19664v2)** | 2025-02-25 |  |
-| **[ExPath: Towards Explaining Targeted Pathways for Biological Knowledge Bases](http://arxiv.org/abs/2502.18026v1)** | 2025-02-25 | Under review |
-| **[GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes](http://arxiv.org/abs/2502.17999v1)** | 2025-02-25 | <details><summary>This ...</summary><p>This is a preprint. Paper accepted for publication at the 21st EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (Mobiquitous)</p></details> |
-| **[gRNAde: Geometric Deep Learning for 3D RNA inverse design](http://arxiv.org/abs/2305.14749v7)** | 2025-02-25 | <details><summary>ICLR ...</summary><p>ICLR 2025 camera-ready version (Spotlight presentation). Previously titled 'Multi-State RNA Design with Geometric Multi-Graph Neural Networks', presented at ICML 2023 Computational Biology Workshop</p></details> |
-| **[LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection](http://arxiv.org/abs/2502.09271v3)** | 2025-02-25 | PAKDD 2025 |
+| **[Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization](http://arxiv.org/abs/2502.19377v1)** | 2025-02-26 | <details><summary>Preli...</summary><p>Preliminary work, under review</p></details> |
+| **[What is my quantum computer good for? Quantum capability learning with physics-aware neural networks](http://arxiv.org/abs/2406.05636v2)** | 2025-02-26 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 4 tables, includes conference checklist</p></details> |
+| **[Learning Decentralized Swarms Using Rotation Equivariant Graph Neural Networks](http://arxiv.org/abs/2502.17612v2)** | 2025-02-26 | <details><summary>corre...</summary><p>correcting contact information</p></details> |
+| **[GraphBridge: Towards Arbitrary Transfer Learning in GNNs](http://arxiv.org/abs/2502.19252v1)** | 2025-02-26 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 6 tables, to be published in ICLR 2025</p></details> |
+| **[Multi-level Attention-guided Graph Neural Network for Image Restoration](http://arxiv.org/abs/2502.19181v1)** | 2025-02-26 |  |
+| **[Graph Neural Networks embedded into Margules model for vapor-liquid equilibria prediction](http://arxiv.org/abs/2502.18998v1)** | 2025-02-26 |  |
+| **[Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks](http://arxiv.org/abs/2501.18851v2)** | 2025-02-26 | <details><summary>I hav...</summary><p>I have decided to withdraw this paper because I have recently obtained some new data and insights during my ongoing research</p></details> |
+| **[Non-Homophilic Graph Pre-Training and Prompt Learning](http://arxiv.org/abs/2408.12594v6)** | 2025-02-26 | Accepted by KDD 2025 |
+| **[Graph Neural Network based Active and Passive Beamforming for Distributed STAR-RIS-Assisted Multi-User MISO Systems](http://arxiv.org/abs/2405.01979v3)** | 2025-02-26 | 14 pages, 7 figures |
+| **[SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation](http://arxiv.org/abs/2502.18875v1)** | 2025-02-26 |  |
 
