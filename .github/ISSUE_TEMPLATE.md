@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 27, 2025
+title: Latest 10 Papers - February 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization](http://arxiv.org/abs/2502.19377v1)** | 2025-02-26 | <details><summary>Preli...</summary><p>Preliminary work, under review</p></details> |
-| **[What is my quantum computer good for? Quantum capability learning with physics-aware neural networks](http://arxiv.org/abs/2406.05636v2)** | 2025-02-26 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 4 tables, includes conference checklist</p></details> |
-| **[Learning Decentralized Swarms Using Rotation Equivariant Graph Neural Networks](http://arxiv.org/abs/2502.17612v2)** | 2025-02-26 | <details><summary>corre...</summary><p>correcting contact information</p></details> |
-| **[GraphBridge: Towards Arbitrary Transfer Learning in GNNs](http://arxiv.org/abs/2502.19252v1)** | 2025-02-26 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 6 tables, to be published in ICLR 2025</p></details> |
-| **[Multi-level Attention-guided Graph Neural Network for Image Restoration](http://arxiv.org/abs/2502.19181v1)** | 2025-02-26 |  |
-| **[Graph Neural Networks embedded into Margules model for vapor-liquid equilibria prediction](http://arxiv.org/abs/2502.18998v1)** | 2025-02-26 |  |
-| **[Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks](http://arxiv.org/abs/2501.18851v2)** | 2025-02-26 | <details><summary>I hav...</summary><p>I have decided to withdraw this paper because I have recently obtained some new data and insights during my ongoing research</p></details> |
-| **[Non-Homophilic Graph Pre-Training and Prompt Learning](http://arxiv.org/abs/2408.12594v6)** | 2025-02-26 | Accepted by KDD 2025 |
-| **[Graph Neural Network based Active and Passive Beamforming for Distributed STAR-RIS-Assisted Multi-User MISO Systems](http://arxiv.org/abs/2405.01979v3)** | 2025-02-26 | 14 pages, 7 figures |
-| **[SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation](http://arxiv.org/abs/2502.18875v1)** | 2025-02-26 |  |
+| **[Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains](http://arxiv.org/abs/2410.18631v2)** | 2025-02-27 |  |
+| **[Sustainable Greenhouse Management: A Comparative Analysis of Recurrent and Graph Neural Networks](http://arxiv.org/abs/2502.17371v2)** | 2025-02-27 |  |
+| **[When Graph meets Multimodal: Benchmarking and Meditating on Multimodal Attributed Graphs Learning](http://arxiv.org/abs/2410.09132v2)** | 2025-02-27 |  |
+| **[A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization](http://arxiv.org/abs/2502.20036v1)** | 2025-02-27 | <details><summary>To be...</summary><p>To be published in 2025 International Conference on 3D Vision (3DV)</p></details> |
+| **[WaveGAS: Waveform Relaxation for Scaling Graph Neural Networks](http://arxiv.org/abs/2502.19986v1)** | 2025-02-27 |  |
+| **[Efficient and Universal Neural-Network Decoder for Stabilizer-Based Quantum Error Correction](http://arxiv.org/abs/2502.19971v1)** | 2025-02-27 |  |
+| **[GraphSparseNet: a Novel Method for Large Scale Trafffic Flow Prediction](http://arxiv.org/abs/2502.19823v1)** | 2025-02-27 |  |
+| **[A Survey of Graph Transformers: Architectures, Theories and Applications](http://arxiv.org/abs/2502.16533v2)** | 2025-02-27 |  |
+| **[Accurate and Scalable Graph Neural Networks via Message Invariance](http://arxiv.org/abs/2502.19693v1)** | 2025-02-27 |  |
+| **[Training Robust Graph Neural Networks by Modeling Noise Dependencies](http://arxiv.org/abs/2502.19670v1)** | 2025-02-27 | Work in progress |
 
