@@ -2,7 +2,7 @@ name: Daily arXiv Update
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # 每天 UTC 时间 8:00 运行
+    - cron: '0 12 * * 0-4'  # 周日至周四 UTC 时间 8:00 运行
   workflow_dispatch:     # 允许手动触发
 
 permissions:
