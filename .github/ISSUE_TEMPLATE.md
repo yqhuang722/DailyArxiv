@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 02, 2025
+title: Latest 10 Papers - March 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Fused Gromov-Wasserstein Approach to Subgraph Contrastive Learning](http://arxiv.org/abs/2502.20885v1)** | 2025-02-28 |  |
 | **[HyperGCL: Multi-Modal Graph Contrastive Learning via Learnable Hypergraph Views](http://arxiv.org/abs/2502.13277v2)** | 2025-02-26 | 9 pages, 2 figures |
 | **[Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning](http://arxiv.org/abs/2310.18209v2)** | 2025-02-22 | <details><summary>This ...</summary><p>This paper is accepted by The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025</p></details> |
 | **[AS-GCL: Asymmetric Spectral Augmentation on Graph Contrastive Learning](http://arxiv.org/abs/2502.13525v1)** | 2025-02-19 | Accepted by TMM |
@@ -44,33 +45,18 @@ labels: documentation
 | **[Conditional Distribution Learning on Graphs](http://arxiv.org/abs/2411.15206v2)** | 2025-01-28 | 9 pages |
 | **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v3)** | 2025-01-28 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
 | **[Fusion Self-supervised Learning for Recommendation](http://arxiv.org/abs/2407.19692v4)** | 2025-01-16 |  |
-| **[A Simple Graph Contrastive Learning Framework for Short Text Classification](http://arxiv.org/abs/2501.09219v1)** | 2025-01-16 | AAAI2025 |
-
-## Graph Self Supervised Learning
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Graph Self-Supervised Learning with Learnable Structural and Positional Encodings](http://arxiv.org/abs/2502.16233v1)** | 2025-02-22 | <details><summary>This ...</summary><p>This paper is accepted by The World Wide Web Conference (WWW) 2025</p></details> |
-| **[Leveraging Joint Predictive Embedding and Bayesian Inference in Graph Self Supervised Learning](http://arxiv.org/abs/2502.01684v1)** | 2025-02-02 |  |
-| **[Enhancing Graph Self-Supervised Learning with Graph Interplay](http://arxiv.org/abs/2410.04061v3)** | 2025-01-16 | <details><summary>Due t...</summary><p>Due to potential implicit data leakage in our experimental setup, where the pretraining dataset was ordered by default labels, we withdraw this manuscript for further self-examination and rigorous validation</p></details> |
-| **[PyG-SSL: A Graph Self-Supervised Learning Toolkit](http://arxiv.org/abs/2412.21151v1)** | 2024-12-30 |  |
-| **[Transferable Watermarking to Self-supervised Pre-trained Graph Encoders by Trigger Embeddings](http://arxiv.org/abs/2406.13177v3)** | 2024-12-07 | <details><summary>This ...</summary><p>This is the latest version (see highlighted content, slight different from the final version submitted to IEEE Xplore)</p></details> |
-| **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](http://arxiv.org/abs/2405.19600v2)** | 2024-12-04 |  |
-| **[Negative-Free Self-Supervised Gaussian Embedding of Graphs](http://arxiv.org/abs/2411.01157v1)** | 2024-11-02 | <details><summary>Accep...</summary><p>Accepted by Neural Networks</p></details> |
-| **[LangGFM: A Large Language Model Alone Can be a Powerful Graph Foundation Model](http://arxiv.org/abs/2410.14961v1)** | 2024-10-19 | under review |
-| **[Learning Graph Quantized Tokenizers for Transformers](http://arxiv.org/abs/2410.13798v1)** | 2024-10-17 |  |
-| **[Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective](http://arxiv.org/abs/2410.10241v1)** | 2024-10-14 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains](http://arxiv.org/abs/2410.18631v2)** | 2025-02-27 |  |
-| **[Sustainable Greenhouse Management: A Comparative Analysis of Recurrent and Graph Neural Networks](http://arxiv.org/abs/2502.17371v2)** | 2025-02-27 |  |
-| **[When Graph meets Multimodal: Benchmarking and Meditating on Multimodal Attributed Graphs Learning](http://arxiv.org/abs/2410.09132v2)** | 2025-02-27 |  |
-| **[A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization](http://arxiv.org/abs/2502.20036v1)** | 2025-02-27 | <details><summary>To be...</summary><p>To be published in 2025 International Conference on 3D Vision (3DV)</p></details> |
-| **[WaveGAS: Waveform Relaxation for Scaling Graph Neural Networks](http://arxiv.org/abs/2502.19986v1)** | 2025-02-27 |  |
-| **[Efficient and Universal Neural-Network Decoder for Stabilizer-Based Quantum Error Correction](http://arxiv.org/abs/2502.19971v1)** | 2025-02-27 |  |
-| **[GraphSparseNet: a Novel Method for Large Scale Trafffic Flow Prediction](http://arxiv.org/abs/2502.19823v1)** | 2025-02-27 |  |
-| **[A Survey of Graph Transformers: Architectures, Theories and Applications](http://arxiv.org/abs/2502.16533v2)** | 2025-02-27 |  |
-| **[Accurate and Scalable Graph Neural Networks via Message Invariance](http://arxiv.org/abs/2502.19693v1)** | 2025-02-27 |  |
-| **[Training Robust Graph Neural Networks by Modeling Noise Dependencies](http://arxiv.org/abs/2502.19670v1)** | 2025-02-27 | Work in progress |
+| **[AMPLE: Event-Driven Accelerator for Mixed-Precision Inference of Graph Neural Networks](http://arxiv.org/abs/2502.21196v1)** | 2025-02-28 |  |
+| **[Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs](http://arxiv.org/abs/2410.16593v2)** | 2025-02-28 |  |
+| **[MuseGNN: Forming Scalable, Convergent GNN Layers that Minimize a Sampling-Based Energy](http://arxiv.org/abs/2310.12457v2)** | 2025-02-28 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving](http://arxiv.org/abs/2502.21134v1)** | 2025-02-28 |  |
+| **[On Oversquashing in Graph Neural Networks Through the Lens of Dynamical Systems](http://arxiv.org/abs/2405.01009v2)** | 2025-02-28 | AAAI 2025 |
+| **[Information Bottleneck-Guided Heterogeneous Graph Learning for Interpretable Neurodevelopmental Disorder Diagnosis](http://arxiv.org/abs/2502.20769v1)** | 2025-02-28 |  |
+| **[Graph Neural Networks at a Fraction](http://arxiv.org/abs/2502.06136v3)** | 2025-02-28 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, accepted at PAKDD 2025</p></details> |
+| **[Generating Clinically Realistic EHR Data via a Hierarchy- and Semantics-Guided Transformer](http://arxiv.org/abs/2502.20719v1)** | 2025-02-28 |  |
+| **[GETS: Ensemble Temperature Scaling for Calibration in Graph Neural Networks](http://arxiv.org/abs/2410.09570v2)** | 2025-02-27 | ICLR 2025 Spotlight |
+| **[Systematic Relational Reasoning With Epistemic Graph Neural Networks](http://arxiv.org/abs/2407.17396v2)** | 2025-02-27 | <details><summary>10+29...</summary><p>10+29 pages, 5+13 figures, 4+10 tables. Comments welcome!</p></details> |
 
