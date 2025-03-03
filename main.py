@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Graph Foundation Model", "Graph Prompt", "Graph Contrastive Learning", "Graph Self Supervised Learning", "Graph Neural Networks"] # TODO add more keywords
+keywords = ["Graph Foundation Model", "Graph Prompt", "Graph Contrastive Learning", "Graph Neural Networks"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 10 # maximum papers to be included in the issue
