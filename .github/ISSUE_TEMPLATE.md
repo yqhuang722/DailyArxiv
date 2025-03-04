@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 03, 2025
+title: Latest 10 Papers - March 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings](http://arxiv.org/abs/2412.07407v2)** | 2025-03-03 | <details><summary>Publi...</summary><p>Published at TMLR (https://openreview.net/forum?id=mSoDRZXsqj)</p></details> |
 | **[GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](http://arxiv.org/abs/2410.10329v4)** | 2025-02-24 | Accepted to WWW'25 |
 | **[Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks](http://arxiv.org/abs/2502.14546v1)** | 2025-02-20 |  |
 | **[How Expressive are Knowledge Graph Foundation Models?](http://arxiv.org/abs/2502.13339v1)** | 2025-02-18 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v1)** | 2025-02-08 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
 | **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v2)** | 2025-02-06 | 8 pages |
 | **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v1)** | 2025-02-05 | Accepted by WWW25 |
-| **[Flatten Graphs as Sequences: Transformers are Scalable Graph Generators](http://arxiv.org/abs/2502.02216v1)** | 2025-02-04 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AMPLE: Event-Driven Accelerator for Mixed-Precision Inference of Graph Neural Networks](http://arxiv.org/abs/2502.21196v1)** | 2025-02-28 |  |
-| **[Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs](http://arxiv.org/abs/2410.16593v2)** | 2025-02-28 |  |
-| **[MuseGNN: Forming Scalable, Convergent GNN Layers that Minimize a Sampling-Based Energy](http://arxiv.org/abs/2310.12457v2)** | 2025-02-28 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving](http://arxiv.org/abs/2502.21134v1)** | 2025-02-28 |  |
-| **[On Oversquashing in Graph Neural Networks Through the Lens of Dynamical Systems](http://arxiv.org/abs/2405.01009v2)** | 2025-02-28 | AAAI 2025 |
-| **[Information Bottleneck-Guided Heterogeneous Graph Learning for Interpretable Neurodevelopmental Disorder Diagnosis](http://arxiv.org/abs/2502.20769v1)** | 2025-02-28 |  |
-| **[Graph Neural Networks at a Fraction](http://arxiv.org/abs/2502.06136v3)** | 2025-02-28 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, accepted at PAKDD 2025</p></details> |
-| **[Generating Clinically Realistic EHR Data via a Hierarchy- and Semantics-Guided Transformer](http://arxiv.org/abs/2502.20719v1)** | 2025-02-28 |  |
-| **[GETS: Ensemble Temperature Scaling for Calibration in Graph Neural Networks](http://arxiv.org/abs/2410.09570v2)** | 2025-02-27 | ICLR 2025 Spotlight |
-| **[Systematic Relational Reasoning With Epistemic Graph Neural Networks](http://arxiv.org/abs/2407.17396v2)** | 2025-02-27 | <details><summary>10+29...</summary><p>10+29 pages, 5+13 figures, 4+10 tables. Comments welcome!</p></details> |
+| **[Federated Temporal Graph Clustering](http://arxiv.org/abs/2410.12343v3)** | 2025-03-03 | 8 pages, 1 figure |
+| **[Exact Certification of (Graph) Neural Networks Against Label Poisoning](http://arxiv.org/abs/2412.00537v2)** | 2025-03-03 | <details><summary>Publi...</summary><p>Published as a spotlight presentation at ICLR 2025</p></details> |
+| **[Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference](http://arxiv.org/abs/2410.12740v2)** | 2025-03-03 |  |
+| **[Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings](http://arxiv.org/abs/2412.07407v2)** | 2025-03-03 | <details><summary>Publi...</summary><p>Published at TMLR (https://openreview.net/forum?id=mSoDRZXsqj)</p></details> |
+| **[Node-Time Conditional Prompt Learning In Dynamic Graphs](http://arxiv.org/abs/2405.13937v8)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[Heterogeneous Graph Neural Network on Semantic Tree](http://arxiv.org/abs/2402.13496v2)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
+| **[Kolmogorov-Arnold PointNet: Deep learning for prediction of fluid fields on irregular geometries](http://arxiv.org/abs/2408.02950v2)** | 2025-03-02 |  |
+| **[TESGNN: Temporal Equivariant Scene Graph Neural Networks for Efficient and Robust Multi-View 3D Scene Understanding](http://arxiv.org/abs/2411.10509v2)** | 2025-03-02 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.00609</p></details> |
+| **[Permutation-Invariant Graph Partitioning:How Graph Neural Networks Capture Structural Interactions?](http://arxiv.org/abs/2312.08671v2)** | 2025-03-02 |  |
+| **[Greener GRASS: Enhancing GNNs with Encoding, Rewiring, and Attention](http://arxiv.org/abs/2407.05649v4)** | 2025-03-02 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
 
