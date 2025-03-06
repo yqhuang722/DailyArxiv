@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 05, 2025
+title: Latest 10 Papers - March 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v1)** | 2025-03-05 |  |
+| **[Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs](http://arxiv.org/abs/2503.03258v1)** | 2025-03-05 |  |
 | **[IOHunter: Graph Foundation Model to Uncover Online Information Operations](http://arxiv.org/abs/2412.14663v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
 | **[Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings](http://arxiv.org/abs/2412.07407v2)** | 2025-03-03 | <details><summary>Publi...</summary><p>Published at TMLR (https://openreview.net/forum?id=mSoDRZXsqj)</p></details> |
 | **[GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](http://arxiv.org/abs/2410.10329v4)** | 2025-02-24 | Accepted to WWW'25 |
@@ -15,8 +17,6 @@ labels: documentation
 | **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v3)** | 2025-02-17 |  |
 | **[MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs](http://arxiv.org/abs/2406.10426v3)** | 2025-02-15 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, preprint version</p></details> |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](http://arxiv.org/abs/2502.09254v1)** | 2025-02-13 | 14 pages |
-| **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v1)** | 2025-02-08 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
-| **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v2)** | 2025-02-06 | 8 pages |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hierarchical graph sampling based minibatch learning with chain preservation and variance reduction](http://arxiv.org/abs/2503.00860v2)** | 2025-03-04 | 26 pages, 9 figures |
-| **[Safe Distributed Control of Multi-Robot Systems with Communication Delays](http://arxiv.org/abs/2402.09382v3)** | 2025-03-04 | <details><summary>Copyr...</summary><p>Copyright (c) 2025 IEEE. Personal use of this material is permitted. However, permission to use this material for any other purposes must be obtained from the IEEE by sending a request to pubs-permissions@ieee.org</p></details> |
-| **[NodeNAS: Node-Specific Graph Neural Architecture Search for Out-of-Distribution Generalization](http://arxiv.org/abs/2503.02448v1)** | 2025-03-04 | <details><summary>Accep...</summary><p>Accepted by DASFAA2025</p></details> |
-| **[Graph Neural Networks for Fast Contingency Analysis of Power Systems](http://arxiv.org/abs/2310.04213v3)** | 2025-03-04 |  |
-| **[InfoGNN: End-to-end deep learning on mesh via graph neural networks](http://arxiv.org/abs/2503.02414v1)** | 2025-03-04 |  |
-| **[A Binary Classification Social Network Dataset for Graph Machine Learning](http://arxiv.org/abs/2503.02397v1)** | 2025-03-04 |  |
-| **[Incorporating graph neural network into route choice model](http://arxiv.org/abs/2503.02315v1)** | 2025-03-04 |  |
-| **[CrystalFramer: Rethinking the Role of Frames for SE(3)-Invariant Crystal Structure Modeling](http://arxiv.org/abs/2503.02209v1)** | 2025-03-04 | <details><summary>12 ma...</summary><p>12 main pages, 3 main figures, and 4 main tables. Published as a conference paper at ICLR 2025. This version moves some appendices into the main text. For more information, see https://omron-sinicx.github.io/crystalframer/</p></details> |
-| **[Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold](http://arxiv.org/abs/2408.14608v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
-| **[Converting Transformers into DGNNs Form](http://arxiv.org/abs/2502.00585v3)** | 2025-03-03 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, and 8 tables; pseudocode improved</p></details> |
+| **[PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning](http://arxiv.org/abs/2503.03747v1)** | 2025-03-05 | 7 pages, 7 figures |
+| **[Opportunistic Routing in Wireless Communications via Learnable State-Augmented Policies](http://arxiv.org/abs/2503.03736v1)** | 2025-03-05 |  |
+| **[REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation](http://arxiv.org/abs/2503.03599v1)** | 2025-03-05 | <details><summary>Submi...</summary><p>Submitted to IROS2025</p></details> |
+| **[Mineral segmentation using electron microscope images and spectral sampling through multimodal graph neural networks](http://arxiv.org/abs/2503.03507v1)** | 2025-03-05 |  |
+| **[Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers](http://arxiv.org/abs/2501.02393v3)** | 2025-03-05 |  |
+| **[Channel-Attentive Graph Neural Networks](http://arxiv.org/abs/2503.00578v2)** | 2025-03-05 | <details><summary>Publi...</summary><p>Published as a conference paper at IEEE International Conference on Data Mining 2024</p></details> |
+| **[GNNMerge: Merging of GNN Models Without Accessing Training Data](http://arxiv.org/abs/2503.03384v1)** | 2025-03-05 |  |
+| **[Leap: Inductive Link Prediction via Learnable TopologyAugmentation](http://arxiv.org/abs/2503.03331v1)** | 2025-03-05 | <details><summary>publi...</summary><p>published in Machine Learning, Optimization, and Data Science, Springer Nature Switzerland</p></details> |
+| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v1)** | 2025-03-05 |  |
+| **[Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs](http://arxiv.org/abs/2503.03258v1)** | 2025-03-05 |  |
 
