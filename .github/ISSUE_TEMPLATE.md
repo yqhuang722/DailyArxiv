@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 06, 2025
+title: Latest 10 Papers - March 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Joint Masked Reconstruction and Contrastive Learning for Mining Interactions Between Proteins](http://arxiv.org/abs/2503.04650v1)** | 2025-03-06 | Submitted |
+| **[Mixed Graph Contrastive Network for Semi-Supervised Node Classification](http://arxiv.org/abs/2206.02796v3)** | 2025-03-06 |  |
 | **[A Binary Classification Social Network Dataset for Graph Machine Learning](http://arxiv.org/abs/2503.02397v1)** | 2025-03-04 |  |
 | **[A Fused Gromov-Wasserstein Approach to Subgraph Contrastive Learning](http://arxiv.org/abs/2502.20885v1)** | 2025-02-28 |  |
 | **[HyperGCL: Multi-Modal Graph Contrastive Learning via Learnable Hypergraph Views](http://arxiv.org/abs/2502.13277v2)** | 2025-02-26 | 9 pages, 2 figures |
@@ -43,20 +45,18 @@ labels: documentation
 | **[Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits](http://arxiv.org/abs/2502.08949v1)** | 2025-02-13 |  |
 | **[Graph Contrastive Learning for Connectome Classification](http://arxiv.org/abs/2502.05109v1)** | 2025-02-07 | <details><summary>Submi...</summary><p>Submitted to EMBC '25</p></details> |
 | **[Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global](http://arxiv.org/abs/2501.18357v1)** | 2025-01-30 | 9 pages, 2 figures |
-| **[Conditional Distribution Learning on Graphs](http://arxiv.org/abs/2411.15206v2)** | 2025-01-28 | 9 pages |
-| **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v3)** | 2025-01-28 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Neural Networks for Virtual Sensing in Complex Systems: Addressing Heterogeneous Temporal Dynamics](http://arxiv.org/abs/2407.18691v2)** | 2025-03-06 | <details><summary>This ...</summary><p>This paper extends our previous conference paper (Best Paper at European Conference of the PHM Society 2024, https://doi.org/10.36001/phme.2024.v8i1.3998). Accepted by Mechanical Systems and Signal Processing (MSSP)</p></details> |
+| **[KAGNNs: Kolmogorov-Arnold Networks meet Graph Learning](http://arxiv.org/abs/2406.18380v4)** | 2025-03-06 |  |
+| **[Graph Neural Networks for Edge Signals: Orientation Equivariance and Invariance](http://arxiv.org/abs/2410.16935v2)** | 2025-03-06 |  |
+| **[Mixed Graph Contrastive Network for Semi-Supervised Node Classification](http://arxiv.org/abs/2206.02796v3)** | 2025-03-06 |  |
+| **[Dual Reasoning: A GNN-LLM Collaborative Framework for Knowledge Graph Question Answering](http://arxiv.org/abs/2406.01145v2)** | 2025-03-06 |  |
+| **[NodeNAS: Node-Specific Graph Neural Architecture Search for Out-of-Distribution Generalization](http://arxiv.org/abs/2503.02448v2)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by DASFAA2025</p></details> |
+| **[An Efficient Sparse Kernel Generator for O(3)-Equivariant Deep Networks](http://arxiv.org/abs/2501.13986v3)** | 2025-03-06 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning](http://arxiv.org/abs/2503.03747v1)** | 2025-03-05 | 7 pages, 7 figures |
 | **[Opportunistic Routing in Wireless Communications via Learnable State-Augmented Policies](http://arxiv.org/abs/2503.03736v1)** | 2025-03-05 |  |
 | **[REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation](http://arxiv.org/abs/2503.03599v1)** | 2025-03-05 | <details><summary>Submi...</summary><p>Submitted to IROS2025</p></details> |
-| **[Mineral segmentation using electron microscope images and spectral sampling through multimodal graph neural networks](http://arxiv.org/abs/2503.03507v1)** | 2025-03-05 |  |
-| **[Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers](http://arxiv.org/abs/2501.02393v3)** | 2025-03-05 |  |
-| **[Channel-Attentive Graph Neural Networks](http://arxiv.org/abs/2503.00578v2)** | 2025-03-05 | <details><summary>Publi...</summary><p>Published as a conference paper at IEEE International Conference on Data Mining 2024</p></details> |
-| **[GNNMerge: Merging of GNN Models Without Accessing Training Data](http://arxiv.org/abs/2503.03384v1)** | 2025-03-05 |  |
-| **[Leap: Inductive Link Prediction via Learnable TopologyAugmentation](http://arxiv.org/abs/2503.03331v1)** | 2025-03-05 | <details><summary>publi...</summary><p>published in Machine Learning, Optimization, and Data Science, Springer Nature Switzerland</p></details> |
-| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v1)** | 2025-03-05 |  |
-| **[Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs](http://arxiv.org/abs/2503.03258v1)** | 2025-03-05 |  |
 
