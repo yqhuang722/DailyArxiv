@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 09, 2025
+title: Latest 10 Papers - March 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference](http://arxiv.org/abs/2410.12740v3)** | 2025-03-07 |  |
+| **[On the Completeness of Invariant Geometric Deep Learning Models](http://arxiv.org/abs/2402.04836v3)** | 2025-03-07 | <details><summary>The T...</summary><p>The Thirteenth International Conference on Learning Representations</p></details> |
+| **[Massive Activations in Graph Neural Networks: Decoding Attention for Domain-Dependent Interpretability](http://arxiv.org/abs/2409.03463v3)** | 2025-03-07 |  |
+| **[CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks](http://arxiv.org/abs/2501.08998v2)** | 2025-03-07 | <details><summary>10+12...</summary><p>10+12 pages, 10 figures</p></details> |
+| **[Long-Term Auto-Regressive Prediction using Lightweight AI Models: Adams-Bashforth Time Integration with Adaptive Multi-Step Rollout](http://arxiv.org/abs/2412.05657v2)** | 2025-03-07 |  |
 | **[Graph Neural Networks for Virtual Sensing in Complex Systems: Addressing Heterogeneous Temporal Dynamics](http://arxiv.org/abs/2407.18691v2)** | 2025-03-06 | <details><summary>This ...</summary><p>This paper extends our previous conference paper (Best Paper at European Conference of the PHM Society 2024, https://doi.org/10.36001/phme.2024.v8i1.3998). Accepted by Mechanical Systems and Signal Processing (MSSP)</p></details> |
 | **[KAGNNs: Kolmogorov-Arnold Networks meet Graph Learning](http://arxiv.org/abs/2406.18380v4)** | 2025-03-06 |  |
 | **[Graph Neural Networks for Edge Signals: Orientation Equivariance and Invariance](http://arxiv.org/abs/2410.16935v2)** | 2025-03-06 |  |
 | **[Mixed Graph Contrastive Network for Semi-Supervised Node Classification](http://arxiv.org/abs/2206.02796v3)** | 2025-03-06 |  |
 | **[Dual Reasoning: A GNN-LLM Collaborative Framework for Knowledge Graph Question Answering](http://arxiv.org/abs/2406.01145v2)** | 2025-03-06 |  |
-| **[NodeNAS: Node-Specific Graph Neural Architecture Search for Out-of-Distribution Generalization](http://arxiv.org/abs/2503.02448v2)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by DASFAA2025</p></details> |
-| **[An Efficient Sparse Kernel Generator for O(3)-Equivariant Deep Networks](http://arxiv.org/abs/2501.13986v3)** | 2025-03-06 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
-| **[PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning](http://arxiv.org/abs/2503.03747v1)** | 2025-03-05 | 7 pages, 7 figures |
-| **[Opportunistic Routing in Wireless Communications via Learnable State-Augmented Policies](http://arxiv.org/abs/2503.03736v1)** | 2025-03-05 |  |
-| **[REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation](http://arxiv.org/abs/2503.03599v1)** | 2025-03-05 | <details><summary>Submi...</summary><p>Submitted to IROS2025</p></details> |
 
