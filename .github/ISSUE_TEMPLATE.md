@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 10, 2025
+title: Latest 10 Papers - March 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tensor-Fused Multi-View Graph Contrastive Learning](http://arxiv.org/abs/2410.15247v2)** | 2025-03-09 |  |
 | **[Joint Masked Reconstruction and Contrastive Learning for Mining Interactions Between Proteins](http://arxiv.org/abs/2503.04650v1)** | 2025-03-06 | Submitted |
 | **[Mixed Graph Contrastive Network for Semi-Supervised Node Classification](http://arxiv.org/abs/2206.02796v3)** | 2025-03-06 |  |
 | **[A Binary Classification Social Network Dataset for Graph Machine Learning](http://arxiv.org/abs/2503.02397v1)** | 2025-03-04 |  |
@@ -44,19 +45,18 @@ labels: documentation
 | **[AS-GCL: Asymmetric Spectral Augmentation on Graph Contrastive Learning](http://arxiv.org/abs/2502.13525v1)** | 2025-02-19 | Accepted by TMM |
 | **[Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits](http://arxiv.org/abs/2502.08949v1)** | 2025-02-13 |  |
 | **[Graph Contrastive Learning for Connectome Classification](http://arxiv.org/abs/2502.05109v1)** | 2025-02-07 | <details><summary>Submi...</summary><p>Submitted to EMBC '25</p></details> |
-| **[Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global](http://arxiv.org/abs/2501.18357v1)** | 2025-01-30 | 9 pages, 2 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference](http://arxiv.org/abs/2410.12740v3)** | 2025-03-07 |  |
-| **[On the Completeness of Invariant Geometric Deep Learning Models](http://arxiv.org/abs/2402.04836v3)** | 2025-03-07 | <details><summary>The T...</summary><p>The Thirteenth International Conference on Learning Representations</p></details> |
-| **[Massive Activations in Graph Neural Networks: Decoding Attention for Domain-Dependent Interpretability](http://arxiv.org/abs/2409.03463v3)** | 2025-03-07 |  |
-| **[CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks](http://arxiv.org/abs/2501.08998v2)** | 2025-03-07 | <details><summary>10+12...</summary><p>10+12 pages, 10 figures</p></details> |
-| **[Long-Term Auto-Regressive Prediction using Lightweight AI Models: Adams-Bashforth Time Integration with Adaptive Multi-Step Rollout](http://arxiv.org/abs/2412.05657v2)** | 2025-03-07 |  |
-| **[Graph Neural Networks for Virtual Sensing in Complex Systems: Addressing Heterogeneous Temporal Dynamics](http://arxiv.org/abs/2407.18691v2)** | 2025-03-06 | <details><summary>This ...</summary><p>This paper extends our previous conference paper (Best Paper at European Conference of the PHM Society 2024, https://doi.org/10.36001/phme.2024.v8i1.3998). Accepted by Mechanical Systems and Signal Processing (MSSP)</p></details> |
-| **[KAGNNs: Kolmogorov-Arnold Networks meet Graph Learning](http://arxiv.org/abs/2406.18380v4)** | 2025-03-06 |  |
-| **[Graph Neural Networks for Edge Signals: Orientation Equivariance and Invariance](http://arxiv.org/abs/2410.16935v2)** | 2025-03-06 |  |
-| **[Mixed Graph Contrastive Network for Semi-Supervised Node Classification](http://arxiv.org/abs/2206.02796v3)** | 2025-03-06 |  |
-| **[Dual Reasoning: A GNN-LLM Collaborative Framework for Knowledge Graph Question Answering](http://arxiv.org/abs/2406.01145v2)** | 2025-03-06 |  |
+| **[KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks](http://arxiv.org/abs/2501.13456v3)** | 2025-03-10 |  |
+| **[Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code](http://arxiv.org/abs/2503.07243v1)** | 2025-03-10 |  |
+| **[An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning](http://arxiv.org/abs/2503.07231v1)** | 2025-03-10 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 5 tables, submitted to a journal</p></details> |
+| **[Are GNNs Actually Effective for Multimodal Fault Diagnosis in Microservice Systems?](http://arxiv.org/abs/2501.02766v2)** | 2025-03-10 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, submitted to conference</p></details> |
+| **[Explainable Android Malware Detection and Malicious Code Localization Using Graph Attention](http://arxiv.org/abs/2503.07109v1)** | 2025-03-10 | <details><summary>This ...</summary><p>This paper has 13 pages and contains 5 images (3 figures within the paper and 2 author photos). It is being submitted to IEEE Transactions on Information Forensics and Security for consideration</p></details> |
+| **[Neural Snowflakes: Universal Latent Graph Inference via Trainable Latent Geometries](http://arxiv.org/abs/2310.15003v2)** | 2025-03-09 | <details><summary>9 Pag...</summary><p>9 Pages + Appendix, 2 Figures, 9 Tables</p></details> |
+| **[Deep Cut-informed Graph Embedding and Clustering](http://arxiv.org/abs/2503.06635v1)** | 2025-03-09 |  |
+| **[Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA](http://arxiv.org/abs/2503.06629v1)** | 2025-03-09 | <details><summary>Paper...</summary><p>Paper accepted for the 21st International Symposium on Applied Reconfigurable Computing ARC 2025, Sevilla, Spain, April 9-11, 2025</p></details> |
+| **[Using Subgraph GNNs for Node Classification:an Overlooked Potential Approach](http://arxiv.org/abs/2503.06614v1)** | 2025-03-09 | 16 pages |
+| **[Improving Graph Neural Networks on Multi-node Tasks with the Labeling Trick](http://arxiv.org/abs/2304.10074v2)** | 2025-03-09 |  |
 
