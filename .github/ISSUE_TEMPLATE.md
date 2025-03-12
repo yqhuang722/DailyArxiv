@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 11, 2025
+title: Latest 10 Papers - March 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Foundation Models: Concepts, Opportunities and Challenges](http://arxiv.org/abs/2310.11829v4)** | 2025-03-10 | <details><summary>This ...</summary><p>This is the author's version of the accepted paper (not the IEEE-published version). Citation information: DOI 10.1109/TPAMI.2025.3548729. For access to the final edited and published article, please follow the link provided: https://ieeexplore.ieee.org/document/10915556</p></details> |
 | **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v1)** | 2025-03-05 |  |
 | **[Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs](http://arxiv.org/abs/2503.03258v1)** | 2025-03-05 |  |
 | **[IOHunter: Graph Foundation Model to Uncover Online Information Operations](http://arxiv.org/abs/2412.14663v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
@@ -16,7 +17,6 @@ labels: documentation
 | **[How Expressive are Knowledge Graph Foundation Models?](http://arxiv.org/abs/2502.13339v1)** | 2025-02-18 |  |
 | **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v3)** | 2025-02-17 |  |
 | **[MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs](http://arxiv.org/abs/2406.10426v3)** | 2025-02-15 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, preprint version</p></details> |
-| **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](http://arxiv.org/abs/2502.09254v1)** | 2025-02-13 | 14 pages |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks](http://arxiv.org/abs/2501.13456v3)** | 2025-03-10 |  |
-| **[Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code](http://arxiv.org/abs/2503.07243v1)** | 2025-03-10 |  |
-| **[An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning](http://arxiv.org/abs/2503.07231v1)** | 2025-03-10 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 5 tables, submitted to a journal</p></details> |
-| **[Are GNNs Actually Effective for Multimodal Fault Diagnosis in Microservice Systems?](http://arxiv.org/abs/2501.02766v2)** | 2025-03-10 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, submitted to conference</p></details> |
-| **[Explainable Android Malware Detection and Malicious Code Localization Using Graph Attention](http://arxiv.org/abs/2503.07109v1)** | 2025-03-10 | <details><summary>This ...</summary><p>This paper has 13 pages and contains 5 images (3 figures within the paper and 2 author photos). It is being submitted to IEEE Transactions on Information Forensics and Security for consideration</p></details> |
-| **[Neural Snowflakes: Universal Latent Graph Inference via Trainable Latent Geometries](http://arxiv.org/abs/2310.15003v2)** | 2025-03-09 | <details><summary>9 Pag...</summary><p>9 Pages + Appendix, 2 Figures, 9 Tables</p></details> |
-| **[Deep Cut-informed Graph Embedding and Clustering](http://arxiv.org/abs/2503.06635v1)** | 2025-03-09 |  |
-| **[Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA](http://arxiv.org/abs/2503.06629v1)** | 2025-03-09 | <details><summary>Paper...</summary><p>Paper accepted for the 21st International Symposium on Applied Reconfigurable Computing ARC 2025, Sevilla, Spain, April 9-11, 2025</p></details> |
-| **[Using Subgraph GNNs for Node Classification:an Overlooked Potential Approach](http://arxiv.org/abs/2503.06614v1)** | 2025-03-09 | 16 pages |
-| **[Improving Graph Neural Networks on Multi-node Tasks with the Labeling Trick](http://arxiv.org/abs/2304.10074v2)** | 2025-03-09 |  |
+| **[Perfect Recovery for Random Geometric Graph Matching with Shallow Graph Neural Networks](http://arxiv.org/abs/2402.07340v2)** | 2025-03-11 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 3 tables; to appear in the Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS) 2025</p></details> |
+| **[Adaptive Topology Reconstruction for Robust Graph Representation Learning](http://arxiv.org/abs/2406.17281v3)** | 2025-03-11 |  |
+| **[GraphSCENE: On-Demand Critical Scenario Generation for Autonomous Vehicles in Simulation](http://arxiv.org/abs/2410.13514v2)** | 2025-03-11 | 8 pages, 8 figures |
+| **[i-WiViG: Interpretable Window Vision GNN](http://arxiv.org/abs/2503.08321v1)** | 2025-03-11 |  |
+| **[Theoretical guarantees for the advantage of GNNs over NNs in generalizing bandlimited functions on Euclidean cubes](http://arxiv.org/abs/2206.05904v9)** | 2025-03-11 |  |
+| **[Learning Regularization for Graph Inverse Problems](http://arxiv.org/abs/2408.10436v2)** | 2025-03-11 | AAAI 2025 (Oral) |
+| **[KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks](http://arxiv.org/abs/2501.13456v4)** | 2025-03-11 |  |
+| **[RL-MILP Solver: A Reinforcement Learning Approach for Solving Mixed-Integer Linear Programs with Graph Neural Networks](http://arxiv.org/abs/2411.19517v4)** | 2025-03-11 | <details><summary>Exten...</summary><p>Extended version (17 pages, 8 figures). Accepted at the 2025 AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE)</p></details> |
+| **[Equivariant Masked Position Prediction for Efficient Molecular Representation](http://arxiv.org/abs/2502.08209v2)** | 2025-03-11 | 24 pages, 6 figures |
+| **[Evidential Uncertainty Probes for Graph Neural Networks](http://arxiv.org/abs/2503.08097v1)** | 2025-03-11 | AISTATS 2025 |
 
