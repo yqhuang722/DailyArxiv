@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 16, 2025
+title: Latest 10 Papers - March 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Survey of Cross-domain Graph Learning: Progress and Future Directions](http://arxiv.org/abs/2503.11086v1)** | 2025-03-14 |  |
 | **[Towards Graph Foundation Models: A Transferability Perspective](http://arxiv.org/abs/2503.09363v1)** | 2025-03-12 |  |
 | **[Graph Foundation Models: Concepts, Opportunities and Challenges](http://arxiv.org/abs/2310.11829v4)** | 2025-03-10 | <details><summary>This ...</summary><p>This is the author's version of the accepted paper (not the IEEE-published version). Citation information: DOI 10.1109/TPAMI.2025.3548729. For access to the final edited and published article, please follow the link provided: https://ieeexplore.ieee.org/document/10915556</p></details> |
 | **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v1)** | 2025-03-05 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](http://arxiv.org/abs/2410.10329v4)** | 2025-02-24 | Accepted to WWW'25 |
 | **[Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks](http://arxiv.org/abs/2502.14546v1)** | 2025-02-20 |  |
 | **[How Expressive are Knowledge Graph Foundation Models?](http://arxiv.org/abs/2502.13339v1)** | 2025-02-18 |  |
-| **[Graph Foundation Models for Recommendation: A Comprehensive Survey](http://arxiv.org/abs/2502.08346v3)** | 2025-02-17 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhanced Soups for Graph Neural Networks](http://arxiv.org/abs/2503.11612v1)** | 2025-03-14 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables, accepted to GrAPL 2025 (colocated with IPDPS 2025)</p></details> |
+| **[GNNs as Predictors of Agentic Workflow Performances](http://arxiv.org/abs/2503.11301v1)** | 2025-03-14 | 15 pages, 11 figures |
+| **[FastCHGNet: Training one Universal Interatomic Potential to 1.5 Hours with 32 GPUs](http://arxiv.org/abs/2412.20796v2)** | 2025-03-14 |  |
+| **[Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization](http://arxiv.org/abs/2503.11011v1)** | 2025-03-14 |  |
+| **[PolyRoof: Precision Roof Polygonization in Urban Residential Building with Graph Neural Networks](http://arxiv.org/abs/2503.10913v1)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted to Joint Urban Remote Sensing Event (JURSE) 2025</p></details> |
 | **[DP-GPL: Differentially Private Graph Prompt Learning](http://arxiv.org/abs/2503.10544v1)** | 2025-03-13 |  |
 | **[A Clifford Algebraic Approach to E(n)-Equivariant High-order Graph Neural Networks](http://arxiv.org/abs/2410.04692v2)** | 2025-03-13 |  |
 | **[Similarity Equivariant Graph Neural Networks for Homogenization of Metamaterials](http://arxiv.org/abs/2404.17365v3)** | 2025-03-13 | <details><summary>60 pa...</summary><p>60 pages, 22 figures. Published in CMAME (Computer Methods in Applied Mechanics and Engineering)</p></details> |
 | **[Uncertainty-Aware Robust Learning on Noisy Graphs](http://arxiv.org/abs/2306.08210v2)** | 2025-03-13 | <details><summary>ICASS...</summary><p>ICASSP 2025 camera ready</p></details> |
 | **[AMR-Transformer: Enabling Efficient Long-range Interaction for Complex Neural Fluid Simulation](http://arxiv.org/abs/2503.10257v1)** | 2025-03-13 |  |
-| **[Accelerating Flood Warnings by 10 Hours: The Power of River Network Topology in AI-enhanced Flood Forecasting](http://arxiv.org/abs/2410.05536v3)** | 2025-03-13 |  |
-| **[Fine-tuning Vision Language Models with Graph-based Knowledge for Explainable Medical Image Analysis](http://arxiv.org/abs/2503.09808v1)** | 2025-03-12 | 11 pages, 3 figures |
-| **[How Feasible is Augmenting Fake Nodes with Learnable Features as a Counter-strategy against Link Stealing Attacks?](http://arxiv.org/abs/2503.09726v1)** | 2025-03-12 | <details><summary>Prepr...</summary><p>Preprint for the Accepted Work in The 15th ACM Conference on Data and Application Security and Privacy (CODASPY'25)}, 14 pages</p></details> |
-| **[A Generative Framework for Predictive Modeling of Multiple Chronic Conditions Using Graph Variational Autoencoder and Bandit-Optimized Graph Neural Network](http://arxiv.org/abs/2409.13671v2)** | 2025-03-12 | <details><summary>Submi...</summary><p>Submitted for review in IEEE Journal of Biomedical and Health Informatics</p></details> |
-| **[Post-interactive Multimodal Trajectory Prediction for Autonomous Driving](http://arxiv.org/abs/2503.09366v1)** | 2025-03-12 |  |
 
