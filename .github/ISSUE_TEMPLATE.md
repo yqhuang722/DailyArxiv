@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 18, 2025
+title: Latest 10 Papers - March 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Incorporating Attributes and Multi-Scale Structures for Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2503.13911v1)** | 2025-03-18 |  |
 | **[Diffusion on Graph: Augmentation of Graph Structure for Node Classification](http://arxiv.org/abs/2503.12563v1)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) 2025</p></details> |
 | **[SOLA-GCL: Subgraph-Oriented Learnable Augmentation Method for Graph Contrastive Learning](http://arxiv.org/abs/2503.10100v1)** | 2025-03-13 |  |
 | **[Tensor-Fused Multi-View Graph Contrastive Learning](http://arxiv.org/abs/2410.15247v2)** | 2025-03-09 |  |
@@ -44,19 +45,18 @@ labels: documentation
 | **[A Fused Gromov-Wasserstein Approach to Subgraph Contrastive Learning](http://arxiv.org/abs/2502.20885v1)** | 2025-02-28 |  |
 | **[HyperGCL: Multi-Modal Graph Contrastive Learning via Learnable Hypergraph Views](http://arxiv.org/abs/2502.13277v2)** | 2025-02-26 | 9 pages, 2 figures |
 | **[Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning](http://arxiv.org/abs/2310.18209v2)** | 2025-02-22 | <details><summary>This ...</summary><p>This paper is accepted by The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025</p></details> |
-| **[AS-GCL: Asymmetric Spectral Augmentation on Graph Contrastive Learning](http://arxiv.org/abs/2502.13525v1)** | 2025-02-19 | Accepted by TMM |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sustainable Greenhouse Microclimate Modeling: A Comparative Analysis of Recurrent and Graph Neural Networks](http://arxiv.org/abs/2502.17371v3)** | 2025-03-18 |  |
+| **[Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models](http://arxiv.org/abs/2503.14411v1)** | 2025-03-18 | Submit to ICML2025 |
+| **[A Graph-Enhanced Deep-Reinforcement Learning Framework for the Aircraft Landing Problem](http://arxiv.org/abs/2502.12617v2)** | 2025-03-18 | <details><summary>27 pa...</summary><p>27 pages, submitted to ESWA, comments are welcome</p></details> |
+| **[Spatio-Temporal Graph Neural Networks for Infant Language Acquisition Prediction](http://arxiv.org/abs/2503.14341v1)** | 2025-03-18 |  |
+| **[Higher-Order Graphon Neural Networks: Approximation and Cut Distance](http://arxiv.org/abs/2503.14338v1)** | 2025-03-18 | <details><summary>51 pa...</summary><p>51 pages, 6 figures, ICLR 2025</p></details> |
+| **[VGFL-SA: Vertical Graph Federated Learning Structure Attack Based on Contrastive Learning](http://arxiv.org/abs/2502.16793v2)** | 2025-03-18 |  |
+| **[Persistent Homology-induced Graph Ensembles for Time Series Regressions](http://arxiv.org/abs/2503.14240v1)** | 2025-03-18 |  |
+| **[Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation](http://arxiv.org/abs/2503.14213v1)** | 2025-03-18 | <details><summary>8 pag...</summary><p>8 pages, published in the international conference for AI in Finance (ACM ICAIF'24)</p></details> |
 | **[SMPR: A structure-enhanced multimodal drug-disease prediction model for drug repositioning and cold start](http://arxiv.org/abs/2503.13322v1)** | 2025-03-17 |  |
-| **[MIXPINN: Mixed-Material Simulations by Physics-Informed Neural Network](http://arxiv.org/abs/2503.13123v1)** | 2025-03-17 | <details><summary>This ...</summary><p>This work has been submitted to the lEEE IROS 2025 for possible publication</p></details> |
-| **[TA-GNN: Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction](http://arxiv.org/abs/2503.13034v1)** | 2025-03-17 |  |
-| **[Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks](http://arxiv.org/abs/2501.16944v2)** | 2025-03-17 | <details><summary>Prepr...</summary><p>Preprint Version. Accepted at ICLR 2025</p></details> |
-| **[GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation](http://arxiv.org/abs/2503.12600v1)** | 2025-03-16 |  |
-| **[Diffusion on Graph: Augmentation of Graph Structure for Node Classification](http://arxiv.org/abs/2503.12563v1)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) 2025</p></details> |
-| **[Learning Privacy from Visual Entities](http://arxiv.org/abs/2503.12464v1)** | 2025-03-16 | <details><summary>21 pa...</summary><p>21 pages (13 for the main article, 8 for bibliography, acks, appendixes), 9 figures, 12 tables. Article accepted and to appear in the Proceedings on Privacy Enhancing Technologies, 2025 (3): https://petsymposium.org/popets/2025/. To be presented at the Privacy Enhancing Technologies Symposium 2025. Artifact (source code) under review: https://github.com/graphnex/privacy-from-visual-entities</p></details> |
-| **[GCBLANE: A graph-enhanced convolutional BiLSTM attention network for improved transcription factor binding site prediction](http://arxiv.org/abs/2503.12377v1)** | 2025-03-16 |  |
-| **[LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence](http://arxiv.org/abs/2302.00924v4)** | 2025-03-16 |  |
-| **[TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics](http://arxiv.org/abs/2502.02975v3)** | 2025-03-15 | <details><summary>publi...</summary><p>published at ICLR 2025</p></details> |
+| **[Tensor Networks Meet Neural Networks: A Survey and Future Perspectives](http://arxiv.org/abs/2302.09019v3)** | 2025-03-17 |  |
 
