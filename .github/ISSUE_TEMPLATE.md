@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 19, 2025
+title: Latest 10 Papers - March 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,12 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sustainable Greenhouse Microclimate Modeling: A Comparative Analysis of Recurrent and Graph Neural Networks](http://arxiv.org/abs/2502.17371v3)** | 2025-03-18 |  |
-| **[Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models](http://arxiv.org/abs/2503.14411v1)** | 2025-03-18 | Submit to ICML2025 |
-| **[A Graph-Enhanced Deep-Reinforcement Learning Framework for the Aircraft Landing Problem](http://arxiv.org/abs/2502.12617v2)** | 2025-03-18 | <details><summary>27 pa...</summary><p>27 pages, submitted to ESWA, comments are welcome</p></details> |
-| **[Spatio-Temporal Graph Neural Networks for Infant Language Acquisition Prediction](http://arxiv.org/abs/2503.14341v1)** | 2025-03-18 |  |
-| **[Higher-Order Graphon Neural Networks: Approximation and Cut Distance](http://arxiv.org/abs/2503.14338v1)** | 2025-03-18 | <details><summary>51 pa...</summary><p>51 pages, 6 figures, ICLR 2025</p></details> |
-| **[VGFL-SA: Vertical Graph Federated Learning Structure Attack Based on Contrastive Learning](http://arxiv.org/abs/2502.16793v2)** | 2025-03-18 |  |
-| **[Persistent Homology-induced Graph Ensembles for Time Series Regressions](http://arxiv.org/abs/2503.14240v1)** | 2025-03-18 |  |
-| **[Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation](http://arxiv.org/abs/2503.14213v1)** | 2025-03-18 | <details><summary>8 pag...</summary><p>8 pages, published in the international conference for AI in Finance (ACM ICAIF'24)</p></details> |
-| **[SMPR: A structure-enhanced multimodal drug-disease prediction model for drug repositioning and cold start](http://arxiv.org/abs/2503.13322v1)** | 2025-03-17 |  |
-| **[Tensor Networks Meet Neural Networks: A Survey and Future Perspectives](http://arxiv.org/abs/2302.09019v3)** | 2025-03-17 |  |
+| **[Lyapunov-Based Graph Neural Networks for Adaptive Control of Multi-Agent Systems](http://arxiv.org/abs/2503.15360v1)** | 2025-03-19 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 3 tables, 1 algorithm</p></details> |
+| **[Learning to quantify graph nodes](http://arxiv.org/abs/2503.15267v1)** | 2025-03-19 |  |
+| **[Learning Topology Actions for Power Grid Control: A Graph-Based Soft-Label Imitation Learning Approach](http://arxiv.org/abs/2503.15190v1)** | 2025-03-19 |  |
+| **[Interpretability of Graph Neural Networks to Assert Effects of Global Change Drivers on Ecological Networks](http://arxiv.org/abs/2503.15107v1)** | 2025-03-19 |  |
+| **[Persistent Homology-induced Graph Ensembles for Time Series Regressions](http://arxiv.org/abs/2503.14240v2)** | 2025-03-19 |  |
+| **[Embedding spatial context in urban traffic forecasting with contrastive pre-training](http://arxiv.org/abs/2503.14980v1)** | 2025-03-19 | <details><summary>21 pa...</summary><p>21 pages with references, 10 figures</p></details> |
+| **[Deep Polycuboid Fitting for Compact 3D Representation of Indoor Scenes](http://arxiv.org/abs/2503.14912v1)** | 2025-03-19 | Accepted to 3DV 2025 |
+| **[High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces](http://arxiv.org/abs/2412.18263v6)** | 2025-03-19 | 48 pages |
 
