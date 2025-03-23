@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 20, 2025
+title: Latest 10 Papers - March 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion-augmented Graph Contrastive Learning for Collaborative Filter](http://arxiv.org/abs/2503.16290v1)** | 2025-03-20 |  |
+| **[GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning](http://arxiv.org/abs/2409.07725v2)** | 2025-03-20 | <details><summary>I am ...</summary><p>I am requesting the withdrawal of my paper due to errors identified in the methodology and experimental results. Specifically, there are inaccuracies in the analysis section that may lead to misleading conclusions</p></details> |
 | **[Incorporating Attributes and Multi-Scale Structures for Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2503.13911v1)** | 2025-03-18 |  |
 | **[Diffusion on Graph: Augmentation of Graph Structure for Node Classification](http://arxiv.org/abs/2503.12563v1)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) 2025</p></details> |
 | **[SOLA-GCL: Subgraph-Oriented Learnable Augmentation Method for Graph Contrastive Learning](http://arxiv.org/abs/2503.10100v1)** | 2025-03-13 |  |
@@ -43,18 +45,18 @@ labels: documentation
 | **[Mixed Graph Contrastive Network for Semi-Supervised Node Classification](http://arxiv.org/abs/2206.02796v3)** | 2025-03-06 |  |
 | **[A Binary Classification Social Network Dataset for Graph Machine Learning](http://arxiv.org/abs/2503.02397v1)** | 2025-03-04 |  |
 | **[A Fused Gromov-Wasserstein Approach to Subgraph Contrastive Learning](http://arxiv.org/abs/2502.20885v1)** | 2025-02-28 |  |
-| **[HyperGCL: Multi-Modal Graph Contrastive Learning via Learnable Hypergraph Views](http://arxiv.org/abs/2502.13277v2)** | 2025-02-26 | 9 pages, 2 figures |
-| **[Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning](http://arxiv.org/abs/2310.18209v2)** | 2025-02-22 | <details><summary>This ...</summary><p>This paper is accepted by The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lyapunov-Based Graph Neural Networks for Adaptive Control of Multi-Agent Systems](http://arxiv.org/abs/2503.15360v1)** | 2025-03-19 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 3 tables, 1 algorithm</p></details> |
-| **[Learning to quantify graph nodes](http://arxiv.org/abs/2503.15267v1)** | 2025-03-19 |  |
-| **[Learning Topology Actions for Power Grid Control: A Graph-Based Soft-Label Imitation Learning Approach](http://arxiv.org/abs/2503.15190v1)** | 2025-03-19 |  |
-| **[Interpretability of Graph Neural Networks to Assert Effects of Global Change Drivers on Ecological Networks](http://arxiv.org/abs/2503.15107v1)** | 2025-03-19 |  |
-| **[Persistent Homology-induced Graph Ensembles for Time Series Regressions](http://arxiv.org/abs/2503.14240v2)** | 2025-03-19 |  |
-| **[Embedding spatial context in urban traffic forecasting with contrastive pre-training](http://arxiv.org/abs/2503.14980v1)** | 2025-03-19 | <details><summary>21 pa...</summary><p>21 pages with references, 10 figures</p></details> |
-| **[Deep Polycuboid Fitting for Compact 3D Representation of Indoor Scenes](http://arxiv.org/abs/2503.14912v1)** | 2025-03-19 | Accepted to 3DV 2025 |
-| **[High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces](http://arxiv.org/abs/2412.18263v6)** | 2025-03-19 | 48 pages |
+| **[Graph-Guided Textual Explanation Generation Framework](http://arxiv.org/abs/2412.12318v3)** | 2025-03-20 |  |
+| **[Assessment of Spatio-Temporal Predictors in the Presence of Missing and Heterogeneous Data](http://arxiv.org/abs/2302.01701v2)** | 2025-03-20 |  |
+| **[Development of a graph neural network surrogate for travel demand modelling](http://arxiv.org/abs/2408.07726v2)** | 2025-03-20 |  |
+| **[Theoretical Insights into Line Graph Transformation on Graph Learning](http://arxiv.org/abs/2410.16138v2)** | 2025-03-20 | <details><summary>21 pa...</summary><p>21 pages, code available at https://github.com/lukeyf/graphs-and-lines</p></details> |
+| **[Beyond Local Selection: Global Cut Selection for Enhanced Mixed-Integer Programming](http://arxiv.org/abs/2503.15847v1)** | 2025-03-20 |  |
+| **[GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning](http://arxiv.org/abs/2409.07725v2)** | 2025-03-20 | <details><summary>I am ...</summary><p>I am requesting the withdrawal of my paper due to errors identified in the methodology and experimental results. Specifically, there are inaccuracies in the analysis section that may lead to misleading conclusions</p></details> |
+| **[GraPLUS: Graph-based Placement Using Semantics for Image Composition](http://arxiv.org/abs/2503.15761v1)** | 2025-03-20 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 6 tables</p></details> |
+| **[Graph Neural Networks for the Offline Nanosatellite Task Scheduling Problem](http://arxiv.org/abs/2303.13773v3)** | 2025-03-19 |  |
+| **[MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images](http://arxiv.org/abs/2412.02601v2)** | 2025-03-19 | <details><summary>Main ...</summary><p>Main Paper: 8 pages, Supplementary Material: 11 pages, Figures: 19</p></details> |
+| **[Survey on Generalization Theory for Graph Neural Networks](http://arxiv.org/abs/2503.15650v1)** | 2025-03-19 |  |
 
