@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 23, 2025
+title: Latest 10 Papers - March 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Masked Language Models](http://arxiv.org/abs/2503.05763v2)** | 2025-03-21 |  |
+| **[Multi-Aggregator Time-Warping Heterogeneous Graph Neural Network for Personalized Micro-Video Recommendation](http://arxiv.org/abs/2501.02666v2)** | 2025-03-21 |  |
+| **[Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability](http://arxiv.org/abs/2503.17173v1)** | 2025-03-21 | <details><summary>Under...</summary><p>Under review at EuroPar 2025</p></details> |
+| **[Enhancing Steering Estimation with Semantic-Aware GNNs](http://arxiv.org/abs/2503.17153v1)** | 2025-03-21 | <details><summary>Submi...</summary><p>Submitted to ICCV 2025</p></details> |
+| **[Vul-LMGNNs: Fusing language models and online-distilled graph neural networks for code vulnerability detection](http://arxiv.org/abs/2404.14719v2)** | 2025-03-21 | 16 pages, 7 figures |
+| **[TeMP-TraG: Edge-based Temporal Message Passing in Transaction Graphs](http://arxiv.org/abs/2503.16901v1)** | 2025-03-21 |  |
+| **[Ordered Topological Deep Learning: a Network Modeling Case Study](http://arxiv.org/abs/2503.16746v1)** | 2025-03-20 |  |
+| **[ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks](http://arxiv.org/abs/2503.16693v1)** | 2025-03-20 |  |
+| **[ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning for Static Link Prediction (aka Personalized Item Recommendation)](http://arxiv.org/abs/2503.16661v1)** | 2025-03-20 |  |
 | **[Graph-Guided Textual Explanation Generation Framework](http://arxiv.org/abs/2412.12318v3)** | 2025-03-20 |  |
-| **[Assessment of Spatio-Temporal Predictors in the Presence of Missing and Heterogeneous Data](http://arxiv.org/abs/2302.01701v2)** | 2025-03-20 |  |
-| **[Development of a graph neural network surrogate for travel demand modelling](http://arxiv.org/abs/2408.07726v2)** | 2025-03-20 |  |
-| **[Theoretical Insights into Line Graph Transformation on Graph Learning](http://arxiv.org/abs/2410.16138v2)** | 2025-03-20 | <details><summary>21 pa...</summary><p>21 pages, code available at https://github.com/lukeyf/graphs-and-lines</p></details> |
-| **[Beyond Local Selection: Global Cut Selection for Enhanced Mixed-Integer Programming](http://arxiv.org/abs/2503.15847v1)** | 2025-03-20 |  |
-| **[GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning](http://arxiv.org/abs/2409.07725v2)** | 2025-03-20 | <details><summary>I am ...</summary><p>I am requesting the withdrawal of my paper due to errors identified in the methodology and experimental results. Specifically, there are inaccuracies in the analysis section that may lead to misleading conclusions</p></details> |
-| **[GraPLUS: Graph-based Placement Using Semantics for Image Composition](http://arxiv.org/abs/2503.15761v1)** | 2025-03-20 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 6 tables</p></details> |
-| **[Graph Neural Networks for the Offline Nanosatellite Task Scheduling Problem](http://arxiv.org/abs/2303.13773v3)** | 2025-03-19 |  |
-| **[MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images](http://arxiv.org/abs/2412.02601v2)** | 2025-03-19 | <details><summary>Main ...</summary><p>Main Paper: 8 pages, Supplementary Material: 11 pages, Figures: 19</p></details> |
-| **[Survey on Generalization Theory for Graph Neural Networks](http://arxiv.org/abs/2503.15650v1)** | 2025-03-19 |  |
 
