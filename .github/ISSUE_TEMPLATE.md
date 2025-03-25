@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 24, 2025
+title: Latest 10 Papers - March 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Does GCL Need a Large Number of Negative Samples? Enhancing Graph Contrastive Learning with Effective and Efficient Negative Sampling](http://arxiv.org/abs/2503.17908v1)** | 2025-03-23 |  |
 | **[Diffusion-augmented Graph Contrastive Learning for Collaborative Filter](http://arxiv.org/abs/2503.16290v1)** | 2025-03-20 |  |
 | **[GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning](http://arxiv.org/abs/2409.07725v2)** | 2025-03-20 | <details><summary>I am ...</summary><p>I am requesting the withdrawal of my paper due to errors identified in the methodology and experimental results. Specifically, there are inaccuracies in the analysis section that may lead to misleading conclusions</p></details> |
 | **[Incorporating Attributes and Multi-Scale Structures for Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2503.13911v1)** | 2025-03-18 |  |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Joint Masked Reconstruction and Contrastive Learning for Mining Interactions Between Proteins](http://arxiv.org/abs/2503.04650v1)** | 2025-03-06 | Submitted |
 | **[Mixed Graph Contrastive Network for Semi-Supervised Node Classification](http://arxiv.org/abs/2206.02796v3)** | 2025-03-06 |  |
 | **[A Binary Classification Social Network Dataset for Graph Machine Learning](http://arxiv.org/abs/2503.02397v1)** | 2025-03-04 |  |
-| **[A Fused Gromov-Wasserstein Approach to Subgraph Contrastive Learning](http://arxiv.org/abs/2502.20885v1)** | 2025-02-28 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Masked Language Models](http://arxiv.org/abs/2503.05763v2)** | 2025-03-21 |  |
-| **[Multi-Aggregator Time-Warping Heterogeneous Graph Neural Network for Personalized Micro-Video Recommendation](http://arxiv.org/abs/2501.02666v2)** | 2025-03-21 |  |
-| **[Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability](http://arxiv.org/abs/2503.17173v1)** | 2025-03-21 | <details><summary>Under...</summary><p>Under review at EuroPar 2025</p></details> |
-| **[Enhancing Steering Estimation with Semantic-Aware GNNs](http://arxiv.org/abs/2503.17153v1)** | 2025-03-21 | <details><summary>Submi...</summary><p>Submitted to ICCV 2025</p></details> |
-| **[Vul-LMGNNs: Fusing language models and online-distilled graph neural networks for code vulnerability detection](http://arxiv.org/abs/2404.14719v2)** | 2025-03-21 | 16 pages, 7 figures |
-| **[TeMP-TraG: Edge-based Temporal Message Passing in Transaction Graphs](http://arxiv.org/abs/2503.16901v1)** | 2025-03-21 |  |
-| **[Ordered Topological Deep Learning: a Network Modeling Case Study](http://arxiv.org/abs/2503.16746v1)** | 2025-03-20 |  |
-| **[ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks](http://arxiv.org/abs/2503.16693v1)** | 2025-03-20 |  |
-| **[ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning for Static Link Prediction (aka Personalized Item Recommendation)](http://arxiv.org/abs/2503.16661v1)** | 2025-03-20 |  |
-| **[Graph-Guided Textual Explanation Generation Framework](http://arxiv.org/abs/2412.12318v3)** | 2025-03-20 |  |
+| **[Multi-Physics Inverse Design of Varifocal Optical Devices using Data-Driven Surrogates and Differential Modeling](http://arxiv.org/abs/2503.18911v1)** | 2025-03-24 | 15 pages, 4 figures |
+| **[Energy-Efficient Dynamic Training and Inference for GNN-Based Network Modeling](http://arxiv.org/abs/2503.18706v1)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted in IEEE WCNC 2025</p></details> |
+| **[Graph Structure Refinement with Energy-based Contrastive Learning](http://arxiv.org/abs/2412.17856v3)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
+| **[Deep Polycuboid Fitting for Compact 3D Representation of Indoor Scenes](http://arxiv.org/abs/2503.14912v2)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted to 3DV 2025. For project page, see this https://waldstein94.github.io/deep-polycuboid-fitting/</p></details> |
+| **[Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective of Operator Semigroup Theory](http://arxiv.org/abs/2402.15326v2)** | 2025-03-24 | Accepted by KDD 2025 |
+| **[Deterministic Certification of Graph Neural Networks against Graph Poisoning Attacks with Arbitrary Perturbations](http://arxiv.org/abs/2503.18503v1)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
+| **[MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering](http://arxiv.org/abs/2503.18491v1)** | 2025-03-24 | 8 Pages, 5 figures |
+| **[AES-SpMM: Balancing Accuracy and Speed by Adaptive Edge Sampling Strategy to Accelerate SpMM in GNNs](http://arxiv.org/abs/2503.18427v1)** | 2025-03-24 |  |
+| **[DiffusedWrinkles: A Diffusion-Based Model for Data-Driven Garment Animation](http://arxiv.org/abs/2503.18370v1)** | 2025-03-24 | BMVC 2024 |
+| **[Iterative Multi-Agent Reinforcement Learning: A Novel Approach Toward Real-World Multi-Echelon Inventory Optimization](http://arxiv.org/abs/2503.18201v1)** | 2025-03-23 | <details><summary>A Cap...</summary><p>A Capstone Report in the Field of Data Science for the Degree of Master of Liberal Arts in Extension Studies - Harvard University</p></details> |
 
