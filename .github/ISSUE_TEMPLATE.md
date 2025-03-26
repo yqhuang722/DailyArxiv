@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 25, 2025
+title: Latest 10 Papers - March 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Physics Inverse Design of Varifocal Optical Devices using Data-Driven Surrogates and Differential Modeling](http://arxiv.org/abs/2503.18911v1)** | 2025-03-24 | 15 pages, 4 figures |
-| **[Energy-Efficient Dynamic Training and Inference for GNN-Based Network Modeling](http://arxiv.org/abs/2503.18706v1)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted in IEEE WCNC 2025</p></details> |
-| **[Graph Structure Refinement with Energy-based Contrastive Learning](http://arxiv.org/abs/2412.17856v3)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
-| **[Deep Polycuboid Fitting for Compact 3D Representation of Indoor Scenes](http://arxiv.org/abs/2503.14912v2)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted to 3DV 2025. For project page, see this https://waldstein94.github.io/deep-polycuboid-fitting/</p></details> |
-| **[Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective of Operator Semigroup Theory](http://arxiv.org/abs/2402.15326v2)** | 2025-03-24 | Accepted by KDD 2025 |
-| **[Deterministic Certification of Graph Neural Networks against Graph Poisoning Attacks with Arbitrary Perturbations](http://arxiv.org/abs/2503.18503v1)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
-| **[MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering](http://arxiv.org/abs/2503.18491v1)** | 2025-03-24 | 8 Pages, 5 figures |
-| **[AES-SpMM: Balancing Accuracy and Speed by Adaptive Edge Sampling Strategy to Accelerate SpMM in GNNs](http://arxiv.org/abs/2503.18427v1)** | 2025-03-24 |  |
-| **[DiffusedWrinkles: A Diffusion-Based Model for Data-Driven Garment Animation](http://arxiv.org/abs/2503.18370v1)** | 2025-03-24 | BMVC 2024 |
-| **[Iterative Multi-Agent Reinforcement Learning: A Novel Approach Toward Real-World Multi-Echelon Inventory Optimization](http://arxiv.org/abs/2503.18201v1)** | 2025-03-23 | <details><summary>A Cap...</summary><p>A Capstone Report in the Field of Data Science for the Degree of Master of Liberal Arts in Extension Studies - Harvard University</p></details> |
+| **[Towards Efficient Training of Graph Neural Networks: A Multiscale Approach](http://arxiv.org/abs/2503.19666v1)** | 2025-03-25 |  |
+| **[Extracting Interpretable Logic Rules from Graph Neural Networks](http://arxiv.org/abs/2503.19476v1)** | 2025-03-25 | 12 pages, 4 figures |
+| **[Conditional Shift-Robust Conformal Prediction for Graph Neural Network](http://arxiv.org/abs/2405.11968v3)** | 2025-03-25 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 4 tables</p></details> |
+| **[Causal invariant geographic network representations with feature and structural distribution shifts](http://arxiv.org/abs/2503.19382v1)** | 2025-03-25 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 8 tables</p></details> |
+| **[Social Network User Profiling for Anomaly Detection Based on Graph Neural Networks](http://arxiv.org/abs/2503.19380v1)** | 2025-03-25 |  |
+| **[Long-range Meta-path Search on Large-scale Heterogeneous Graphs](http://arxiv.org/abs/2307.08430v6)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted by Advances in Neural Information Processing Systems (NeurIPS 2024)</p></details> |
+| **[A Social Dynamical System for Twitter Analysis](http://arxiv.org/abs/2503.19316v1)** | 2025-03-25 | <details><summary>will ...</summary><p>will be submitted to a journal soon</p></details> |
+| **[Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications](http://arxiv.org/abs/2503.19276v1)** | 2025-03-25 |  |
+| **[Graph neural networks extrapolate out-of-distribution for shortest paths](http://arxiv.org/abs/2503.19173v1)** | 2025-03-24 |  |
+| **[Graph-Level Label-Only Membership Inference Attack against Graph Neural Networks](http://arxiv.org/abs/2503.19070v1)** | 2025-03-24 |  |
 
