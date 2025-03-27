@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 26, 2025
+title: Latest 10 Papers - March 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Efficient Training of Graph Neural Networks: A Multiscale Approach](http://arxiv.org/abs/2503.19666v1)** | 2025-03-25 |  |
+| **[$β$-GNN: A Robust Ensemble Approach Against Graph Structure Perturbation](http://arxiv.org/abs/2503.20630v1)** | 2025-03-26 | <details><summary>This ...</summary><p>This is the author's version of the paper accepted at EuroMLSys 2025</p></details> |
+| **[Valid Conformal Prediction for Dynamic GNNs](http://arxiv.org/abs/2405.19230v2)** | 2025-03-26 | 25 pages, 6 figures |
+| **[Towards Efficient Training of Graph Neural Networks: A Multiscale Approach](http://arxiv.org/abs/2503.19666v2)** | 2025-03-26 |  |
+| **[Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs](http://arxiv.org/abs/2503.20400v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted at the Extended Semantic Web Conference 2025</p></details> |
+| **[Graph-Level Label-Only Membership Inference Attack against Graph Neural Networks](http://arxiv.org/abs/2503.19070v2)** | 2025-03-26 |  |
+| **[BeLightRec: A lightweight recommender system enhanced with BERT](http://arxiv.org/abs/2503.20206v1)** | 2025-03-26 |  |
+| **[TransPlace: Transferable Circuit Global Placement via Graph Neural Network](http://arxiv.org/abs/2501.05667v2)** | 2025-03-26 | Accepted at KDD 2025 |
+| **[Peer Disambiguation in Self-Reported Surveys using Graph Attention Networks](http://arxiv.org/abs/2503.20076v1)** | 2025-03-25 |  |
+| **[Truck Parking Usage Prediction with Decomposed Graph Neural Networks](http://arxiv.org/abs/2401.12920v3)** | 2025-03-25 |  |
 | **[Extracting Interpretable Logic Rules from Graph Neural Networks](http://arxiv.org/abs/2503.19476v1)** | 2025-03-25 | 12 pages, 4 figures |
-| **[Conditional Shift-Robust Conformal Prediction for Graph Neural Network](http://arxiv.org/abs/2405.11968v3)** | 2025-03-25 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 4 tables</p></details> |
-| **[Causal invariant geographic network representations with feature and structural distribution shifts](http://arxiv.org/abs/2503.19382v1)** | 2025-03-25 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 8 tables</p></details> |
-| **[Social Network User Profiling for Anomaly Detection Based on Graph Neural Networks](http://arxiv.org/abs/2503.19380v1)** | 2025-03-25 |  |
-| **[Long-range Meta-path Search on Large-scale Heterogeneous Graphs](http://arxiv.org/abs/2307.08430v6)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted by Advances in Neural Information Processing Systems (NeurIPS 2024)</p></details> |
-| **[A Social Dynamical System for Twitter Analysis](http://arxiv.org/abs/2503.19316v1)** | 2025-03-25 | <details><summary>will ...</summary><p>will be submitted to a journal soon</p></details> |
-| **[Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications](http://arxiv.org/abs/2503.19276v1)** | 2025-03-25 |  |
-| **[Graph neural networks extrapolate out-of-distribution for shortest paths](http://arxiv.org/abs/2503.19173v1)** | 2025-03-24 |  |
-| **[Graph-Level Label-Only Membership Inference Attack against Graph Neural Networks](http://arxiv.org/abs/2503.19070v1)** | 2025-03-24 |  |
 
