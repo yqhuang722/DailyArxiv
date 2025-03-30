@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 27, 2025
+title: Latest 10 Papers - March 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v4)** | 2025-03-27 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
 | **[Does GCL Need a Large Number of Negative Samples? Enhancing Graph Contrastive Learning with Effective and Efficient Negative Sampling](http://arxiv.org/abs/2503.17908v1)** | 2025-03-23 |  |
 | **[Diffusion-augmented Graph Contrastive Learning for Collaborative Filter](http://arxiv.org/abs/2503.16290v1)** | 2025-03-20 |  |
 | **[GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning](http://arxiv.org/abs/2409.07725v2)** | 2025-03-20 | <details><summary>I am ...</summary><p>I am requesting the withdrawal of my paper due to errors identified in the methodology and experimental results. Specifically, there are inaccuracies in the analysis section that may lead to misleading conclusions</p></details> |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Tensor-Fused Multi-View Graph Contrastive Learning](http://arxiv.org/abs/2410.15247v2)** | 2025-03-09 |  |
 | **[Joint Masked Reconstruction and Contrastive Learning for Mining Interactions Between Proteins](http://arxiv.org/abs/2503.04650v1)** | 2025-03-06 | Submitted |
 | **[Mixed Graph Contrastive Network for Semi-Supervised Node Classification](http://arxiv.org/abs/2206.02796v3)** | 2025-03-06 |  |
-| **[A Binary Classification Social Network Dataset for Graph Machine Learning](http://arxiv.org/abs/2503.02397v1)** | 2025-03-04 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[$β$-GNN: A Robust Ensemble Approach Against Graph Structure Perturbation](http://arxiv.org/abs/2503.20630v1)** | 2025-03-26 | <details><summary>This ...</summary><p>This is the author's version of the paper accepted at EuroMLSys 2025</p></details> |
-| **[Valid Conformal Prediction for Dynamic GNNs](http://arxiv.org/abs/2405.19230v2)** | 2025-03-26 | 25 pages, 6 figures |
-| **[Towards Efficient Training of Graph Neural Networks: A Multiscale Approach](http://arxiv.org/abs/2503.19666v2)** | 2025-03-26 |  |
-| **[Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs](http://arxiv.org/abs/2503.20400v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted at the Extended Semantic Web Conference 2025</p></details> |
-| **[Graph-Level Label-Only Membership Inference Attack against Graph Neural Networks](http://arxiv.org/abs/2503.19070v2)** | 2025-03-26 |  |
-| **[BeLightRec: A lightweight recommender system enhanced with BERT](http://arxiv.org/abs/2503.20206v1)** | 2025-03-26 |  |
-| **[TransPlace: Transferable Circuit Global Placement via Graph Neural Network](http://arxiv.org/abs/2501.05667v2)** | 2025-03-26 | Accepted at KDD 2025 |
-| **[Peer Disambiguation in Self-Reported Surveys using Graph Attention Networks](http://arxiv.org/abs/2503.20076v1)** | 2025-03-25 |  |
-| **[Truck Parking Usage Prediction with Decomposed Graph Neural Networks](http://arxiv.org/abs/2401.12920v3)** | 2025-03-25 |  |
-| **[Extracting Interpretable Logic Rules from Graph Neural Networks](http://arxiv.org/abs/2503.19476v1)** | 2025-03-25 | 12 pages, 4 figures |
+| **[A Comprehensive Benchmark for RNA 3D Structure-Function Modeling](http://arxiv.org/abs/2503.21681v1)** | 2025-03-27 |  |
+| **[GNNMerge: Merging of GNN Models Without Accessing Training Data](http://arxiv.org/abs/2503.03384v2)** | 2025-03-27 |  |
+| **[Fusion of Graph Neural Networks via Optimal Transport](http://arxiv.org/abs/2503.21579v1)** | 2025-03-27 |  |
+| **[Deep Cut-informed Graph Embedding and Clustering](http://arxiv.org/abs/2503.06635v2)** | 2025-03-27 |  |
+| **[CombiGCN: An effective GCN model for Recommender System](http://arxiv.org/abs/2503.21471v1)** | 2025-03-27 |  |
+| **[Improvement Graph Convolution Collaborative Filtering with Weighted addition input](http://arxiv.org/abs/2503.21468v1)** | 2025-03-27 |  |
+| **[Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models](http://arxiv.org/abs/2503.21435v1)** | 2025-03-27 |  |
+| **[A Logic for Reasoning About Aggregate-Combine Graph Neural Networks](http://arxiv.org/abs/2405.00205v2)** | 2025-03-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2307.05150</p></details> |
+| **[AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification](http://arxiv.org/abs/2503.21105v1)** | 2025-03-27 | <details><summary>Accep...</summary><p>Accepted to PAKDD 2025 (Oral Presentation)</p></details> |
+| **[A Social Dynamical System for Twitter Analysis](http://arxiv.org/abs/2503.19316v2)** | 2025-03-26 | <details><summary>will ...</summary><p>will be submitted to a journal soon</p></details> |
 
