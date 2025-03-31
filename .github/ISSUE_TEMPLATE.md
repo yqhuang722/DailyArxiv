@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 30, 2025
+title: Latest 10 Papers - March 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MCI-GRU: Stock Prediction Model Based on Multi-Head Cross-Attention and Improved GRU](http://arxiv.org/abs/2410.20679v2)** | 2025-03-28 |  |
+| **[Comparing Methods for Bias Mitigation in Graph Neural Networks](http://arxiv.org/abs/2503.22569v1)** | 2025-03-28 |  |
+| **[Efficient Data Selection for Training Genomic Perturbation Models](http://arxiv.org/abs/2503.14571v2)** | 2025-03-28 | 19 pages |
+| **[CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills](http://arxiv.org/abs/2503.22277v1)** | 2025-03-28 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 2 tables</p></details> |
+| **[Data-driven modeling of fluid flow around rotating structures with graph neural networks](http://arxiv.org/abs/2503.22252v1)** | 2025-03-28 |  |
+| **[A Social Dynamical System for Twitter Analysis](http://arxiv.org/abs/2503.19316v3)** | 2025-03-28 | <details><summary>will ...</summary><p>will be submitted to a journal soon</p></details> |
+| **[Few-Shot Graph Out-of-Distribution Detection with LLMs](http://arxiv.org/abs/2503.22097v1)** | 2025-03-28 |  |
+| **[Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs](http://arxiv.org/abs/2410.16593v3)** | 2025-03-27 |  |
+| **[Improving Equivariant Networks with Probabilistic Symmetry Breaking](http://arxiv.org/abs/2503.21985v1)** | 2025-03-27 | 28 pages, 7 figures |
 | **[A Comprehensive Benchmark for RNA 3D Structure-Function Modeling](http://arxiv.org/abs/2503.21681v1)** | 2025-03-27 |  |
-| **[GNNMerge: Merging of GNN Models Without Accessing Training Data](http://arxiv.org/abs/2503.03384v2)** | 2025-03-27 |  |
-| **[Fusion of Graph Neural Networks via Optimal Transport](http://arxiv.org/abs/2503.21579v1)** | 2025-03-27 |  |
-| **[Deep Cut-informed Graph Embedding and Clustering](http://arxiv.org/abs/2503.06635v2)** | 2025-03-27 |  |
-| **[CombiGCN: An effective GCN model for Recommender System](http://arxiv.org/abs/2503.21471v1)** | 2025-03-27 |  |
-| **[Improvement Graph Convolution Collaborative Filtering with Weighted addition input](http://arxiv.org/abs/2503.21468v1)** | 2025-03-27 |  |
-| **[Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models](http://arxiv.org/abs/2503.21435v1)** | 2025-03-27 |  |
-| **[A Logic for Reasoning About Aggregate-Combine Graph Neural Networks](http://arxiv.org/abs/2405.00205v2)** | 2025-03-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2307.05150</p></details> |
-| **[AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification](http://arxiv.org/abs/2503.21105v1)** | 2025-03-27 | <details><summary>Accep...</summary><p>Accepted to PAKDD 2025 (Oral Presentation)</p></details> |
-| **[A Social Dynamical System for Twitter Analysis](http://arxiv.org/abs/2503.19316v2)** | 2025-03-26 | <details><summary>will ...</summary><p>will be submitted to a journal soon</p></details> |
 
