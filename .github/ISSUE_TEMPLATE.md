@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - March 31, 2025
+title: Latest 10 Papers - April 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,7 +21,9 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DP-GPL: Differentially Private Graph Prompt Learning](http://arxiv.org/abs/2503.10544v1)** | 2025-03-13 |  |
+| **[Krait: A Backdoor Attack Against Graph Prompt Tuning](http://arxiv.org/abs/2407.13068v2)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted by SaTML'2025</p></details> |
+| **[Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models](http://arxiv.org/abs/2503.23523v1)** | 2025-03-30 |  |
+| **[DP-GPL: Differentially Private Graph Prompt Learning](http://arxiv.org/abs/2503.10544v2)** | 2025-03-29 | <details><summary>Not a...</summary><p>Not all authors have given their explicit consent</p></details> |
 | **[Edge Prompt Tuning for Graph Neural Networks](http://arxiv.org/abs/2503.00750v1)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 | **[LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection](http://arxiv.org/abs/2503.01900v1)** | 2025-02-28 |  |
 | **[GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](http://arxiv.org/abs/2410.10329v4)** | 2025-02-24 | Accepted to WWW'25 |
@@ -29,8 +31,6 @@ labels: documentation
 | **[CLEAR: Cluster-based Prompt Learning on Heterogeneous Graphs](http://arxiv.org/abs/2502.08918v1)** | 2025-02-13 | <details><summary>accep...</summary><p>accepted by PAKDD 2025</p></details> |
 | **[HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2310.15318v4)** | 2025-02-04 | <details><summary>Publi...</summary><p>Published in The ACM Web Conference 2024 (WWW '24)</p></details> |
 | **[DAGPrompT: Pushing the Limits of Graph Prompting with a Distribution-aware Graph Prompt Tuning Approach](http://arxiv.org/abs/2501.15142v1)** | 2025-01-25 | <details><summary>To be...</summary><p>To be published in WWW '25, April 28-May 2, 2025, Sydney, NSW, Australia</p></details> |
-| **[RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning](http://arxiv.org/abs/2408.03195v3)** | 2025-01-17 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025 (camera-ready version). Due to the space limitation, please refer to the V2 version for more details</p></details> |
-| **[SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2501.00303v1)** | 2024-12-31 | AAAI 2025 |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MCI-GRU: Stock Prediction Model Based on Multi-Head Cross-Attention and Improved GRU](http://arxiv.org/abs/2410.20679v2)** | 2025-03-28 |  |
-| **[Comparing Methods for Bias Mitigation in Graph Neural Networks](http://arxiv.org/abs/2503.22569v1)** | 2025-03-28 |  |
-| **[Efficient Data Selection for Training Genomic Perturbation Models](http://arxiv.org/abs/2503.14571v2)** | 2025-03-28 | 19 pages |
-| **[CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills](http://arxiv.org/abs/2503.22277v1)** | 2025-03-28 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 2 tables</p></details> |
-| **[Data-driven modeling of fluid flow around rotating structures with graph neural networks](http://arxiv.org/abs/2503.22252v1)** | 2025-03-28 |  |
-| **[A Social Dynamical System for Twitter Analysis](http://arxiv.org/abs/2503.19316v3)** | 2025-03-28 | <details><summary>will ...</summary><p>will be submitted to a journal soon</p></details> |
-| **[Few-Shot Graph Out-of-Distribution Detection with LLMs](http://arxiv.org/abs/2503.22097v1)** | 2025-03-28 |  |
-| **[Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs](http://arxiv.org/abs/2410.16593v3)** | 2025-03-27 |  |
-| **[Improving Equivariant Networks with Probabilistic Symmetry Breaking](http://arxiv.org/abs/2503.21985v1)** | 2025-03-27 | 28 pages, 7 figures |
-| **[A Comprehensive Benchmark for RNA 3D Structure-Function Modeling](http://arxiv.org/abs/2503.21681v1)** | 2025-03-27 |  |
+| **[Evaluating machine learning models for predicting pesticides toxicity to honey bees](http://arxiv.org/abs/2503.24305v1)** | 2025-03-31 |  |
+| **[Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review](http://arxiv.org/abs/2503.24259v1)** | 2025-03-31 |  |
+| **[Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks](http://arxiv.org/abs/2503.24203v1)** | 2025-03-31 |  |
+| **[Backdoor Graph Condensation](http://arxiv.org/abs/2407.11025v4)** | 2025-03-31 | <details><summary>ICDE ...</summary><p>ICDE 2025 Camera Ready</p></details> |
+| **[Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing](http://arxiv.org/abs/2503.24130v1)** | 2025-03-31 |  |
+| **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](http://arxiv.org/abs/2503.24111v1)** | 2025-03-31 | 18 pages, 6 figures |
+| **[Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning](http://arxiv.org/abs/2503.23766v1)** | 2025-03-31 | <details><summary>AI fo...</summary><p>AI for Accelerated Materials Design - ICLR 2025</p></details> |
+| **[GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs](http://arxiv.org/abs/2503.23713v1)** | 2025-03-31 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Accepted in AAAI25 to AI4TS Workshop@AAAI 2025</p></details> |
+| **[Graph neural networks extrapolate out-of-distribution for shortest paths](http://arxiv.org/abs/2503.19173v2)** | 2025-03-31 |  |
+| **[Hierarchical graph sampling based minibatch learning with chain preservation and variance reduction](http://arxiv.org/abs/2503.00860v5)** | 2025-03-30 | 26 pages, 10 figures |
 
