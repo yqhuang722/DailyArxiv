@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 01, 2025
+title: Latest 10 Papers - April 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,7 +49,9 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating machine learning models for predicting pesticides toxicity to honey bees](http://arxiv.org/abs/2503.24305v1)** | 2025-03-31 |  |
+| **[GNN 101: Visual Learning of Graph Neural Networks in Your Web Browser](http://arxiv.org/abs/2411.17849v3)** | 2025-04-01 |  |
+| **[Evaluating machine learning models for predicting pesticides toxicity to honey bees](http://arxiv.org/abs/2503.24305v2)** | 2025-04-01 |  |
+| **[Designing Heterogeneous GNNs with Desired Permutation Properties for Wireless Resource Allocation](http://arxiv.org/abs/2203.03906v3)** | 2025-04-01 |  |
 | **[Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review](http://arxiv.org/abs/2503.24259v1)** | 2025-03-31 |  |
 | **[Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks](http://arxiv.org/abs/2503.24203v1)** | 2025-03-31 |  |
 | **[Backdoor Graph Condensation](http://arxiv.org/abs/2407.11025v4)** | 2025-03-31 | <details><summary>ICDE ...</summary><p>ICDE 2025 Camera Ready</p></details> |
@@ -57,6 +59,4 @@ labels: documentation
 | **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](http://arxiv.org/abs/2503.24111v1)** | 2025-03-31 | 18 pages, 6 figures |
 | **[Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning](http://arxiv.org/abs/2503.23766v1)** | 2025-03-31 | <details><summary>AI fo...</summary><p>AI for Accelerated Materials Design - ICLR 2025</p></details> |
 | **[GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs](http://arxiv.org/abs/2503.23713v1)** | 2025-03-31 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Accepted in AAAI25 to AI4TS Workshop@AAAI 2025</p></details> |
-| **[Graph neural networks extrapolate out-of-distribution for shortest paths](http://arxiv.org/abs/2503.19173v2)** | 2025-03-31 |  |
-| **[Hierarchical graph sampling based minibatch learning with chain preservation and variance reduction](http://arxiv.org/abs/2503.00860v5)** | 2025-03-30 | 26 pages, 10 figures |
 
