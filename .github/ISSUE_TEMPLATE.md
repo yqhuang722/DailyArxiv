@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 02, 2025
+title: Latest 10 Papers - April 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](http://arxiv.org/abs/2504.00711v1)** | 2025-04-01 |  |
 | **[A Survey of Cross-domain Graph Learning: Progress and Future Directions](http://arxiv.org/abs/2503.11086v1)** | 2025-03-14 |  |
 | **[Towards Graph Foundation Models: A Transferability Perspective](http://arxiv.org/abs/2503.09363v1)** | 2025-03-12 |  |
 | **[Graph Foundation Models: Concepts, Opportunities and Challenges](http://arxiv.org/abs/2310.11829v4)** | 2025-03-10 | <details><summary>This ...</summary><p>This is the author's version of the accepted paper (not the IEEE-published version). Citation information: DOI 10.1109/TPAMI.2025.3548729. For access to the final edited and published article, please follow the link provided: https://ieeexplore.ieee.org/document/10915556</p></details> |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings](http://arxiv.org/abs/2412.07407v2)** | 2025-03-03 | <details><summary>Publi...</summary><p>Published at TMLR (https://openreview.net/forum?id=mSoDRZXsqj)</p></details> |
 | **[GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](http://arxiv.org/abs/2410.10329v4)** | 2025-02-24 | Accepted to WWW'25 |
 | **[Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks](http://arxiv.org/abs/2502.14546v1)** | 2025-02-20 |  |
-| **[How Expressive are Knowledge Graph Foundation Models?](http://arxiv.org/abs/2502.13339v1)** | 2025-02-18 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GNN 101: Visual Learning of Graph Neural Networks in Your Web Browser](http://arxiv.org/abs/2411.17849v3)** | 2025-04-01 |  |
-| **[Evaluating machine learning models for predicting pesticides toxicity to honey bees](http://arxiv.org/abs/2503.24305v2)** | 2025-04-01 |  |
-| **[Designing Heterogeneous GNNs with Desired Permutation Properties for Wireless Resource Allocation](http://arxiv.org/abs/2203.03906v3)** | 2025-04-01 |  |
-| **[Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review](http://arxiv.org/abs/2503.24259v1)** | 2025-03-31 |  |
-| **[Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks](http://arxiv.org/abs/2503.24203v1)** | 2025-03-31 |  |
-| **[Backdoor Graph Condensation](http://arxiv.org/abs/2407.11025v4)** | 2025-03-31 | <details><summary>ICDE ...</summary><p>ICDE 2025 Camera Ready</p></details> |
-| **[Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing](http://arxiv.org/abs/2503.24130v1)** | 2025-03-31 |  |
-| **[Inductive Graph Representation Learning with Quantum Graph Neural Networks](http://arxiv.org/abs/2503.24111v1)** | 2025-03-31 | 18 pages, 6 figures |
-| **[Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning](http://arxiv.org/abs/2503.23766v1)** | 2025-03-31 | <details><summary>AI fo...</summary><p>AI for Accelerated Materials Design - ICLR 2025</p></details> |
-| **[GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs](http://arxiv.org/abs/2503.23713v1)** | 2025-03-31 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Accepted in AAAI25 to AI4TS Workshop@AAAI 2025</p></details> |
+| **[Graphically Speaking: Unmasking Abuse in Social Media with Conversation Insights](http://arxiv.org/abs/2504.01902v1)** | 2025-04-02 |  |
+| **[Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation](http://arxiv.org/abs/2408.00490v4)** | 2025-04-02 | <details><summary>14 pa...</summary><p>14 pages, accepted by WWW2025</p></details> |
+| **[Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code](http://arxiv.org/abs/2504.01481v1)** | 2025-04-02 | <details><summary>The 1...</summary><p>The 13th International Conference on Complex Networks and their Applications, Dec 2024, Istabul, Turkey</p></details> |
+| **[Adversarial Curriculum Graph-Free Knowledge Distillation for Graph Neural Networks](http://arxiv.org/abs/2504.00540v2)** | 2025-04-02 |  |
+| **[Deep Graph Reinforcement Learning for UAV-Enabled Multi-User Secure Communications](http://arxiv.org/abs/2504.01446v1)** | 2025-04-02 | Accepted at IEEE TMC |
+| **[Refining Interactions: Enhancing Anisotropy in Graph Neural Networks with Language Semantics](http://arxiv.org/abs/2504.01429v1)** | 2025-04-02 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
+| **[Flexible and Explainable Graph Analysis for EEG-based Alzheimer's Disease Classification](http://arxiv.org/abs/2504.01329v1)** | 2025-04-02 |  |
+| **[Learning Graph Quantized Tokenizers](http://arxiv.org/abs/2410.13798v2)** | 2025-04-02 | ICLR 2025 |
+| **[ComFairGNN: Community Fair Graph Neural Network](http://arxiv.org/abs/2411.04371v2)** | 2025-04-01 | <details><summary>Publi...</summary><p>Published at PAKDD 2025</p></details> |
+| **[Neural Approaches to SAT Solving: Design Choices and Interpretability](http://arxiv.org/abs/2504.01173v1)** | 2025-04-01 |  |
 
