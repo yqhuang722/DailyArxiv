@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 06, 2025
+title: Latest 10 Papers - April 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Assessing SPARQL capabilities of Large Language Models](http://arxiv.org/abs/2409.05925v2)** | 2025-04-04 | <details><summary>Peer ...</summary><p>Peer reviewed and published at NLP4KGc @ Semantics 2024, see original publication at https://ceur-ws.org/Vol-3874/paper3.pdf . Updated Metadata</p></details> |
 | **[Krait: A Backdoor Attack Against Graph Prompt Tuning](http://arxiv.org/abs/2407.13068v2)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted by SaTML'2025</p></details> |
 | **[Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models](http://arxiv.org/abs/2503.23523v1)** | 2025-03-30 |  |
 | **[DP-GPL: Differentially Private Graph Prompt Learning](http://arxiv.org/abs/2503.10544v2)** | 2025-03-29 | <details><summary>Not a...</summary><p>Not all authors have given their explicit consent</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[CuriousLLM: Elevating Multi-Document Question Answering with LLM-Enhanced Knowledge Graph Reasoning](http://arxiv.org/abs/2404.09077v3)** | 2025-02-18 | <details><summary>Accep...</summary><p>Accepted for publication in NAACL 2025. The official version will be available in the ACL Anthology</p></details> |
 | **[CLEAR: Cluster-based Prompt Learning on Heterogeneous Graphs](http://arxiv.org/abs/2502.08918v1)** | 2025-02-13 | <details><summary>accep...</summary><p>accepted by PAKDD 2025</p></details> |
 | **[HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2310.15318v4)** | 2025-02-04 | <details><summary>Publi...</summary><p>Published in The ACM Web Conference 2024 (WWW '24)</p></details> |
-| **[DAGPrompT: Pushing the Limits of Graph Prompting with a Distribution-aware Graph Prompt Tuning Approach](http://arxiv.org/abs/2501.15142v1)** | 2025-01-25 | <details><summary>To be...</summary><p>To be published in WWW '25, April 28-May 2, 2025, Sydney, NSW, Australia</p></details> |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning](http://arxiv.org/abs/2504.03610v1)** | 2025-04-04 |  |
+| **[Optimizing Quantum Circuits via ZX Diagrams using Reinforcement Learning and Graph Neural Networks](http://arxiv.org/abs/2504.03429v1)** | 2025-04-04 |  |
+| **[Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow](http://arxiv.org/abs/2212.12470v3)** | 2025-04-04 |  |
+| **[Certified Defense on the Fairness of Graph Neural Networks](http://arxiv.org/abs/2311.02757v2)** | 2025-04-04 |  |
+| **[Graph Attention for Heterogeneous Graphs with Positional Encoding](http://arxiv.org/abs/2504.02938v1)** | 2025-04-03 | 10 pages, 3 figures |
+| **[BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology](http://arxiv.org/abs/2503.20880v2)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2025</p></details> |
 | **[MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception](http://arxiv.org/abs/2409.11146v3)** | 2025-04-03 | <details><summary>6 pag...</summary><p>6 pages, 5 figures; This work has been accepted to ICRA 2025 and will soon be published</p></details> |
 | **[A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification](http://arxiv.org/abs/2504.02615v1)** | 2025-04-03 |  |
 | **[STEAK: Streaming Network for Continual Learning of Object Relocations under Household Context Drifts](http://arxiv.org/abs/2411.05549v2)** | 2025-04-03 |  |
 | **[Toward General and Robust LLM-enhanced Text-attributed Graph Learning](http://arxiv.org/abs/2504.02343v1)** | 2025-04-03 |  |
-| **[Enhancing Customer Contact Efficiency with Graph Neural Networks in Credit Card Fraud Detection Workflow](http://arxiv.org/abs/2504.02275v1)** | 2025-04-03 |  |
-| **[LLM-Augmented Graph Neural Recommenders: Integrating User Reviews](http://arxiv.org/abs/2504.02195v1)** | 2025-04-03 | Under Review |
-| **[Reducing Smoothness with Expressive Memory Enhanced Hierarchical Graph Neural Networks](http://arxiv.org/abs/2504.00349v2)** | 2025-04-02 |  |
-| **[OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling](http://arxiv.org/abs/2504.02148v1)** | 2025-04-02 |  |
-| **[LL4G: Self-Supervised Dynamic Optimization for Graph-Based Personality Detection](http://arxiv.org/abs/2504.02146v1)** | 2025-04-02 |  |
-| **[From Text to Graph: Leveraging Graph Neural Networks for Enhanced Explainability in NLP](http://arxiv.org/abs/2504.02064v1)** | 2025-04-02 |  |
 
