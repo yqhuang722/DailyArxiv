@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 07, 2025
+title: Latest 10 Papers - April 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v2)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
 | **[Assessing SPARQL capabilities of Large Language Models](http://arxiv.org/abs/2409.05925v2)** | 2025-04-04 | <details><summary>Peer ...</summary><p>Peer reviewed and published at NLP4KGc @ Semantics 2024, see original publication at https://ceur-ws.org/Vol-3874/paper3.pdf . Updated Metadata</p></details> |
 | **[Krait: A Backdoor Attack Against Graph Prompt Tuning](http://arxiv.org/abs/2407.13068v2)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted by SaTML'2025</p></details> |
 | **[Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models](http://arxiv.org/abs/2503.23523v1)** | 2025-03-30 |  |
@@ -30,33 +31,32 @@ labels: documentation
 | **[GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](http://arxiv.org/abs/2410.10329v4)** | 2025-02-24 | Accepted to WWW'25 |
 | **[CuriousLLM: Elevating Multi-Document Question Answering with LLM-Enhanced Knowledge Graph Reasoning](http://arxiv.org/abs/2404.09077v3)** | 2025-02-18 | <details><summary>Accep...</summary><p>Accepted for publication in NAACL 2025. The official version will be available in the ACL Anthology</p></details> |
 | **[CLEAR: Cluster-based Prompt Learning on Heterogeneous Graphs](http://arxiv.org/abs/2502.08918v1)** | 2025-02-13 | <details><summary>accep...</summary><p>accepted by PAKDD 2025</p></details> |
-| **[HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2310.15318v4)** | 2025-02-04 | <details><summary>Publi...</summary><p>Published in The ACM Web Conference 2024 (WWW '24)</p></details> |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph-Based Multimodal Contrastive Learning for Chart Question Answering](http://arxiv.org/abs/2501.04303v2)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
+| **[Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering](http://arxiv.org/abs/2504.04443v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2025</p></details> |
 | **[MageSQL: Enhancing In-context Learning for Text-to-SQL Applications with Large Language Models](http://arxiv.org/abs/2504.02055v1)** | 2025-04-02 |  |
+| **[Brain Network Classification Based on Graph Contrastive Learning and Graph Transformer](http://arxiv.org/abs/2504.03740v1)** | 2025-04-01 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, uses tikz.sty</p></details> |
 | **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v4)** | 2025-03-27 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
 | **[Does GCL Need a Large Number of Negative Samples? Enhancing Graph Contrastive Learning with Effective and Efficient Negative Sampling](http://arxiv.org/abs/2503.17908v1)** | 2025-03-23 |  |
 | **[Diffusion-augmented Graph Contrastive Learning for Collaborative Filter](http://arxiv.org/abs/2503.16290v1)** | 2025-03-20 |  |
 | **[GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning](http://arxiv.org/abs/2409.07725v2)** | 2025-03-20 | <details><summary>I am ...</summary><p>I am requesting the withdrawal of my paper due to errors identified in the methodology and experimental results. Specifically, there are inaccuracies in the analysis section that may lead to misleading conclusions</p></details> |
 | **[Incorporating Attributes and Multi-Scale Structures for Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2503.13911v1)** | 2025-03-18 |  |
 | **[Diffusion on Graph: Augmentation of Graph Structure for Node Classification](http://arxiv.org/abs/2503.12563v1)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) 2025</p></details> |
-| **[SOLA-GCL: Subgraph-Oriented Learnable Augmentation Method for Graph Contrastive Learning](http://arxiv.org/abs/2503.10100v1)** | 2025-03-13 |  |
-| **[Tensor-Fused Multi-View Graph Contrastive Learning](http://arxiv.org/abs/2410.15247v2)** | 2025-03-09 |  |
-| **[Joint Masked Reconstruction and Contrastive Learning for Mining Interactions Between Proteins](http://arxiv.org/abs/2503.04650v1)** | 2025-03-06 | Submitted |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning](http://arxiv.org/abs/2504.03610v1)** | 2025-04-04 |  |
-| **[Optimizing Quantum Circuits via ZX Diagrams using Reinforcement Learning and Graph Neural Networks](http://arxiv.org/abs/2504.03429v1)** | 2025-04-04 |  |
-| **[Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow](http://arxiv.org/abs/2212.12470v3)** | 2025-04-04 |  |
-| **[Certified Defense on the Fairness of Graph Neural Networks](http://arxiv.org/abs/2311.02757v2)** | 2025-04-04 |  |
-| **[Graph Attention for Heterogeneous Graphs with Positional Encoding](http://arxiv.org/abs/2504.02938v1)** | 2025-04-03 | 10 pages, 3 figures |
-| **[BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology](http://arxiv.org/abs/2503.20880v2)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2025</p></details> |
-| **[MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception](http://arxiv.org/abs/2409.11146v3)** | 2025-04-03 | <details><summary>6 pag...</summary><p>6 pages, 5 figures; This work has been accepted to ICRA 2025 and will soon be published</p></details> |
-| **[A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification](http://arxiv.org/abs/2504.02615v1)** | 2025-04-03 |  |
-| **[STEAK: Streaming Network for Continual Learning of Object Relocations under Household Context Drifts](http://arxiv.org/abs/2411.05549v2)** | 2025-04-03 |  |
-| **[Toward General and Robust LLM-enhanced Text-attributed Graph Learning](http://arxiv.org/abs/2504.02343v1)** | 2025-04-03 |  |
+| **[Learning Coarse-Grained Dynamics on Graph](http://arxiv.org/abs/2405.09324v2)** | 2025-04-07 | 43 pages, 12 figures |
+| **[Unifying Physics- and Data-Driven Modeling via Novel Causal Spatiotemporal Graph Neural Network for Interpretable Epidemic Forecasting](http://arxiv.org/abs/2504.05140v1)** | 2025-04-07 | <details><summary>32 pa...</summary><p>32 pages, 12 figures. Submitted to Expert Systems with Applications and currently under review. This version includes minor revisions. The work proposes a physics-informed deep learning framework integrating a novel epidemic model with causal spatiotemporal graph neural networks for interpretable forecasting</p></details> |
+| **[AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification](http://arxiv.org/abs/2504.05030v1)** | 2025-04-07 |  |
+| **[STREAK: Streaming Network for Continual Learning of Object Relocations under Household Context Drifts](http://arxiv.org/abs/2411.05549v3)** | 2025-04-07 |  |
+| **[Contextualized Messages Boost Graph Representations](http://arxiv.org/abs/2403.12529v4)** | 2025-04-07 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research</p></details> |
+| **[Boosting Relational Deep Learning with Pretrained Tabular Models](http://arxiv.org/abs/2504.04934v1)** | 2025-04-07 |  |
+| **[Attentional Graph Meta-Learning for Indoor Localization Using Extremely Sparse Fingerprints](http://arxiv.org/abs/2504.04829v1)** | 2025-04-07 |  |
+| **[Attentional Graph Neural Network Is All You Need for Robust Massive Network Localization](http://arxiv.org/abs/2311.16856v3)** | 2025-04-07 |  |
+| **[Bidirectional Hierarchical Protein Multi-Modal Representation Learning](http://arxiv.org/abs/2504.04770v1)** | 2025-04-07 |  |
+| **[MedGNN: Capturing the Links Between Urban Characteristics and Medical Prescriptions](http://arxiv.org/abs/2504.04739v1)** | 2025-04-07 | <details><summary>12 pa...</summary><p>12 pages' main content. This is a preprint. Submitted to KDD 2025</p></details> |
 
