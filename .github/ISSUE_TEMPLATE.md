@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 08, 2025
+title: Latest 10 Papers - April 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v2)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted by WWW 2025 (Oral)</p></details> |
 | **[GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](http://arxiv.org/abs/2504.00711v1)** | 2025-04-01 |  |
 | **[A Survey of Cross-domain Graph Learning: Progress and Future Directions](http://arxiv.org/abs/2503.11086v1)** | 2025-03-14 |  |
 | **[Towards Graph Foundation Models: A Transferability Perspective](http://arxiv.org/abs/2503.09363v1)** | 2025-03-12 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[IOHunter: Graph Foundation Model to Uncover Online Information Operations](http://arxiv.org/abs/2412.14663v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
 | **[Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings](http://arxiv.org/abs/2412.07407v2)** | 2025-03-03 | <details><summary>Publi...</summary><p>Published at TMLR (https://openreview.net/forum?id=mSoDRZXsqj)</p></details> |
 | **[GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](http://arxiv.org/abs/2410.10329v4)** | 2025-02-24 | Accepted to WWW'25 |
-| **[Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks](http://arxiv.org/abs/2502.14546v1)** | 2025-02-20 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -36,27 +36,18 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Graph-Based Multimodal Contrastive Learning for Chart Question Answering](http://arxiv.org/abs/2501.04303v2)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
-| **[Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering](http://arxiv.org/abs/2504.04443v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2025</p></details> |
-| **[MageSQL: Enhancing In-context Learning for Text-to-SQL Applications with Large Language Models](http://arxiv.org/abs/2504.02055v1)** | 2025-04-02 |  |
-| **[Brain Network Classification Based on Graph Contrastive Learning and Graph Transformer](http://arxiv.org/abs/2504.03740v1)** | 2025-04-01 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, uses tikz.sty</p></details> |
-| **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v4)** | 2025-03-27 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
-| **[Does GCL Need a Large Number of Negative Samples? Enhancing Graph Contrastive Learning with Effective and Efficient Negative Sampling](http://arxiv.org/abs/2503.17908v1)** | 2025-03-23 |  |
-| **[Diffusion-augmented Graph Contrastive Learning for Collaborative Filter](http://arxiv.org/abs/2503.16290v1)** | 2025-03-20 |  |
-| **[GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning](http://arxiv.org/abs/2409.07725v2)** | 2025-03-20 | <details><summary>I am ...</summary><p>I am requesting the withdrawal of my paper due to errors identified in the methodology and experimental results. Specifically, there are inaccuracies in the analysis section that may lead to misleading conclusions</p></details> |
-| **[Incorporating Attributes and Multi-Scale Structures for Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2503.13911v1)** | 2025-03-18 |  |
-| **[Diffusion on Graph: Augmentation of Graph Structure for Node Classification](http://arxiv.org/abs/2503.12563v1)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) 2025</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Coarse-Grained Dynamics on Graph](http://arxiv.org/abs/2405.09324v2)** | 2025-04-07 | 43 pages, 12 figures |
-| **[Unifying Physics- and Data-Driven Modeling via Novel Causal Spatiotemporal Graph Neural Network for Interpretable Epidemic Forecasting](http://arxiv.org/abs/2504.05140v1)** | 2025-04-07 | <details><summary>32 pa...</summary><p>32 pages, 12 figures. Submitted to Expert Systems with Applications and currently under review. This version includes minor revisions. The work proposes a physics-informed deep learning framework integrating a novel epidemic model with causal spatiotemporal graph neural networks for interpretable forecasting</p></details> |
-| **[AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification](http://arxiv.org/abs/2504.05030v1)** | 2025-04-07 |  |
-| **[STREAK: Streaming Network for Continual Learning of Object Relocations under Household Context Drifts](http://arxiv.org/abs/2411.05549v3)** | 2025-04-07 |  |
-| **[Contextualized Messages Boost Graph Representations](http://arxiv.org/abs/2403.12529v4)** | 2025-04-07 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research</p></details> |
-| **[Boosting Relational Deep Learning with Pretrained Tabular Models](http://arxiv.org/abs/2504.04934v1)** | 2025-04-07 |  |
-| **[Attentional Graph Meta-Learning for Indoor Localization Using Extremely Sparse Fingerprints](http://arxiv.org/abs/2504.04829v1)** | 2025-04-07 |  |
-| **[Attentional Graph Neural Network Is All You Need for Robust Massive Network Localization](http://arxiv.org/abs/2311.16856v3)** | 2025-04-07 |  |
-| **[Bidirectional Hierarchical Protein Multi-Modal Representation Learning](http://arxiv.org/abs/2504.04770v1)** | 2025-04-07 |  |
-| **[MedGNN: Capturing the Links Between Urban Characteristics and Medical Prescriptions](http://arxiv.org/abs/2504.04739v1)** | 2025-04-07 | <details><summary>12 pa...</summary><p>12 pages' main content. This is a preprint. Submitted to KDD 2025</p></details> |
+| **[Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction](http://arxiv.org/abs/2504.06193v1)** | 2025-04-08 |  |
+| **[Ising on the Graph: Task-specific Graph Subsampling via the Ising Model](http://arxiv.org/abs/2402.10206v3)** | 2025-04-08 | <details><summary>29 pa...</summary><p>29 pages, 22 figures, accepted at the Learning on Graphs conference (LoG 2024)</p></details> |
+| **[Comparative Analysis of Classical and Quantum-Inspired Solvers: A Preliminary Study on the Weighted Max-Cut Problem](http://arxiv.org/abs/2504.05989v1)** | 2025-04-08 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 4 tables, paper Submitted to GECCO '25</p></details> |
+| **[Graph Federated Learning Based Proactive Content Caching in Edge Computing](http://arxiv.org/abs/2502.04760v2)** | 2025-04-08 |  |
+| **[PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario](http://arxiv.org/abs/2504.05908v1)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted at The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 - CVPRW</p></details> |
+| **[On the Hölder Stability of Multiset and Graph Neural Networks](http://arxiv.org/abs/2406.06984v3)** | 2025-04-08 |  |
+| **[Adaptive Substructure-Aware Expert Model for Molecular Property Prediction](http://arxiv.org/abs/2504.05844v1)** | 2025-04-08 |  |
+| **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v2)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted by WWW 2025 (Oral)</p></details> |
+| **[STNAGNN: Data-driven Spatio-temporal Brain Connectivity beyond FC](http://arxiv.org/abs/2406.12065v2)** | 2025-04-08 |  |
+| **[Graph Neural Networks for Enhancing Ensemble Forecasts of Extreme Rainfall](http://arxiv.org/abs/2504.05471v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted paper at ICLR 2025 - Tackling Climate Change with Machine Learning Workshop (https://www.climatechange.ai/events/iclr2025)</p></details> |
 
