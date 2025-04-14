@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 13, 2025
+title: Latest 10 Papers - April 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Trading Graph Neural Network](http://arxiv.org/abs/2504.07923v1)** | 2025-04-10 |  |
-| **[Soybean Disease Detection via Interpretable Hybrid CNN-GNN: Integrating MobileNetV2 and GraphSAGE with Cross-Modal Attention](http://arxiv.org/abs/2503.01284v2)** | 2025-04-10 |  |
-| **[CAGN-GAT Fusion: A Hybrid Contrastive Attentive Graph Neural Network for Network Intrusion Detection](http://arxiv.org/abs/2503.00961v2)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted in 38th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA/AIE 2025), Kitakyushu, Japan, Jul 2025</p></details> |
-| **[Harnessing Equivariance: Modeling Turbulence with Graph Neural Networks](http://arxiv.org/abs/2504.07741v1)** | 2025-04-10 | 17 pages, 10 figures |
-| **[GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation](http://arxiv.org/abs/2502.05780v2)** | 2025-04-10 | ICLR25 |
-| **[Prediction of Usage Probabilities of Shopping-Mall Corridors Using Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2504.07645v1)** | 2025-04-10 | <details><summary>17 pa...</summary><p>17 pages, working manuscript with partial results</p></details> |
-| **[Evaluating machine learning models for predicting pesticides toxicity to honey bees](http://arxiv.org/abs/2503.24305v3)** | 2025-04-10 |  |
-| **[DWFS-Obfuscation: Dynamic Weighted Feature Selection for Robust Malware Familial Classification under Obfuscation](http://arxiv.org/abs/2504.07590v1)** | 2025-04-10 | 15 pages, 1 figure |
-| **[Reconsidering Faithfulness in Regular, Self-Explainable and Domain Invariant GNNs](http://arxiv.org/abs/2406.15156v2)** | 2025-04-10 | <details><summary>Uploa...</summary><p>Uploading ICLR25 camera ready version</p></details> |
-| **[Towards Scalable and Deep Graph Neural Networks via Noise Masking](http://arxiv.org/abs/2412.14602v2)** | 2025-04-10 |  |
+| **[Hypergraph Vision Transformers: Images are More than Nodes, More than Edges](http://arxiv.org/abs/2504.08710v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification](http://arxiv.org/abs/2412.15302v2)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
+| **[Addressing Graph Heterogeneity and Heterophily from A Spectral Perspective](http://arxiv.org/abs/2410.13373v2)** | 2025-04-11 |  |
+| **[LGRPool: Hierarchical Graph Pooling Via Local-Global Regularisation](http://arxiv.org/abs/2504.08530v1)** | 2025-04-11 | f tables, 2 figures |
+| **[Graph Reduction with Unsupervised Learning in Column Generation: A Routing Application](http://arxiv.org/abs/2504.08401v1)** | 2025-04-11 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
+| **[Deep Inverse Design for High-Level Synthesis](http://arxiv.org/abs/2407.08797v3)** | 2025-04-11 |  |
+| **[Graph Based Deep Reinforcement Learning Aided by Transformers for Multi-Agent Cooperation](http://arxiv.org/abs/2504.08195v1)** | 2025-04-11 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, Accepted to the 2025 IEEE International Conference on Communications Workshops (ICC Workshops)</p></details> |
+| **[Detecting Credit Card Fraud via Heterogeneous Graph Neural Networks with Graph Attention](http://arxiv.org/abs/2504.08183v1)** | 2025-04-11 |  |
+| **[Opinion de-polarization of social networks with GNNs](http://arxiv.org/abs/2412.09404v2)** | 2025-04-10 |  |
+| **[Scaling Laws of Graph Neural Networks for Atomistic Materials Modeling](http://arxiv.org/abs/2504.08112v1)** | 2025-04-10 | Accepted by DAC'25 |
 
