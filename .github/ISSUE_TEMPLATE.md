@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 14, 2025
+title: Latest 10 Papers - April 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v2)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
 | **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v2)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted by WWW 2025 (Oral)</p></details> |
 | **[GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](http://arxiv.org/abs/2504.00711v1)** | 2025-04-01 |  |
 | **[A Survey of Cross-domain Graph Learning: Progress and Future Directions](http://arxiv.org/abs/2503.11086v1)** | 2025-03-14 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs](http://arxiv.org/abs/2503.03258v1)** | 2025-03-05 |  |
 | **[IOHunter: Graph Foundation Model to Uncover Online Information Operations](http://arxiv.org/abs/2412.14663v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
 | **[Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings](http://arxiv.org/abs/2412.07407v2)** | 2025-03-03 | <details><summary>Publi...</summary><p>Published at TMLR (https://openreview.net/forum?id=mSoDRZXsqj)</p></details> |
-| **[GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](http://arxiv.org/abs/2410.10329v4)** | 2025-02-24 | Accepted to WWW'25 |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,28 +35,28 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering](http://arxiv.org/abs/2504.10113v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by SIGIR2025</p></details> |
 | **[Incorporating Attributes and Multi-Scale Structures for Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2503.13911v2)** | 2025-04-10 |  |
 | **[Graph-Based Multimodal Contrastive Learning for Chart Question Answering](http://arxiv.org/abs/2501.04303v2)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
 | **[Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering](http://arxiv.org/abs/2504.04443v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2025</p></details> |
 | **[MageSQL: Enhancing In-context Learning for Text-to-SQL Applications with Large Language Models](http://arxiv.org/abs/2504.02055v1)** | 2025-04-02 |  |
 | **[Brain Network Classification Based on Graph Contrastive Learning and Graph Transformer](http://arxiv.org/abs/2504.03740v1)** | 2025-04-01 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, uses tikz.sty</p></details> |
 | **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v4)** | 2025-03-27 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
+| **[Recommendation System in Advertising and Streaming Media: Unsupervised Data Enhancement Sequence Suggestions](http://arxiv.org/abs/2504.08740v1)** | 2025-03-23 |  |
 | **[Does GCL Need a Large Number of Negative Samples? Enhancing Graph Contrastive Learning with Effective and Efficient Negative Sampling](http://arxiv.org/abs/2503.17908v1)** | 2025-03-23 |  |
 | **[Diffusion-augmented Graph Contrastive Learning for Collaborative Filter](http://arxiv.org/abs/2503.16290v1)** | 2025-03-20 |  |
-| **[GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning](http://arxiv.org/abs/2409.07725v2)** | 2025-03-20 | <details><summary>I am ...</summary><p>I am requesting the withdrawal of my paper due to errors identified in the methodology and experimental results. Specifically, there are inaccuracies in the analysis section that may lead to misleading conclusions</p></details> |
-| **[Diffusion on Graph: Augmentation of Graph Structure for Node Classification](http://arxiv.org/abs/2503.12563v1)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR) 2025</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hypergraph Vision Transformers: Images are More than Nodes, More than Edges](http://arxiv.org/abs/2504.08710v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification](http://arxiv.org/abs/2412.15302v2)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
-| **[Addressing Graph Heterogeneity and Heterophily from A Spectral Perspective](http://arxiv.org/abs/2410.13373v2)** | 2025-04-11 |  |
-| **[LGRPool: Hierarchical Graph Pooling Via Local-Global Regularisation](http://arxiv.org/abs/2504.08530v1)** | 2025-04-11 | f tables, 2 figures |
-| **[Graph Reduction with Unsupervised Learning in Column Generation: A Routing Application](http://arxiv.org/abs/2504.08401v1)** | 2025-04-11 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[Deep Inverse Design for High-Level Synthesis](http://arxiv.org/abs/2407.08797v3)** | 2025-04-11 |  |
-| **[Graph Based Deep Reinforcement Learning Aided by Transformers for Multi-Agent Cooperation](http://arxiv.org/abs/2504.08195v1)** | 2025-04-11 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, Accepted to the 2025 IEEE International Conference on Communications Workshops (ICC Workshops)</p></details> |
-| **[Detecting Credit Card Fraud via Heterogeneous Graph Neural Networks with Graph Attention](http://arxiv.org/abs/2504.08183v1)** | 2025-04-11 |  |
-| **[Opinion de-polarization of social networks with GNNs](http://arxiv.org/abs/2412.09404v2)** | 2025-04-10 |  |
-| **[Scaling Laws of Graph Neural Networks for Atomistic Materials Modeling](http://arxiv.org/abs/2504.08112v1)** | 2025-04-10 | Accepted by DAC'25 |
+| **[Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning](http://arxiv.org/abs/2504.10432v1)** | 2025-04-14 |  |
+| **[AI-Driven Code Refactoring: Using Graph Neural Networks to Enhance Software Maintainability](http://arxiv.org/abs/2504.10412v1)** | 2025-04-14 |  |
+| **[Renormalized Graph Representations for Node Classification](http://arxiv.org/abs/2306.00707v2)** | 2025-04-14 |  |
+| **[GNN-ACLP: Graph Neural Networks based Analog Circuit Link Prediction](http://arxiv.org/abs/2504.10240v1)** | 2025-04-14 | <details><summary>Data ...</summary><p>Data will be made available on request</p></details> |
+| **[Expressivity of Representation Learning on Continuous-Time Dynamic Graphs: An Information-Flow Centric Review](http://arxiv.org/abs/2412.03783v2)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by TMLR. Source code: https://github.com/king/ctdg-info-flow</p></details> |
+| **[COUNTER: Cluster GCN based Energy Efficient Resource Management for Sustainable Cloud Computing Environments](http://arxiv.org/abs/2504.09995v1)** | 2025-04-14 | <details><summary>Prepr...</summary><p>Preprint version accepted at IEEE ICDCS 2025</p></details> |
+| **[Towards Unbiased Federated Graph Learning: Label and Topology Perspectives](http://arxiv.org/abs/2504.09963v1)** | 2025-04-14 | Under Review |
+| **[Opportunistic Routing in Wireless Communications via Learnable State-Augmented Policies](http://arxiv.org/abs/2503.03736v2)** | 2025-04-13 |  |
+| **[Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks](http://arxiv.org/abs/2503.23167v2)** | 2025-04-13 |  |
+| **[Fine-tuning Multi-hop Question Answering with Hierarchical Graph Network](http://arxiv.org/abs/2004.13821v4)** | 2025-04-13 | Incomplete Work |
 
