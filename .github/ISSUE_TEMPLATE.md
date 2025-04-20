@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 17, 2025
+title: Latest 10 Papers - April 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Formal Verification of Graph Convolutional Networks with Uncertain Node Features and Uncertain Graph Structure](http://arxiv.org/abs/2404.15065v2)** | 2025-04-16 | <details><summary>publi...</summary><p>published at Transactions on Machine Learning Research (TMLR) 2025</p></details> |
-| **[Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition](http://arxiv.org/abs/2504.12011v1)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted to the Web Conference (WWW) 2025</p></details> |
-| **[A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration](http://arxiv.org/abs/2504.11907v1)** | 2025-04-16 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, submitted to the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
-| **[HyperSAT: Unsupervised Hypergraph Neural Networks for Weighted MaxSAT Problems](http://arxiv.org/abs/2504.11885v1)** | 2025-04-16 |  |
-| **[Federated Spectral Graph Transformers Meet Neural Ordinary Differential Equations for Non-IID Graphs](http://arxiv.org/abs/2504.11808v1)** | 2025-04-16 | <details><summary>The f...</summary><p>The first two listed authors contributed equally to this work</p></details> |
-| **[Leveraging Social Determinants of Health in Alzheimer's Research Using LLM-Augmented Literature Mining and Knowledge Graphs](http://arxiv.org/abs/2410.09080v2)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted by AMIA-IS'25: AMIA Informatics Summit</p></details> |
-| **[Extended Short- and Long-Range Mesh Learning for Fast and Generalized Garment Simulation](http://arxiv.org/abs/2504.11763v1)** | 2025-04-16 |  |
-| **[Clustering and analysis of user behaviour in blockchain: A case study of Planet IX](http://arxiv.org/abs/2504.11702v1)** | 2025-04-16 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, submitted to Blockchain: Research and Applications</p></details> |
-| **[H$^3$GNNs: Harmonizing Heterophily and Homophily in GNNs via Joint Structural Node Encoding and Self-Supervised Learning](http://arxiv.org/abs/2504.11699v1)** | 2025-04-16 |  |
-| **[Network Alignment](http://arxiv.org/abs/2504.11367v1)** | 2025-04-15 |  |
+| **[AHSG: Adversarial Attack on High-level Semantics in Graph Neural Networks](http://arxiv.org/abs/2412.07468v2)** | 2025-04-17 |  |
+| **[Inference-friendly Graph Compression for Graph Neural Networks](http://arxiv.org/abs/2504.13034v1)** | 2025-04-17 |  |
+| **[Integrating Physics and Topology in Neural Networks for Learning Rigid Body Dynamics](http://arxiv.org/abs/2411.11467v2)** | 2025-04-17 | 19 pages, 10 figures |
+| **[Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction](http://arxiv.org/abs/2410.03802v3)** | 2025-04-17 |  |
+| **[Unveiling Molecular Moieties through Hierarchical Grad-CAM Graph Explainability](http://arxiv.org/abs/2402.01744v4)** | 2025-04-17 |  |
+| **[Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks](http://arxiv.org/abs/2504.12817v1)** | 2025-04-17 | <details><summary>Works...</summary><p>Workshop "Advancing Automated Driving in Highly Interactive Scenarios through Behavior Prediction, Trustworthy AI, and Remote Operations" @ 36th IEEE Intelligent Vehicles Symposium (IV)</p></details> |
+| **[Control the GNN: Utilizing Neural Controller with Lyapunov Stability for Test-Time Feature Reconstruction](http://arxiv.org/abs/2410.09708v2)** | 2025-04-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Graph Reduction with Unsupervised Learning in Column Generation: A Routing Application](http://arxiv.org/abs/2504.08401v2)** | 2025-04-17 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
+| **[Transfer Learning for Temporal Link Prediction](http://arxiv.org/abs/2504.10925v2)** | 2025-04-17 | 14 pages, 7 figures |
+| **[Uncertainty Quantification in Graph Neural Networks with Shallow Ensembles](http://arxiv.org/abs/2504.12627v1)** | 2025-04-17 |  |
 
