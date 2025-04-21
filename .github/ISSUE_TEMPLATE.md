@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 20, 2025
+title: Latest 10 Papers - April 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Designing a reliable lateral movement detector using a graph foundation model](http://arxiv.org/abs/2504.13527v1)** | 2025-04-18 |  |
 | **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v2)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
 | **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v2)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted by WWW 2025 (Oral)</p></details> |
 | **[GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](http://arxiv.org/abs/2504.00711v1)** | 2025-04-01 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v1)** | 2025-03-05 |  |
 | **[Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs](http://arxiv.org/abs/2503.03258v1)** | 2025-03-05 |  |
 | **[IOHunter: Graph Foundation Model to Uncover Online Information Operations](http://arxiv.org/abs/2412.14663v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
-| **[Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings](http://arxiv.org/abs/2412.07407v2)** | 2025-03-03 | <details><summary>Publi...</summary><p>Published at TMLR (https://openreview.net/forum?id=mSoDRZXsqj)</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Relationship Between Robustness and Expressivity of Graph Neural Networks](http://arxiv.org/abs/2504.13786v1)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted at AISTAST 2025, will add DOI when available</p></details> |
+| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v1)** | 2025-04-18 |  |
+| **[Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation](http://arxiv.org/abs/2504.13614v1)** | 2025-04-18 |  |
+| **[ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation](http://arxiv.org/abs/2504.13599v1)** | 2025-04-18 |  |
+| **[E(3)-equivariant models cannot learn chirality: Field-based molecular generation](http://arxiv.org/abs/2402.15864v2)** | 2025-04-18 | ICLR 2025 |
+| **[Subgraph Aggregation for Out-of-Distribution Generalization on Graphs](http://arxiv.org/abs/2410.22228v2)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
+| **[Bounded and Uniform Energy-based Out-of-distribution Detection for Graphs](http://arxiv.org/abs/2504.13429v1)** | 2025-04-18 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2302.02914 by other authors</p></details> |
+| **[Graph Learning at Scale: Characterizing and Optimizing Pre-Propagation GNNs](http://arxiv.org/abs/2504.13266v1)** | 2025-04-17 |  |
 | **[AHSG: Adversarial Attack on High-level Semantics in Graph Neural Networks](http://arxiv.org/abs/2412.07468v2)** | 2025-04-17 |  |
 | **[Inference-friendly Graph Compression for Graph Neural Networks](http://arxiv.org/abs/2504.13034v1)** | 2025-04-17 |  |
-| **[Integrating Physics and Topology in Neural Networks for Learning Rigid Body Dynamics](http://arxiv.org/abs/2411.11467v2)** | 2025-04-17 | 19 pages, 10 figures |
-| **[Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction](http://arxiv.org/abs/2410.03802v3)** | 2025-04-17 |  |
-| **[Unveiling Molecular Moieties through Hierarchical Grad-CAM Graph Explainability](http://arxiv.org/abs/2402.01744v4)** | 2025-04-17 |  |
-| **[Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks](http://arxiv.org/abs/2504.12817v1)** | 2025-04-17 | <details><summary>Works...</summary><p>Workshop "Advancing Automated Driving in Highly Interactive Scenarios through Behavior Prediction, Trustworthy AI, and Remote Operations" @ 36th IEEE Intelligent Vehicles Symposium (IV)</p></details> |
-| **[Control the GNN: Utilizing Neural Controller with Lyapunov Stability for Test-Time Feature Reconstruction](http://arxiv.org/abs/2410.09708v2)** | 2025-04-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Graph Reduction with Unsupervised Learning in Column Generation: A Routing Application](http://arxiv.org/abs/2504.08401v2)** | 2025-04-17 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables</p></details> |
-| **[Transfer Learning for Temporal Link Prediction](http://arxiv.org/abs/2504.10925v2)** | 2025-04-17 | 14 pages, 7 figures |
-| **[Uncertainty Quantification in Graph Neural Networks with Shallow Ensembles](http://arxiv.org/abs/2504.12627v1)** | 2025-04-17 |  |
 
