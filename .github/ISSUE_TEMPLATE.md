@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 21, 2025
+title: Latest 10 Papers - April 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Relationship Between Robustness and Expressivity of Graph Neural Networks](http://arxiv.org/abs/2504.13786v1)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted at AISTAST 2025, will add DOI when available</p></details> |
-| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v1)** | 2025-04-18 |  |
-| **[Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation](http://arxiv.org/abs/2504.13614v1)** | 2025-04-18 |  |
-| **[ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation](http://arxiv.org/abs/2504.13599v1)** | 2025-04-18 |  |
-| **[E(3)-equivariant models cannot learn chirality: Field-based molecular generation](http://arxiv.org/abs/2402.15864v2)** | 2025-04-18 | ICLR 2025 |
-| **[Subgraph Aggregation for Out-of-Distribution Generalization on Graphs](http://arxiv.org/abs/2410.22228v2)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
-| **[Bounded and Uniform Energy-based Out-of-distribution Detection for Graphs](http://arxiv.org/abs/2504.13429v1)** | 2025-04-18 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2302.02914 by other authors</p></details> |
-| **[Graph Learning at Scale: Characterizing and Optimizing Pre-Propagation GNNs](http://arxiv.org/abs/2504.13266v1)** | 2025-04-17 |  |
-| **[AHSG: Adversarial Attack on High-level Semantics in Graph Neural Networks](http://arxiv.org/abs/2412.07468v2)** | 2025-04-17 |  |
-| **[Inference-friendly Graph Compression for Graph Neural Networks](http://arxiv.org/abs/2504.13034v1)** | 2025-04-17 |  |
+| **[The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration](http://arxiv.org/abs/2504.15147v1)** | 2025-04-21 |  |
+| **[Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention](http://arxiv.org/abs/2504.15075v1)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted at IEEE TNSE</p></details> |
+| **[Rhythm of Opinion: A Hawkes-Graph Framework for Dynamic Propagation Analysis](http://arxiv.org/abs/2504.15072v1)** | 2025-04-21 |  |
+| **[Lorentzian Graph Isomorphic Network](http://arxiv.org/abs/2504.00142v2)** | 2025-04-21 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[Edge-boosted graph learning for functional brain connectivity analysis](http://arxiv.org/abs/2504.14796v1)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted at IEEE International Symposium on Biomedical Imaging (ISBI) 2025, 4 pages</p></details> |
+| **[Uncovering Issues in the Radio Access Network by Looking at the Neighbors](http://arxiv.org/abs/2504.14686v1)** | 2025-04-20 | 7 pages |
+| **[LBM-GNN: Graph Neural Network Enhanced Lattice Boltzmann Method](http://arxiv.org/abs/2504.14494v1)** | 2025-04-20 |  |
+| **[Integrating Single-Cell Foundation Models with Graph Neural Networks for Drug Response Prediction](http://arxiv.org/abs/2504.14361v1)** | 2025-04-19 | 8 pages, 6 figures |
+| **[Three iterations of $(d-1)$-WL test distinguish non isometric clouds of $d$-dimensional points](http://arxiv.org/abs/2303.12853v3)** | 2025-04-19 | <details><summary>Chang...</summary><p>Changes to previous version: new results, inability of 1-WL to recognize planar point clouds in R^3, and incompleteness of 2-WL in R^6</p></details> |
+| **[CHAINSFORMER: Numerical Reasoning on Knowledge Graphs from a Chain Perspective](http://arxiv.org/abs/2504.14282v1)** | 2025-04-19 | <details><summary>Accep...</summary><p>Accepted to ICDE 2025</p></details> |
 
