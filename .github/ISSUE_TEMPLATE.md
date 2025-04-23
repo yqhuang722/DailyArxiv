@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 22, 2025
+title: Latest 10 Papers - April 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion](http://arxiv.org/abs/2504.15920v1)** | 2025-04-22 |  |
+| **[GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network](http://arxiv.org/abs/2504.15905v1)** | 2025-04-22 | 17 pages,12 figures |
+| **[A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration](http://arxiv.org/abs/2504.11907v2)** | 2025-04-22 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, submitted to the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
+| **[Graph Neural Networks for Next-Generation-IoT: Recent Advances and Open Challenges](http://arxiv.org/abs/2412.20634v2)** | 2025-04-22 | <details><summary>28 pa...</summary><p>28 pages, 15 figures, and 6 tables. Submitted for publication</p></details> |
+| **[Graph Neural Network Surrogates to leverage Mechanistic Expert Knowledge towards Reliable and Immediate Pandemic Response](http://arxiv.org/abs/2411.06500v2)** | 2025-04-22 | 27 pages, 9 figures |
+| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v2)** | 2025-04-22 | <details><summary>permi...</summary><p>permission not yet received for arXiv</p></details> |
+| **[RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios](http://arxiv.org/abs/2504.15541v1)** | 2025-04-22 | 24 pages, 14 figures |
+| **[ClusterViG: Efficient Globally Aware Vision GNNs via Image Partitioning](http://arxiv.org/abs/2501.10640v2)** | 2025-04-21 | IEEE MCNA 2025 |
+| **[Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports](http://arxiv.org/abs/2504.15333v1)** | 2025-04-21 |  |
 | **[The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration](http://arxiv.org/abs/2504.15147v1)** | 2025-04-21 |  |
-| **[Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention](http://arxiv.org/abs/2504.15075v1)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted at IEEE TNSE</p></details> |
-| **[Rhythm of Opinion: A Hawkes-Graph Framework for Dynamic Propagation Analysis](http://arxiv.org/abs/2504.15072v1)** | 2025-04-21 |  |
-| **[Lorentzian Graph Isomorphic Network](http://arxiv.org/abs/2504.00142v2)** | 2025-04-21 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
-| **[Edge-boosted graph learning for functional brain connectivity analysis](http://arxiv.org/abs/2504.14796v1)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted at IEEE International Symposium on Biomedical Imaging (ISBI) 2025, 4 pages</p></details> |
-| **[Uncovering Issues in the Radio Access Network by Looking at the Neighbors](http://arxiv.org/abs/2504.14686v1)** | 2025-04-20 | 7 pages |
-| **[LBM-GNN: Graph Neural Network Enhanced Lattice Boltzmann Method](http://arxiv.org/abs/2504.14494v1)** | 2025-04-20 |  |
-| **[Integrating Single-Cell Foundation Models with Graph Neural Networks for Drug Response Prediction](http://arxiv.org/abs/2504.14361v1)** | 2025-04-19 | 8 pages, 6 figures |
-| **[Three iterations of $(d-1)$-WL test distinguish non isometric clouds of $d$-dimensional points](http://arxiv.org/abs/2303.12853v3)** | 2025-04-19 | <details><summary>Chang...</summary><p>Changes to previous version: new results, inability of 1-WL to recognize planar point clouds in R^3, and incompleteness of 2-WL in R^6</p></details> |
-| **[CHAINSFORMER: Numerical Reasoning on Knowledge Graphs from a Chain Perspective](http://arxiv.org/abs/2504.14282v1)** | 2025-04-19 | <details><summary>Accep...</summary><p>Accepted to ICDE 2025</p></details> |
 
