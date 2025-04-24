@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 23, 2025
+title: Latest 10 Papers - April 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](http://arxiv.org/abs/2504.16748v1)** | 2025-04-23 | Submitted to ICML |
 | **[Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering](http://arxiv.org/abs/2504.10113v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by SIGIR2025</p></details> |
 | **[Incorporating Attributes and Multi-Scale Structures for Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2503.13911v2)** | 2025-04-10 |  |
 | **[Graph-Based Multimodal Contrastive Learning for Chart Question Answering](http://arxiv.org/abs/2501.04303v2)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
@@ -44,19 +45,18 @@ labels: documentation
 | **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v4)** | 2025-03-27 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
 | **[Recommendation System in Advertising and Streaming Media: Unsupervised Data Enhancement Sequence Suggestions](http://arxiv.org/abs/2504.08740v1)** | 2025-03-23 |  |
 | **[Does GCL Need a Large Number of Negative Samples? Enhancing Graph Contrastive Learning with Effective and Efficient Negative Sampling](http://arxiv.org/abs/2503.17908v1)** | 2025-03-23 |  |
-| **[Diffusion-augmented Graph Contrastive Learning for Collaborative Filter](http://arxiv.org/abs/2503.16290v1)** | 2025-03-20 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks](http://arxiv.org/abs/2504.16655v1)** | 2025-04-23 | 8 pages, 4 figures |
+| **[GNN-based Anchor Embedding for Exact Subgraph Matching](http://arxiv.org/abs/2502.00031v3)** | 2025-04-23 |  |
+| **[Disentangled Graph Representation Based on Substructure-Aware Graph Optimal Matching Kernel Convolutional Networks](http://arxiv.org/abs/2504.16360v1)** | 2025-04-23 |  |
+| **[On the Consistency of GNN Explanations for Malware Detection](http://arxiv.org/abs/2504.16316v1)** | 2025-04-22 |  |
 | **[ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion](http://arxiv.org/abs/2504.15920v1)** | 2025-04-22 |  |
 | **[GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network](http://arxiv.org/abs/2504.15905v1)** | 2025-04-22 | 17 pages,12 figures |
 | **[A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration](http://arxiv.org/abs/2504.11907v2)** | 2025-04-22 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, submitted to the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
 | **[Graph Neural Networks for Next-Generation-IoT: Recent Advances and Open Challenges](http://arxiv.org/abs/2412.20634v2)** | 2025-04-22 | <details><summary>28 pa...</summary><p>28 pages, 15 figures, and 6 tables. Submitted for publication</p></details> |
 | **[Graph Neural Network Surrogates to leverage Mechanistic Expert Knowledge towards Reliable and Immediate Pandemic Response](http://arxiv.org/abs/2411.06500v2)** | 2025-04-22 | 27 pages, 9 figures |
 | **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v2)** | 2025-04-22 | <details><summary>permi...</summary><p>permission not yet received for arXiv</p></details> |
-| **[RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios](http://arxiv.org/abs/2504.15541v1)** | 2025-04-22 | 24 pages, 14 figures |
-| **[ClusterViG: Efficient Globally Aware Vision GNNs via Image Partitioning](http://arxiv.org/abs/2501.10640v2)** | 2025-04-21 | IEEE MCNA 2025 |
-| **[Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports](http://arxiv.org/abs/2504.15333v1)** | 2025-04-21 |  |
-| **[The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration](http://arxiv.org/abs/2504.15147v1)** | 2025-04-21 |  |
 
