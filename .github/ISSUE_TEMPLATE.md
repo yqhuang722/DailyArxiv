@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 24, 2025
+title: Latest 10 Papers - April 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,7 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](http://arxiv.org/abs/2504.16748v1)** | 2025-04-23 | Submitted to ICML |
+| **[Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](http://arxiv.org/abs/2504.16748v2)** | 2025-04-24 | Submitted to ICML |
 | **[Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering](http://arxiv.org/abs/2504.10113v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by SIGIR2025</p></details> |
 | **[Incorporating Attributes and Multi-Scale Structures for Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2503.13911v2)** | 2025-04-10 |  |
 | **[Graph-Based Multimodal Contrastive Learning for Chart Question Answering](http://arxiv.org/abs/2501.04303v2)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction](http://arxiv.org/abs/2504.17749v1)** | 2025-04-24 |  |
+| **[Prototype-enhanced prediction in graph neural networks for climate applications](http://arxiv.org/abs/2504.17492v1)** | 2025-04-24 |  |
+| **[MAGE: Model-Level Graph Neural Networks Explanations via Motif-based Graph Generation](http://arxiv.org/abs/2405.12519v2)** | 2025-04-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2405.08419 The Thirteenth International Conference on Learning Representations 2025</p></details> |
+| **[HeRB: Heterophily-Resolved Structure Balancer for Graph Neural Networks](http://arxiv.org/abs/2504.17276v1)** | 2025-04-24 |  |
+| **[Discovering the Precursors of Traffic Breakdowns Using Spatiotemporal Graph Attribution Networks](http://arxiv.org/abs/2504.17109v1)** | 2025-04-23 |  |
 | **[WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks](http://arxiv.org/abs/2504.16655v1)** | 2025-04-23 | 8 pages, 4 figures |
 | **[GNN-based Anchor Embedding for Exact Subgraph Matching](http://arxiv.org/abs/2502.00031v3)** | 2025-04-23 |  |
 | **[Disentangled Graph Representation Based on Substructure-Aware Graph Optimal Matching Kernel Convolutional Networks](http://arxiv.org/abs/2504.16360v1)** | 2025-04-23 |  |
 | **[On the Consistency of GNN Explanations for Malware Detection](http://arxiv.org/abs/2504.16316v1)** | 2025-04-22 |  |
 | **[ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion](http://arxiv.org/abs/2504.15920v1)** | 2025-04-22 |  |
-| **[GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network](http://arxiv.org/abs/2504.15905v1)** | 2025-04-22 | 17 pages,12 figures |
-| **[A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration](http://arxiv.org/abs/2504.11907v2)** | 2025-04-22 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, submitted to the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
-| **[Graph Neural Networks for Next-Generation-IoT: Recent Advances and Open Challenges](http://arxiv.org/abs/2412.20634v2)** | 2025-04-22 | <details><summary>28 pa...</summary><p>28 pages, 15 figures, and 6 tables. Submitted for publication</p></details> |
-| **[Graph Neural Network Surrogates to leverage Mechanistic Expert Knowledge towards Reliable and Immediate Pandemic Response](http://arxiv.org/abs/2411.06500v2)** | 2025-04-22 | 27 pages, 9 figures |
-| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v2)** | 2025-04-22 | <details><summary>permi...</summary><p>permission not yet received for arXiv</p></details> |
 
