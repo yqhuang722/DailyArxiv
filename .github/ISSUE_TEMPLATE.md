@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 28, 2025
+title: Latest 10 Papers - April 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical Uncertainty-Aware Graph Neural Network](http://arxiv.org/abs/2504.19820v1)** | 2025-04-28 |  |
 | **[A Generative Graph Contrastive Learning Model with Global Signal](http://arxiv.org/abs/2504.18148v1)** | 2025-04-25 |  |
 | **[Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](http://arxiv.org/abs/2504.16748v2)** | 2025-04-24 | Submitted to ICML |
 | **[Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering](http://arxiv.org/abs/2504.10113v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by SIGIR2025</p></details> |
@@ -44,19 +45,18 @@ labels: documentation
 | **[MageSQL: Enhancing In-context Learning for Text-to-SQL Applications with Large Language Models](http://arxiv.org/abs/2504.02055v1)** | 2025-04-02 |  |
 | **[Brain Network Classification Based on Graph Contrastive Learning and Graph Transformer](http://arxiv.org/abs/2504.03740v1)** | 2025-04-01 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, uses tikz.sty</p></details> |
 | **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v4)** | 2025-03-27 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
-| **[Recommendation System in Advertising and Streaming Media: Unsupervised Data Enhancement Sequence Suggestions](http://arxiv.org/abs/2504.08740v1)** | 2025-03-23 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v3)** | 2025-04-25 | <details><summary>Reupl...</summary><p>Reuploaded with new version-- equation 16 was incorrect</p></details> |
-| **[Testing Individual Fairness in Graph Neural Networks](http://arxiv.org/abs/2504.18353v1)** | 2025-04-25 | 6 pages |
-| **[Efficient Learning on Large Graphs using a Densifying Regularity Lemma](http://arxiv.org/abs/2504.18273v1)** | 2025-04-25 |  |
-| **[Efficient GNN Training Through Structure-Aware Randomized Mini-Batching](http://arxiv.org/abs/2504.18082v1)** | 2025-04-25 |  |
-| **[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](http://arxiv.org/abs/2502.00806v2)** | 2025-04-25 | WWW 2025 |
-| **[POET: Prompt Offset Tuning for Continual Human Action Adaptation](http://arxiv.org/abs/2504.18059v1)** | 2025-04-25 | <details><summary>ECCV ...</summary><p>ECCV 2024 (Oral), webpage https://humansensinglab.github.io/POET-continual-action-recognition/</p></details> |
-| **[ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion](http://arxiv.org/abs/2504.15920v2)** | 2025-04-25 |  |
-| **[TGDT: A Temporal Graph-based Digital Twin for Urban Traffic Corridors](http://arxiv.org/abs/2504.18008v1)** | 2025-04-25 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table</p></details> |
-| **[Deep Cut-informed Graph Embedding and Clustering](http://arxiv.org/abs/2503.06635v3)** | 2025-04-25 |  |
-| **[MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction](http://arxiv.org/abs/2504.17749v1)** | 2025-04-24 |  |
+| **[Graph Neural Network Prediction of Nonlinear Optical Properties](http://arxiv.org/abs/2504.19987v1)** | 2025-04-28 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 2 tables</p></details> |
+| **[Interpretable Dynamic Graph Neural Networks for Small Occluded Object Detection and Tracking](http://arxiv.org/abs/2411.17251v7)** | 2025-04-28 |  |
+| **[Hierarchical Uncertainty-Aware Graph Neural Network](http://arxiv.org/abs/2504.19820v1)** | 2025-04-28 |  |
+| **[Heterophily-informed Message Passing](http://arxiv.org/abs/2504.19785v1)** | 2025-04-28 | <details><summary>Appea...</summary><p>Appearing in Transactions on Machine Learning Research (TMLR) 2025</p></details> |
+| **[Joint Detection and Decoding: A Graph Neural Network Approach](http://arxiv.org/abs/2501.08871v2)** | 2025-04-28 | <details><summary>Submi...</summary><p>Submitted to Transactions on Communications (R1). arXiv admin note: text overlap with arXiv:2401.16187</p></details> |
+| **[Learning Efficiency Meets Symmetry Breaking](http://arxiv.org/abs/2504.19738v1)** | 2025-04-28 |  |
+| **[Leveraging Large Language Models for Effective Label-free Node Classification in Text-Attributed Graphs](http://arxiv.org/abs/2412.11983v2)** | 2025-04-28 | 14 pages, 5 figures |
+| **[Explaining Vision GNNs: A Semantic and Visual Analysis of Graph-based Image Classification](http://arxiv.org/abs/2504.19682v1)** | 2025-04-28 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, accepted for presentation at xAI-World-Conference 2025, code is available at https://github.com/nickhaidos/Vision-GNNs-Explainer</p></details> |
+| **[Intelligent4DSE: Optimizing High-Level Synthesis Design Space Exploration with Graph Neural Networks and Large Language Models](http://arxiv.org/abs/2504.19649v1)** | 2025-04-28 |  |
+| **[Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks](http://arxiv.org/abs/2504.19499v1)** | 2025-04-28 | <details><summary>To be...</summary><p>To be published in the proceedings of the 2025 IEEE International Conference on Communications (ICC), Seventh Workshop on Data Driven Intelligence for Networks and Systems (DDINS)</p></details> |
 
