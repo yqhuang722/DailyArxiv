@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 30, 2025
+title: Latest 10 Papers - May 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model](http://arxiv.org/abs/2504.21186v1)** | 2025-04-29 |  |
 | **[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](http://arxiv.org/abs/2502.00806v2)** | 2025-04-25 | WWW 2025 |
 | **[GOFA: A Generative One-For-All Model for Joint Graph Language Modeling](http://arxiv.org/abs/2407.09709v2)** | 2025-04-24 |  |
 | **[Designing a reliable lateral movement detector using a graph foundation model](http://arxiv.org/abs/2504.13527v1)** | 2025-04-18 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[A Survey of Cross-domain Graph Learning: Progress and Future Directions](http://arxiv.org/abs/2503.11086v1)** | 2025-03-14 |  |
 | **[Towards Graph Foundation Models: A Transferability Perspective](http://arxiv.org/abs/2503.09363v1)** | 2025-03-12 |  |
 | **[Graph Foundation Models: Concepts, Opportunities and Challenges](http://arxiv.org/abs/2310.11829v4)** | 2025-03-10 | <details><summary>This ...</summary><p>This is the author's version of the accepted paper (not the IEEE-published version). Citation information: DOI 10.1109/TPAMI.2025.3548729. For access to the final edited and published article, please follow the link provided: https://ieeexplore.ieee.org/document/10915556</p></details> |
-| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v1)** | 2025-03-05 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dual Explanations via Subgraph Matching for Malware Detection](http://arxiv.org/abs/2504.20904v1)** | 2025-04-29 |  |
-| **[Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks](http://arxiv.org/abs/2504.20869v1)** | 2025-04-29 | Ubder Review |
-| **[Mitigating the Structural Bias in Graph Adversarial Defenses](http://arxiv.org/abs/2504.20848v1)** | 2025-04-29 | Under Review |
-| **[Learning a General Model: Folding Clothing with Topological Dynamics](http://arxiv.org/abs/2504.20720v1)** | 2025-04-29 |  |
-| **[SFi-Former: Sparse Flow Induced Attention for Graph Transformer](http://arxiv.org/abs/2504.20666v1)** | 2025-04-29 | ICMR 2025 |
-| **[Adaptive Progressive Attention Graph Neural Network for EEG Emotion Recognition](http://arxiv.org/abs/2501.14246v2)** | 2025-04-29 |  |
-| **[Triadic Closure-Heterogeneity-Harmony GCN for Link Prediction](http://arxiv.org/abs/2504.20492v1)** | 2025-04-29 |  |
-| **[Understanding GNNs and Homophily in Dynamic Node Classification](http://arxiv.org/abs/2504.20421v1)** | 2025-04-29 | <details><summary>AISTA...</summary><p>AISTATS 2025; version with full appendix</p></details> |
-| **[Skill Discovery for Software Scripting Automation via Offline Simulations with LLMs](http://arxiv.org/abs/2504.20406v1)** | 2025-04-29 |  |
-| **[Generative Diffusion Models for Resource Allocation in Wireless Networks](http://arxiv.org/abs/2504.20277v1)** | 2025-04-28 |  |
+| **[Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2504.21844v1)** | 2025-04-30 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 4 tables</p></details> |
+| **[MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks](http://arxiv.org/abs/2504.21780v1)** | 2025-04-30 |  |
+| **[Comparative Analysis of FPGA and GPU Performance for Machine Learning-Based Track Reconstruction at LHCb](http://arxiv.org/abs/2502.02304v4)** | 2025-04-30 |  |
+| **[Learning Hierarchical Interaction for Accurate Molecular Property Prediction](http://arxiv.org/abs/2504.20127v2)** | 2025-04-30 |  |
+| **[Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks](http://arxiv.org/abs/2504.20869v2)** | 2025-04-30 | Under Review |
+| **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v1)** | 2025-04-30 |  |
+| **[FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs](http://arxiv.org/abs/2504.21206v1)** | 2025-04-29 |  |
+| **[Artificial Intelligence for Personalized Prediction of Alzheimer's Disease Progression: A Survey of Methods, Data Challenges, and Future Directions](http://arxiv.org/abs/2504.21189v1)** | 2025-04-29 | 25 pages, 11 figures |
+| **[LIFT: LLM-Based Pragma Insertion for HLS via GNN Supervised Fine-Tuning](http://arxiv.org/abs/2504.21187v1)** | 2025-04-29 |  |
+| **[Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function](http://arxiv.org/abs/2501.13734v4)** | 2025-04-29 | 57 pages, 4 figures |
 
