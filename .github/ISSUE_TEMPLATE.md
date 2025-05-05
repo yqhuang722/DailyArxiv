@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 04, 2025
+title: Latest 10 Papers - May 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Project-and-Fuse: Improving RGB-D Semantic Segmentation via Graph Convolution Networks](http://arxiv.org/abs/2501.18851v3)** | 2025-05-02 | <details><summary>I hav...</summary><p>I have decided to withdraw this paper because I have recently obtained some new data and insights during my ongoing research</p></details> |
+| **[Soybean Disease Detection via Interpretable Hybrid CNN-GNN: Integrating MobileNetV2 and GraphSAGE with Cross-Modal Attention](http://arxiv.org/abs/2503.01284v3)** | 2025-05-02 |  |
+| **[Logical Characterizations of Recurrent Graph Neural Networks with Reals and Floats](http://arxiv.org/abs/2405.14606v4)** | 2025-05-02 |  |
+| **[Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks](http://arxiv.org/abs/2505.00990v1)** | 2025-05-02 |  |
+| **[SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction](http://arxiv.org/abs/2505.00625v2)** | 2025-05-02 |  |
+| **[Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks](http://arxiv.org/abs/2409.07769v4)** | 2025-05-02 |  |
 | **[OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning](http://arxiv.org/abs/2504.17811v2)** | 2025-05-01 |  |
-| **[SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction](http://arxiv.org/abs/2505.00625v1)** | 2025-05-01 |  |
 | **[Commute Graph Neural Networks](http://arxiv.org/abs/2407.01635v5)** | 2025-05-01 |  |
 | **[TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching](http://arxiv.org/abs/2505.00562v1)** | 2025-05-01 | Accepted to ICML2025 |
 | **[DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions](http://arxiv.org/abs/2505.00402v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by CIKM 2023</p></details> |
-| **[From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks](http://arxiv.org/abs/2505.00364v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[Repetition Makes Perfect: Recurrent Sum-GNNs Match Message Passing Limit](http://arxiv.org/abs/2505.00291v1)** | 2025-05-01 |  |
-| **[Graph Privacy: A Heterogeneous Federated GNN for Trans-Border Financial Data Circulation](http://arxiv.org/abs/2505.00257v1)** | 2025-05-01 |  |
-| **[Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2504.21844v1)** | 2025-04-30 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 4 tables</p></details> |
-| **[MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks](http://arxiv.org/abs/2504.21780v1)** | 2025-04-30 |  |
 
