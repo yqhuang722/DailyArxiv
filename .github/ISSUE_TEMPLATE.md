@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 07, 2025
+title: Latest 10 Papers - May 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vision Graph Prompting via Semantic Low-Rank Decomposition](http://arxiv.org/abs/2505.04121v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant](http://arxiv.org/abs/2505.03654v1)** | 2025-05-06 | Work in progress |
 | **[GraphPrompter: Multi-stage Adaptive Prompt Optimization for Graph In-Context Learning](http://arxiv.org/abs/2505.02027v1)** | 2025-05-04 | <details><summary>14 pa...</summary><p>14 pages. IEEE International Conference on Data Engineering (ICDE'2025), accepted</p></details> |
 | **[MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems](http://arxiv.org/abs/2504.10921v2)** | 2025-04-25 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Krait: A Backdoor Attack Against Graph Prompt Tuning](http://arxiv.org/abs/2407.13068v2)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted by SaTML'2025</p></details> |
 | **[Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models](http://arxiv.org/abs/2503.23523v1)** | 2025-03-30 |  |
 | **[DP-GPL: Differentially Private Graph Prompt Learning](http://arxiv.org/abs/2503.10544v2)** | 2025-03-29 | <details><summary>Not a...</summary><p>Not all authors have given their explicit consent</p></details> |
-| **[Edge Prompt Tuning for Graph Neural Networks](http://arxiv.org/abs/2503.00750v1)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Granular Attention based Heterogeneous Hypergraph Neural Network](http://arxiv.org/abs/2505.04340v1)** | 2025-05-07 |  |
+| **[A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification](http://arxiv.org/abs/2410.22377v2)** | 2025-05-07 |  |
+| **[Commute Graph Neural Networks](http://arxiv.org/abs/2407.01635v6)** | 2025-05-07 |  |
+| **[DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks](http://arxiv.org/abs/2410.19550v2)** | 2025-05-07 | <details><summary>The c...</summary><p>The current paper is not comprehensive enough. We are seeking further improvement</p></details> |
+| **[Plexus: Taming Billion-edge Graphs with 3D Parallel GNN Training](http://arxiv.org/abs/2505.04083v1)** | 2025-05-07 |  |
+| **[Modal Decomposition and Identification for a Population of Structures Using Physics-Informed Graph Neural Networks and Transformers](http://arxiv.org/abs/2505.04018v1)** | 2025-05-06 |  |
+| **[Decentralized Distributed Proximal Policy Optimization (DD-PPO) for High Performance Computing Scheduling on Multi-User Systems](http://arxiv.org/abs/2505.03946v1)** | 2025-05-06 |  |
 | **[A Unified Framework for Exploratory Learning-Aided Community Detection Under Topological Uncertainty](http://arxiv.org/abs/2304.04497v4)** | 2025-05-06 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 8 tables; IEEE Transactions on Network Science and Engineering (to appear) (Please cite our journal version.)</p></details> |
 | **[Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense](http://arxiv.org/abs/2505.03424v1)** | 2025-05-06 |  |
 | **[GNN-enabled Precoding for Massive MIMO LEO Satellite Communications](http://arxiv.org/abs/2505.03311v1)** | 2025-05-06 | 14 pages, 13 figures |
-| **[Effective backdoor attack on graph neural networks in link prediction tasks](http://arxiv.org/abs/2401.02663v2)** | 2025-05-06 |  |
-| **[HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems](http://arxiv.org/abs/2505.03140v1)** | 2025-05-06 |  |
-| **[HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments](http://arxiv.org/abs/2505.03128v1)** | 2025-05-06 | 6 pages, 4 figures |
-| **[STG: Spatiotemporal Graph Neural Network with Fusion and Spatiotemporal Decoupling Learning for Prognostic Prediction of Colorectal Cancer Liver Metastasis](http://arxiv.org/abs/2505.03123v1)** | 2025-05-06 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning](http://arxiv.org/abs/2504.21254v2)** | 2025-05-05 |  |
-| **[Graph Neural Networks for Causal Inference Under Network Confounding](http://arxiv.org/abs/2211.07823v4)** | 2025-05-05 |  |
-| **[LGIN: Defining an Approximately Powerful Hyperbolic GNN](http://arxiv.org/abs/2504.00142v3)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted at GRADES NDA 2025 Workshop@ACM SIGMOD/PODS(Non Archival)</p></details> |
 
