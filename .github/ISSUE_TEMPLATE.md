@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 08, 2025
+title: Latest 10 Papers - May 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](http://arxiv.org/abs/2410.07074v3)** | 2025-05-08 |  |
+| **[Graph Neural Network Aided Deep Reinforcement Learning for Resource Allocation in Dynamic Terahertz UAV Networks](http://arxiv.org/abs/2505.04981v1)** | 2025-05-08 |  |
+| **[Physics-Assisted and Topology-Informed Deep Learning for Weather Prediction](http://arxiv.org/abs/2505.04918v1)** | 2025-05-08 | <details><summary>Inter...</summary><p>International Joint Conferences on Artificial Intelligence (IJCAI 2025)</p></details> |
+| **[GCN-Based Throughput-Oriented Handover Management in Dense 5G Vehicular Networks](http://arxiv.org/abs/2505.04894v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted at IEEE DCOSS-IoT 2025</p></details> |
+| **[Network Digital Twin for Route Optimization in 5G/B5G Transport Slicing with What-If Analysis](http://arxiv.org/abs/2505.04879v1)** | 2025-05-08 | <details><summary>This ...</summary><p>This paper has been accepted for publication at IEEE International Conference on Communications. \c{opyright}2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
+| **[XG-NID: Dual-Modality Network Intrusion Detection using a Heterogeneous Graph Neural Network and Large Language Model](http://arxiv.org/abs/2408.16021v2)** | 2025-05-07 | 19 pages, 6 figures |
+| **[Piecewise Constant Spectral Graph Neural Network](http://arxiv.org/abs/2505.04808v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted to TMLR 2025</p></details> |
+| **[Learning to Compare Hardware Designs for High-Level Synthesis](http://arxiv.org/abs/2409.13138v2)** | 2025-05-07 | <details><summary>Publi...</summary><p>Published in MLCAD 2024</p></details> |
 | **[Multi-Granular Attention based Heterogeneous Hypergraph Neural Network](http://arxiv.org/abs/2505.04340v1)** | 2025-05-07 |  |
 | **[A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification](http://arxiv.org/abs/2410.22377v2)** | 2025-05-07 |  |
-| **[Commute Graph Neural Networks](http://arxiv.org/abs/2407.01635v6)** | 2025-05-07 |  |
-| **[DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks](http://arxiv.org/abs/2410.19550v2)** | 2025-05-07 | <details><summary>The c...</summary><p>The current paper is not comprehensive enough. We are seeking further improvement</p></details> |
-| **[Plexus: Taming Billion-edge Graphs with 3D Parallel GNN Training](http://arxiv.org/abs/2505.04083v1)** | 2025-05-07 |  |
-| **[Modal Decomposition and Identification for a Population of Structures Using Physics-Informed Graph Neural Networks and Transformers](http://arxiv.org/abs/2505.04018v1)** | 2025-05-06 |  |
-| **[Decentralized Distributed Proximal Policy Optimization (DD-PPO) for High Performance Computing Scheduling on Multi-User Systems](http://arxiv.org/abs/2505.03946v1)** | 2025-05-06 |  |
-| **[A Unified Framework for Exploratory Learning-Aided Community Detection Under Topological Uncertainty](http://arxiv.org/abs/2304.04497v4)** | 2025-05-06 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 8 tables; IEEE Transactions on Network Science and Engineering (to appear) (Please cite our journal version.)</p></details> |
-| **[Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense](http://arxiv.org/abs/2505.03424v1)** | 2025-05-06 |  |
-| **[GNN-enabled Precoding for Massive MIMO LEO Satellite Communications](http://arxiv.org/abs/2505.03311v1)** | 2025-05-06 | 14 pages, 13 figures |
 
