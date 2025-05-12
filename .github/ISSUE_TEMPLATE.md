@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 11, 2025
+title: Latest 10 Papers - May 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Graph Contrastive Learning through Relative Similarity Preservation](http://arxiv.org/abs/2505.05533v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by IJCAI2025; full version including appendix</p></details> |
 | **[Quantum Rationale-Aware Graph Contrastive Learning for Jet Discrimination](http://arxiv.org/abs/2411.01642v2)** | 2025-05-04 |  |
 | **[A Generative Graph Contrastive Learning Model with Global Signal](http://arxiv.org/abs/2504.18148v1)** | 2025-04-25 |  |
 | **[Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](http://arxiv.org/abs/2504.16748v2)** | 2025-04-24 | Submitted to ICML |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering](http://arxiv.org/abs/2504.04443v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2025</p></details> |
 | **[MageSQL: Enhancing In-context Learning for Text-to-SQL Applications with Large Language Models](http://arxiv.org/abs/2504.02055v1)** | 2025-04-02 |  |
 | **[Brain Network Classification Based on Graph Contrastive Learning and Graph Transformer](http://arxiv.org/abs/2504.03740v1)** | 2025-04-01 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, uses tikz.sty</p></details> |
-| **[GNN-Transformer Cooperative Architecture for Trustworthy Graph Contrastive Learning](http://arxiv.org/abs/2412.16218v4)** | 2025-03-27 | <details><summary>In Pr...</summary><p>In Proceedings of AAAI 2025</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Higher-Order Graphon Neural Networks: Approximation and Cut Distance](http://arxiv.org/abs/2503.14338v2)** | 2025-05-09 | <details><summary>53 pa...</summary><p>53 pages, 6 figures, 2 tables. ICLR 2025 camera ready</p></details> |
+| **[GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments](http://arxiv.org/abs/2502.01778v2)** | 2025-05-09 |  |
+| **[Rethinking Graph Out-Of-Distribution Generalization: A Learnable Random Walk Perspective](http://arxiv.org/abs/2505.05785v1)** | 2025-05-09 | Under Review |
+| **[An Efficient Sparse Kernel Generator for O(3)-Equivariant Deep Networks](http://arxiv.org/abs/2501.13986v4)** | 2025-05-08 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 2025 SIAM Conference on Applied and Computational Discrete Algorithms. 15 pages, 10 figures, 4 tables</p></details> |
 | **[Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](http://arxiv.org/abs/2410.07074v3)** | 2025-05-08 |  |
 | **[Graph Neural Network Aided Deep Reinforcement Learning for Resource Allocation in Dynamic Terahertz UAV Networks](http://arxiv.org/abs/2505.04981v1)** | 2025-05-08 |  |
 | **[Physics-Assisted and Topology-Informed Deep Learning for Weather Prediction](http://arxiv.org/abs/2505.04918v1)** | 2025-05-08 | <details><summary>Inter...</summary><p>International Joint Conferences on Artificial Intelligence (IJCAI 2025)</p></details> |
 | **[GCN-Based Throughput-Oriented Handover Management in Dense 5G Vehicular Networks](http://arxiv.org/abs/2505.04894v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted at IEEE DCOSS-IoT 2025</p></details> |
 | **[Network Digital Twin for Route Optimization in 5G/B5G Transport Slicing with What-If Analysis](http://arxiv.org/abs/2505.04879v1)** | 2025-05-08 | <details><summary>This ...</summary><p>This paper has been accepted for publication at IEEE International Conference on Communications. \c{opyright}2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
 | **[XG-NID: Dual-Modality Network Intrusion Detection using a Heterogeneous Graph Neural Network and Large Language Model](http://arxiv.org/abs/2408.16021v2)** | 2025-05-07 | 19 pages, 6 figures |
-| **[Piecewise Constant Spectral Graph Neural Network](http://arxiv.org/abs/2505.04808v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted to TMLR 2025</p></details> |
-| **[Learning to Compare Hardware Designs for High-Level Synthesis](http://arxiv.org/abs/2409.13138v2)** | 2025-05-07 | <details><summary>Publi...</summary><p>Published in MLCAD 2024</p></details> |
-| **[Multi-Granular Attention based Heterogeneous Hypergraph Neural Network](http://arxiv.org/abs/2505.04340v1)** | 2025-05-07 |  |
-| **[A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification](http://arxiv.org/abs/2410.22377v2)** | 2025-05-07 |  |
 
