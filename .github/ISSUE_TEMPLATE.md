@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 12, 2025
+title: Latest 10 Papers - May 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning](http://arxiv.org/abs/2505.06282v1)** | 2025-05-07 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted by SIGIR2025</p></details> |
 | **[A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective](http://arxiv.org/abs/2403.16137v3)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted by TKDE; full version (27 pages, 9 figures)</p></details> |
 | **[GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](http://arxiv.org/abs/2504.00711v2)** | 2025-05-05 |  |
 | **[GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model](http://arxiv.org/abs/2504.21186v1)** | 2025-04-29 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v2)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
 | **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v2)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted by WWW 2025 (Oral)</p></details> |
 | **[A Survey of Cross-domain Graph Learning: Progress and Future Directions](http://arxiv.org/abs/2503.11086v1)** | 2025-03-14 |  |
-| **[Towards Graph Foundation Models: A Transferability Perspective](http://arxiv.org/abs/2503.09363v1)** | 2025-03-12 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,7 +35,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking Graph Contrastive Learning through Relative Similarity Preservation](http://arxiv.org/abs/2505.05533v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by IJCAI2025; full version including appendix</p></details> |
+| **[Rethinking Graph Contrastive Learning through Relative Similarity Preservation](http://arxiv.org/abs/2505.05533v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by IJCAI2025; full version including appendix</p></details> |
+| **[InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning](http://arxiv.org/abs/2505.06282v1)** | 2025-05-07 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted by SIGIR2025</p></details> |
 | **[Quantum Rationale-Aware Graph Contrastive Learning for Jet Discrimination](http://arxiv.org/abs/2411.01642v2)** | 2025-05-04 |  |
 | **[A Generative Graph Contrastive Learning Model with Global Signal](http://arxiv.org/abs/2504.18148v1)** | 2025-04-25 |  |
 | **[Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](http://arxiv.org/abs/2504.16748v2)** | 2025-04-24 | Submitted to ICML |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Graph-Based Multimodal Contrastive Learning for Chart Question Answering](http://arxiv.org/abs/2501.04303v2)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
 | **[Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering](http://arxiv.org/abs/2504.04443v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2025</p></details> |
 | **[MageSQL: Enhancing In-context Learning for Text-to-SQL Applications with Large Language Models](http://arxiv.org/abs/2504.02055v1)** | 2025-04-02 |  |
-| **[Brain Network Classification Based on Graph Contrastive Learning and Graph Transformer](http://arxiv.org/abs/2504.03740v1)** | 2025-04-01 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, uses tikz.sty</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Higher-Order Graphon Neural Networks: Approximation and Cut Distance](http://arxiv.org/abs/2503.14338v2)** | 2025-05-09 | <details><summary>53 pa...</summary><p>53 pages, 6 figures, 2 tables. ICLR 2025 camera ready</p></details> |
-| **[GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments](http://arxiv.org/abs/2502.01778v2)** | 2025-05-09 |  |
-| **[Rethinking Graph Out-Of-Distribution Generalization: A Learnable Random Walk Perspective](http://arxiv.org/abs/2505.05785v1)** | 2025-05-09 | Under Review |
-| **[An Efficient Sparse Kernel Generator for O(3)-Equivariant Deep Networks](http://arxiv.org/abs/2501.13986v4)** | 2025-05-08 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 2025 SIAM Conference on Applied and Computational Discrete Algorithms. 15 pages, 10 figures, 4 tables</p></details> |
-| **[Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](http://arxiv.org/abs/2410.07074v3)** | 2025-05-08 |  |
-| **[Graph Neural Network Aided Deep Reinforcement Learning for Resource Allocation in Dynamic Terahertz UAV Networks](http://arxiv.org/abs/2505.04981v1)** | 2025-05-08 |  |
-| **[Physics-Assisted and Topology-Informed Deep Learning for Weather Prediction](http://arxiv.org/abs/2505.04918v1)** | 2025-05-08 | <details><summary>Inter...</summary><p>International Joint Conferences on Artificial Intelligence (IJCAI 2025)</p></details> |
-| **[GCN-Based Throughput-Oriented Handover Management in Dense 5G Vehicular Networks](http://arxiv.org/abs/2505.04894v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted at IEEE DCOSS-IoT 2025</p></details> |
-| **[Network Digital Twin for Route Optimization in 5G/B5G Transport Slicing with What-If Analysis](http://arxiv.org/abs/2505.04879v1)** | 2025-05-08 | <details><summary>This ...</summary><p>This paper has been accepted for publication at IEEE International Conference on Communications. \c{opyright}2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
-| **[XG-NID: Dual-Modality Network Intrusion Detection using a Heterogeneous Graph Neural Network and Large Language Model](http://arxiv.org/abs/2408.16021v2)** | 2025-05-07 | 19 pages, 6 figures |
+| **[A class of distributed automata that contains the modal mu-fragment](http://arxiv.org/abs/2505.07816v1)** | 2025-05-12 |  |
+| **[A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers](http://arxiv.org/abs/2412.11293v2)** | 2025-05-12 | 18 pages, 6 figures |
+| **[Tagging fully hadronic exotic decays of the vectorlike $\mathbf{B}$ quark using a graph neural network](http://arxiv.org/abs/2505.07769v1)** | 2025-05-12 | <details><summary>13 pa...</summary><p>13 pages, 10 figures, 3 tables</p></details> |
+| **[Generating Skyline Explanations for Graph Neural Networks](http://arxiv.org/abs/2505.07635v1)** | 2025-05-12 |  |
+| **[Predicting solvation free energies with an implicit solvent machine learning potential](http://arxiv.org/abs/2406.00183v3)** | 2025-05-12 |  |
+| **[Learning Hierarchical Interaction for Accurate Molecular Property Prediction](http://arxiv.org/abs/2504.20127v3)** | 2025-05-12 |  |
+| **[HAMLET: Healthcare-focused Adaptive Multilingual Learning Embedding-based Topic Modeling](http://arxiv.org/abs/2505.07157v1)** | 2025-05-12 |  |
+| **[COMRECGC: Global Graph Counterfactual Explainer through Common Recourse](http://arxiv.org/abs/2505.07081v1)** | 2025-05-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
+| **[NetSight: Graph Attention Based Traffic Forecasting in Computer Networks](http://arxiv.org/abs/2505.07034v1)** | 2025-05-11 |  |
+| **[LSR-IGRU: Stock Trend Prediction Based on Long Short-Term Relationships and Improved GRU](http://arxiv.org/abs/2409.08282v3)** | 2025-05-11 |  |
 
