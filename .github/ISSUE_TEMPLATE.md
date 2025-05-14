@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 13, 2025
+title: Latest 10 Papers - May 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A class of distributed automata that contains the modal mu-fragment](http://arxiv.org/abs/2505.07816v1)** | 2025-05-12 |  |
-| **[A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers](http://arxiv.org/abs/2412.11293v2)** | 2025-05-12 | 18 pages, 6 figures |
-| **[Tagging fully hadronic exotic decays of the vectorlike $\mathbf{B}$ quark using a graph neural network](http://arxiv.org/abs/2505.07769v1)** | 2025-05-12 | <details><summary>13 pa...</summary><p>13 pages, 10 figures, 3 tables</p></details> |
-| **[Generating Skyline Explanations for Graph Neural Networks](http://arxiv.org/abs/2505.07635v1)** | 2025-05-12 |  |
-| **[Predicting solvation free energies with an implicit solvent machine learning potential](http://arxiv.org/abs/2406.00183v3)** | 2025-05-12 |  |
-| **[Learning Hierarchical Interaction for Accurate Molecular Property Prediction](http://arxiv.org/abs/2504.20127v3)** | 2025-05-12 |  |
-| **[HAMLET: Healthcare-focused Adaptive Multilingual Learning Embedding-based Topic Modeling](http://arxiv.org/abs/2505.07157v1)** | 2025-05-12 |  |
-| **[COMRECGC: Global Graph Counterfactual Explainer through Common Recourse](http://arxiv.org/abs/2505.07081v1)** | 2025-05-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[NetSight: Graph Attention Based Traffic Forecasting in Computer Networks](http://arxiv.org/abs/2505.07034v1)** | 2025-05-11 |  |
-| **[LSR-IGRU: Stock Trend Prediction Based on Long Short-Term Relationships and Improved GRU](http://arxiv.org/abs/2409.08282v3)** | 2025-05-11 |  |
+| **[Integrating Single-Cell Foundation Models with Graph Neural Networks for Drug Response Prediction](http://arxiv.org/abs/2504.14361v2)** | 2025-05-13 | 8 pages, 6 figures |
+| **[WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](http://arxiv.org/abs/2505.08614v1)** | 2025-05-13 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 4 tables</p></details> |
+| **[Considerations in the use of ML interaction potentials for free energy calculations](http://arxiv.org/abs/2403.13952v2)** | 2025-05-13 |  |
+| **[GraphSparseNet: a Novel Method for Large Scale Traffic Flow Prediction](http://arxiv.org/abs/2502.19823v2)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted by VLDB 2025</p></details> |
+| **[AI-accelerated Discovery of Altermagnetic Materials](http://arxiv.org/abs/2311.04418v4)** | 2025-05-13 | <details><summary>46 pa...</summary><p>46 pages; 23 figures; 4 tables</p></details> |
+| **[SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness](http://arxiv.org/abs/2505.08320v1)** | 2025-05-13 |  |
+| **[GRID: Protecting Training Graph from Link Stealing Attacks on GNN Models](http://arxiv.org/abs/2501.10985v2)** | 2025-05-13 |  |
+| **[Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction](http://arxiv.org/abs/2505.08266v1)** | 2025-05-13 | ICML 2025 |
+| **[LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification](http://arxiv.org/abs/2505.08265v1)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
+| **[COMRECGC: Global Graph Counterfactual Explainer through Common Recourse](http://arxiv.org/abs/2505.07081v2)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
 
