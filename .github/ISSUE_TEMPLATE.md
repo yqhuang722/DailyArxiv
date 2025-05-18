@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 15, 2025
+title: Latest 10 Papers - May 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Graph Foundation Models: Training on Knowledge Graphs Enables Transferability to General Graphs](http://arxiv.org/abs/2410.12609v2)** | 2025-05-15 | 25 Pages, 5 figures |
 | **[InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning](http://arxiv.org/abs/2505.06282v1)** | 2025-05-07 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted by SIGIR2025</p></details> |
 | **[A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective](http://arxiv.org/abs/2403.16137v3)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted by TKDE; full version (27 pages, 9 figures)</p></details> |
 | **[GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](http://arxiv.org/abs/2504.00711v2)** | 2025-05-05 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Designing a reliable lateral movement detector using a graph foundation model](http://arxiv.org/abs/2504.13527v1)** | 2025-04-18 |  |
 | **[SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation](http://arxiv.org/abs/2502.05424v2)** | 2025-04-12 | <details><summary>Accep...</summary><p>Accepted by WWW2025 Main Track</p></details> |
 | **[RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](http://arxiv.org/abs/2502.03251v2)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted by WWW 2025 (Oral)</p></details> |
-| **[A Survey of Cross-domain Graph Learning: Progress and Future Directions](http://arxiv.org/abs/2503.11086v1)** | 2025-03-14 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Negative Metric Learning for Graphs](http://arxiv.org/abs/2505.10307v1)** | 2025-05-15 |  |
 | **[Rethinking Graph Contrastive Learning through Relative Similarity Preservation](http://arxiv.org/abs/2505.05533v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by IJCAI2025; full version including appendix</p></details> |
 | **[InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning](http://arxiv.org/abs/2505.06282v1)** | 2025-05-07 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted by SIGIR2025</p></details> |
 | **[Quantum Rationale-Aware Graph Contrastive Learning for Jet Discrimination](http://arxiv.org/abs/2411.01642v2)** | 2025-05-04 |  |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Incorporating Attributes and Multi-Scale Structures for Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2503.13911v2)** | 2025-04-10 |  |
 | **[Graph-Based Multimodal Contrastive Learning for Chart Question Answering](http://arxiv.org/abs/2501.04303v2)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
 | **[Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering](http://arxiv.org/abs/2504.04443v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2025</p></details> |
-| **[MageSQL: Enhancing In-context Learning for Text-to-SQL Applications with Large Language Models](http://arxiv.org/abs/2504.02055v1)** | 2025-04-02 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Graph Representation of Agent Diffusers](http://arxiv.org/abs/2505.06761v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted at AAMAS2025 International Conference on Autonomous Agents and Multiagent Systems</p></details> |
+| **[Schreier-Coset Graph Propagation](http://arxiv.org/abs/2505.10392v1)** | 2025-05-15 | <details><summary>9 pag...</summary><p>9 pages, 1 figure , preprint</p></details> |
+| **[Graph neural networks and MSO](http://arxiv.org/abs/2505.07816v2)** | 2025-05-15 |  |
+| **[Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction](http://arxiv.org/abs/2505.10239v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted to be presented at ICRA 2025 conference. Video: https://youtu.be/qy7l_wGOyzo</p></details> |
+| **[Instance-Prototype Affinity Learning for Non-Exemplar Continual Graph Learning](http://arxiv.org/abs/2505.10040v1)** | 2025-05-15 |  |
+| **[Graph Neural Network-based Spectral Filtering Mechanism for Imbalance Classification in Network Digital Twin](http://arxiv.org/abs/2502.11505v2)** | 2025-05-15 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2406.06595</p></details> |
+| **[Commute Graph Neural Networks](http://arxiv.org/abs/2407.01635v7)** | 2025-05-15 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML), 2025</p></details> |
+| **[TGDT: A Temporal Graph-based Digital Twin for Urban Traffic Corridors](http://arxiv.org/abs/2504.18008v2)** | 2025-05-15 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table</p></details> |
+| **[Heterogeneous graph neural networks for species distribution modeling](http://arxiv.org/abs/2503.11900v3)** | 2025-05-14 | 13 pages, 3 figures, |
 | **[Rhomboid Tiling for Geometric Graph Deep Learning](http://arxiv.org/abs/2505.09586v1)** | 2025-05-14 |  |
-| **[SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness](http://arxiv.org/abs/2505.08320v2)** | 2025-05-14 |  |
-| **[Considerations in the use of ML interaction potentials for free energy calculations](http://arxiv.org/abs/2403.13952v3)** | 2025-05-14 |  |
-| **[Advancing Drug Discovery with Enhanced Chemical Understanding via Asymmetric Contrastive Multimodal Learning](http://arxiv.org/abs/2311.06456v6)** | 2025-05-14 | <details><summary>51 pa...</summary><p>51 pages, 19 figures, 11 tables</p></details> |
-| **[Efficient Mixed Precision Quantization in Graph Neural Networks](http://arxiv.org/abs/2505.09361v1)** | 2025-05-14 |  |
-| **[Learning Traffic Anomalies from Generative Models on Real-Time Observations](http://arxiv.org/abs/2502.01391v2)** | 2025-05-14 |  |
-| **[Quotient Complex Transformer (QCformer) for Perovskite Data Analysis](http://arxiv.org/abs/2505.09174v1)** | 2025-05-14 |  |
-| **[Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning](http://arxiv.org/abs/2412.01297v2)** | 2025-05-14 |  |
-| **[WSCIF: A Weakly-Supervised Color Intelligence Framework for Tactical Anomaly Detection in Surveillance Keyframes](http://arxiv.org/abs/2505.09129v1)** | 2025-05-14 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 3 tables. The paper proposes a lightweight weakly-supervised color intelligence model for tactical video anomaly detection, tested on anonymized African surveillance data</p></details> |
-| **[WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](http://arxiv.org/abs/2505.08614v2)** | 2025-05-14 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 4 tables</p></details> |
 
