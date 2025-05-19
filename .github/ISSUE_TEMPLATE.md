@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 18, 2025
+title: Latest 10 Papers - May 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fractal Graph Contrastive Learning](http://arxiv.org/abs/2505.11356v1)** | 2025-05-16 |  |
 | **[Negative Metric Learning for Graphs](http://arxiv.org/abs/2505.10307v1)** | 2025-05-15 |  |
 | **[Rethinking Graph Contrastive Learning through Relative Similarity Preservation](http://arxiv.org/abs/2505.05533v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by IJCAI2025; full version including appendix</p></details> |
 | **[InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning](http://arxiv.org/abs/2505.06282v1)** | 2025-05-07 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted by SIGIR2025</p></details> |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering](http://arxiv.org/abs/2504.10113v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by SIGIR2025</p></details> |
 | **[Incorporating Attributes and Multi-Scale Structures for Heterogeneous Graph Contrastive Learning](http://arxiv.org/abs/2503.13911v2)** | 2025-04-10 |  |
 | **[Graph-Based Multimodal Contrastive Learning for Chart Question Answering](http://arxiv.org/abs/2501.04303v2)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2025</p></details> |
-| **[Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering](http://arxiv.org/abs/2504.04443v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2025</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Graph Representation of Agent Diffusers](http://arxiv.org/abs/2505.06761v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted at AAMAS2025 International Conference on Autonomous Agents and Multiagent Systems</p></details> |
-| **[Schreier-Coset Graph Propagation](http://arxiv.org/abs/2505.10392v1)** | 2025-05-15 | <details><summary>9 pag...</summary><p>9 pages, 1 figure , preprint</p></details> |
-| **[Graph neural networks and MSO](http://arxiv.org/abs/2505.07816v2)** | 2025-05-15 |  |
-| **[Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction](http://arxiv.org/abs/2505.10239v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted to be presented at ICRA 2025 conference. Video: https://youtu.be/qy7l_wGOyzo</p></details> |
-| **[Instance-Prototype Affinity Learning for Non-Exemplar Continual Graph Learning](http://arxiv.org/abs/2505.10040v1)** | 2025-05-15 |  |
-| **[Graph Neural Network-based Spectral Filtering Mechanism for Imbalance Classification in Network Digital Twin](http://arxiv.org/abs/2502.11505v2)** | 2025-05-15 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2406.06595</p></details> |
-| **[Commute Graph Neural Networks](http://arxiv.org/abs/2407.01635v7)** | 2025-05-15 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML), 2025</p></details> |
-| **[TGDT: A Temporal Graph-based Digital Twin for Urban Traffic Corridors](http://arxiv.org/abs/2504.18008v2)** | 2025-05-15 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table</p></details> |
-| **[Heterogeneous graph neural networks for species distribution modeling](http://arxiv.org/abs/2503.11900v3)** | 2025-05-14 | 13 pages, 3 figures, |
-| **[Rhomboid Tiling for Geometric Graph Deep Learning](http://arxiv.org/abs/2505.09586v1)** | 2025-05-14 |  |
+| **[Finding Counterfactual Evidences for Node Classification](http://arxiv.org/abs/2505.11396v1)** | 2025-05-16 | Accepted by KDD 2025 |
+| **[What Can We Learn From MIMO Graph Convolutions?](http://arxiv.org/abs/2505.11346v1)** | 2025-05-16 | IJCAI 2025 |
+| **[The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework](http://arxiv.org/abs/2505.11335v1)** | 2025-05-16 |  |
+| **[Graph Representational Learning: When Does More Expressivity Hurt Generalization?](http://arxiv.org/abs/2505.11298v1)** | 2025-05-16 |  |
+| **[Unfolded Deep Graph Learning for Networked Over-the-Air Computation](http://arxiv.org/abs/2505.11248v1)** | 2025-05-16 | Accepted @ IEEE TWC |
+| **[Learning traffic flows: Graph Neural Networks for Metamodelling Traffic Assignment](http://arxiv.org/abs/2505.11230v1)** | 2025-05-16 |  |
+| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v1)** | 2025-05-16 | 16 pages, 10 figures |
+| **[Learning Equivariant Non-Local Electron Density Functionals](http://arxiv.org/abs/2410.07972v3)** | 2025-05-16 | <details><summary>Inter...</summary><p>International Conference on Representation Learning, 2025</p></details> |
+| **[Covariance Density Neural Networks](http://arxiv.org/abs/2505.11139v1)** | 2025-05-16 |  |
+| **[Normalized Matching Transformer](http://arxiv.org/abs/2503.17715v2)** | 2025-05-16 |  |
 
