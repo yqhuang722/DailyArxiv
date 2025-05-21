@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 20, 2025
+title: Latest 10 Papers - May 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Do LLMs Help With Node Classification? A Comprehensive Analysis](http://arxiv.org/abs/2502.00829v2)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](http://arxiv.org/abs/2505.12684v1)** | 2025-05-19 | Under Review |
 | **[Relation-Aware Graph Foundation Model](http://arxiv.org/abs/2505.12027v1)** | 2025-05-17 |  |
 | **[GLIP-OOD: Zero-Shot Graph OOD Detection with Graph Foundation Model](http://arxiv.org/abs/2504.21186v2)** | 2025-05-17 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](http://arxiv.org/abs/2504.00711v2)** | 2025-05-05 |  |
 | **[UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs](http://arxiv.org/abs/2502.00806v2)** | 2025-04-25 | WWW 2025 |
 | **[GOFA: A Generative One-For-All Model for Joint Graph Language Modeling](http://arxiv.org/abs/2407.09709v2)** | 2025-04-24 |  |
-| **[Designing a reliable lateral movement detector using a graph foundation model](http://arxiv.org/abs/2504.13527v1)** | 2025-04-18 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,6 +35,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing the Influence of Labels on Unlabeled Nodes in Graph Convolutional Networks](http://arxiv.org/abs/2411.02279v2)** | 2025-05-20 | Accepted by ICML2025 |
+| **[Self-Reinforced Graph Contrastive Learning](http://arxiv.org/abs/2505.13650v1)** | 2025-05-19 |  |
 | **[DICE: Device-level Integrated Circuits Encoder with Graph Contrastive Pretraining](http://arxiv.org/abs/2502.08949v2)** | 2025-05-19 |  |
 | **[Quantum Rationale-Aware Graph Contrastive Learning for Jet Discrimination](http://arxiv.org/abs/2411.01642v3)** | 2025-05-18 |  |
 | **[LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization](http://arxiv.org/abs/2505.12396v1)** | 2025-05-18 |  |
@@ -43,20 +45,18 @@ labels: documentation
 | **[Rethinking Graph Contrastive Learning through Relative Similarity Preservation](http://arxiv.org/abs/2505.05533v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by IJCAI2025; full version including appendix</p></details> |
 | **[InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning](http://arxiv.org/abs/2505.06282v1)** | 2025-05-07 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted by SIGIR2025</p></details> |
 | **[A Generative Graph Contrastive Learning Model with Global Signal](http://arxiv.org/abs/2504.18148v1)** | 2025-04-25 |  |
-| **[Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](http://arxiv.org/abs/2504.16748v2)** | 2025-04-24 | Submitted to ICML |
-| **[Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering](http://arxiv.org/abs/2504.10113v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by SIGIR2025</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DICE: Device-level Integrated Circuits Encoder with Graph Contrastive Pretraining](http://arxiv.org/abs/2502.08949v2)** | 2025-05-19 |  |
-| **[Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](http://arxiv.org/abs/2505.13087v1)** | 2025-05-19 |  |
-| **[Collaborative Filtering Meets Spectrum Shift: Connecting User-Item Interaction with Graph-Structured Side Information](http://arxiv.org/abs/2502.08071v2)** | 2025-05-19 | Accepted at KDD 2025 |
-| **[BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification](http://arxiv.org/abs/2504.16096v2)** | 2025-05-19 | <details><summary>Early...</summary><p>Early accepted by MICCAI 2025</p></details> |
-| **[Unifying Text Semantics and Graph Structures for Temporal Text-attributed Graphs with Large Language Models](http://arxiv.org/abs/2503.14411v2)** | 2025-05-19 | <details><summary>Submi...</summary><p>Submit to NeurIPS2025</p></details> |
-| **[Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach](http://arxiv.org/abs/2505.12902v1)** | 2025-05-19 |  |
-| **[AdS-GNN -- a Conformally Equivariant Graph Neural Network](http://arxiv.org/abs/2505.12880v1)** | 2025-05-19 |  |
-| **[Advancing Multi-Party Dialogue Framework with Speaker-ware Contrastive Learning](http://arxiv.org/abs/2501.11292v2)** | 2025-05-19 |  |
-| **[Pave Your Own Path: Graph Gradual Domain Adaptation on Fused Gromov-Wasserstein Geodesics](http://arxiv.org/abs/2505.12709v1)** | 2025-05-19 | 27 pages, 10 figures |
-| **[scSiameseClu: A Siamese Clustering Framework for Interpreting single-cell RNA Sequencing Data](http://arxiv.org/abs/2505.12626v1)** | 2025-05-19 |  |
+| **[Adverseness vs. Equilibrium: Exploring Graph Adversarial Resilience through Dynamic Equilibrium](http://arxiv.org/abs/2505.14463v1)** | 2025-05-20 |  |
+| **[Robustness Evaluation of Graph-based News Detection Using Network Structural Information](http://arxiv.org/abs/2505.14453v1)** | 2025-05-20 | 14 pages, 7 figures |
+| **[Cross-Document Cross-Lingual NLI via RST-Enhanced Graph Fusion and Interpretability Prediction](http://arxiv.org/abs/2504.12324v2)** | 2025-05-20 |  |
+| **[Safe Distributed Control of Multi-Robot Systems with Communication Delays](http://arxiv.org/abs/2402.09382v4)** | 2025-05-20 | <details><summary>Copyr...</summary><p>Copyright (c) 2025 IEEE. Personal use of this material is permitted. However, permission to use this material for any other purposes must be obtained from the IEEE by sending a request to pubs-permissions@ieee.org</p></details> |
+| **[EvoMesh: Adaptive Physical Simulation with Hierarchical Graph Evolutions](http://arxiv.org/abs/2410.03779v2)** | 2025-05-20 |  |
+| **[DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale](http://arxiv.org/abs/2502.01681v3)** | 2025-05-20 |  |
+| **[Unsupervised Graph Clustering with Deep Structural Entropy](http://arxiv.org/abs/2505.14040v1)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted to Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2025 (KDD 2025). 13 pages, 10 figures, 11 tables</p></details> |
+| **[Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening](http://arxiv.org/abs/2505.14033v1)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted at the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, KDD 2025 February Cycle</p></details> |
+| **[ERGNN: Spectral Graph Neural Network With Explicitly-Optimized Rational Graph Filters](http://arxiv.org/abs/2412.19106v3)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted at 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2025</p></details> |
+| **[Towards Comprehensive and Prerequisite-Free Explainer for Graph Neural Networks](http://arxiv.org/abs/2505.14005v1)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025 AI4Tech Track</p></details> |
 
