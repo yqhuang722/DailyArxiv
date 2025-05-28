@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 27, 2025
+title: Latest 10 Papers - May 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SEMMA: A Semantic Aware Knowledge Graph Foundation Model](http://arxiv.org/abs/2505.20422v1)** | 2025-05-26 |  |
 | **[Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees](http://arxiv.org/abs/2412.16441v3)** | 2025-05-25 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning](http://arxiv.org/abs/2505.18499v1)** | 2025-05-24 |  |
 | **[Scalable Graph Generative Modeling via Substructure Sequences](http://arxiv.org/abs/2505.16130v1)** | 2025-05-22 |  |
@@ -16,11 +17,11 @@ labels: documentation
 | **[Relation-Aware Graph Foundation Model](http://arxiv.org/abs/2505.12027v1)** | 2025-05-17 |  |
 | **[GLIP-OOD: Zero-Shot Graph OOD Detection with Graph Foundation Model](http://arxiv.org/abs/2504.21186v2)** | 2025-05-17 |  |
 | **[Towards Graph Foundation Models: Training on Knowledge Graphs Enables Transferability to General Graphs](http://arxiv.org/abs/2410.12609v2)** | 2025-05-15 | 25 Pages, 5 figures |
-| **[InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning](http://arxiv.org/abs/2505.06282v1)** | 2025-05-07 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted by SIGIR2025</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis](http://arxiv.org/abs/2410.01635v2)** | 2025-05-27 | <details><summary>accep...</summary><p>accepted by ICML 2025</p></details> |
 | **[Vision Graph Prompting via Semantic Low-Rank Decomposition](http://arxiv.org/abs/2505.04121v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant](http://arxiv.org/abs/2505.03654v2)** | 2025-05-19 | Work in progress |
 | **[CodeGRAG: Bridging the Gap between Natural Language and Programming Language via Graphical Retrieval Augmented Generation](http://arxiv.org/abs/2405.02355v4)** | 2025-05-19 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection](http://arxiv.org/abs/2412.17619v2)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
 | **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v2)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
 | **[Assessing SPARQL capabilities of Large Language Models](http://arxiv.org/abs/2409.05925v2)** | 2025-04-04 | <details><summary>Peer ...</summary><p>Peer reviewed and published at NLP4KGc @ Semantics 2024, see original publication at https://ceur-ws.org/Vol-3874/paper3.pdf . Updated Metadata</p></details> |
-| **[Krait: A Backdoor Attack Against Graph Prompt Tuning](http://arxiv.org/abs/2407.13068v2)** | 2025-03-30 | <details><summary>Accep...</summary><p>Accepted by SaTML'2025</p></details> |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,13 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks](http://arxiv.org/abs/2505.20074v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted by the 34th International Joint Conference on Artificial Intelligence (IJCAI-25)</p></details> |
-| **[Graph Wave Networks](http://arxiv.org/abs/2505.20034v1)** | 2025-05-26 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, published to WWW 2025</p></details> |
-| **[GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking](http://arxiv.org/abs/2502.16514v2)** | 2025-05-26 |  |
-| **[GraphAU-Pain: Graph-based Action Unit Representation for Pain Intensity Estimation](http://arxiv.org/abs/2505.19802v1)** | 2025-05-26 |  |
-| **[Language Model-Enhanced Message Passing for Heterophilic Graph Learning](http://arxiv.org/abs/2505.19762v1)** | 2025-05-26 |  |
-| **[Residual Connections and Normalization Can Provably Prevent Oversmoothing in GNNs](http://arxiv.org/abs/2406.02997v3)** | 2025-05-26 |  |
-| **[STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](http://arxiv.org/abs/2505.19547v1)** | 2025-05-26 |  |
-| **[MetaGMT: Improving Actionable Interpretability of Graph Multilinear Networks via Meta-Learning Filtration](http://arxiv.org/abs/2505.19445v1)** | 2025-05-26 | <details><summary>8 Pag...</summary><p>8 Pages Main Content, 10 Pages including Appendix. 1 Figure, 7 Tables</p></details> |
-| **[SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs](http://arxiv.org/abs/2410.16882v3)** | 2025-05-26 | 25 pages |
+| **[Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks](http://arxiv.org/abs/2505.21426v1)** | 2025-05-27 |  |
+| **[GSAT: Graph Structure Attention Networks](http://arxiv.org/abs/2505.21288v1)** | 2025-05-27 | 16 pages |
+| **[Learnable Kernel Density Estimation for Graphs](http://arxiv.org/abs/2505.21285v1)** | 2025-05-27 | Under Review |
+| **[STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](http://arxiv.org/abs/2505.19547v2)** | 2025-05-27 |  |
+| **[GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding](http://arxiv.org/abs/2409.04183v2)** | 2025-05-27 | <details><summary>ACL 2...</summary><p>ACL 2025 camera-ready</p></details> |
+| **[HeteroBA: A Structure-Manipulating Backdoor Attack on Heterogeneous Graphs](http://arxiv.org/abs/2505.21140v1)** | 2025-05-27 |  |
+| **[ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction](http://arxiv.org/abs/2505.21117v1)** | 2025-05-27 |  |
+| **[Learn from Global Correlations: Enhancing Evolutionary Algorithm via Spectral GNN](http://arxiv.org/abs/2412.17629v3)** | 2025-05-27 | 22 pages, 9 figures |
+| **[Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding](http://arxiv.org/abs/2505.17939v2)** | 2025-05-27 |  |
+| **[NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](http://arxiv.org/abs/2505.21020v1)** | 2025-05-27 |  |
 
