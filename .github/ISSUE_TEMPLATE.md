@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 28, 2025
+title: Latest 10 Papers - May 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks](http://arxiv.org/abs/2505.21426v1)** | 2025-05-27 |  |
-| **[GSAT: Graph Structure Attention Networks](http://arxiv.org/abs/2505.21288v1)** | 2025-05-27 | 16 pages |
-| **[Learnable Kernel Density Estimation for Graphs](http://arxiv.org/abs/2505.21285v1)** | 2025-05-27 | Under Review |
-| **[STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](http://arxiv.org/abs/2505.19547v2)** | 2025-05-27 |  |
-| **[GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding](http://arxiv.org/abs/2409.04183v2)** | 2025-05-27 | <details><summary>ACL 2...</summary><p>ACL 2025 camera-ready</p></details> |
-| **[HeteroBA: A Structure-Manipulating Backdoor Attack on Heterogeneous Graphs](http://arxiv.org/abs/2505.21140v1)** | 2025-05-27 |  |
-| **[ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction](http://arxiv.org/abs/2505.21117v1)** | 2025-05-27 |  |
-| **[Learn from Global Correlations: Enhancing Evolutionary Algorithm via Spectral GNN](http://arxiv.org/abs/2412.17629v3)** | 2025-05-27 | 22 pages, 9 figures |
-| **[Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding](http://arxiv.org/abs/2505.17939v2)** | 2025-05-27 |  |
-| **[NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](http://arxiv.org/abs/2505.21020v1)** | 2025-05-27 |  |
+| **[Pre-training for Recommendation Unlearning](http://arxiv.org/abs/2505.22649v1)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted to SIGIR 2025 Oral</p></details> |
+| **[Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators](http://arxiv.org/abs/2502.03424v4)** | 2025-05-28 | <details><summary>This ...</summary><p>This paper has been accepted by journal Computer-Aided Civil and Infrastructure Engineering</p></details> |
+| **[Geometric GNNs for Charged Particle Tracking at GlueX](http://arxiv.org/abs/2505.22504v1)** | 2025-05-28 |  |
+| **[GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation](http://arxiv.org/abs/2412.11180v2)** | 2025-05-28 | 17 pages |
+| **[Forecasting Multivariate Urban Data via Decomposition and Spatio-Temporal Graph Analysis](http://arxiv.org/abs/2505.22474v1)** | 2025-05-28 |  |
+| **[An Empirical Evaluation of Rewiring Approaches in Graph Neural Networks](http://arxiv.org/abs/2305.19717v2)** | 2025-05-28 | 8 pages, 4 figures |
+| **[Directed Homophily-Aware Graph Neural Network](http://arxiv.org/abs/2505.22362v1)** | 2025-05-28 |  |
+| **[Diss-l-ECT: Dissecting Graph Data with Local Euler Characteristic Transforms](http://arxiv.org/abs/2410.02622v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
+| **[B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data](http://arxiv.org/abs/2505.22252v1)** | 2025-05-28 | <details><summary>26 pa...</summary><p>26 pages, 16 figures, 5 tables</p></details> |
+| **[Rethinking GNN Expressive Power from a Distributed Computational Model Perspective](http://arxiv.org/abs/2410.01308v3)** | 2025-05-28 |  |
 
