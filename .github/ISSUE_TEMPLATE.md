@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 29, 2025
+title: Latest 10 Papers - June 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks](http://arxiv.org/abs/2410.13974v2)** | 2025-05-29 | <details><summary>To be...</summary><p>To be appeared in KDD 2025</p></details> |
 | **[Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis](http://arxiv.org/abs/2410.01635v2)** | 2025-05-27 | <details><summary>accep...</summary><p>accepted by ICML 2025</p></details> |
 | **[Vision Graph Prompting via Semantic Low-Rank Decomposition](http://arxiv.org/abs/2505.04121v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant](http://arxiv.org/abs/2505.03654v2)** | 2025-05-19 | Work in progress |
@@ -30,7 +31,6 @@ labels: documentation
 | **[MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems](http://arxiv.org/abs/2504.10921v2)** | 2025-04-25 |  |
 | **[Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection](http://arxiv.org/abs/2412.17619v2)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
 | **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v2)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
-| **[Assessing SPARQL capabilities of Large Language Models](http://arxiv.org/abs/2409.05925v2)** | 2025-04-04 | <details><summary>Peer ...</summary><p>Peer reviewed and published at NLP4KGc @ Semantics 2024, see original publication at https://ceur-ws.org/Vol-3874/paper3.pdf . Updated Metadata</p></details> |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pre-training for Recommendation Unlearning](http://arxiv.org/abs/2505.22649v1)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted to SIGIR 2025 Oral</p></details> |
-| **[Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators](http://arxiv.org/abs/2502.03424v4)** | 2025-05-28 | <details><summary>This ...</summary><p>This paper has been accepted by journal Computer-Aided Civil and Infrastructure Engineering</p></details> |
-| **[Geometric GNNs for Charged Particle Tracking at GlueX](http://arxiv.org/abs/2505.22504v1)** | 2025-05-28 |  |
-| **[GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation](http://arxiv.org/abs/2412.11180v2)** | 2025-05-28 | 17 pages |
-| **[Forecasting Multivariate Urban Data via Decomposition and Spatio-Temporal Graph Analysis](http://arxiv.org/abs/2505.22474v1)** | 2025-05-28 |  |
-| **[An Empirical Evaluation of Rewiring Approaches in Graph Neural Networks](http://arxiv.org/abs/2305.19717v2)** | 2025-05-28 | 8 pages, 4 figures |
-| **[Directed Homophily-Aware Graph Neural Network](http://arxiv.org/abs/2505.22362v1)** | 2025-05-28 |  |
-| **[Diss-l-ECT: Dissecting Graph Data with Local Euler Characteristic Transforms](http://arxiv.org/abs/2410.02622v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data](http://arxiv.org/abs/2505.22252v1)** | 2025-05-28 | <details><summary>26 pa...</summary><p>26 pages, 16 figures, 5 tables</p></details> |
-| **[Rethinking GNN Expressive Power from a Distributed Computational Model Perspective](http://arxiv.org/abs/2410.01308v3)** | 2025-05-28 |  |
+| **[AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction](http://arxiv.org/abs/2505.23663v1)** | 2025-05-29 |  |
+| **[On Transferring Transferability: Towards a Theory for Size Generalization](http://arxiv.org/abs/2505.23599v1)** | 2025-05-29 | 69 pages, 8 figures |
+| **[ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction](http://arxiv.org/abs/2505.21117v2)** | 2025-05-29 |  |
+| **[USPilot: An Embodied Robotic Assistant Ultrasound System with Large Language Model Enhanced Graph Planner](http://arxiv.org/abs/2502.12498v2)** | 2025-05-29 |  |
+| **[Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks](http://arxiv.org/abs/2410.13974v2)** | 2025-05-29 | <details><summary>To be...</summary><p>To be appeared in KDD 2025</p></details> |
+| **[A Signed Graph Approach to Understanding and Mitigating Oversmoothing in GNNs](http://arxiv.org/abs/2502.11394v2)** | 2025-05-29 |  |
+| **[Pre-training for Recommendation Unlearning](http://arxiv.org/abs/2505.22649v2)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted to SIGIR 2025 Oral</p></details> |
+| **[Constraints and Variables Reduction for Optimal Power Flow Using Hierarchical Graph Neural Networks with Virtual Node-Splitting](http://arxiv.org/abs/2411.06268v2)** | 2025-05-29 |  |
+| **[Equivariant Spherical Transformer for Efficient Molecular Modeling](http://arxiv.org/abs/2505.23086v1)** | 2025-05-29 | 24 pages, 3 figures |
+| **[GrokFormer: Graph Fourier Kolmogorov-Arnold Transformers](http://arxiv.org/abs/2411.17296v3)** | 2025-05-29 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 11 tables, Accepted by ICML 2025</p></details> |
 
