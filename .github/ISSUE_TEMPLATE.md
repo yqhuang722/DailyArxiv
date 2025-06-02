@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 01, 2025
+title: Latest 10 Papers - June 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment](http://arxiv.org/abs/2502.02017v2)** | 2025-05-30 |  |
 | **[SEMMA: A Semantic Aware Knowledge Graph Foundation Model](http://arxiv.org/abs/2505.20422v1)** | 2025-05-26 |  |
 | **[Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees](http://arxiv.org/abs/2412.16441v3)** | 2025-05-25 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning](http://arxiv.org/abs/2505.18499v1)** | 2025-05-24 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](http://arxiv.org/abs/2505.12684v1)** | 2025-05-19 | Under Review |
 | **[Relation-Aware Graph Foundation Model](http://arxiv.org/abs/2505.12027v1)** | 2025-05-17 |  |
 | **[GLIP-OOD: Zero-Shot Graph OOD Detection with Graph Foundation Model](http://arxiv.org/abs/2504.21186v2)** | 2025-05-17 |  |
-| **[Towards Graph Foundation Models: Training on Knowledge Graphs Enables Transferability to General Graphs](http://arxiv.org/abs/2410.12609v2)** | 2025-05-15 | 25 Pages, 5 figures |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction](http://arxiv.org/abs/2505.23663v1)** | 2025-05-29 |  |
-| **[On Transferring Transferability: Towards a Theory for Size Generalization](http://arxiv.org/abs/2505.23599v1)** | 2025-05-29 | 69 pages, 8 figures |
-| **[ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction](http://arxiv.org/abs/2505.21117v2)** | 2025-05-29 |  |
-| **[USPilot: An Embodied Robotic Assistant Ultrasound System with Large Language Model Enhanced Graph Planner](http://arxiv.org/abs/2502.12498v2)** | 2025-05-29 |  |
-| **[Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks](http://arxiv.org/abs/2410.13974v2)** | 2025-05-29 | <details><summary>To be...</summary><p>To be appeared in KDD 2025</p></details> |
-| **[A Signed Graph Approach to Understanding and Mitigating Oversmoothing in GNNs](http://arxiv.org/abs/2502.11394v2)** | 2025-05-29 |  |
-| **[Pre-training for Recommendation Unlearning](http://arxiv.org/abs/2505.22649v2)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted to SIGIR 2025 Oral</p></details> |
-| **[Constraints and Variables Reduction for Optimal Power Flow Using Hierarchical Graph Neural Networks with Virtual Node-Splitting](http://arxiv.org/abs/2411.06268v2)** | 2025-05-29 |  |
-| **[Equivariant Spherical Transformer for Efficient Molecular Modeling](http://arxiv.org/abs/2505.23086v1)** | 2025-05-29 | 24 pages, 3 figures |
-| **[GrokFormer: Graph Fourier Kolmogorov-Arnold Transformers](http://arxiv.org/abs/2411.17296v3)** | 2025-05-29 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 11 tables, Accepted by ICML 2025</p></details> |
+| **[MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering](http://arxiv.org/abs/2503.18491v2)** | 2025-05-30 | Findings of ACL 2025 |
+| **[Directed Homophily-Aware Graph Neural Network](http://arxiv.org/abs/2505.22362v2)** | 2025-05-30 |  |
+| **[Can Classic GNNs Be Strong Baselines for Graph-level Tasks? Simple Architectures Meet Excellence](http://arxiv.org/abs/2502.09263v2)** | 2025-05-30 | ICML 2025 |
+| **[Kolmogorov-Arnold Graph Neural Networks](http://arxiv.org/abs/2406.18354v2)** | 2025-05-30 |  |
+| **[Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework](http://arxiv.org/abs/2505.02712v2)** | 2025-05-30 |  |
+| **[Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs](http://arxiv.org/abs/2505.24438v1)** | 2025-05-30 |  |
+| **[Deep Learning Weather Models for Subregional Ocean Forecasting: A Case Study on the Canary Current Upwelling System](http://arxiv.org/abs/2505.24429v1)** | 2025-05-30 | 28 pages, 8 figures |
+| **[A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications](http://arxiv.org/abs/2403.00485v3)** | 2025-05-30 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-025-41426-w}</p></details> |
+| **[Pre-trained Prompt-driven Semi-supervised Local Community Detection](http://arxiv.org/abs/2505.12304v2)** | 2025-05-30 | 11 pages, 3 figures |
+| **[GNNBleed: Inference Attacks to Unveil Private Edges in Graphs with Realistic Access to GNN Models](http://arxiv.org/abs/2311.16139v2)** | 2025-05-30 | <details><summary>The p...</summary><p>The paper has been accepted to the PoPETs 2025</p></details> |
 
