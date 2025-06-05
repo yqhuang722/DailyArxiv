@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 04, 2025
+title: Latest 10 Papers - June 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations](http://arxiv.org/abs/2506.04055v1)** | 2025-06-04 | <details><summary>Sourc...</summary><p>Source code available at: https://github.com/tummfm/chemtrain</p></details> |
+| **[Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting](http://arxiv.org/abs/2410.12593v2)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[Weisfeiler and Leman Go Gambling: Why Expressive Lottery Tickets Win](http://arxiv.org/abs/2506.03919v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
+| **[Graph Neural Networks for Resource Allocation in Multi-Channel Wireless Networks](http://arxiv.org/abs/2506.03813v1)** | 2025-06-04 |  |
+| **[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](http://arxiv.org/abs/2502.00338v2)** | 2025-06-04 |  |
+| **[DiagNet: Detecting Objects using Diagonal Constraints on Adjacency Matrix of Graph Neural Network](http://arxiv.org/abs/2506.03571v1)** | 2025-06-04 |  |
+| **[Topology-Aware Graph Neural Network-based State Estimation for PMU-Unobservable Power Systems](http://arxiv.org/abs/2506.03493v1)** | 2025-06-04 |  |
+| **[Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos](http://arxiv.org/abs/2506.03440v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications (ESWA)</p></details> |
 | **[How Explanations Leak the Decision Logic: Stealing Graph Neural Networks via Explanation Alignment](http://arxiv.org/abs/2506.03087v1)** | 2025-06-03 |  |
 | **[Sheaves Reloaded: A Directional Awakening](http://arxiv.org/abs/2506.02842v1)** | 2025-06-03 |  |
-| **[Combining social relations and interaction data in Recommender System with Graph Convolution Collaborative Filtering](http://arxiv.org/abs/2506.02834v1)** | 2025-06-03 |  |
-| **[Label Deconvolution for Node Representation Learning on Large-scale Attributed Graphs against Learning Bias](http://arxiv.org/abs/2309.14907v2)** | 2025-06-03 |  |
-| **[Joint Optimization based on Two-phase GNN in RIS- and DF-assisted MISO Systems with Fine-grained Rate Demands](http://arxiv.org/abs/2506.02642v1)** | 2025-06-03 | <details><summary>14 Pa...</summary><p>14 Pages, 9 figures, accepted by IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS</p></details> |
-| **[HGOT: Self-supervised Heterogeneous Graph Neural Network with Optimal Transport](http://arxiv.org/abs/2506.02619v1)** | 2025-06-03 | <details><summary>The p...</summary><p>The paper has 9 pages of text and 13 pages in total (including acknowledgments, impact statement, references, and appendix), with 6 figures and 2 tables. This paper has been accepted by ICML 2025 conference and this is a final version of the manuscript submitted to the conference</p></details> |
-| **[HIEGNet: A Heterogenous Graph Neural Network Including the Immune Environment in Glomeruli Classification](http://arxiv.org/abs/2506.02542v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted for poster presentation at MIDL 2025</p></details> |
-| **[Prediction of the Most Fire-Sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators](http://arxiv.org/abs/2502.03424v5)** | 2025-06-03 | <details><summary>This ...</summary><p>This paper has been accepted by journal Computer-Aided Civil and Infrastructure Engineering</p></details> |
-| **[From Features to Structure: Task-Aware Graph Construction for Relational and Tabular Learning with GNNs](http://arxiv.org/abs/2506.02243v1)** | 2025-06-02 | 5 pages, 2 figures |
-| **[ReconXF: Graph Reconstruction Attack via Public Feature Explanations on Privatized Node Features and Labels](http://arxiv.org/abs/2506.02134v1)** | 2025-06-02 | Under review |
 
