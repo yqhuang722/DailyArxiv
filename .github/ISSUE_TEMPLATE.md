@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 05, 2025
+title: Latest 10 Papers - June 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,28 +35,28 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning](http://arxiv.org/abs/2506.05214v1)** | 2025-06-05 |  |
+| **[Supervised Graph Contrastive Learning for Gene Regulatory Network](http://arxiv.org/abs/2505.17786v2)** | 2025-06-05 | under review |
 | **[Weak Supervision for Real World Graphs](http://arxiv.org/abs/2506.02451v1)** | 2025-06-03 |  |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v1)** | 2025-05-31 | 34pages |
 | **[Graph Contrastive Learning for Optimizing Sparse Data in Recommender Systems with LightGCL](http://arxiv.org/abs/2506.00048v1)** | 2025-05-28 | <details><summary>Term ...</summary><p>Term Paper, Machine Learning with Graphs, North Carolina State University</p></details> |
 | **[Learn Beneficial Noise as Graph Augmentation](http://arxiv.org/abs/2505.19024v1)** | 2025-05-25 |  |
 | **[HGCL: Hierarchical Graph Contrastive Learning for User-Item Recommendation](http://arxiv.org/abs/2505.19020v1)** | 2025-05-25 | 10 pages, 5 figures |
-| **[Supervised Graph Contrastive Learning for Gene Regulatory Network](http://arxiv.org/abs/2505.17786v1)** | 2025-05-23 | under review |
 | **[Fractal Graph Contrastive Learning](http://arxiv.org/abs/2505.11356v2)** | 2025-05-22 |  |
 | **[Enhancing the Influence of Labels on Unlabeled Nodes in Graph Convolutional Networks](http://arxiv.org/abs/2411.02279v3)** | 2025-05-22 | Accepted by ICML2025 |
 | **[Quantum Rationale-Aware Graph Contrastive Learning for Jet Discrimination](http://arxiv.org/abs/2411.01642v4)** | 2025-05-21 |  |
-| **[Khan-GCL: Kolmogorov-Arnold Network Based Graph Contrastive Learning with Hard Negatives](http://arxiv.org/abs/2505.15103v1)** | 2025-05-21 | <details><summary>Graph...</summary><p>Graph Contrastive Learning, Self-supervised Learning, Kolmogorov-Arnold Network, Representation Learning</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning](http://arxiv.org/abs/2506.05214v1)** | 2025-06-05 |  |
+| **[Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos](http://arxiv.org/abs/2506.03440v2)** | 2025-06-05 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications (ESWA)</p></details> |
+| **[Influence Functions for Edge Edits in Non-Convex Graph Neural Networks](http://arxiv.org/abs/2506.04694v1)** | 2025-06-05 |  |
+| **[The Oversmoothing Fallacy: A Misguided Narrative in GNN Research](http://arxiv.org/abs/2506.04653v1)** | 2025-06-05 |  |
+| **[Ignoring Directionality Leads to Compromised Graph Neural Network Explanations](http://arxiv.org/abs/2506.04608v1)** | 2025-06-05 |  |
+| **[Intelligent4DSE: Optimizing High-Level Synthesis Design Space Exploration with Graph Neural Networks and Large Language Models](http://arxiv.org/abs/2504.19649v2)** | 2025-06-05 |  |
+| **[Spectro-Riemannian Graph Neural Networks](http://arxiv.org/abs/2502.00401v2)** | 2025-06-04 | ICLR 2025 |
 | **[chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations](http://arxiv.org/abs/2506.04055v1)** | 2025-06-04 | <details><summary>Sourc...</summary><p>Source code available at: https://github.com/tummfm/chemtrain</p></details> |
 | **[Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting](http://arxiv.org/abs/2410.12593v2)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 | **[Weisfeiler and Leman Go Gambling: Why Expressive Lottery Tickets Win](http://arxiv.org/abs/2506.03919v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[Graph Neural Networks for Resource Allocation in Multi-Channel Wireless Networks](http://arxiv.org/abs/2506.03813v1)** | 2025-06-04 |  |
-| **[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](http://arxiv.org/abs/2502.00338v2)** | 2025-06-04 |  |
-| **[DiagNet: Detecting Objects using Diagonal Constraints on Adjacency Matrix of Graph Neural Network](http://arxiv.org/abs/2506.03571v1)** | 2025-06-04 |  |
-| **[Topology-Aware Graph Neural Network-based State Estimation for PMU-Unobservable Power Systems](http://arxiv.org/abs/2506.03493v1)** | 2025-06-04 |  |
-| **[Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos](http://arxiv.org/abs/2506.03440v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications (ESWA)</p></details> |
-| **[How Explanations Leak the Decision Logic: Stealing Graph Neural Networks via Explanation Alignment](http://arxiv.org/abs/2506.03087v1)** | 2025-06-03 |  |
-| **[Sheaves Reloaded: A Directional Awakening](http://arxiv.org/abs/2506.02842v1)** | 2025-06-03 |  |
 
