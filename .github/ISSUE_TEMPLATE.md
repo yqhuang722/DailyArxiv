@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 08, 2025
+title: Latest 10 Papers - June 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v3)** | 2025-06-06 | 9 pages |
 | **[G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning](http://arxiv.org/abs/2505.18499v2)** | 2025-06-03 |  |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](http://arxiv.org/abs/2502.09254v2)** | 2025-06-01 | Accepted by KDD2025 |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v1)** | 2025-05-31 | 34pages |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Scalable Graph Generative Modeling via Substructure Sequences](http://arxiv.org/abs/2505.16130v1)** | 2025-05-22 |  |
 | **[Graph Foundation Models: A Comprehensive Survey](http://arxiv.org/abs/2505.15116v1)** | 2025-05-21 | <details><summary>Githu...</summary><p>Github Repo: https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs. 93 pages, 438 references</p></details> |
 | **[When Do LLMs Help With Node Classification? A Comprehensive Analysis](http://arxiv.org/abs/2502.00829v2)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](http://arxiv.org/abs/2505.12684v1)** | 2025-05-19 | Under Review |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model-Driven Graph Contrastive Learning](http://arxiv.org/abs/2506.06212v1)** | 2025-06-06 |  |
 | **[Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning](http://arxiv.org/abs/2506.05214v1)** | 2025-06-05 |  |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Network](http://arxiv.org/abs/2505.17786v2)** | 2025-06-05 | under review |
 | **[Weak Supervision for Real World Graphs](http://arxiv.org/abs/2506.02451v1)** | 2025-06-03 |  |
@@ -44,19 +45,18 @@ labels: documentation
 | **[HGCL: Hierarchical Graph Contrastive Learning for User-Item Recommendation](http://arxiv.org/abs/2505.19020v1)** | 2025-05-25 | 10 pages, 5 figures |
 | **[Fractal Graph Contrastive Learning](http://arxiv.org/abs/2505.11356v2)** | 2025-05-22 |  |
 | **[Enhancing the Influence of Labels on Unlabeled Nodes in Graph Convolutional Networks](http://arxiv.org/abs/2411.02279v3)** | 2025-05-22 | Accepted by ICML2025 |
-| **[Quantum Rationale-Aware Graph Contrastive Learning for Jet Discrimination](http://arxiv.org/abs/2411.01642v4)** | 2025-05-21 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning](http://arxiv.org/abs/2506.05214v1)** | 2025-06-05 |  |
-| **[Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos](http://arxiv.org/abs/2506.03440v2)** | 2025-06-05 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications (ESWA)</p></details> |
-| **[Influence Functions for Edge Edits in Non-Convex Graph Neural Networks](http://arxiv.org/abs/2506.04694v1)** | 2025-06-05 |  |
-| **[The Oversmoothing Fallacy: A Misguided Narrative in GNN Research](http://arxiv.org/abs/2506.04653v1)** | 2025-06-05 |  |
-| **[Ignoring Directionality Leads to Compromised Graph Neural Network Explanations](http://arxiv.org/abs/2506.04608v1)** | 2025-06-05 |  |
-| **[Intelligent4DSE: Optimizing High-Level Synthesis Design Space Exploration with Graph Neural Networks and Large Language Models](http://arxiv.org/abs/2504.19649v2)** | 2025-06-05 |  |
-| **[Spectro-Riemannian Graph Neural Networks](http://arxiv.org/abs/2502.00401v2)** | 2025-06-04 | ICLR 2025 |
-| **[chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations](http://arxiv.org/abs/2506.04055v1)** | 2025-06-04 | <details><summary>Sourc...</summary><p>Source code available at: https://github.com/tummfm/chemtrain</p></details> |
-| **[Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting](http://arxiv.org/abs/2410.12593v2)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[Weisfeiler and Leman Go Gambling: Why Expressive Lottery Tickets Win](http://arxiv.org/abs/2506.03919v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
+| **[PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems](http://arxiv.org/abs/2506.06226v1)** | 2025-06-06 |  |
+| **[A Cognac shot to forget bad memories: Corrective Unlearning in GNNs](http://arxiv.org/abs/2412.00789v3)** | 2025-06-06 | <details><summary>In Pr...</summary><p>In Proceedings of ICML 2025</p></details> |
+| **[Quantifying the Optimization and Generalization Advantages of Graph Neural Networks Over Multilayer Perceptrons](http://arxiv.org/abs/2306.13926v3)** | 2025-06-06 |  |
+| **[Masked Language Models are Good Heterogeneous Graph Generalizers](http://arxiv.org/abs/2506.06157v1)** | 2025-06-06 |  |
+| **[Graph Neural Network Generalization with Gaussian Mixture Model Based Augmentation](http://arxiv.org/abs/2411.08638v3)** | 2025-06-06 |  |
+| **[Flow-Attentional Graph Neural Networks](http://arxiv.org/abs/2506.06127v1)** | 2025-06-06 |  |
+| **[HIGHT: Hierarchical Graph Tokenization for Molecule-Language Alignment](http://arxiv.org/abs/2406.14021v2)** | 2025-06-06 | <details><summary>ICML2...</summary><p>ICML2025, 27 pages, 7 figures, 23 tables; project page: https://higraphllm.github.io/</p></details> |
+| **[Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics](http://arxiv.org/abs/2506.06045v1)** | 2025-06-06 |  |
+| **[Graph Deep Learning for Time Series Forecasting](http://arxiv.org/abs/2310.15978v2)** | 2025-06-06 | <details><summary>Publi...</summary><p>Published as a tutorial paper in ACM Computing Surveys</p></details> |
+| **[On Measuring Long-Range Interactions in Graph Neural Networks](http://arxiv.org/abs/2506.05971v1)** | 2025-06-06 | ICML 2025 |
 
