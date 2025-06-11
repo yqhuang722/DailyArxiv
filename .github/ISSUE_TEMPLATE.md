@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 10, 2025
+title: Latest 10 Papers - June 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[H$^2$GFM: Towards unifying Homogeneity and Heterogeneity on Text-Attributed Graphs](http://arxiv.org/abs/2506.08298v1)** | 2025-06-10 |  |
 | **[How Expressive are Knowledge Graph Foundation Models?](http://arxiv.org/abs/2502.13339v2)** | 2025-06-09 |  |
 | **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v3)** | 2025-06-06 | 9 pages |
 | **[G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning](http://arxiv.org/abs/2505.18499v2)** | 2025-06-03 |  |
@@ -16,11 +17,11 @@ labels: documentation
 | **[SEMMA: A Semantic Aware Knowledge Graph Foundation Model](http://arxiv.org/abs/2505.20422v1)** | 2025-05-26 |  |
 | **[Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees](http://arxiv.org/abs/2412.16441v3)** | 2025-05-25 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[Scalable Graph Generative Modeling via Substructure Sequences](http://arxiv.org/abs/2505.16130v1)** | 2025-05-22 |  |
-| **[Graph Foundation Models: A Comprehensive Survey](http://arxiv.org/abs/2505.15116v1)** | 2025-05-21 | <details><summary>Githu...</summary><p>Github Repo: https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs. 93 pages, 438 references</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Prompting for Graph Learning Models: Recent Advances and Future Directions](http://arxiv.org/abs/2506.08326v1)** | 2025-06-10 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 Tutorial/Survey Track</p></details> |
 | **[Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?](http://arxiv.org/abs/2412.08174v3)** | 2025-06-01 | <details><summary>ACL 2...</summary><p>ACL 2025 Main Conference, 27 pages</p></details> |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v1)** | 2025-05-31 | 34pages |
 | **[Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks](http://arxiv.org/abs/2410.13974v2)** | 2025-05-29 | <details><summary>To be...</summary><p>To be appeared in KDD 2025</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[CodeGRAG: Bridging the Gap between Natural Language and Programming Language via Graphical Retrieval Augmented Generation](http://arxiv.org/abs/2405.02355v4)** | 2025-05-19 |  |
 | **[Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](http://arxiv.org/abs/2505.12684v1)** | 2025-05-19 | Under Review |
 | **[GraphPrompter: Multi-stage Adaptive Prompt Optimization for Graph In-Context Learning](http://arxiv.org/abs/2505.02027v1)** | 2025-05-04 | <details><summary>14 pa...</summary><p>14 pages. IEEE International Conference on Data Engineering (ICDE'2025), accepted</p></details> |
-| **[MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems](http://arxiv.org/abs/2504.10921v2)** | 2025-04-25 |  |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PropEnc: A Property Encoder for Graph Neural Networks](http://arxiv.org/abs/2409.11554v3)** | 2025-06-09 | conference paper |
-| **[Residual Reweighted Conformal Prediction for Graph Neural Networks](http://arxiv.org/abs/2506.07854v1)** | 2025-06-09 |  |
-| **[A Cognac Shot To Forget Bad Memories: Corrective Unlearning for Graph Neural Networks](http://arxiv.org/abs/2412.00789v4)** | 2025-06-09 | <details><summary>In Pr...</summary><p>In Proceedings of ICML 2025</p></details> |
-| **[An end-to-end attention-based approach for learning on graphs](http://arxiv.org/abs/2402.10793v3)** | 2025-06-09 | <details><summary>Now p...</summary><p>Now published in Nature Communications</p></details> |
-| **[Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning](http://arxiv.org/abs/2506.07735v1)** | 2025-06-09 | 9 pages, 3 figures |
-| **[Link Prediction with Relational Hypergraphs](http://arxiv.org/abs/2402.04062v3)** | 2025-06-09 |  |
-| **[Multi-View Adaptive Contrastive Learning for Information Retrieval Based Fault Localization](http://arxiv.org/abs/2409.12519v2)** | 2025-06-09 |  |
-| **[One Fits All: Learning Fair Graph Neural Networks for Various Sensitive Attributes](http://arxiv.org/abs/2406.13544v3)** | 2025-06-09 | <details><summary>Publi...</summary><p>Published in KDD 2024</p></details> |
-| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v2)** | 2025-06-09 | 16 pages, 10 figures |
-| **[HeTa: Relation-wise Heterogeneous Graph Foundation Attack Model](http://arxiv.org/abs/2506.07428v1)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
+| **[Effective Data Pruning through Score Extrapolation](http://arxiv.org/abs/2506.09010v1)** | 2025-06-10 |  |
+| **[Rapid cardiac activation prediction for cardiac resynchronization therapy planning using geometric deep learning](http://arxiv.org/abs/2506.08987v1)** | 2025-06-10 |  |
+| **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v2)** | 2025-06-10 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
+| **[Adapting to Heterophilic Graph Data with Structure-Guided Neighbor Discovery](http://arxiv.org/abs/2506.08871v1)** | 2025-06-10 |  |
+| **[Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems](http://arxiv.org/abs/2506.08743v1)** | 2025-06-10 | <details><summary>Accep...</summary><p>Accepted at DASFAA 2025</p></details> |
+| **[Urban Incident Prediction with Graph Neural Networks: Integrating Government Ratings and Crowdsourced Reports](http://arxiv.org/abs/2506.08740v1)** | 2025-06-10 |  |
+| **[WGLE:Backdoor-free and Multi-bit Black-box Watermarking for Graph Neural Networks](http://arxiv.org/abs/2506.08602v1)** | 2025-06-10 |  |
+| **[HGFormer: A Hierarchical Graph Transformer Framework for Two-Stage Colonel Blotto Games via Reinforcement Learning](http://arxiv.org/abs/2506.08580v1)** | 2025-06-10 |  |
+| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v3)** | 2025-06-10 | 16 pages, 10 figures |
+| **[Learnable Spatial-Temporal Positional Encoding for Link Prediction](http://arxiv.org/abs/2506.08309v1)** | 2025-06-10 | <details><summary>Accep...</summary><p>Accepted by ICML 2025. 28 pages, 1 figures, 22 tables</p></details> |
 
