@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 11, 2025
+title: Latest 10 Papers - June 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -14,9 +14,9 @@ labels: documentation
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](http://arxiv.org/abs/2502.09254v2)** | 2025-06-01 | Accepted by KDD2025 |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v1)** | 2025-05-31 | 34pages |
 | **[Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment](http://arxiv.org/abs/2502.02017v2)** | 2025-05-30 |  |
+| **[NOCL: Node-Oriented Conceptualization LLM for Graph Tasks without Message Passing](http://arxiv.org/abs/2506.10014v1)** | 2025-05-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures. arXiv admin note: text overlap with arXiv:1703.00552, arXiv:1403.2844 by other authors</p></details> |
 | **[SEMMA: A Semantic Aware Knowledge Graph Foundation Model](http://arxiv.org/abs/2505.20422v1)** | 2025-05-26 |  |
 | **[Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees](http://arxiv.org/abs/2412.16441v3)** | 2025-05-25 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Scalable Graph Generative Modeling via Substructure Sequences](http://arxiv.org/abs/2505.16130v1)** | 2025-05-22 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Effective Data Pruning through Score Extrapolation](http://arxiv.org/abs/2506.09010v1)** | 2025-06-10 |  |
-| **[Rapid cardiac activation prediction for cardiac resynchronization therapy planning using geometric deep learning](http://arxiv.org/abs/2506.08987v1)** | 2025-06-10 |  |
-| **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v2)** | 2025-06-10 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
-| **[Adapting to Heterophilic Graph Data with Structure-Guided Neighbor Discovery](http://arxiv.org/abs/2506.08871v1)** | 2025-06-10 |  |
-| **[Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems](http://arxiv.org/abs/2506.08743v1)** | 2025-06-10 | <details><summary>Accep...</summary><p>Accepted at DASFAA 2025</p></details> |
-| **[Urban Incident Prediction with Graph Neural Networks: Integrating Government Ratings and Crowdsourced Reports](http://arxiv.org/abs/2506.08740v1)** | 2025-06-10 |  |
-| **[WGLE:Backdoor-free and Multi-bit Black-box Watermarking for Graph Neural Networks](http://arxiv.org/abs/2506.08602v1)** | 2025-06-10 |  |
-| **[HGFormer: A Hierarchical Graph Transformer Framework for Two-Stage Colonel Blotto Games via Reinforcement Learning](http://arxiv.org/abs/2506.08580v1)** | 2025-06-10 |  |
-| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v3)** | 2025-06-10 | 16 pages, 10 figures |
-| **[Learnable Spatial-Temporal Positional Encoding for Link Prediction](http://arxiv.org/abs/2506.08309v1)** | 2025-06-10 | <details><summary>Accep...</summary><p>Accepted by ICML 2025. 28 pages, 1 figures, 22 tables</p></details> |
+| **[Three iterations of $(d-1)$-WL test distinguish non isometric clouds of $d$-dimensional points](http://arxiv.org/abs/2303.12853v4)** | 2025-06-12 | <details><summary>Chang...</summary><p>Changes to previous version: new results, inability of 1-WL to recognize planar point clouds in R^3, and incompleteness of 2-WL in R^6</p></details> |
+| **[Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation](http://arxiv.org/abs/2506.10658v1)** | 2025-06-12 | 30 pages |
+| **[Graph Neural Networks for Automatic Addition of Optimizing Components in Printed Circuit Board Schematics](http://arxiv.org/abs/2506.10577v1)** | 2025-06-12 |  |
+| **[From Features to Graphs: Exploring Graph Structures and Pairwise Interactions via GNNs](http://arxiv.org/abs/2502.13471v2)** | 2025-06-12 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering](http://arxiv.org/abs/2506.01784v2)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Track</p></details> |
+| **[LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture](http://arxiv.org/abs/2506.10347v1)** | 2025-06-12 | <details><summary>Proce...</summary><p>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</p></details> |
+| **[Context-Adaptive Graph Neural Networks for Next POI Recommendation](http://arxiv.org/abs/2506.10329v1)** | 2025-06-12 | 12 pages, 6 figures |
+| **[Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning](http://arxiv.org/abs/2506.10282v1)** | 2025-06-12 | 16 pages, 4 figures |
+| **[OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning](http://arxiv.org/abs/2504.17811v3)** | 2025-06-12 | <details><summary>To ap...</summary><p>To appear in Proceedings of KDD 2025 Industry Track</p></details> |
+| **[PointNet with KAN versus PointNet with MLP for 3D Classification and Segmentation of Point Sets](http://arxiv.org/abs/2410.10084v3)** | 2025-06-11 |  |
 
