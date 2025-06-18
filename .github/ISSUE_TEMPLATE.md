@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 17, 2025
+title: Latest 10 Papers - June 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models](http://arxiv.org/abs/2506.14291v1)** | 2025-06-17 |  |
+| **[Toward a Graph Foundation Model: Pre-Training Transformers With Random Walks](http://arxiv.org/abs/2506.14098v1)** | 2025-06-17 |  |
 | **[H$^2$GFM: Towards unifying Homogeneity and Heterogeneity on Text-Attributed Graphs](http://arxiv.org/abs/2506.08298v2)** | 2025-06-15 |  |
 | **[HYPER: A Foundation Model for Inductive Link Prediction with Knowledge Hypergraphs](http://arxiv.org/abs/2506.12362v1)** | 2025-06-14 |  |
 | **[HEIST: A Graph Foundation Model for Spatial Transcriptomics and Proteomics Data](http://arxiv.org/abs/2506.11152v1)** | 2025-06-11 |  |
@@ -15,8 +17,6 @@ labels: documentation
 | **[G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning](http://arxiv.org/abs/2505.18499v2)** | 2025-06-03 |  |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](http://arxiv.org/abs/2502.09254v2)** | 2025-06-01 | Accepted by KDD2025 |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v1)** | 2025-05-31 | 34pages |
-| **[Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment](http://arxiv.org/abs/2502.02017v2)** | 2025-05-30 |  |
-| **[NOCL: Node-Oriented Conceptualization LLM for Graph Tasks without Message Passing](http://arxiv.org/abs/2506.10014v1)** | 2025-05-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures. arXiv admin note: text overlap with arXiv:1703.00552, arXiv:1403.2844 by other authors</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction](http://arxiv.org/abs/2506.13678v1)** | 2025-06-16 | 18 pages, 13 figures |
-| **[TwiUSD: A Benchmark Dataset and Structure-Aware LLM Framework for User Stance Detection](http://arxiv.org/abs/2506.13343v1)** | 2025-06-16 |  |
-| **[Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks](http://arxiv.org/abs/2506.13276v1)** | 2025-06-16 |  |
-| **[Graph Neural Networks and Deep Reinforcement Learning Based Resource Allocation for V2X Communications](http://arxiv.org/abs/2407.06518v2)** | 2025-06-16 | <details><summary>15 pa...</summary><p>15 pages, 11 figures. This paper has been accepted by IEEE Internet of Things Journal. The source code has been released at: https://github.com/qiongwu86/GNN-and-DRL-Based-Resource-Allocation-for-V2X-Communications</p></details> |
-| **[On the Completeness of Invariant Geometric Deep Learning Models](http://arxiv.org/abs/2402.04836v4)** | 2025-06-16 | <details><summary>The T...</summary><p>The Thirteenth International Conference on Learning Representations</p></details> |
-| **[PhenoKG: Knowledge Graph-Driven Gene Discovery and Patient Insights from Phenotypes Alone](http://arxiv.org/abs/2506.13119v1)** | 2025-06-16 |  |
-| **[Dynamic Graph Condensation](http://arxiv.org/abs/2506.13099v1)** | 2025-06-16 |  |
-| **[Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach](http://arxiv.org/abs/2506.13083v1)** | 2025-06-16 | Accepted by TNNLS |
-| **[Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling](http://arxiv.org/abs/2401.03692v5)** | 2025-06-16 |  |
-| **[SemanticST: Spatially Informed Semantic Graph Learning for Clustering, Integration, and Scalable Analysis of Spatial Transcriptomics](http://arxiv.org/abs/2506.11491v2)** | 2025-06-16 | 6 Figures |
+| **[Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains](http://arxiv.org/abs/2406.11423v4)** | 2025-06-17 |  |
+| **[Refining music sample identification with a self-supervised graph neural network](http://arxiv.org/abs/2506.14684v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted at International Conference for Music Information Retrieval (ISMIR) 2025</p></details> |
+| **[Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution](http://arxiv.org/abs/2506.14529v1)** | 2025-06-17 |  |
+| **[AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection](http://arxiv.org/abs/2506.14470v1)** | 2025-06-17 |  |
+| **[GraphAU-Pain: Graph-based Action Unit Representation for Pain Intensity Estimation](http://arxiv.org/abs/2505.19802v2)** | 2025-06-17 | MiGA@IJCAI25 |
+| **[Can Large Language Models Improve Spectral Graph Neural Networks?](http://arxiv.org/abs/2506.14220v1)** | 2025-06-17 |  |
+| **[Delving into Instance-Dependent Label Noise in Graph Data: A Comprehensive Study and Benchmark](http://arxiv.org/abs/2506.12468v2)** | 2025-06-17 | 12 pages |
+| **[CLGNN: A Contrastive Learning-based GNN Model for Betweenness Centrality Prediction on Temporal Graphs](http://arxiv.org/abs/2506.14122v1)** | 2025-06-17 |  |
+| **[Evaluating Loss Functions for Graph Neural Networks: Towards Pretraining and Generalization](http://arxiv.org/abs/2506.14114v1)** | 2025-06-17 | <details><summary>ACM s...</summary><p>ACM single column 633 pages</p></details> |
+| **[Quantum-Informed Contrastive Learning with Dynamic Mixup Augmentation for Class-Imbalanced Expert Systems](http://arxiv.org/abs/2506.13987v1)** | 2025-06-16 |  |
 
