@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 22, 2025
+title: Latest 10 Papers - June 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction](http://arxiv.org/abs/2506.13678v2)** | 2025-06-18 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, under review</p></details> |
-| **[Over-squashing in Spatiotemporal Graph Neural Networks](http://arxiv.org/abs/2506.15507v1)** | 2025-06-18 |  |
-| **[Deep Graph Anomaly Detection: A Survey and New Perspectives](http://arxiv.org/abs/2409.09957v2)** | 2025-06-18 | Accepted by TKDE |
-| **[Graph Neural Networks for Jamming Source Localization](http://arxiv.org/abs/2506.03196v2)** | 2025-06-18 |  |
-| **[DOVA-PATBM: An Intelligent, Adaptive, and Scalable Framework for Optimizing Large-Scale EV Charging Infrastructure](http://arxiv.org/abs/2506.15289v1)** | 2025-06-18 |  |
-| **[Personalized Layer Selection for Graph Neural Networks](http://arxiv.org/abs/2501.14964v2)** | 2025-06-18 |  |
-| **[HetGCoT: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Academic Question Answering](http://arxiv.org/abs/2501.01203v2)** | 2025-06-18 |  |
-| **[Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains](http://arxiv.org/abs/2406.11423v4)** | 2025-06-17 |  |
-| **[Refining music sample identification with a self-supervised graph neural network](http://arxiv.org/abs/2506.14684v1)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted at International Conference for Music Information Retrieval (ISMIR) 2025</p></details> |
-| **[Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution](http://arxiv.org/abs/2506.14529v1)** | 2025-06-17 |  |
+| **[Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings](http://arxiv.org/abs/2506.17064v1)** | 2025-06-20 | <details><summary>10 pa...</summary><p>10 pages (main text), 4 figures, 2 tables. Submitted to NeurIPS 2025. Code and data are publicly available</p></details> |
+| **[Refining music sample identification with a self-supervised graph neural network](http://arxiv.org/abs/2506.14684v2)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted at International Conference for Music Information Retrieval (ISMIR) 2025</p></details> |
+| **[Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution](http://arxiv.org/abs/2506.01231v2)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
+| **[Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective](http://arxiv.org/abs/2506.16790v1)** | 2025-06-20 | <details><summary>Publi...</summary><p>Published in TMLR (2025)</p></details> |
+| **[SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics](http://arxiv.org/abs/2506.16602v1)** | 2025-06-19 |  |
+| **[ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion](http://arxiv.org/abs/2504.15920v3)** | 2025-06-19 |  |
+| **[Quantum-Informed Contrastive Learning with Dynamic Mixup Augmentation for Class-Imbalanced Expert Systems](http://arxiv.org/abs/2506.13987v2)** | 2025-06-19 |  |
+| **[Sustainable Greenhouse Microclimate Modeling: A Comparative Analysis of Recurrent and Graph Neural Networks](http://arxiv.org/abs/2502.17371v4)** | 2025-06-19 |  |
+| **[Representation Learning with Mutual Influence of Modalities for Node Classification in Multi-Modal Heterogeneous Networks](http://arxiv.org/abs/2505.07895v3)** | 2025-06-19 |  |
+| **[Geometric Learning in Black-Box Optimization: A GNN Framework for Algorithm Performance Prediction](http://arxiv.org/abs/2506.16144v1)** | 2025-06-19 |  |
 
