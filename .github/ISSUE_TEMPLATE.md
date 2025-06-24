@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 23, 2025
+title: Latest 10 Papers - June 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings](http://arxiv.org/abs/2506.17064v1)** | 2025-06-20 | <details><summary>10 pa...</summary><p>10 pages (main text), 4 figures, 2 tables. Submitted to NeurIPS 2025. Code and data are publicly available</p></details> |
-| **[Refining music sample identification with a self-supervised graph neural network](http://arxiv.org/abs/2506.14684v2)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted at International Conference for Music Information Retrieval (ISMIR) 2025</p></details> |
-| **[Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution](http://arxiv.org/abs/2506.01231v2)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
-| **[Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective](http://arxiv.org/abs/2506.16790v1)** | 2025-06-20 | <details><summary>Publi...</summary><p>Published in TMLR (2025)</p></details> |
-| **[SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics](http://arxiv.org/abs/2506.16602v1)** | 2025-06-19 |  |
-| **[ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion](http://arxiv.org/abs/2504.15920v3)** | 2025-06-19 |  |
-| **[Quantum-Informed Contrastive Learning with Dynamic Mixup Augmentation for Class-Imbalanced Expert Systems](http://arxiv.org/abs/2506.13987v2)** | 2025-06-19 |  |
-| **[Sustainable Greenhouse Microclimate Modeling: A Comparative Analysis of Recurrent and Graph Neural Networks](http://arxiv.org/abs/2502.17371v4)** | 2025-06-19 |  |
-| **[Representation Learning with Mutual Influence of Modalities for Node Classification in Multi-Modal Heterogeneous Networks](http://arxiv.org/abs/2505.07895v3)** | 2025-06-19 |  |
-| **[Geometric Learning in Black-Box Optimization: A GNN Framework for Algorithm Performance Prediction](http://arxiv.org/abs/2506.16144v1)** | 2025-06-19 |  |
+| **[Fast State-Augmented Learning for Wireless Resource Allocation with Dual Variable Regression](http://arxiv.org/abs/2506.18748v1)** | 2025-06-23 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TSP for possible publication</p></details> |
+| **[SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding](http://arxiv.org/abs/2506.18696v1)** | 2025-06-23 | Under review |
+| **[Federated Learning from Molecules to Processes: A Perspective](http://arxiv.org/abs/2506.18525v1)** | 2025-06-23 |  |
+| **[Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings](http://arxiv.org/abs/2506.17064v2)** | 2025-06-23 | <details><summary>10 pa...</summary><p>10 pages (main text), 4 figures, 2 tables. Submitted to NeurIPS 2025. Code and data are publicly available</p></details> |
+| **[Your Token Becomes Worthless: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis](http://arxiv.org/abs/2506.18398v1)** | 2025-06-23 |  |
+| **[PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching](http://arxiv.org/abs/2506.18382v1)** | 2025-06-23 | Accepted by KDD 2025 |
+| **[Robot Tactile Gesture Recognition Based on Full-body Modular E-skin](http://arxiv.org/abs/2506.18256v1)** | 2025-06-23 |  |
+| **[Call Me Maybe: Enhancing JavaScript Call Graph Construction using Graph Neural Networks](http://arxiv.org/abs/2506.18191v1)** | 2025-06-22 |  |
+| **[Supercharging Graph Transformers with Advective Diffusion](http://arxiv.org/abs/2310.06417v4)** | 2025-06-22 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
+| **[Rumor Detection on Social Media with Reinforcement Learning-based Key Propagation Graph Generator](http://arxiv.org/abs/2405.13094v2)** | 2025-06-22 |  |
 
