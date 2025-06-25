@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 24, 2025
+title: Latest 10 Papers - June 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning-aided Bigraph Matching Approach to Multi-Crew Restoration of Damaged Power Networks Coupled with Road Transportation Networks](http://arxiv.org/abs/2506.19703v1)** | 2025-06-24 | IDETC 2025 |
+| **[Higher-Order Graph Databases](http://arxiv.org/abs/2506.19661v1)** | 2025-06-24 |  |
+| **[Fast and Distributed Equivariant Graph Neural Networks by Virtual Node Learning](http://arxiv.org/abs/2506.19482v1)** | 2025-06-24 |  |
+| **[Uncertainty Quantification on Graph Learning: A Survey](http://arxiv.org/abs/2404.14642v3)** | 2025-06-24 |  |
+| **[Efficient Extreme Operating Condition Search for Online Relay Setting Calculation in Renewable Power Systems Based on Parallel Graph Neural Network](http://arxiv.org/abs/2506.19289v1)** | 2025-06-24 |  |
+| **[A Batch-Insensitive Dynamic GNN Approach to Address Temporal Discontinuity in Graph Streams](http://arxiv.org/abs/2506.19282v1)** | 2025-06-24 | 8pages, 5figures |
+| **[Machines and Mathematical Mutations: Using GNNs to Characterize Quiver Mutation Classes](http://arxiv.org/abs/2411.07467v2)** | 2025-06-23 | ICML 2025 |
+| **[Automating Traffic Monitoring with SHM Sensor Networks via Vision-Supervised Deep Learning](http://arxiv.org/abs/2506.19023v1)** | 2025-06-23 |  |
 | **[Fast State-Augmented Learning for Wireless Resource Allocation with Dual Variable Regression](http://arxiv.org/abs/2506.18748v1)** | 2025-06-23 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TSP for possible publication</p></details> |
 | **[SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding](http://arxiv.org/abs/2506.18696v1)** | 2025-06-23 | Under review |
-| **[Federated Learning from Molecules to Processes: A Perspective](http://arxiv.org/abs/2506.18525v1)** | 2025-06-23 |  |
-| **[Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings](http://arxiv.org/abs/2506.17064v2)** | 2025-06-23 | <details><summary>10 pa...</summary><p>10 pages (main text), 4 figures, 2 tables. Submitted to NeurIPS 2025. Code and data are publicly available</p></details> |
-| **[Your Token Becomes Worthless: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis](http://arxiv.org/abs/2506.18398v1)** | 2025-06-23 |  |
-| **[PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching](http://arxiv.org/abs/2506.18382v1)** | 2025-06-23 | Accepted by KDD 2025 |
-| **[Robot Tactile Gesture Recognition Based on Full-body Modular E-skin](http://arxiv.org/abs/2506.18256v1)** | 2025-06-23 |  |
-| **[Call Me Maybe: Enhancing JavaScript Call Graph Construction using Graph Neural Networks](http://arxiv.org/abs/2506.18191v1)** | 2025-06-22 |  |
-| **[Supercharging Graph Transformers with Advective Diffusion](http://arxiv.org/abs/2310.06417v4)** | 2025-06-22 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
-| **[Rumor Detection on Social Media with Reinforcement Learning-based Key Propagation Graph Generator](http://arxiv.org/abs/2405.13094v2)** | 2025-06-22 |  |
 
