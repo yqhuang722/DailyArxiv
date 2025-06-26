@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 25, 2025
+title: Latest 10 Papers - June 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring Graph-Transformer Out-of-Distribution Generalization Abilities](http://arxiv.org/abs/2506.20575v1)** | 2025-06-25 |  |
+| **[Adaptive Supergeo Design: A Scalable Framework for Geographic Marketing Experiments](http://arxiv.org/abs/2506.20499v1)** | 2025-06-25 |  |
+| **[Self-Supervised Graph Learning via Spectral Bootstrapping and Laplacian-Based Augmentations](http://arxiv.org/abs/2506.20362v1)** | 2025-06-25 | <details><summary>Lapla...</summary><p>LaplaceGNN is a novel graph learning framework that employs a bootstrapped teacher-student architecture. Its precomputed spectral augmentations and adversarial training enable robust performance, outperforming SOTA methods while scaling linearly</p></details> |
+| **[Beyond Topological Self-Explainable GNNs: A Formal Explainability Perspective](http://arxiv.org/abs/2502.02719v2)** | 2025-06-25 |  |
+| **[Dual-Channel Multiplex Graph Neural Networks for Recommendation](http://arxiv.org/abs/2403.11624v5)** | 2025-06-25 |  |
+| **[Directed Link Prediction using GNN with Local and Global Feature Fusion](http://arxiv.org/abs/2506.20235v1)** | 2025-06-25 |  |
+| **[GNN's Uncertainty Quantification using Self-Distillation](http://arxiv.org/abs/2506.20046v1)** | 2025-06-24 | <details><summary>The p...</summary><p>The paper has been accepted in the International Conference on AI in Healthcare (AIiH) 2025 and will appear in the conference proceedings</p></details> |
+| **[Automated Generation of Diverse Courses of Actions for Multi-Agent Operations using Binary Optimization and Graph Learning](http://arxiv.org/abs/2506.20031v1)** | 2025-06-24 |  |
+| **[Scalable Machine Learning Algorithms using Path Signatures](http://arxiv.org/abs/2506.17634v2)** | 2025-06-24 | PhD thesis |
 | **[Learning-aided Bigraph Matching Approach to Multi-Crew Restoration of Damaged Power Networks Coupled with Road Transportation Networks](http://arxiv.org/abs/2506.19703v1)** | 2025-06-24 | IDETC 2025 |
-| **[Higher-Order Graph Databases](http://arxiv.org/abs/2506.19661v1)** | 2025-06-24 |  |
-| **[Fast and Distributed Equivariant Graph Neural Networks by Virtual Node Learning](http://arxiv.org/abs/2506.19482v1)** | 2025-06-24 |  |
-| **[Uncertainty Quantification on Graph Learning: A Survey](http://arxiv.org/abs/2404.14642v3)** | 2025-06-24 |  |
-| **[Efficient Extreme Operating Condition Search for Online Relay Setting Calculation in Renewable Power Systems Based on Parallel Graph Neural Network](http://arxiv.org/abs/2506.19289v1)** | 2025-06-24 |  |
-| **[A Batch-Insensitive Dynamic GNN Approach to Address Temporal Discontinuity in Graph Streams](http://arxiv.org/abs/2506.19282v1)** | 2025-06-24 | 8pages, 5figures |
-| **[Machines and Mathematical Mutations: Using GNNs to Characterize Quiver Mutation Classes](http://arxiv.org/abs/2411.07467v2)** | 2025-06-23 | ICML 2025 |
-| **[Automating Traffic Monitoring with SHM Sensor Networks via Vision-Supervised Deep Learning](http://arxiv.org/abs/2506.19023v1)** | 2025-06-23 |  |
-| **[Fast State-Augmented Learning for Wireless Resource Allocation with Dual Variable Regression](http://arxiv.org/abs/2506.18748v1)** | 2025-06-23 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TSP for possible publication</p></details> |
-| **[SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding](http://arxiv.org/abs/2506.18696v1)** | 2025-06-23 | Under review |
 
