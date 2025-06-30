@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 29, 2025
+title: Latest 10 Papers - June 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v2)** | 2025-06-27 |  |
+| **[Multi-task parallelism for robust pre-training of graph foundation models on multi-source, multi-fidelity atomistic modeling data](http://arxiv.org/abs/2506.21788v1)** | 2025-06-26 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 2 tables</p></details> |
 | **[Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models](http://arxiv.org/abs/2506.14291v1)** | 2025-06-17 |  |
 | **[Toward a Graph Foundation Model: Pre-Training Transformers With Random Walks](http://arxiv.org/abs/2506.14098v1)** | 2025-06-17 |  |
 | **[H$^2$GFM: Towards unifying Homogeneity and Heterogeneity on Text-Attributed Graphs](http://arxiv.org/abs/2506.08298v2)** | 2025-06-15 |  |
@@ -15,8 +17,6 @@ labels: documentation
 | **[How Expressive are Knowledge Graph Foundation Models?](http://arxiv.org/abs/2502.13339v2)** | 2025-06-09 |  |
 | **[GraphGPT: Generative Pre-trained Graph Eulerian Transformer](http://arxiv.org/abs/2401.00529v3)** | 2025-06-06 | 9 pages |
 | **[G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning](http://arxiv.org/abs/2505.18499v2)** | 2025-06-03 |  |
-| **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](http://arxiv.org/abs/2502.09254v2)** | 2025-06-01 | Accepted by KDD2025 |
-| **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v1)** | 2025-05-31 | 34pages |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Neural Network for Neutrino Physics Event Reconstruction](http://arxiv.org/abs/2403.11872v2)** | 2025-06-26 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, published in Physical Review D</p></details> |
-| **[Accelerating GNN Training through Locality-aware Dropout and Merge](http://arxiv.org/abs/2506.21414v1)** | 2025-06-26 | <details><summary>under...</summary><p>under review in TPDS. extend version of DATE 2025</p></details> |
-| **[Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection](http://arxiv.org/abs/2506.21382v1)** | 2025-06-26 |  |
-| **[Real-time and personalized product recommendations for large e-commerce platforms](http://arxiv.org/abs/2506.21368v1)** | 2025-06-26 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the International Conference on Artificial Neural Networks (ICANN) 2025. The final authenticated version will be available for purchase through the publisher's website. The conference proceedings will be published by Springer in the Lecture Notes in Computer Science (LNCS) series</p></details> |
-| **[ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion](http://arxiv.org/abs/2504.15920v4)** | 2025-06-26 |  |
-| **[Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols](http://arxiv.org/abs/2506.09803v2)** | 2025-06-26 |  |
-| **[xChemAgents: Agentic AI for Explainable Quantum Chemistry](http://arxiv.org/abs/2505.20574v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted Paper at ICML 2025 Workshop on MAS</p></details> |
-| **[A GREAT Architecture for Edge-Based Graph Problems Like TSP](http://arxiv.org/abs/2408.16717v2)** | 2025-06-26 | 15 pages, 7 figures |
-| **[Demystifying Distributed Training of Graph Neural Networks for Link Prediction](http://arxiv.org/abs/2506.20818v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted by IEEE ICDCS 2025</p></details> |
-| **[Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis](http://arxiv.org/abs/2506.20806v1)** | 2025-06-25 | <details><summary>Poste...</summary><p>Poster accepted at the 10th IEEE European Symposium on Security and Privacy (Euro S&P 2025)</p></details> |
+| **[Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration](http://arxiv.org/abs/2501.19179v2)** | 2025-06-27 |  |
+| **[CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks](http://arxiv.org/abs/2506.22299v1)** | 2025-06-27 | icmr |
+| **[How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?](http://arxiv.org/abs/2506.11869v2)** | 2025-06-27 |  |
+| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v2)** | 2025-06-27 |  |
+| **[The Missing Link: Joint Legal Citation Prediction using Heterogeneous Graph Enrichment](http://arxiv.org/abs/2506.22165v1)** | 2025-06-27 |  |
+| **[Learning Distributed Safe Multi-Agent Navigation via Infinite-Horizon Optimal Graph Control](http://arxiv.org/abs/2506.22117v1)** | 2025-06-27 |  |
+| **[Transformers are Graph Neural Networks](http://arxiv.org/abs/2506.22084v1)** | 2025-06-27 | <details><summary>This ...</summary><p>This paper is a technical version of an article in The Gradient at https://thegradient.pub/transformers-are-graph-neural-networks/</p></details> |
+| **[PQ-GCN: Enhancing Text Graph Question Classification with Phrase Features](http://arxiv.org/abs/2409.02481v3)** | 2025-06-27 |  |
+| **[Multi-task parallelism for robust pre-training of graph foundation models on multi-source, multi-fidelity atomistic modeling data](http://arxiv.org/abs/2506.21788v1)** | 2025-06-26 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 2 tables</p></details> |
+| **[Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks](http://arxiv.org/abs/2503.23167v3)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 Tutorial Track</p></details> |
 
