@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 03, 2025
+title: Latest 10 Papers - July 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RLHGNN: Reinforcement Learning-driven Heterogeneous Graph Neural Network for Next Activity Prediction in Business Processes](http://arxiv.org/abs/2507.02690v1)** | 2025-07-03 | <details><summary>15 pa...</summary><p>15 pages, 7 figures. Business process prediction using reinforcement learning and heterogeneous graph neural networks</p></details> |
+| **[Learning Traffic Anomalies from Generative Models on Real-Time Observations](http://arxiv.org/abs/2502.01391v3)** | 2025-07-03 |  |
+| **[Interpreting Graph Inference with Skyline Explanations](http://arxiv.org/abs/2505.07635v2)** | 2025-07-03 |  |
+| **[S2FGL: Spatial Spectral Federated Graph Learning](http://arxiv.org/abs/2507.02409v1)** | 2025-07-03 |  |
+| **[Neural Graph Matching Improves Retrieval Augmented Generation in Molecular Machine Learning](http://arxiv.org/abs/2502.17874v2)** | 2025-07-03 | ICML 2025 |
+| **[Generating Large Semi-Synthetic Graphs of Any Size](http://arxiv.org/abs/2507.02166v1)** | 2025-07-02 |  |
+| **[Non-exchangeable Conformal Prediction for Temporal Graph Neural Networks](http://arxiv.org/abs/2507.02151v1)** | 2025-07-02 | accepted by KDD 2025 |
+| **[Enhancing Power Flow Estimation with Topology-Aware Gated Graph Neural Networks](http://arxiv.org/abs/2507.02078v1)** | 2025-07-02 |  |
 | **[Graph-Based Deep Learning for Component Segmentation of Maize Plants](http://arxiv.org/abs/2507.00182v2)** | 2025-07-02 |  |
 | **[Joint Power Control and Precoding for Cell-Free Massive MIMO Systems With Sparse Multi-Dimensional Graph Neural Networks](http://arxiv.org/abs/2507.01876v1)** | 2025-07-02 | 5 pages, 5 figures |
-| **[MILP-SAT-GNN: Yet Another Neural SAT Solver](http://arxiv.org/abs/2507.01825v1)** | 2025-07-02 |  |
-| **[Vehicle-group-based Crash Risk Prediction and Interpretation on Highways](http://arxiv.org/abs/2402.12415v3)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted and published in IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 6, pp. 7807-7818, June 2025. DOI: 10.1109/TITS.2025.3556543</p></details> |
-| **[RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles](http://arxiv.org/abs/2507.00937v1)** | 2025-07-01 | <details><summary>8 pag...</summary><p>8 pages, accepted by IROS 2025</p></details> |
-| **[ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation](http://arxiv.org/abs/2506.23126v2)** | 2025-07-01 |  |
-| **[Understanding Generalization in Node and Link Prediction](http://arxiv.org/abs/2507.00927v1)** | 2025-07-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2412.07106</p></details> |
-| **[NN-Former: Rethinking Graph Structure in Neural Architecture Representation](http://arxiv.org/abs/2507.00880v1)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Code is avaiable at https://github.com/XuRuihan/NNFormer</p></details> |
-| **[Studying and Improving Graph Neural Network-based Motif Estimation](http://arxiv.org/abs/2506.15709v2)** | 2025-07-01 | <details><summary>This ...</summary><p>This manuscript represents a revised version from the paper on https://openreview.net/forum?id=PZVVOeu6xx. Still a work in progress. Comments are welcome! 23 pages (12 main text + references), 9 figures, 5 tables. (First update: Fix broken links, references and text review.)</p></details> |
-| **[Neural Augmented Kalman Filters for Road Network assisted GNSS positioning](http://arxiv.org/abs/2507.00654v1)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted to ICML 2025 workshop ML4Wireless</p></details> |
 
