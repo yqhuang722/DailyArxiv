@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 08, 2025
+title: Latest 10 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PLACE: Prompt Learning for Attributed Community Search](http://arxiv.org/abs/2507.05311v1)** | 2025-07-07 | 15 pages, 9 figures |
 | **[FoGE: Fock Space inspired encoding for graph prompting](http://arxiv.org/abs/2507.02937v1)** | 2025-06-26 |  |
 | **[Graph Prompting for Graph Learning Models: Recent Advances and Future Directions](http://arxiv.org/abs/2506.08326v1)** | 2025-06-10 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 Tutorial/Survey Track</p></details> |
 | **[Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?](http://arxiv.org/abs/2412.08174v3)** | 2025-06-01 | <details><summary>ACL 2...</summary><p>ACL 2025 Main Conference, 27 pages</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Vision Graph Prompting via Semantic Low-Rank Decomposition](http://arxiv.org/abs/2505.04121v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant](http://arxiv.org/abs/2505.03654v2)** | 2025-05-19 | Work in progress |
 | **[CodeGRAG: Bridging the Gap between Natural Language and Programming Language via Graphical Retrieval Augmented Generation](http://arxiv.org/abs/2405.02355v4)** | 2025-05-19 |  |
-| **[Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](http://arxiv.org/abs/2505.12684v1)** | 2025-05-19 | Under Review |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,13 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks](http://arxiv.org/abs/2504.21844v2)** | 2025-07-07 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 4 tables (planned submission to Machine Learning Science and Technology)</p></details> |
-| **[Exploring Semantic Clustering and Similarity Search for Heterogeneous Traffic Scenario Graph](http://arxiv.org/abs/2507.05086v1)** | 2025-07-07 | <details><summary>accep...</summary><p>accepted in the IEEE IAVVC 2025 conference</p></details> |
-| **[Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation](http://arxiv.org/abs/2507.04623v1)** | 2025-07-07 |  |
-| **[Graph Neural Networks as a Substitute for Transformers in Single-Cell Transcriptomics](http://arxiv.org/abs/2507.04125v1)** | 2025-07-05 | 9 pages, 5 figures |
-| **[Commute Networks as a Signature of Urban Socioeconomic Performance: Evaluating Mobility Structures with Deep Learning Models](http://arxiv.org/abs/2507.04027v1)** | 2025-07-05 |  |
-| **[Graph Collaborative Attention Network for Link Prediction in Knowledge Graphs](http://arxiv.org/abs/2507.03947v1)** | 2025-07-05 |  |
-| **[Hierarchical graph sampling based minibatch learning with chain preservation and variance reduction](http://arxiv.org/abs/2503.00860v7)** | 2025-07-05 | 30 pages, 12 figures |
-| **[Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model](http://arxiv.org/abs/2507.03920v1)** | 2025-07-05 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2107.02381, arXiv:2109.02628</p></details> |
-| **[OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems](http://arxiv.org/abs/2507.03853v1)** | 2025-07-05 |  |
-| **[Distributed Equivariant Graph Neural Networks for Large-Scale Electronic Structure Prediction](http://arxiv.org/abs/2507.03840v1)** | 2025-07-04 | 13 pages, 8 figures |
+| **[Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical Search and Inspection Under Uncertainty](http://arxiv.org/abs/2507.06129v1)** | 2025-07-08 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, CASE 2025</p></details> |
+| **[RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis](http://arxiv.org/abs/2506.18398v3)** | 2025-07-08 |  |
+| **[CoDy: Counterfactual Explainers for Dynamic Graphs](http://arxiv.org/abs/2403.16846v2)** | 2025-07-08 | <details><summary>Proce...</summary><p>Proceedings in ICML 2025</p></details> |
+| **[WATS: Calibrating Graph Neural Networks with Wavelet-Aware Temperature Scaling](http://arxiv.org/abs/2506.23782v2)** | 2025-07-08 |  |
+| **[Multi-Channel Hypergraph Contrastive Learning for Matrix Completion](http://arxiv.org/abs/2411.01376v2)** | 2025-07-08 |  |
+| **[GMLM: Bridging Graph Neural Networks and Language Models for Heterophilic Node Classification](http://arxiv.org/abs/2503.05763v4)** | 2025-07-08 |  |
+| **[GATMesh: Clock Mesh Timing Analysis using Graph Neural Networks](http://arxiv.org/abs/2507.05681v1)** | 2025-07-08 |  |
+| **[HRRRCast: a data-driven emulator for regional weather forecasting at convection allowing scales](http://arxiv.org/abs/2507.05658v1)** | 2025-07-08 |  |
+| **[DESIGN: Encrypted GNN Inference via Server-Side Input Graph Pruning](http://arxiv.org/abs/2507.05649v1)** | 2025-07-08 | <details><summary>Under...</summary><p>Under Review in Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 
