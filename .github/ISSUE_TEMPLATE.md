@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 09, 2025
+title: Latest 10 Papers - July 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transferable Parasitic Estimation via Graph Contrastive Learning and Label Rebalancing in AMS Circuits](http://arxiv.org/abs/2507.06535v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted by ICCAD2025. This is the initial version. Minor changes will be made</p></details> |
+| **[DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction](http://arxiv.org/abs/2507.06366v1)** | 2025-07-08 |  |
 | **[Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs](http://arxiv.org/abs/2501.01644v2)** | 2025-06-28 |  |
 | **[Graph Contrastive Learning with Low-Rank Regularization and Low-Rank Attention for Noisy Node Classification](http://arxiv.org/abs/2402.09600v2)** | 2025-06-28 |  |
 | **[Towards Text-free Graph Foundation Models: Rethinking Multi-Domain Graph Contrastive Learning](http://arxiv.org/abs/2506.22510v1)** | 2025-06-26 | 16 pages, 5 figures |
@@ -43,19 +45,18 @@ labels: documentation
 | **[Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning](http://arxiv.org/abs/2506.05214v1)** | 2025-06-05 |  |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Network](http://arxiv.org/abs/2505.17786v2)** | 2025-06-05 | under review |
 | **[Weak Supervision for Real World Graphs](http://arxiv.org/abs/2506.02451v1)** | 2025-06-03 |  |
-| **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v1)** | 2025-05-31 | 34pages |
-| **[Graph Contrastive Learning for Optimizing Sparse Data in Recommender Systems with LightGCL](http://arxiv.org/abs/2506.00048v1)** | 2025-05-28 | <details><summary>Term ...</summary><p>Term Paper, Machine Learning with Graphs, North Carolina State University</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator](http://arxiv.org/abs/2507.07073v1)** | 2025-07-09 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, submitted for publication</p></details> |
+| **[GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning](http://arxiv.org/abs/2507.07006v1)** | 2025-07-09 |  |
+| **[Heterogeneous Graph Neural Networks for Short-term State Forecasting in Power Systems across Domains and Time Scales: A Hydroelectric Power Plant Case Study](http://arxiv.org/abs/2507.06694v1)** | 2025-07-09 | 25 pages, 9 figures |
+| **[Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs](http://arxiv.org/abs/2507.06549v1)** | 2025-07-09 | <details><summary>Publi...</summary><p>Published in Proceedings of GLSVLSI2024</p></details> |
+| **[GMLM: Bridging Graph Neural Networks and Language Models for Heterophilic Node Classification](http://arxiv.org/abs/2503.05763v5)** | 2025-07-09 |  |
+| **[DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction](http://arxiv.org/abs/2507.06366v1)** | 2025-07-08 |  |
 | **[Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical Search and Inspection Under Uncertainty](http://arxiv.org/abs/2507.06129v1)** | 2025-07-08 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, CASE 2025</p></details> |
 | **[RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis](http://arxiv.org/abs/2506.18398v3)** | 2025-07-08 |  |
 | **[CoDy: Counterfactual Explainers for Dynamic Graphs](http://arxiv.org/abs/2403.16846v2)** | 2025-07-08 | <details><summary>Proce...</summary><p>Proceedings in ICML 2025</p></details> |
 | **[WATS: Calibrating Graph Neural Networks with Wavelet-Aware Temperature Scaling](http://arxiv.org/abs/2506.23782v2)** | 2025-07-08 |  |
-| **[Multi-Channel Hypergraph Contrastive Learning for Matrix Completion](http://arxiv.org/abs/2411.01376v2)** | 2025-07-08 |  |
-| **[GMLM: Bridging Graph Neural Networks and Language Models for Heterophilic Node Classification](http://arxiv.org/abs/2503.05763v4)** | 2025-07-08 |  |
-| **[GATMesh: Clock Mesh Timing Analysis using Graph Neural Networks](http://arxiv.org/abs/2507.05681v1)** | 2025-07-08 |  |
-| **[HRRRCast: a data-driven emulator for regional weather forecasting at convection allowing scales](http://arxiv.org/abs/2507.05658v1)** | 2025-07-08 |  |
-| **[DESIGN: Encrypted GNN Inference via Server-Side Input Graph Pruning](http://arxiv.org/abs/2507.05649v1)** | 2025-07-08 | <details><summary>Under...</summary><p>Under Review in Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 
