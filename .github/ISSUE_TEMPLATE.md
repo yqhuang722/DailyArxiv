@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 10, 2025
+title: Latest 10 Papers - July 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HGMP:Heterogeneous Graph Multi-Task Prompt Learning](http://arxiv.org/abs/2507.07405v1)** | 2025-07-10 | <details><summary>The 2...</summary><p>The 25th International Joint Conference on Artificial Intelligence (IJCAI-25)</p></details> |
 | **[PLACE: Prompt Learning for Attributed Community Search](http://arxiv.org/abs/2507.05311v1)** | 2025-07-07 | 15 pages, 9 figures |
 | **[FoGE: Fock Space inspired encoding for graph prompting](http://arxiv.org/abs/2507.02937v1)** | 2025-06-26 |  |
 | **[Graph Prompting for Graph Learning Models: Recent Advances and Future Directions](http://arxiv.org/abs/2506.08326v1)** | 2025-06-10 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 Tutorial/Survey Track</p></details> |
@@ -30,33 +31,32 @@ labels: documentation
 | **[Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis](http://arxiv.org/abs/2410.01635v2)** | 2025-05-27 | <details><summary>accep...</summary><p>accepted by ICML 2025</p></details> |
 | **[Vision Graph Prompting via Semantic Low-Rank Decomposition](http://arxiv.org/abs/2505.04121v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant](http://arxiv.org/abs/2505.03654v2)** | 2025-05-19 | Work in progress |
-| **[CodeGRAG: Bridging the Gap between Natural Language and Programming Language via Graphical Retrieval Augmented Generation](http://arxiv.org/abs/2405.02355v4)** | 2025-05-19 |  |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation](http://arxiv.org/abs/2507.07522v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted by RecSys 2025 as Spotlight Oral</p></details> |
+| **[When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation](http://arxiv.org/abs/2507.07436v1)** | 2025-07-10 | 24 pages, 6 figures |
 | **[Transferable Parasitic Estimation via Graph Contrastive Learning and Label Rebalancing in AMS Circuits](http://arxiv.org/abs/2507.06535v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted by ICCAD2025. This is the initial version. Minor changes will be made</p></details> |
+| **[Str-GCL: Structural Commonsense Driven Graph Contrastive Learning](http://arxiv.org/abs/2507.07141v1)** | 2025-07-09 | Accepted by WWW 2025 |
 | **[DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction](http://arxiv.org/abs/2507.06366v1)** | 2025-07-08 |  |
 | **[Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs](http://arxiv.org/abs/2501.01644v2)** | 2025-06-28 |  |
 | **[Graph Contrastive Learning with Low-Rank Regularization and Low-Rank Attention for Noisy Node Classification](http://arxiv.org/abs/2402.09600v2)** | 2025-06-28 |  |
 | **[Towards Text-free Graph Foundation Models: Rethinking Multi-Domain Graph Contrastive Learning](http://arxiv.org/abs/2506.22510v1)** | 2025-06-26 | 16 pages, 5 figures |
 | **[Homophily-Driven Sanitation View for Robust Graph Contrastive Learning](http://arxiv.org/abs/2307.12555v2)** | 2025-06-07 |  |
 | **[Model-Driven Graph Contrastive Learning](http://arxiv.org/abs/2506.06212v1)** | 2025-06-06 |  |
-| **[Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning](http://arxiv.org/abs/2506.05214v1)** | 2025-06-05 |  |
-| **[Supervised Graph Contrastive Learning for Gene Regulatory Network](http://arxiv.org/abs/2505.17786v2)** | 2025-06-05 | under review |
-| **[Weak Supervision for Real World Graphs](http://arxiv.org/abs/2506.02451v1)** | 2025-06-03 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator](http://arxiv.org/abs/2507.07073v1)** | 2025-07-09 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, submitted for publication</p></details> |
-| **[GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning](http://arxiv.org/abs/2507.07006v1)** | 2025-07-09 |  |
-| **[Heterogeneous Graph Neural Networks for Short-term State Forecasting in Power Systems across Domains and Time Scales: A Hydroelectric Power Plant Case Study](http://arxiv.org/abs/2507.06694v1)** | 2025-07-09 | 25 pages, 9 figures |
-| **[Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs](http://arxiv.org/abs/2507.06549v1)** | 2025-07-09 | <details><summary>Publi...</summary><p>Published in Proceedings of GLSVLSI2024</p></details> |
-| **[GMLM: Bridging Graph Neural Networks and Language Models for Heterophilic Node Classification](http://arxiv.org/abs/2503.05763v5)** | 2025-07-09 |  |
-| **[DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction](http://arxiv.org/abs/2507.06366v1)** | 2025-07-08 |  |
-| **[Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical Search and Inspection Under Uncertainty](http://arxiv.org/abs/2507.06129v1)** | 2025-07-08 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, CASE 2025</p></details> |
-| **[RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis](http://arxiv.org/abs/2506.18398v3)** | 2025-07-08 |  |
-| **[CoDy: Counterfactual Explainers for Dynamic Graphs](http://arxiv.org/abs/2403.16846v2)** | 2025-07-08 | <details><summary>Proce...</summary><p>Proceedings in ICML 2025</p></details> |
-| **[WATS: Calibrating Graph Neural Networks with Wavelet-Aware Temperature Scaling](http://arxiv.org/abs/2506.23782v2)** | 2025-07-08 |  |
+| **[Studying and Improving Graph Neural Network-based Motif Estimation](http://arxiv.org/abs/2506.15709v3)** | 2025-07-10 | <details><summary>This ...</summary><p>This manuscript represents a revised version from the paper on https://openreview.net/forum?id=PZVVOeu6xx. Still a work in progress. Comments are welcome! 23 pages (12 main text + references), 9 figures, 5 tables. (Second update: More accurate Table 4, Run time comparisons.)</p></details> |
+| **[Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain](http://arxiv.org/abs/2507.07854v1)** | 2025-07-10 | <details><summary>The p...</summary><p>The paper will be published on 2025 International Conference on Big Data, Artificial Intelligence and Digital Economy</p></details> |
+| **[Statistical physics analysis of graph neural networks: Approaching optimality in the contextual stochastic block model](http://arxiv.org/abs/2503.01361v2)** | 2025-07-10 |  |
+| **[Curriculum Negative Mining For Temporal Networks](http://arxiv.org/abs/2407.17070v2)** | 2025-07-10 |  |
+| **[S2FGL: Spatial Spectral Federated Graph Learning](http://arxiv.org/abs/2507.02409v2)** | 2025-07-10 |  |
+| **[Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs](http://arxiv.org/abs/2507.07595v1)** | 2025-07-10 |  |
+| **[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation](http://arxiv.org/abs/2507.07522v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted by RecSys 2025 as Spotlight Oral</p></details> |
+| **[GNN-CNN: An Efficient Hybrid Model of Convolutional and Graph Neural Networks for Text Representation](http://arxiv.org/abs/2507.07414v1)** | 2025-07-10 |  |
+| **[HGMP:Heterogeneous Graph Multi-Task Prompt Learning](http://arxiv.org/abs/2507.07405v1)** | 2025-07-10 | <details><summary>The 2...</summary><p>The 25th International Joint Conference on Artificial Intelligence (IJCAI-25)</p></details> |
+| **[ST-GRIT: Spatio-Temporal Graph Transformer For Internal Ice Layer Thickness Prediction](http://arxiv.org/abs/2507.07389v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted for 2025 IEEE International Conference on Image Processing (ICIP)</p></details> |
 
