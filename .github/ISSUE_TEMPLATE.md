@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 13, 2025
+title: Latest 10 Papers - July 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning-aided Bigraph Matching Approach to Multi-Crew Restoration of Damaged Power Networks Coupled with Road Transportation Networks](http://arxiv.org/abs/2506.19703v2)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of ASME IDETC 2025</p></details> |
+| **[Learnable quantum spectral filters for hybrid graph neural networks](http://arxiv.org/abs/2507.05640v2)** | 2025-07-11 | <details><summary>The s...</summary><p>The simulation code and results used for this paper is publicly available at: https://github.com/adaskin/gnn-qsf</p></details> |
+| **[GNN-ACLP: Graph Neural Networks Based Analog Circuit Link Prediction](http://arxiv.org/abs/2504.10240v3)** | 2025-07-11 | <details><summary>Code ...</summary><p>Code and data will be made available on request. V3 Update: Add Ablation Study and Discussion; Improve Introduction; Optimize Figures; Add references</p></details> |
+| **[Unified People Tracking with Graph Neural Networks](http://arxiv.org/abs/2507.08494v1)** | 2025-07-11 |  |
+| **[Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets](http://arxiv.org/abs/2205.07249v2)** | 2025-07-11 | ICML 2022 accepted |
+| **[EvA: Evolutionary Attacks on Graphs](http://arxiv.org/abs/2507.08212v1)** | 2025-07-10 | 23 pages, 12 figures |
+| **[EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification](http://arxiv.org/abs/2507.08184v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted by IJCNN 2025, oral presentation</p></details> |
 | **[Studying and Improving Graph Neural Network-based Motif Estimation](http://arxiv.org/abs/2506.15709v3)** | 2025-07-10 | <details><summary>This ...</summary><p>This manuscript represents a revised version from the paper on https://openreview.net/forum?id=PZVVOeu6xx. Still a work in progress. Comments are welcome! 23 pages (12 main text + references), 9 figures, 5 tables. (Second update: More accurate Table 4, Run time comparisons.)</p></details> |
 | **[Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain](http://arxiv.org/abs/2507.07854v1)** | 2025-07-10 | <details><summary>The p...</summary><p>The paper will be published on 2025 International Conference on Big Data, Artificial Intelligence and Digital Economy</p></details> |
 | **[Statistical physics analysis of graph neural networks: Approaching optimality in the contextual stochastic block model](http://arxiv.org/abs/2503.01361v2)** | 2025-07-10 |  |
-| **[Curriculum Negative Mining For Temporal Networks](http://arxiv.org/abs/2407.17070v2)** | 2025-07-10 |  |
-| **[S2FGL: Spatial Spectral Federated Graph Learning](http://arxiv.org/abs/2507.02409v2)** | 2025-07-10 |  |
-| **[Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs](http://arxiv.org/abs/2507.07595v1)** | 2025-07-10 |  |
-| **[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation](http://arxiv.org/abs/2507.07522v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted by RecSys 2025 as Spotlight Oral</p></details> |
-| **[GNN-CNN: An Efficient Hybrid Model of Convolutional and Graph Neural Networks for Text Representation](http://arxiv.org/abs/2507.07414v1)** | 2025-07-10 |  |
-| **[HGMP:Heterogeneous Graph Multi-Task Prompt Learning](http://arxiv.org/abs/2507.07405v1)** | 2025-07-10 | <details><summary>The 2...</summary><p>The 25th International Joint Conference on Artificial Intelligence (IJCAI-25)</p></details> |
-| **[ST-GRIT: Spatio-Temporal Graph Transformer For Internal Ice Layer Thickness Prediction](http://arxiv.org/abs/2507.07389v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted for 2025 IEEE International Conference on Image Processing (ICIP)</p></details> |
 
