@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 15, 2025
+title: Latest 10 Papers - July 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DESIGN: Encrypted GNN Inference via Server-Side Input Graph Pruning](http://arxiv.org/abs/2507.05649v2)** | 2025-07-14 | <details><summary>Under...</summary><p>Under Review in Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs](http://arxiv.org/abs/2507.10183v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted to MLoG-GenAI Workshop @ KDD 2025 (Oral)</p></details> |
-| **[Graph and Sequential Neural Networks in Session-based Recommendation: A Survey](http://arxiv.org/abs/2408.14851v2)** | 2025-07-14 |  |
-| **[Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach](http://arxiv.org/abs/2507.10014v1)** | 2025-07-14 |  |
-| **[Effects of structural properties of neural networks on machine learning performance](http://arxiv.org/abs/2507.10005v1)** | 2025-07-14 | 9 pages, 6 figures |
-| **[Soft Graph Clustering for single-cell RNA Sequencing Data](http://arxiv.org/abs/2507.09890v1)** | 2025-07-14 |  |
-| **[Teaching MLPs to Master Heterogeneous Graph-Structured Knowledge for Efficient and Accurate Inference](http://arxiv.org/abs/2411.14035v2)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)</p></details> |
-| **[A Scalable and Efficient Signal Integration System for Job Matching](http://arxiv.org/abs/2507.09797v1)** | 2025-07-13 | KDD2025 |
-| **[Do we need equivariant models for molecule generation?](http://arxiv.org/abs/2507.09753v1)** | 2025-07-13 |  |
-| **[Joint Access Point Activation and Power Allocation for Cell-Free Massive MIMO Aided ISAC Systems](http://arxiv.org/abs/2507.09425v1)** | 2025-07-12 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables. Accepted by IEEE TVT</p></details> |
+| **[ComFairGNN: Community Fair Graph Neural Network](http://arxiv.org/abs/2411.04371v3)** | 2025-07-15 | PAKDD 2025 |
+| **[Modeling Code: Is Text All You Need?](http://arxiv.org/abs/2507.11467v1)** | 2025-07-15 |  |
+| **[Joint Detection and Decoding: A Graph Neural Network Approach](http://arxiv.org/abs/2501.08871v3)** | 2025-07-15 | <details><summary>Submi...</summary><p>Submitted to Transactions on Communications (R1). arXiv admin note: text overlap with arXiv:2401.16187</p></details> |
+| **[TorchCP: A Python Library for Conformal Prediction](http://arxiv.org/abs/2402.12683v3)** | 2025-07-15 |  |
+| **[Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks](http://arxiv.org/abs/2407.10867v3)** | 2025-07-15 | <details><summary>Publi...</summary><p>Published in TMLR. Best Paper Award at the AdvML-Frontiers @ NeurIPS 2024 workshop. Code available at https://github.com/saper0/qpcert</p></details> |
+| **[AoI-Energy-Spectrum Optimization in Post-Disaster Powered Communication Intelligent Network via Hierarchical Heterogeneous Graph Neural Network](http://arxiv.org/abs/2507.03401v2)** | 2025-07-15 |  |
+| **[GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks](http://arxiv.org/abs/2310.03399v3)** | 2025-07-15 |  |
+| **[Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities](http://arxiv.org/abs/2507.11057v1)** | 2025-07-15 |  |
+| **[GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices](http://arxiv.org/abs/2507.11053v1)** | 2025-07-15 |  |
+| **[Graph-based Fingerprint Update Using Unlabelled WiFi Signals](http://arxiv.org/abs/2507.11038v1)** | 2025-07-15 | <details><summary>Publi...</summary><p>Published in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 9, Issue 1, Article No. 3, Pages 1 - 26</p></details> |
 
