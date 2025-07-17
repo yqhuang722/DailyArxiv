@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 16, 2025
+title: Latest 10 Papers - July 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Heat Kernel Goes Topological](http://arxiv.org/abs/2507.12380v1)** | 2025-07-16 |  |
+| **[Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection](http://arxiv.org/abs/2507.11997v1)** | 2025-07-16 |  |
+| **[Simplifying Graph Kernels for Efficient](http://arxiv.org/abs/2507.03560v2)** | 2025-07-16 |  |
+| **[Tuning Algorithmic and Architectural Hyperparameters in Graph-Based Semi-Supervised Learning with Provable Guarantees](http://arxiv.org/abs/2502.12937v2)** | 2025-07-16 | <details><summary>31 pa...</summary><p>31 pages (12 pages main body), 2 figures. UAI 2025</p></details> |
+| **[A Graph-in-Graph Learning Framework for Drug-Target Interaction Prediction](http://arxiv.org/abs/2507.11757v1)** | 2025-07-15 |  |
+| **[Graph Neural Networks Powered by Encoder Embedding for Improved Node Learning](http://arxiv.org/abs/2507.11732v1)** | 2025-07-15 |  |
+| **[Subgraph Generation for Generalizing on Out-of-Distribution Links](http://arxiv.org/abs/2507.11710v1)** | 2025-07-15 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, preprint</p></details> |
+| **[PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training](http://arxiv.org/abs/2507.11683v1)** | 2025-07-15 | <details><summary>To be...</summary><p>To be published in the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis</p></details> |
 | **[ComFairGNN: Community Fair Graph Neural Network](http://arxiv.org/abs/2411.04371v3)** | 2025-07-15 | PAKDD 2025 |
 | **[Modeling Code: Is Text All You Need?](http://arxiv.org/abs/2507.11467v1)** | 2025-07-15 |  |
-| **[Joint Detection and Decoding: A Graph Neural Network Approach](http://arxiv.org/abs/2501.08871v3)** | 2025-07-15 | <details><summary>Submi...</summary><p>Submitted to Transactions on Communications (R1). arXiv admin note: text overlap with arXiv:2401.16187</p></details> |
-| **[TorchCP: A Python Library for Conformal Prediction](http://arxiv.org/abs/2402.12683v3)** | 2025-07-15 |  |
-| **[Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks](http://arxiv.org/abs/2407.10867v3)** | 2025-07-15 | <details><summary>Publi...</summary><p>Published in TMLR. Best Paper Award at the AdvML-Frontiers @ NeurIPS 2024 workshop. Code available at https://github.com/saper0/qpcert</p></details> |
-| **[AoI-Energy-Spectrum Optimization in Post-Disaster Powered Communication Intelligent Network via Hierarchical Heterogeneous Graph Neural Network](http://arxiv.org/abs/2507.03401v2)** | 2025-07-15 |  |
-| **[GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks](http://arxiv.org/abs/2310.03399v3)** | 2025-07-15 |  |
-| **[Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities](http://arxiv.org/abs/2507.11057v1)** | 2025-07-15 |  |
-| **[GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices](http://arxiv.org/abs/2507.11053v1)** | 2025-07-15 |  |
-| **[Graph-based Fingerprint Update Using Unlabelled WiFi Signals](http://arxiv.org/abs/2507.11038v1)** | 2025-07-15 | <details><summary>Publi...</summary><p>Published in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 9, Issue 1, Article No. 3, Pages 1 - 26</p></details> |
 
