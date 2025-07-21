@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 20, 2025
+title: Latest 10 Papers - July 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generative Diffusion Models for Resource Allocation in Wireless Networks](http://arxiv.org/abs/2504.20277v2)** | 2025-07-17 |  |
-| **[A Spectral Interpretation of Redundancy in a Graph Reservoir](http://arxiv.org/abs/2507.12963v1)** | 2025-07-17 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the 3rd International Workshop on Reservoir Computing (RC 2025) at ICANN 2025</p></details> |
-| **[Multi-Channel Graph Neural Network for Financial Risk Prediction of NEEQ Enterprises](http://arxiv.org/abs/2507.12787v1)** | 2025-07-17 | <details><summary>10 pa...</summary><p>10 pages, 4 figures. Submitted for conference review</p></details> |
-| **[MS-DGCNN++: A Multi-Scale Fusion Dynamic Graph Neural Network with Biological Knowledge Integration for LiDAR Tree Species Classification](http://arxiv.org/abs/2507.12602v1)** | 2025-07-16 |  |
-| **[Rel-HNN: Split Parallel Hypergraph Neural Network for Learning on Relational Databases](http://arxiv.org/abs/2507.12562v1)** | 2025-07-16 |  |
-| **[Heat Kernel Goes Topological](http://arxiv.org/abs/2507.12380v1)** | 2025-07-16 |  |
-| **[Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection](http://arxiv.org/abs/2507.11997v1)** | 2025-07-16 |  |
-| **[Simplifying Graph Kernels for Efficient](http://arxiv.org/abs/2507.03560v2)** | 2025-07-16 |  |
-| **[Tuning Algorithmic and Architectural Hyperparameters in Graph-Based Semi-Supervised Learning with Provable Guarantees](http://arxiv.org/abs/2502.12937v2)** | 2025-07-16 | <details><summary>31 pa...</summary><p>31 pages (12 pages main body), 2 figures. UAI 2025</p></details> |
-| **[A Graph-in-Graph Learning Framework for Drug-Target Interaction Prediction](http://arxiv.org/abs/2507.11757v1)** | 2025-07-15 |  |
+| **[Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks](http://arxiv.org/abs/2507.13992v1)** | 2025-07-18 |  |
+| **[Robust Anomaly Detection with Graph Neural Networks using Controllability](http://arxiv.org/abs/2507.13954v1)** | 2025-07-18 | <details><summary>confe...</summary><p>conference paper published in IEEE CAI 2025</p></details> |
+| **[When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction](http://arxiv.org/abs/2507.13825v1)** | 2025-07-18 | <details><summary>Submi...</summary><p>Submitted in 2024. Accepted in 2025</p></details> |
+| **[Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery](http://arxiv.org/abs/2507.13757v1)** | 2025-07-18 |  |
+| **[SamGoG: A Sampling-Based Graph-of-Graphs Framework for Imbalanced Graph Classification](http://arxiv.org/abs/2507.13741v1)** | 2025-07-18 |  |
+| **[Learning Deformable Body Interactions With Adaptive Spatial Tokenization](http://arxiv.org/abs/2507.13707v1)** | 2025-07-18 | 21 pages, 15 figures |
+| **[Binarizing Physics-Inspired GNNs for Combinatorial Optimization](http://arxiv.org/abs/2507.13703v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted to the 28th European Conference on Artificial Intelligence (ECAI 2025). This archival version includes supplementary appendices</p></details> |
+| **[Can we ease the Injectivity Bottleneck on Lorentzian Manifolds for Graph Neural Networks?](http://arxiv.org/abs/2504.00142v5)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted at ACM SIGMOD/PODS 2025 GRADES NDA Workshop (Non-Archival) Poster: https://drive.google.com/file/d/1hjUqbIWrjhZ1YTFDGFK9hxGYiz9xYLSC/view?usp=drive_link</p></details> |
+| **[AI-Accelerated Flow Simulation: A Robust Auto-Regressive Framework for Long-Term CFD Forecasting](http://arxiv.org/abs/2412.05657v3)** | 2025-07-18 |  |
+| **[Graph Neural Network Surrogates for Contacting Deformable Bodies with Necessary and Sufficient Contact Detection](http://arxiv.org/abs/2507.13459v1)** | 2025-07-17 |  |
 
