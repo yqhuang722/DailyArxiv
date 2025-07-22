@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 21, 2025
+title: Latest 10 Papers - July 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Supervised Graph Contrastive Learning for Gene Regulatory Network](http://arxiv.org/abs/2505.17786v3)** | 2025-07-19 | under review |
+| **[Revisiting Graph Contrastive Learning on Anomaly Detection: A Structural Imbalance Perspective](http://arxiv.org/abs/2507.14677v1)** | 2025-07-19 | Accepted by AAAI2025 |
 | **[SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation](http://arxiv.org/abs/2507.13336v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted in RecSys 2025. arXiv admin note: substantial text overlap with arXiv:2404.15954</p></details> |
 | **[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation](http://arxiv.org/abs/2507.07522v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted by RecSys 2025 as Spotlight Oral</p></details> |
 | **[When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation](http://arxiv.org/abs/2507.07436v1)** | 2025-07-10 | 24 pages, 6 figures |
@@ -43,20 +45,18 @@ labels: documentation
 | **[DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction](http://arxiv.org/abs/2507.06366v1)** | 2025-07-08 |  |
 | **[Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs](http://arxiv.org/abs/2501.01644v2)** | 2025-06-28 |  |
 | **[Graph Contrastive Learning with Low-Rank Regularization and Low-Rank Attention for Noisy Node Classification](http://arxiv.org/abs/2402.09600v2)** | 2025-06-28 |  |
-| **[Towards Text-free Graph Foundation Models: Rethinking Multi-Domain Graph Contrastive Learning](http://arxiv.org/abs/2506.22510v1)** | 2025-06-26 | 16 pages, 5 figures |
-| **[Homophily-Driven Sanitation View for Robust Graph Contrastive Learning](http://arxiv.org/abs/2307.12555v2)** | 2025-06-07 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks](http://arxiv.org/abs/2507.13992v1)** | 2025-07-18 |  |
-| **[Robust Anomaly Detection with Graph Neural Networks using Controllability](http://arxiv.org/abs/2507.13954v1)** | 2025-07-18 | <details><summary>confe...</summary><p>conference paper published in IEEE CAI 2025</p></details> |
-| **[When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction](http://arxiv.org/abs/2507.13825v1)** | 2025-07-18 | <details><summary>Submi...</summary><p>Submitted in 2024. Accepted in 2025</p></details> |
-| **[Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery](http://arxiv.org/abs/2507.13757v1)** | 2025-07-18 |  |
-| **[SamGoG: A Sampling-Based Graph-of-Graphs Framework for Imbalanced Graph Classification](http://arxiv.org/abs/2507.13741v1)** | 2025-07-18 |  |
-| **[Learning Deformable Body Interactions With Adaptive Spatial Tokenization](http://arxiv.org/abs/2507.13707v1)** | 2025-07-18 | 21 pages, 15 figures |
-| **[Binarizing Physics-Inspired GNNs for Combinatorial Optimization](http://arxiv.org/abs/2507.13703v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted to the 28th European Conference on Artificial Intelligence (ECAI 2025). This archival version includes supplementary appendices</p></details> |
-| **[Can we ease the Injectivity Bottleneck on Lorentzian Manifolds for Graph Neural Networks?](http://arxiv.org/abs/2504.00142v5)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted at ACM SIGMOD/PODS 2025 GRADES NDA Workshop (Non-Archival) Poster: https://drive.google.com/file/d/1hjUqbIWrjhZ1YTFDGFK9hxGYiz9xYLSC/view?usp=drive_link</p></details> |
-| **[AI-Accelerated Flow Simulation: A Robust Auto-Regressive Framework for Long-Term CFD Forecasting](http://arxiv.org/abs/2412.05657v3)** | 2025-07-18 |  |
-| **[Graph Neural Network Surrogates for Contacting Deformable Bodies with Necessary and Sufficient Contact Detection](http://arxiv.org/abs/2507.13459v1)** | 2025-07-17 |  |
+| **[Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets](http://arxiv.org/abs/2507.15784v1)** | 2025-07-21 |  |
+| **[BrainNetMLP: An Efficient and Effective Baseline for Functional Brain Network Classification](http://arxiv.org/abs/2505.11538v2)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the 1st MICCAI Workshop on Efficient Medical AI</p></details> |
+| **[Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models](http://arxiv.org/abs/2408.06717v2)** | 2025-07-21 |  |
+| **[Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting](http://arxiv.org/abs/2408.16191v3)** | 2025-07-21 | <details><summary>ACM T...</summary><p>ACM Transactions on Intelligent Systems and Technology (TIST) Submission, 2025</p></details> |
+| **[Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks](http://arxiv.org/abs/2507.15246v1)** | 2025-07-21 |  |
+| **[Long-Short Distance Graph Neural Networks and Improved Curriculum Learning for Emotion Recognition in Conversation](http://arxiv.org/abs/2507.15205v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted by the 28th European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
+| **[Feature Construction Using Network Control Theory and Rank Encoding for Graph Machine Learning](http://arxiv.org/abs/2507.15195v1)** | 2025-07-21 |  |
+| **[Can We Move Freely in NEOM's The Line? An Agent-Based Simulation of Human Mobility in a Futuristic Smart City](http://arxiv.org/abs/2507.15143v1)** | 2025-07-20 |  |
+| **[PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training](http://arxiv.org/abs/2507.11683v2)** | 2025-07-20 | <details><summary>To be...</summary><p>To be published in the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis</p></details> |
+| **[Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain](http://arxiv.org/abs/2507.07854v2)** | 2025-07-20 | <details><summary>The p...</summary><p>The paper will be published on 2025 International Conference on Big Data, Artificial Intelligence and Digital Economy</p></details> |
 
