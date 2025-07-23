@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 22, 2025
+title: Latest 10 Papers - July 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Attention Specialized Expert Fusion Model for Node Classification: Based on Cora and Pubmed Datasets](http://arxiv.org/abs/2507.15784v1)** | 2025-07-21 |  |
-| **[BrainNetMLP: An Efficient and Effective Baseline for Functional Brain Network Classification](http://arxiv.org/abs/2505.11538v2)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the 1st MICCAI Workshop on Efficient Medical AI</p></details> |
-| **[Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models](http://arxiv.org/abs/2408.06717v2)** | 2025-07-21 |  |
-| **[Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting](http://arxiv.org/abs/2408.16191v3)** | 2025-07-21 | <details><summary>ACM T...</summary><p>ACM Transactions on Intelligent Systems and Technology (TIST) Submission, 2025</p></details> |
-| **[Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks](http://arxiv.org/abs/2507.15246v1)** | 2025-07-21 |  |
-| **[Long-Short Distance Graph Neural Networks and Improved Curriculum Learning for Emotion Recognition in Conversation](http://arxiv.org/abs/2507.15205v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted by the 28th European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
-| **[Feature Construction Using Network Control Theory and Rank Encoding for Graph Machine Learning](http://arxiv.org/abs/2507.15195v1)** | 2025-07-21 |  |
-| **[Can We Move Freely in NEOM's The Line? An Agent-Based Simulation of Human Mobility in a Futuristic Smart City](http://arxiv.org/abs/2507.15143v1)** | 2025-07-20 |  |
-| **[PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training](http://arxiv.org/abs/2507.11683v2)** | 2025-07-20 | <details><summary>To be...</summary><p>To be published in the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis</p></details> |
-| **[Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain](http://arxiv.org/abs/2507.07854v2)** | 2025-07-20 | <details><summary>The p...</summary><p>The paper will be published on 2025 International Conference on Big Data, Artificial Intelligence and Digital Economy</p></details> |
+| **[Graph Neural Networks Gone Hogwild](http://arxiv.org/abs/2407.00494v2)** | 2025-07-22 |  |
+| **[T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs](http://arxiv.org/abs/2507.10183v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted to MLoG-GenAI Workshop @ KDD 2025 (Oral)</p></details> |
+| **[Deep Unfolding Network for Nonlinear Multi-Frequency Electrical Impedance Tomography](http://arxiv.org/abs/2507.16678v1)** | 2025-07-22 |  |
+| **[Recent Advances in Malware Detection: Graph Learning and Explainability](http://arxiv.org/abs/2502.10556v2)** | 2025-07-22 |  |
+| **[Graph Neural Network-Based Distributed Optimal Control for Linear Networked Systems: An Online Distributed Training Approach](http://arxiv.org/abs/2504.06439v2)** | 2025-07-22 | 9 pages, 4 figures |
+| **[Neural Approaches for Multi-Objective Routing on Multigraphs](http://arxiv.org/abs/2506.22095v2)** | 2025-07-22 | 23 pages, 5 Figures |
+| **[Knowledge-aware Diffusion-Enhanced Multimedia Recommendation](http://arxiv.org/abs/2507.16396v1)** | 2025-07-22 |  |
+| **[ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing](http://arxiv.org/abs/2507.16379v1)** | 2025-07-22 | <details><summary>To ap...</summary><p>To appear at ICCAD 2025</p></details> |
+| **[Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks](http://arxiv.org/abs/2507.16347v1)** | 2025-07-22 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted at IJCAI 2025</p></details> |
+| **[Tagging fully hadronic exotic decays of the vectorlike $\mathbf{B}$ quark using a graph neural network](http://arxiv.org/abs/2505.07769v2)** | 2025-07-22 | <details><summary>13 pa...</summary><p>13 pages, 10 figures, 3 tables</p></details> |
 
