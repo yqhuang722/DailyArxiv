@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 28, 2025
+title: Latest 10 Papers - July 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Gradient-based grand canonical optimization enabled by graph neural networks with fractional atomic existence](http://arxiv.org/abs/2507.19438v1)** | 2025-07-25 |  |
-| **[Integrating Physics and Topology in Neural Networks for Learning Rigid Body Dynamics](http://arxiv.org/abs/2411.11467v3)** | 2025-07-25 | <details><summary>20 pa...</summary><p>20 pages, 10 figures. Published in Nature Communications</p></details> |
-| **[Epidemiology-informed Network for Robust Rumor Detection](http://arxiv.org/abs/2411.12949v3)** | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted by The Web Conference 2025 (WWW2025)</p></details> |
-| **[EffiComm: Bandwidth Efficient Multi Agent Communication](http://arxiv.org/abs/2507.19354v1)** | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted for publication at ITSC 2025</p></details> |
-| **[Generating Clinically Realistic EHR Data via a Hierarchy- and Semantics-Guided Transformer](http://arxiv.org/abs/2502.20719v2)** | 2025-07-25 | <details><summary>The c...</summary><p>The camera ready version for ECAI-2025</p></details> |
-| **[Pilot Contamination-Aware Graph Attention Network for Power Control in CFmMIMO](http://arxiv.org/abs/2506.00967v2)** | 2025-07-25 |  |
-| **[Physics-Informed Graph Neural Networks for Transverse Momentum Estimation in CMS Trigger Systems](http://arxiv.org/abs/2507.19205v1)** | 2025-07-25 |  |
-| **[Graph Neural Network-Based Predictor for Optimal Quantum Hardware Selection](http://arxiv.org/abs/2507.19093v1)** | 2025-07-25 |  |
-| **[Mean flow data assimilation using physics-constrained Graph Neural Networks](http://arxiv.org/abs/2411.09476v3)** | 2025-07-25 |  |
-| **[PBiLoss: Popularity-Aware Regularization to Improve Fairness in Graph-Based Recommender Systems](http://arxiv.org/abs/2507.19067v1)** | 2025-07-25 |  |
+| **[Predicting Cognition from fMRI:A Comparative Study of Graph, Transformer, and Kernel Models Across Task and Rest Conditions](http://arxiv.org/abs/2507.21016v1)** | 2025-07-28 | <details><summary>Preli...</summary><p>Preliminary version; a revised version will be uploaded later</p></details> |
+| **[REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation](http://arxiv.org/abs/2503.03599v2)** | 2025-07-28 | Accepted to IROS2025 |
+| **[BuildSTG: A Multi-building Energy Load Forecasting Method using Spatio-Temporal Graph Neural Network](http://arxiv.org/abs/2507.20838v1)** | 2025-07-28 |  |
+| **[Benchmarking Graph Neural Networks for Document Layout Analysis in Public Affairs](http://arxiv.org/abs/2505.14699v2)** | 2025-07-28 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, accepted paper at The Fifth ICDAR International Workshop on Machine Learning</p></details> |
+| **[Mixture of Length and Pruning Experts for Knowledge Graphs Reasoning](http://arxiv.org/abs/2507.20498v1)** | 2025-07-28 |  |
+| **[Shapley-Value-Based Graph Sparsification for GNN Inference](http://arxiv.org/abs/2507.20460v1)** | 2025-07-28 | 10 pages |
+| **[STARN-GAT: A Multi-Modal Spatio-Temporal Graph Attention Network for Accident Severity Prediction](http://arxiv.org/abs/2507.20451v1)** | 2025-07-28 | 10 pages |
+| **[BioNeuralNet: A Graph Neural Network based Multi-Omics Network Data Analysis Tool](http://arxiv.org/abs/2507.20440v1)** | 2025-07-27 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 2 tables; Software available on PyPI as BioNeuralNet. For documentation, tutorials, and workflows see https://bioneuralnet.readthedocs.io</p></details> |
+| **[PyG 2.0: Scalable Learning on Real World Graphs](http://arxiv.org/abs/2507.16991v2)** | 2025-07-27 |  |
+| **[From Observations to Causations: A GNN-based Probabilistic Prediction Framework for Causal Discovery](http://arxiv.org/abs/2507.20349v1)** | 2025-07-27 |  |
 
