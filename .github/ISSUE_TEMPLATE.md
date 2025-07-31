@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 30, 2025
+title: Latest 10 Papers - July 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Repetition Makes Perfect: Recurrent Graph Neural Networks Match Message Passing Limit](http://arxiv.org/abs/2505.00291v2)** | 2025-07-30 |  |
+| **[Graph Collaborative Attention Network for Link Prediction in Knowledge Graphs](http://arxiv.org/abs/2507.03947v2)** | 2025-07-30 | <details><summary>Homep...</summary><p>Homepage: https://graphattentionnetwork.github.io</p></details> |
+| **[Hyperbolic Graph Learning: A Comprehensive Review](http://arxiv.org/abs/2202.13852v3)** | 2025-07-30 | <details><summary>An im...</summary><p>An improved version of "Hyperbolic Graph Neural Networks: A Review of Methods and Applications"</p></details> |
+| **[TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation](http://arxiv.org/abs/2507.22454v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by IROS 2025. Code:https://github.com/IRMVLab/TopoLiDM</p></details> |
+| **[Masked Language Models are Good Heterogeneous Graph Generalizers](http://arxiv.org/abs/2506.06157v2)** | 2025-07-30 |  |
+| **[Benchmarking Android Malware Detection: Traditional vs. Deep Learning Models](http://arxiv.org/abs/2502.15041v2)** | 2025-07-30 | 10 pages, 5 figures |
+| **[Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268v1)** | 2025-07-29 |  |
 | **[A Neuro-Symbolic Approach for Probabilistic Reasoning on Graph Data](http://arxiv.org/abs/2507.21873v1)** | 2025-07-29 | <details><summary>Submi...</summary><p>Submitted to the Journal of Artificial Intelligence Research (JAIR); under revision. 29 pages, 6 figures. Code available at https://github.com/raffaelepojer/NeSy-for-graph-data</p></details> |
 | **[LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection](http://arxiv.org/abs/2507.21756v1)** | 2025-07-29 | 6 pages, 1 figure |
 | **[Data-Driven Extended Corresponding State Approach for Residual Property Prediction of Hydrofluoroolefins](http://arxiv.org/abs/2507.21720v1)** | 2025-07-29 |  |
-| **[Hierarchical Graph Neural Network for Compressed Speech Steganalysis](http://arxiv.org/abs/2507.21591v1)** | 2025-07-29 |  |
-| **[Torque-based Graph Surgery:Enhancing Graph Neural Networks with Hierarchical Rewiring](http://arxiv.org/abs/2507.21422v1)** | 2025-07-29 |  |
-| **[Automated Generation of Diverse Courses of Actions for Multi-Agent Operations using Binary Optimization and Graph Learning](http://arxiv.org/abs/2506.20031v2)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted for presentation in proceedings of IEEE CASE 2025</p></details> |
-| **[Graph neural networks for residential location choice: connection to classical logit models](http://arxiv.org/abs/2507.21334v1)** | 2025-07-28 |  |
-| **[Predicting Cognition from fMRI:A Comparative Study of Graph, Transformer, and Kernel Models Across Task and Rest Conditions](http://arxiv.org/abs/2507.21016v1)** | 2025-07-28 | <details><summary>Preli...</summary><p>Preliminary version; a revised version will be uploaded later</p></details> |
-| **[REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation](http://arxiv.org/abs/2503.03599v2)** | 2025-07-28 | Accepted to IROS2025 |
-| **[BuildSTG: A Multi-building Energy Load Forecasting Method using Spatio-Temporal Graph Neural Network](http://arxiv.org/abs/2507.20838v1)** | 2025-07-28 |  |
 
