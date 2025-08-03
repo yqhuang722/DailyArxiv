@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 31, 2025
+title: Latest 10 Papers - August 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,6 +49,9 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identifying Super Spreaders in Multilayer Networks](http://arxiv.org/abs/2505.20980v2)** | 2025-07-31 |  |
+| **[Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs](http://arxiv.org/abs/2410.16593v4)** | 2025-07-30 |  |
+| **[Causal-Inspired Multi-Agent Decision-Making via Graph Reinforcement Learning](http://arxiv.org/abs/2507.23080v1)** | 2025-07-30 |  |
 | **[Repetition Makes Perfect: Recurrent Graph Neural Networks Match Message Passing Limit](http://arxiv.org/abs/2505.00291v2)** | 2025-07-30 |  |
 | **[Graph Collaborative Attention Network for Link Prediction in Knowledge Graphs](http://arxiv.org/abs/2507.03947v2)** | 2025-07-30 | <details><summary>Homep...</summary><p>Homepage: https://graphattentionnetwork.github.io</p></details> |
 | **[Hyperbolic Graph Learning: A Comprehensive Review](http://arxiv.org/abs/2202.13852v3)** | 2025-07-30 | <details><summary>An im...</summary><p>An improved version of "Hyperbolic Graph Neural Networks: A Review of Methods and Applications"</p></details> |
@@ -56,7 +59,4 @@ labels: documentation
 | **[Masked Language Models are Good Heterogeneous Graph Generalizers](http://arxiv.org/abs/2506.06157v2)** | 2025-07-30 |  |
 | **[Benchmarking Android Malware Detection: Traditional vs. Deep Learning Models](http://arxiv.org/abs/2502.15041v2)** | 2025-07-30 | 10 pages, 5 figures |
 | **[Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268v1)** | 2025-07-29 |  |
-| **[A Neuro-Symbolic Approach for Probabilistic Reasoning on Graph Data](http://arxiv.org/abs/2507.21873v1)** | 2025-07-29 | <details><summary>Submi...</summary><p>Submitted to the Journal of Artificial Intelligence Research (JAIR); under revision. 29 pages, 6 figures. Code available at https://github.com/raffaelepojer/NeSy-for-graph-data</p></details> |
-| **[LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection](http://arxiv.org/abs/2507.21756v1)** | 2025-07-29 | 6 pages, 1 figure |
-| **[Data-Driven Extended Corresponding State Approach for Residual Property Prediction of Hydrofluoroolefins](http://arxiv.org/abs/2507.21720v1)** | 2025-07-29 |  |
 
