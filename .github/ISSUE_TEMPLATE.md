@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 03, 2025
+title: Latest 10 Papers - August 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Identifying Super Spreaders in Multilayer Networks](http://arxiv.org/abs/2505.20980v2)** | 2025-07-31 |  |
-| **[Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs](http://arxiv.org/abs/2410.16593v4)** | 2025-07-30 |  |
-| **[Causal-Inspired Multi-Agent Decision-Making via Graph Reinforcement Learning](http://arxiv.org/abs/2507.23080v1)** | 2025-07-30 |  |
-| **[Repetition Makes Perfect: Recurrent Graph Neural Networks Match Message Passing Limit](http://arxiv.org/abs/2505.00291v2)** | 2025-07-30 |  |
-| **[Graph Collaborative Attention Network for Link Prediction in Knowledge Graphs](http://arxiv.org/abs/2507.03947v2)** | 2025-07-30 | <details><summary>Homep...</summary><p>Homepage: https://graphattentionnetwork.github.io</p></details> |
-| **[Hyperbolic Graph Learning: A Comprehensive Review](http://arxiv.org/abs/2202.13852v3)** | 2025-07-30 | <details><summary>An im...</summary><p>An improved version of "Hyperbolic Graph Neural Networks: A Review of Methods and Applications"</p></details> |
-| **[TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation](http://arxiv.org/abs/2507.22454v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by IROS 2025. Code:https://github.com/IRMVLab/TopoLiDM</p></details> |
-| **[Masked Language Models are Good Heterogeneous Graph Generalizers](http://arxiv.org/abs/2506.06157v2)** | 2025-07-30 |  |
-| **[Benchmarking Android Malware Detection: Traditional vs. Deep Learning Models](http://arxiv.org/abs/2502.15041v2)** | 2025-07-30 | 10 pages, 5 figures |
-| **[Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268v1)** | 2025-07-29 |  |
+| **[Learning Network Dismantling without Handcrafted Inputs](http://arxiv.org/abs/2508.00706v1)** | 2025-08-01 |  |
+| **[Binarizing Physics-Inspired GNNs for Combinatorial Optimization](http://arxiv.org/abs/2507.13703v2)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted to the 28th European Conference on Artificial Intelligence (ECAI 2025). This archival version includes supplementary appendices</p></details> |
+| **[Similarity-Based Self-Construct Graph Model for Predicting Patient Criticalness Using Graph Neural Networks and EHR Data](http://arxiv.org/abs/2508.00615v1)** | 2025-08-01 |  |
+| **[Learning Potential Energy Surfaces of Hydrogen Atom Transfer Reactions in Peptides](http://arxiv.org/abs/2508.00578v1)** | 2025-08-01 | <details><summary>19 pa...</summary><p>19 pages, 12 figures, and 4 tables (references and SI included)</p></details> |
+| **[Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection](http://arxiv.org/abs/2508.00507v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025 (MM '25)</p></details> |
+| **[Leveraging Convolutional and Graph Networks for an Unsupervised Remote Sensing Labelling Tool](http://arxiv.org/abs/2508.00506v1)** | 2025-08-01 | <details><summary>Video...</summary><p>Video supplement demonstrating feature-space exploration and interactive labelling is available at: https://youtu.be/GZl1ebZJgEA and is archived at https://doi.org/10.5281/zenodo.16676591</p></details> |
+| **[ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network](http://arxiv.org/abs/2508.00429v1)** | 2025-08-01 | <details><summary>17 pa...</summary><p>17 pages, work in progress</p></details> |
+| **[Adaptive Branch Specialization in Spectral-Spatial Graph Neural Networks for Certified Robustness](http://arxiv.org/abs/2505.08320v3)** | 2025-08-01 |  |
+| **[Sheaf Graph Neural Networks via PAC-Bayes Spectral Optimization](http://arxiv.org/abs/2508.00357v1)** | 2025-08-01 |  |
+| **[Tackling Size Generalization of Graph Neural Networks on Biological Data from a Spectral Perspective](http://arxiv.org/abs/2305.15611v5)** | 2025-08-01 | KDD 2025 |
 
