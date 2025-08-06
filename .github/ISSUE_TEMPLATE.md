@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 05, 2025
+title: Latest 10 Papers - August 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Entity Representation Learning Through Onsite-Offsite Graph for Pinterset Ads](http://arxiv.org/abs/2508.02609v1)** | 2025-08-04 |  |
-| **[Adaptive Riemannian Graph Neural Networks](http://arxiv.org/abs/2508.02600v1)** | 2025-08-04 | Under Review |
-| **[Contextual Graph Transformer: A Small Language Model for Enhanced Engineering Document Information Extraction](http://arxiv.org/abs/2508.02532v1)** | 2025-08-04 |  |
-| **[Hierarchical Structure Sharing Empowers Multi-task Heterogeneous GNNs for Customer Expansion](http://arxiv.org/abs/2410.22089v2)** | 2025-08-04 |  |
-| **[MIXPINN: Mixed-Material Simulations by Physics-Informed Neural Network](http://arxiv.org/abs/2503.13123v2)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</p></details> |
-| **[On Effectiveness of Graph Neural Network Architectures for Network Digital Twins (NDTs)](http://arxiv.org/abs/2508.02373v1)** | 2025-08-04 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Skeleton-Guided Learning for Shortest Path Search](http://arxiv.org/abs/2508.02270v1)** | 2025-08-04 |  |
-| **[MedGNN: Capturing the Links Between Urban Characteristics and Medical Prescriptions](http://arxiv.org/abs/2504.04739v2)** | 2025-08-04 |  |
-| **[Hypergraph Mamba for Efficient Whole Slide Image Understanding](http://arxiv.org/abs/2505.17457v2)** | 2025-08-04 |  |
-| **[Graph Neural Network-Based Predictor for Optimal Quantum Hardware Selection](http://arxiv.org/abs/2507.19093v2)** | 2025-08-04 |  |
+| **[S2FGL: Spatial Spectral Federated Graph Learning](http://arxiv.org/abs/2507.02409v3)** | 2025-08-05 |  |
+| **[GaitAdapt: Continual Learning for Evolving Gait Recognition](http://arxiv.org/abs/2508.03375v1)** | 2025-08-05 |  |
+| **[Heterophily-Aware Fair Recommendation using Graph Convolutional Networks](http://arxiv.org/abs/2402.03365v4)** | 2025-08-05 |  |
+| **[Online Continual Graph Learning](http://arxiv.org/abs/2508.03283v1)** | 2025-08-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network](http://arxiv.org/abs/2508.00429v2)** | 2025-08-05 | <details><summary>17 pa...</summary><p>17 pages, work in progress</p></details> |
+| **[Information Bottleneck-Guided Heterogeneous Graph Learning for Interpretable Neurodevelopmental Disorder Diagnosis](http://arxiv.org/abs/2502.20769v2)** | 2025-08-05 |  |
+| **[COFFEE: A Shadow-Resilient Real-Time Pose Estimator for Unknown Tumbling Asteroids using Sparse Neural Networks](http://arxiv.org/abs/2508.03132v1)** | 2025-08-05 | <details><summary>in Pr...</summary><p>in Proc. 75th Int. Astronautical Congress (IAC-24), Milan, Italy, Oct. 2024</p></details> |
+| **[GEDAN: Learning the Edit Costs for Graph Edit Distance](http://arxiv.org/abs/2508.03111v1)** | 2025-08-05 |  |
+| **[Enhancing Spectral Graph Neural Networks with LLM-Predicted Homophily](http://arxiv.org/abs/2506.14220v2)** | 2025-08-05 |  |
+| **[CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks](http://arxiv.org/abs/2501.08998v3)** | 2025-08-04 | <details><summary>Updat...</summary><p>Updated results using the model trained on the ALEX-MP-20 dataset. 13+14 pages, 12 figures</p></details> |
 
