@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 07, 2025
+title: Latest 10 Papers - August 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,7 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SSEmb: A Joint Structural and Semantic Embedding Framework for Mathematical Formula Retrieval](http://arxiv.org/abs/2508.04162v1)** | 2025-08-06 |  |
+| **[SSEmb: A Joint Structural and Semantic Embedding Framework for Mathematical Formula Retrieval](http://arxiv.org/abs/2508.04162v2)** | 2025-08-07 |  |
 | **[Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation](http://arxiv.org/abs/2507.21563v2)** | 2025-08-06 |  |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v2)** | 2025-08-03 | 30pages |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Network](http://arxiv.org/abs/2505.17786v3)** | 2025-07-19 | under review |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Scalable Pretraining Framework for Link Prediction with Efficient Adaptation](http://arxiv.org/abs/2508.04645v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 Research Track</p></details> |
-| **[Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction](http://arxiv.org/abs/2405.04336v3)** | 2025-08-06 | 14 pages |
-| **[Privacy Risk Predictions Based on Fundamental Understanding of Personal Data and an Evolving Threat Landscape](http://arxiv.org/abs/2508.04542v1)** | 2025-08-06 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, 1 table</p></details> |
-| **[Reliable and Real-Time Highway Trajectory Planning via Hybrid Learning-Optimization Frameworks](http://arxiv.org/abs/2508.04436v1)** | 2025-08-06 |  |
-| **[Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Sensor Fusion](http://arxiv.org/abs/2411.06917v2)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted to IEEE Internet of Things Journal</p></details> |
-| **[ProtoN: Prototype Node Graph Neural Network for Unconstrained Multi-Impression Ear Recognition](http://arxiv.org/abs/2508.04381v1)** | 2025-08-06 |  |
-| **[Circuit-Aware SAT Solving: Guiding CDCL via Conditional Probabilities](http://arxiv.org/abs/2508.04235v1)** | 2025-08-06 | 11 pages, 7 figures |
-| **[Efficient Data Selection for Training Genomic Perturbation Models](http://arxiv.org/abs/2503.14571v5)** | 2025-08-06 | 19 pages |
-| **[The Ubiquitous Sparse Matrix-Matrix Products](http://arxiv.org/abs/2508.04077v1)** | 2025-08-06 |  |
-| **[Entity Representation Learning Through Onsite-Offsite Graph for Pinterest Ads](http://arxiv.org/abs/2508.02609v2)** | 2025-08-05 |  |
+| **[When Deepfake Detection Meets Graph Neural Network:a Unified and Lightweight Learning Framework](http://arxiv.org/abs/2508.05526v1)** | 2025-08-07 | 11 pages |
+| **[Learning Geometric-Aware Quadrature Rules for Functional Minimization](http://arxiv.org/abs/2508.05445v1)** | 2025-08-07 | 15 pages, 4 figures |
+| **[Large Language Models Transform Organic Synthesis From Reaction Prediction to Automation](http://arxiv.org/abs/2508.05427v1)** | 2025-08-07 |  |
+| **[Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis](http://arxiv.org/abs/2508.05382v1)** | 2025-08-07 |  |
+| **[Polytopal mesh agglomeration via geometrical deep learning for three-dimensional heterogeneous domains](http://arxiv.org/abs/2406.10587v2)** | 2025-08-07 |  |
+| **[Beyond Pixels: Medical Image Quality Assessment with Implicit Neural Representations](http://arxiv.org/abs/2508.05168v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted in 16th Machine Learning in Medical Imaging (MLMI 2025) workshop</p></details> |
+| **[Graph-based Event Log Repair](http://arxiv.org/abs/2508.05145v1)** | 2025-08-07 |  |
+| **[TANGO: Graph Neural Dynamics via Learned Energy and Tangential Flows](http://arxiv.org/abs/2508.05070v1)** | 2025-08-07 |  |
+| **[Will You Be Aware? Eye Tracking-Based Modeling of Situational Awareness in Augmented Reality](http://arxiv.org/abs/2508.05025v1)** | 2025-08-07 |  |
+| **[Probing and Enhancing the Robustness of GNN-based QEC Decoders with Reinforcement Learning](http://arxiv.org/abs/2508.03783v2)** | 2025-08-07 | 4 pages, 3 figures |
 
