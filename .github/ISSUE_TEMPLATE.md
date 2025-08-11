@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 10, 2025
+title: Latest 10 Papers - August 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Khan-GCL: Kolmogorov-Arnold Network Based Graph Contrastive Learning with Hard Negatives](http://arxiv.org/abs/2505.15103v2)** | 2025-08-08 | <details><summary>Graph...</summary><p>Graph Contrastive Learning, Self-supervised Learning, Kolmogorov-Arnold Network, Representation Learning</p></details> |
 | **[SSEmb: A Joint Structural and Semantic Embedding Framework for Mathematical Formula Retrieval](http://arxiv.org/abs/2508.04162v2)** | 2025-08-07 |  |
 | **[Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation](http://arxiv.org/abs/2507.21563v2)** | 2025-08-06 |  |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v2)** | 2025-08-03 | 30pages |
@@ -44,19 +45,18 @@ labels: documentation
 | **[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation](http://arxiv.org/abs/2507.07522v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted by RecSys 2025 as Spotlight Oral</p></details> |
 | **[When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation](http://arxiv.org/abs/2507.07436v1)** | 2025-07-10 | 24 pages, 6 figures |
 | **[Transferable Parasitic Estimation via Graph Contrastive Learning and Label Rebalancing in AMS Circuits](http://arxiv.org/abs/2507.06535v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted by ICCAD2025. This is the initial version. Minor changes will be made</p></details> |
-| **[Str-GCL: Structural Commonsense Driven Graph Contrastive Learning](http://arxiv.org/abs/2507.07141v1)** | 2025-07-09 | Accepted by WWW 2025 |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Deepfake Detection Meets Graph Neural Network:a Unified and Lightweight Learning Framework](http://arxiv.org/abs/2508.05526v1)** | 2025-08-07 | 11 pages |
-| **[Learning Geometric-Aware Quadrature Rules for Functional Minimization](http://arxiv.org/abs/2508.05445v1)** | 2025-08-07 | 15 pages, 4 figures |
-| **[Large Language Models Transform Organic Synthesis From Reaction Prediction to Automation](http://arxiv.org/abs/2508.05427v1)** | 2025-08-07 |  |
-| **[Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis](http://arxiv.org/abs/2508.05382v1)** | 2025-08-07 |  |
-| **[Polytopal mesh agglomeration via geometrical deep learning for three-dimensional heterogeneous domains](http://arxiv.org/abs/2406.10587v2)** | 2025-08-07 |  |
-| **[Beyond Pixels: Medical Image Quality Assessment with Implicit Neural Representations](http://arxiv.org/abs/2508.05168v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted in 16th Machine Learning in Medical Imaging (MLMI 2025) workshop</p></details> |
-| **[Graph-based Event Log Repair](http://arxiv.org/abs/2508.05145v1)** | 2025-08-07 |  |
-| **[TANGO: Graph Neural Dynamics via Learned Energy and Tangential Flows](http://arxiv.org/abs/2508.05070v1)** | 2025-08-07 |  |
-| **[Will You Be Aware? Eye Tracking-Based Modeling of Situational Awareness in Augmented Reality](http://arxiv.org/abs/2508.05025v1)** | 2025-08-07 |  |
-| **[Probing and Enhancing the Robustness of GNN-based QEC Decoders with Reinforcement Learning](http://arxiv.org/abs/2508.03783v2)** | 2025-08-07 | 4 pages, 3 figures |
+| **[Reconsidering the Performance of GAE in Link Prediction](http://arxiv.org/abs/2411.03845v3)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at CIKM 2025</p></details> |
+| **[Multi-Omics Analysis for Cancer Subtype Inference via Unrolling Graph Smoothness Priors](http://arxiv.org/abs/2508.06257v1)** | 2025-08-08 |  |
+| **[Graph-based Robot Localization Using a Graph Neural Network with a Floor Camera and a Feature Rich Industrial Floor](http://arxiv.org/abs/2508.06177v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at 28th RoboCup International Symposium, Salvador, Brasil</p></details> |
+| **[Ensemble-Based Graph Representation of fMRI Data for Cognitive Brain State Classification](http://arxiv.org/abs/2508.06118v1)** | 2025-08-08 |  |
+| **[CAST: Cross Attention based multimodal fusion of Structure and Text for materials property prediction](http://arxiv.org/abs/2502.06836v2)** | 2025-08-08 | 11 pages, 4 figures |
+| **[Aggregate-Combine-Readout GNNs Are More Expressive Than Logic C2](http://arxiv.org/abs/2508.06091v1)** | 2025-08-08 | 18 pages |
+| **[ProvX: Generating Counterfactual-Driven Attack Explanations for Provenance-Based Detection](http://arxiv.org/abs/2508.06073v1)** | 2025-08-08 |  |
+| **[Adaptive Heterogeneous Graph Neural Networks: Bridging Heterophily and Heterogeneity](http://arxiv.org/abs/2508.06034v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted tp CIKM 2025</p></details> |
+| **[Functional Connectivity Graph Neural Networks](http://arxiv.org/abs/2508.05786v1)** | 2025-08-07 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 24 tables</p></details> |
+| **[A Graph Neural Network Approach for Mapping the Conceptual Structure and Inter-Branch Connectivity of Physics](http://arxiv.org/abs/2508.05724v1)** | 2025-08-07 | 14 pages, 9 figures |
 
