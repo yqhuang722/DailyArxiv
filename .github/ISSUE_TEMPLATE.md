@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 11, 2025
+title: Latest 10 Papers - August 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning](http://arxiv.org/abs/2508.07205v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
+| **[Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection](http://arxiv.org/abs/2508.07201v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by AAAI2024</p></details> |
 | **[Khan-GCL: Kolmogorov-Arnold Network Based Graph Contrastive Learning with Hard Negatives](http://arxiv.org/abs/2505.15103v2)** | 2025-08-08 | <details><summary>Graph...</summary><p>Graph Contrastive Learning, Self-supervised Learning, Kolmogorov-Arnold Network, Representation Learning</p></details> |
 | **[SSEmb: A Joint Structural and Semantic Embedding Framework for Mathematical Formula Retrieval](http://arxiv.org/abs/2508.04162v2)** | 2025-08-07 |  |
 | **[Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation](http://arxiv.org/abs/2507.21563v2)** | 2025-08-06 |  |
@@ -43,20 +45,18 @@ labels: documentation
 | **[Revisiting Graph Contrastive Learning on Anomaly Detection: A Structural Imbalance Perspective](http://arxiv.org/abs/2507.14677v1)** | 2025-07-19 | Accepted by AAAI2025 |
 | **[SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation](http://arxiv.org/abs/2507.13336v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted in RecSys 2025. arXiv admin note: substantial text overlap with arXiv:2404.15954</p></details> |
 | **[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation](http://arxiv.org/abs/2507.07522v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted by RecSys 2025 as Spotlight Oral</p></details> |
-| **[When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation](http://arxiv.org/abs/2507.07436v1)** | 2025-07-10 | 24 pages, 6 figures |
-| **[Transferable Parasitic Estimation via Graph Contrastive Learning and Label Rebalancing in AMS Circuits](http://arxiv.org/abs/2507.06535v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted by ICCAD2025. This is the initial version. Minor changes will be made</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reconsidering the Performance of GAE in Link Prediction](http://arxiv.org/abs/2411.03845v3)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at CIKM 2025</p></details> |
-| **[Multi-Omics Analysis for Cancer Subtype Inference via Unrolling Graph Smoothness Priors](http://arxiv.org/abs/2508.06257v1)** | 2025-08-08 |  |
-| **[Graph-based Robot Localization Using a Graph Neural Network with a Floor Camera and a Feature Rich Industrial Floor](http://arxiv.org/abs/2508.06177v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted at 28th RoboCup International Symposium, Salvador, Brasil</p></details> |
-| **[Ensemble-Based Graph Representation of fMRI Data for Cognitive Brain State Classification](http://arxiv.org/abs/2508.06118v1)** | 2025-08-08 |  |
-| **[CAST: Cross Attention based multimodal fusion of Structure and Text for materials property prediction](http://arxiv.org/abs/2502.06836v2)** | 2025-08-08 | 11 pages, 4 figures |
-| **[Aggregate-Combine-Readout GNNs Are More Expressive Than Logic C2](http://arxiv.org/abs/2508.06091v1)** | 2025-08-08 | 18 pages |
-| **[ProvX: Generating Counterfactual-Driven Attack Explanations for Provenance-Based Detection](http://arxiv.org/abs/2508.06073v1)** | 2025-08-08 |  |
-| **[Adaptive Heterogeneous Graph Neural Networks: Bridging Heterophily and Heterogeneity](http://arxiv.org/abs/2508.06034v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted tp CIKM 2025</p></details> |
-| **[Functional Connectivity Graph Neural Networks](http://arxiv.org/abs/2508.05786v1)** | 2025-08-07 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 24 tables</p></details> |
-| **[A Graph Neural Network Approach for Mapping the Conceptual Structure and Inter-Branch Connectivity of Physics](http://arxiv.org/abs/2508.05724v1)** | 2025-08-07 | 14 pages, 9 figures |
+| **[On Understanding of the Dynamics of Model Capacity in Continual Learning](http://arxiv.org/abs/2508.08052v1)** | 2025-08-11 |  |
+| **[Learning to Select MCP Algorithms: From Traditional ML to Dual-Channel GAT-MLP](http://arxiv.org/abs/2508.08005v1)** | 2025-08-11 | 10 pages, 6 figures |
+| **[Topological Feature Compression for Molecular Graph Neural Networks](http://arxiv.org/abs/2508.07807v1)** | 2025-08-11 |  |
+| **[TLV-HGNN: Thinking Like a Vertex for Memory-efficient HGNN Inference](http://arxiv.org/abs/2508.07796v1)** | 2025-08-11 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, accepted by ICCD 2025</p></details> |
+| **[ReaGAN: Node-as-Agent-Reasoning Graph Agentic Network](http://arxiv.org/abs/2508.00429v3)** | 2025-08-11 | <details><summary>17 pa...</summary><p>17 pages, work in progress</p></details> |
+| **[Discovering Spatial Correlations between Earth Observations in Global Atmospheric State Estimation by using Adaptive Graph Structure Learning](http://arxiv.org/abs/2508.07659v1)** | 2025-08-11 | 10 pages |
+| **[Enhancing Egocentric Object Detection in Static Environments using Graph-based Spatial Anomaly Detection and Correction](http://arxiv.org/abs/2508.07624v1)** | 2025-08-11 |  |
+| **[Neuro-Symbolic Acceleration of MILP Motion Planning with Temporal Logic and Chance Constraints](http://arxiv.org/abs/2508.07515v1)** | 2025-08-11 |  |
+| **[Extracting Overlapping Microservices from Monolithic Code via Deep Semantic Embeddings and Graph Neural Network-Based Soft Clustering](http://arxiv.org/abs/2508.07486v1)** | 2025-08-10 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](http://arxiv.org/abs/2508.07465v1)** | 2025-08-10 | 11 pages, 6 figures |
 
