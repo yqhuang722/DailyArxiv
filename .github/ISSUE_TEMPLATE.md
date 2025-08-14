@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 13, 2025
+title: Latest 10 Papers - August 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MX-AI: Agentic Observability and Control Platform for Open and AI-RAN](http://arxiv.org/abs/2508.09197v1)** | 2025-08-08 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v2)** | 2025-08-03 | 30pages |
 | **[Heterogeneous Graph Prompt Learning via Adaptive Weight Pruning](http://arxiv.org/abs/2507.09132v1)** | 2025-07-12 |  |
 | **[HGMP:Heterogeneous Graph Multi-Task Prompt Learning](http://arxiv.org/abs/2507.07405v1)** | 2025-07-10 | <details><summary>The 2...</summary><p>The 25th International Joint Conference on Artificial Intelligence (IJCAI-25)</p></details> |
@@ -30,16 +31,15 @@ labels: documentation
 | **[Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?](http://arxiv.org/abs/2412.08174v3)** | 2025-06-01 | <details><summary>ACL 2...</summary><p>ACL 2025 Main Conference, 27 pages</p></details> |
 | **[Are You Using Reliable Graph Prompts? Trojan Prompt Attacks on Graph Neural Networks](http://arxiv.org/abs/2410.13974v2)** | 2025-05-29 | <details><summary>To be...</summary><p>To be appeared in KDD 2025</p></details> |
 | **[Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis](http://arxiv.org/abs/2410.01635v2)** | 2025-05-27 | <details><summary>accep...</summary><p>accepted by ICML 2025</p></details> |
-| **[Vision Graph Prompting via Semantic Low-Rank Decomposition](http://arxiv.org/abs/2505.04121v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VoteGCL: Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation](http://arxiv.org/abs/2507.21563v3)** | 2025-08-13 |  |
 | **[Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning](http://arxiv.org/abs/2508.07205v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
 | **[Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection](http://arxiv.org/abs/2508.07201v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by AAAI2024</p></details> |
 | **[Khan-GCL: Kolmogorov-Arnold Network Based Graph Contrastive Learning with Hard Negatives](http://arxiv.org/abs/2505.15103v2)** | 2025-08-08 | <details><summary>Graph...</summary><p>Graph Contrastive Learning, Self-supervised Learning, Kolmogorov-Arnold Network, Representation Learning</p></details> |
 | **[SSEmb: A Joint Structural and Semantic Embedding Framework for Mathematical Formula Retrieval](http://arxiv.org/abs/2508.04162v2)** | 2025-08-07 |  |
-| **[Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation](http://arxiv.org/abs/2507.21563v2)** | 2025-08-06 |  |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v2)** | 2025-08-03 | 30pages |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Network](http://arxiv.org/abs/2505.17786v3)** | 2025-07-19 | under review |
 | **[Revisiting Graph Contrastive Learning on Anomaly Detection: A Structural Imbalance Perspective](http://arxiv.org/abs/2507.14677v1)** | 2025-07-19 | Accepted by AAAI2025 |
@@ -49,12 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment](http://arxiv.org/abs/2508.09843v1)** | 2025-08-13 |  |
+| **[Explainable Ensemble Learning for Graph-Based Malware Detection](http://arxiv.org/abs/2508.09801v1)** | 2025-08-13 |  |
+| **[LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection](http://arxiv.org/abs/2507.21756v2)** | 2025-08-13 | 8 pages, 4 figures |
+| **[Verifying Quantized Graph Neural Networks is PSPACE-complete](http://arxiv.org/abs/2502.16244v2)** | 2025-08-13 | <details><summary>In 34...</summary><p>In 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</p></details> |
+| **[Halting Recurrent GNNs and the Graded $μ$-Calculus](http://arxiv.org/abs/2505.11050v2)** | 2025-08-13 | <details><summary>Exten...</summary><p>Extended technical report of paper accepted for publication at KR 2025</p></details> |
+| **[Time-Aware and Transition-Semantic Graph Neural Networks for Interpretable Predictive Business Process Monitoring](http://arxiv.org/abs/2508.09527v1)** | 2025-08-13 | 32 pages |
+| **[Graph Neural Network and Transformer Integration for Unsupervised System Anomaly Discovery](http://arxiv.org/abs/2508.09401v1)** | 2025-08-13 |  |
+| **[Exact Verification of Graph Neural Networks with Incremental Constraint Solving](http://arxiv.org/abs/2508.09320v1)** | 2025-08-12 |  |
+| **[Over-Squashing in GNNs and Causal Inference of Rewiring Strategies](http://arxiv.org/abs/2508.09265v1)** | 2025-08-12 | 14 pages, 2 figures |
 | **[Meta-learning optimizes predictions of missing links in real-world networks](http://arxiv.org/abs/2508.09069v1)** | 2025-08-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables, 7 appendices</p></details> |
-| **[ScamDetect: Towards a Robust, Agnostic Framework to Uncover Threats in Smart Contracts](http://arxiv.org/abs/2508.07094v2)** | 2025-08-12 |  |
-| **[Differentiated Information Mining: A Semi-supervised Learning Framework for GNNs](http://arxiv.org/abs/2508.08769v1)** | 2025-08-12 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 8 tables</p></details> |
-| **[Hybrid Node-Destroyer Model with Large Neighborhood Search for Solving the Capacitated Vehicle Routing Problem](http://arxiv.org/abs/2508.08659v1)** | 2025-08-12 | 19 pages, 10 figures |
-| **[$\text{M}^{2}$LLM: Multi-view Molecular Representation Learning with Large Language Models](http://arxiv.org/abs/2508.08657v1)** | 2025-08-12 | IJCAI 2025 |
-| **[Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control](http://arxiv.org/abs/2310.10948v3)** | 2025-08-12 |  |
-| **[DeepFleet: Multi-Agent Foundation Models for Mobile Robots](http://arxiv.org/abs/2508.08574v1)** | 2025-08-12 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, 2 tables</p></details> |
-| **[UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction](http://arxiv.org/abs/2508.08551v1)** | 2025-08-12 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, SIGSPATIAL 2025</p></details> |
 
