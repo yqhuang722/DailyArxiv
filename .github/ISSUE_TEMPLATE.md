@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 14, 2025
+title: Latest 10 Papers - August 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transferable Parasitic Estimation via Graph Contrastive Learning and Label Rebalancing in AMS Circuits](http://arxiv.org/abs/2507.06535v2)** | 2025-08-14 | <details><summary>Final...</summary><p>Final version accepted by the International Conference on Computer-Aided Design (ICCAD) 2025</p></details> |
 | **[VoteGCL: Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation](http://arxiv.org/abs/2507.21563v3)** | 2025-08-13 |  |
 | **[Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning](http://arxiv.org/abs/2508.07205v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
 | **[Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection](http://arxiv.org/abs/2508.07201v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by AAAI2024</p></details> |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Network](http://arxiv.org/abs/2505.17786v3)** | 2025-07-19 | under review |
 | **[Revisiting Graph Contrastive Learning on Anomaly Detection: A Structural Imbalance Perspective](http://arxiv.org/abs/2507.14677v1)** | 2025-07-19 | Accepted by AAAI2025 |
 | **[SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation](http://arxiv.org/abs/2507.13336v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted in RecSys 2025. arXiv admin note: substantial text overlap with arXiv:2404.15954</p></details> |
-| **[NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation](http://arxiv.org/abs/2507.07522v1)** | 2025-07-10 | <details><summary>Accep...</summary><p>Accepted by RecSys 2025 as Spotlight Oral</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hierarchical Graph Attention Network for No-Reference Omnidirectional Image Quality Assessment](http://arxiv.org/abs/2508.09843v1)** | 2025-08-13 |  |
-| **[Explainable Ensemble Learning for Graph-Based Malware Detection](http://arxiv.org/abs/2508.09801v1)** | 2025-08-13 |  |
-| **[LiteFat: Lightweight Spatio-Temporal Graph Learning for Real-Time Driver Fatigue Detection](http://arxiv.org/abs/2507.21756v2)** | 2025-08-13 | 8 pages, 4 figures |
-| **[Verifying Quantized Graph Neural Networks is PSPACE-complete](http://arxiv.org/abs/2502.16244v2)** | 2025-08-13 | <details><summary>In 34...</summary><p>In 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</p></details> |
-| **[Halting Recurrent GNNs and the Graded $μ$-Calculus](http://arxiv.org/abs/2505.11050v2)** | 2025-08-13 | <details><summary>Exten...</summary><p>Extended technical report of paper accepted for publication at KR 2025</p></details> |
-| **[Time-Aware and Transition-Semantic Graph Neural Networks for Interpretable Predictive Business Process Monitoring](http://arxiv.org/abs/2508.09527v1)** | 2025-08-13 | 32 pages |
-| **[Graph Neural Network and Transformer Integration for Unsupervised System Anomaly Discovery](http://arxiv.org/abs/2508.09401v1)** | 2025-08-13 |  |
-| **[Exact Verification of Graph Neural Networks with Incremental Constraint Solving](http://arxiv.org/abs/2508.09320v1)** | 2025-08-12 |  |
-| **[Over-Squashing in GNNs and Causal Inference of Rewiring Strategies](http://arxiv.org/abs/2508.09265v1)** | 2025-08-12 | 14 pages, 2 figures |
-| **[Meta-learning optimizes predictions of missing links in real-world networks](http://arxiv.org/abs/2508.09069v1)** | 2025-08-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 5 tables, 7 appendices</p></details> |
+| **[Enhancing Fairness in Autoencoders for Node-Level Graph Anomaly Detection](http://arxiv.org/abs/2508.10785v1)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted in ECAI-2025</p></details> |
+| **[Scaling Up without Fading Out: Goal-Aware Sparse GNN for RL-based Generalized Planning](http://arxiv.org/abs/2508.10747v1)** | 2025-08-14 | 16 pages, 10 figures |
+| **[Graph Learning via Logic-Based Weisfeiler-Leman Variants and Tabularization](http://arxiv.org/abs/2508.10651v1)** | 2025-08-14 |  |
+| **[On Understanding of the Dynamics of Model Capacity in Continual Learning](http://arxiv.org/abs/2508.08052v2)** | 2025-08-14 |  |
+| **[GNN-based Unified Deep Learning](http://arxiv.org/abs/2508.10583v1)** | 2025-08-14 |  |
+| **[DiRW: Path-Aware Digraph Learning for Heterophily](http://arxiv.org/abs/2410.10320v2)** | 2025-08-14 |  |
+| **[GraphFedMIG: Tackling Class Imbalance in Federated Graph Learning via Mutual Information-Guided Generation](http://arxiv.org/abs/2508.10471v1)** | 2025-08-14 |  |
+| **[X-Node: Self-Explanation is All We Need](http://arxiv.org/abs/2508.10461v1)** | 2025-08-14 |  |
+| **[Influence Maximization in Multi-layer Social Networks Based on Differentiated Graph Embeddings](http://arxiv.org/abs/2508.10289v1)** | 2025-08-14 |  |
+| **[M3-Net: A Cost-Effective Graph-Free MLP-Based Model for Traffic Prediction](http://arxiv.org/abs/2508.08543v2)** | 2025-08-14 |  |
 
