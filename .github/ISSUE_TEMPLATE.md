@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 20, 2025
+title: Latest 10 Papers - August 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving Fairness in Graph Neural Networks via Counterfactual Debiasing](http://arxiv.org/abs/2508.14683v1)** | 2025-08-20 | <details><summary>Proce...</summary><p>Proceedings of the 2024 KDD Workshop</p></details> |
+| **[Learnable Kernel Density Estimation for Graphs](http://arxiv.org/abs/2505.21285v2)** | 2025-08-20 | Under Review |
+| **[A Comprehensive Benchmark on Spectral GNNs: The Impact on Efficiency, Memory, and Effectiveness](http://arxiv.org/abs/2406.09675v3)** | 2025-08-20 | <details><summary>Techn...</summary><p>Technical Report with Appendix. Our code and evaluation is available at: https://github.com/gdmnl/Spectral-GNN-Benchmark</p></details> |
+| **[Knowledge Graph-Infused Fine-Tuning for Structured Reasoning in Large Language Models](http://arxiv.org/abs/2508.14427v1)** | 2025-08-20 |  |
+| **[On the Interplay between Graph Structure and Learning Algorithms in Graph Neural Networks](http://arxiv.org/abs/2508.14338v1)** | 2025-08-20 |  |
+| **[Multi-view Graph Condensation via Tensor Decomposition](http://arxiv.org/abs/2508.14330v1)** | 2025-08-20 |  |
 | **[ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features](http://arxiv.org/abs/2508.13953v1)** | 2025-08-19 |  |
 | **[Scaling Up without Fading Out: Goal-Aware Sparse GNN for RL-based Generalized Planning](http://arxiv.org/abs/2508.10747v2)** | 2025-08-19 |  |
 | **[Refining Contrastive Learning and Homography Relations for Multi-Modal Recommendation](http://arxiv.org/abs/2508.13745v1)** | 2025-08-19 | <details><summary>This ...</summary><p>This paper has been accepted as a full paper at ACM MM 2025</p></details> |
 | **[CaPGNN: Optimizing Parallel Graph Neural Network Training with Joint Caching and Resource-Aware Graph Partitioning](http://arxiv.org/abs/2508.13716v1)** | 2025-08-19 |  |
-| **[SVDformer: Direction-Aware Spectral Graph Embedding Learning via SVD and Transformer](http://arxiv.org/abs/2508.13435v1)** | 2025-08-19 |  |
-| **[LOOP: A Plug-and-Play Neuro-Symbolic Framework for Enhancing Planning in Autonomous Systems](http://arxiv.org/abs/2508.13371v1)** | 2025-08-18 | Submitted to IAAI-26 |
-| **[HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments](http://arxiv.org/abs/2505.03128v2)** | 2025-08-18 | 8 pages, 6 figures |
-| **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](http://arxiv.org/abs/2409.14500v3)** | 2025-08-18 |  |
-| **[RoTO: Robust Topology Obfuscation Against Tomography Inference Attacks](http://arxiv.org/abs/2508.12852v1)** | 2025-08-18 |  |
-| **[Scaling Multi-Agent Epistemic Planning through GNN-Derived Heuristics](http://arxiv.org/abs/2508.12840v1)** | 2025-08-18 |  |
 
