@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 21, 2025
+title: Latest 10 Papers - August 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tree-like Pairwise Interaction Networks](http://arxiv.org/abs/2508.15678v1)** | 2025-08-21 |  |
+| **[On the Consistency of GNN Explanations for Malware Detection](http://arxiv.org/abs/2504.16316v2)** | 2025-08-21 |  |
+| **[Let's Grow an Unbiased Community: Guiding the Fairness of Graphs via New Links](http://arxiv.org/abs/2508.15499v1)** | 2025-08-21 |  |
+| **[JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on FPGAs](http://arxiv.org/abs/2508.15468v1)** | 2025-08-21 | 10 pages, 9 figures |
+| **[STAGNet: A Spatio-Temporal Graph and LSTM Framework for Accident Anticipation](http://arxiv.org/abs/2508.15216v1)** | 2025-08-21 |  |
+| **[Fragment-Wise Interpretability in Graph Neural Networks via Molecule Decomposition and Contribution Analysis](http://arxiv.org/abs/2508.15015v1)** | 2025-08-20 |  |
+| **[Fast Graph Neural Network for Image Classification](http://arxiv.org/abs/2508.14958v1)** | 2025-08-20 | <details><summary>12 pa...</summary><p>12 pages, proceeding into CanadianAI 2025</p></details> |
 | **[Improving Fairness in Graph Neural Networks via Counterfactual Debiasing](http://arxiv.org/abs/2508.14683v1)** | 2025-08-20 | <details><summary>Proce...</summary><p>Proceedings of the 2024 KDD Workshop</p></details> |
 | **[Learnable Kernel Density Estimation for Graphs](http://arxiv.org/abs/2505.21285v2)** | 2025-08-20 | Under Review |
 | **[A Comprehensive Benchmark on Spectral GNNs: The Impact on Efficiency, Memory, and Effectiveness](http://arxiv.org/abs/2406.09675v3)** | 2025-08-20 | <details><summary>Techn...</summary><p>Technical Report with Appendix. Our code and evaluation is available at: https://github.com/gdmnl/Spectral-GNN-Benchmark</p></details> |
-| **[Knowledge Graph-Infused Fine-Tuning for Structured Reasoning in Large Language Models](http://arxiv.org/abs/2508.14427v1)** | 2025-08-20 |  |
-| **[On the Interplay between Graph Structure and Learning Algorithms in Graph Neural Networks](http://arxiv.org/abs/2508.14338v1)** | 2025-08-20 |  |
-| **[Multi-view Graph Condensation via Tensor Decomposition](http://arxiv.org/abs/2508.14330v1)** | 2025-08-20 |  |
-| **[ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features](http://arxiv.org/abs/2508.13953v1)** | 2025-08-19 |  |
-| **[Scaling Up without Fading Out: Goal-Aware Sparse GNN for RL-based Generalized Planning](http://arxiv.org/abs/2508.10747v2)** | 2025-08-19 |  |
-| **[Refining Contrastive Learning and Homography Relations for Multi-Modal Recommendation](http://arxiv.org/abs/2508.13745v1)** | 2025-08-19 | <details><summary>This ...</summary><p>This paper has been accepted as a full paper at ACM MM 2025</p></details> |
-| **[CaPGNN: Optimizing Parallel Graph Neural Network Training with Joint Caching and Resource-Aware Graph Partitioning](http://arxiv.org/abs/2508.13716v1)** | 2025-08-19 |  |
 
