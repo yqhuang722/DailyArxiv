@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 27, 2025
+title: Latest 10 Papers - August 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Turning Tabular Foundation Models into Graph Foundation Models](http://arxiv.org/abs/2508.20906v1)** | 2025-08-28 |  |
 | **[G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning](http://arxiv.org/abs/2505.18499v3)** | 2025-08-19 |  |
 | **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](http://arxiv.org/abs/2409.14500v3)** | 2025-08-18 |  |
 | **[Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models](http://arxiv.org/abs/2506.14291v3)** | 2025-08-12 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v2)** | 2025-06-27 |  |
 | **[Multi-task parallelism for robust pre-training of graph foundation models on multi-source, multi-fidelity atomistic modeling data](http://arxiv.org/abs/2506.21788v1)** | 2025-06-26 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 2 tables</p></details> |
 | **[Towards Text-free Graph Foundation Models: Rethinking Multi-Domain Graph Contrastive Learning](http://arxiv.org/abs/2506.22510v1)** | 2025-06-26 | 16 pages, 5 figures |
-| **[Toward a Graph Foundation Model: Pre-Training Transformers With Random Walks](http://arxiv.org/abs/2506.14098v1)** | 2025-06-17 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning](http://arxiv.org/abs/2508.17630v2)** | 2025-08-26 |  |
-| **[Graph Neural Network-Based Topology Optimization for Self-Supporting Structures in Additive Manufacturing](http://arxiv.org/abs/2508.19169v1)** | 2025-08-26 |  |
-| **[Leveraging Multi-facet Paths for Heterogeneous Graph Representation Learning](http://arxiv.org/abs/2407.20648v3)** | 2025-08-26 |  |
-| **[MCI-GRU: Stock Prediction Model Based on Multi-Head Cross-Attention and Improved GRU](http://arxiv.org/abs/2410.20679v3)** | 2025-08-26 |  |
-| **[Dynamic Triangulation-Based Graph Rewiring for Graph Neural Networks](http://arxiv.org/abs/2508.19071v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to CIKM 2025</p></details> |
-| **[Automated discovery of finite volume schemes using Graph Neural Networks](http://arxiv.org/abs/2508.19052v1)** | 2025-08-26 |  |
-| **[VISION: Robust and Interpretable Code Vulnerability Detection Leveraging Counterfactual Augmentation](http://arxiv.org/abs/2508.18933v1)** | 2025-08-26 |  |
-| **[Generalization, Expressivity, and Universality of Graph Neural Networks on Attributed Graphs](http://arxiv.org/abs/2411.05464v3)** | 2025-08-26 |  |
-| **[Predicting Drug-Drug Interactions Using Heterogeneous Graph Neural Networks: HGNN-DDI](http://arxiv.org/abs/2508.18766v1)** | 2025-08-26 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Published in Applied and Computational Engineering, Vol. 79, pp. 77-89, July 25, 2024. Licensed under CC BY 4.0</p></details> |
-| **[Can Large Language Models Act as Ensembler for Multi-GNNs?](http://arxiv.org/abs/2410.16822v4)** | 2025-08-26 |  |
+| **[Graph-Based Feature Augmentation for Predictive Tasks on Relational Datasets](http://arxiv.org/abs/2508.20986v1)** | 2025-08-28 |  |
+| **[Deep Learning Based Concurrency Bug Detection and Localization](http://arxiv.org/abs/2508.20911v1)** | 2025-08-28 |  |
+| **[ADAGE: Active Defenses Against GNN Extraction](http://arxiv.org/abs/2503.00065v3)** | 2025-08-28 | <details><summary>Not a...</summary><p>Not all authors have given their explicit consent</p></details> |
+| **[ATM-GAD: Adaptive Temporal Motif Graph Anomaly Detection for Financial Transaction Networks](http://arxiv.org/abs/2508.20829v1)** | 2025-08-28 |  |
+| **[Graph Data Modeling: Molecules, Proteins, & Chemical Processes](http://arxiv.org/abs/2508.19356v2)** | 2025-08-28 | <details><summary>3 to ...</summary><p>3 to 4 hours read time. 73 pages. 35 figures</p></details> |
+| **[Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning](http://arxiv.org/abs/2508.17630v3)** | 2025-08-28 |  |
+| **[LASE: Learned Adjacency Spectral Embeddings](http://arxiv.org/abs/2412.17734v2)** | 2025-08-28 |  |
+| **[Local Virtual Nodes for Alleviating Over-Squashing in Graph Neural Networks](http://arxiv.org/abs/2508.20597v1)** | 2025-08-28 |  |
+| **[A Graph Talks, But Who's Listening? Rethinking Evaluations for Graph-Language Models](http://arxiv.org/abs/2508.20583v1)** | 2025-08-28 |  |
+| **[GLaRE: A Graph-based Landmark Region Embedding Network for Emotion Recognition](http://arxiv.org/abs/2508.20579v1)** | 2025-08-28 | 11 pages, 6 figures |
 
