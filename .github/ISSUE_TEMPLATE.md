@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 31, 2025
+title: Latest 10 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph-Based Feature Augmentation for Predictive Tasks on Relational Datasets](http://arxiv.org/abs/2508.20986v1)** | 2025-08-28 |  |
-| **[Deep Learning Based Concurrency Bug Detection and Localization](http://arxiv.org/abs/2508.20911v1)** | 2025-08-28 |  |
-| **[ADAGE: Active Defenses Against GNN Extraction](http://arxiv.org/abs/2503.00065v3)** | 2025-08-28 | <details><summary>Not a...</summary><p>Not all authors have given their explicit consent</p></details> |
-| **[ATM-GAD: Adaptive Temporal Motif Graph Anomaly Detection for Financial Transaction Networks](http://arxiv.org/abs/2508.20829v1)** | 2025-08-28 |  |
-| **[Graph Data Modeling: Molecules, Proteins, & Chemical Processes](http://arxiv.org/abs/2508.19356v2)** | 2025-08-28 | <details><summary>3 to ...</summary><p>3 to 4 hours read time. 73 pages. 35 figures</p></details> |
-| **[Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning](http://arxiv.org/abs/2508.17630v3)** | 2025-08-28 |  |
-| **[LASE: Learned Adjacency Spectral Embeddings](http://arxiv.org/abs/2412.17734v2)** | 2025-08-28 |  |
-| **[Local Virtual Nodes for Alleviating Over-Squashing in Graph Neural Networks](http://arxiv.org/abs/2508.20597v1)** | 2025-08-28 |  |
-| **[A Graph Talks, But Who's Listening? Rethinking Evaluations for Graph-Language Models](http://arxiv.org/abs/2508.20583v1)** | 2025-08-28 |  |
-| **[GLaRE: A Graph-based Landmark Region Embedding Network for Emotion Recognition](http://arxiv.org/abs/2508.20579v1)** | 2025-08-28 | 11 pages, 6 figures |
+| **[Will You Be Aware? Eye Tracking-Based Modeling of Situational Awareness in Augmented Reality](http://arxiv.org/abs/2508.05025v2)** | 2025-09-02 |  |
+| **[Towards a Unified Textual Graph Framework for Spectral Reasoning via Physical and Chemical Information Fusion](http://arxiv.org/abs/2506.17761v2)** | 2025-08-31 | <details><summary>We ne...</summary><p>We need to further modify and supplement the experiment</p></details> |
+| **[UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction](http://arxiv.org/abs/2508.08551v2)** | 2025-08-31 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, SIGSPATIAL 2025</p></details> |
+| **[FIT-GNN: Faster Inference Time for GNNs that 'FIT' in Memory Using Coarsening](http://arxiv.org/abs/2410.15001v3)** | 2025-08-31 |  |
+| **[From Anchors to Answers: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models](http://arxiv.org/abs/2410.10743v2)** | 2025-08-31 | <details><summary>Accep...</summary><p>Accepted by CIKM 2025</p></details> |
+| **[Decomposing heterogeneous dynamical systems with graph neural networks](http://arxiv.org/abs/2407.19160v2)** | 2025-08-31 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 pages appendix, 2 supplementary tables, 18 supplementary figures, 14 videos linked to YouTube</p></details> |
+| **[Semantic Parsing for Question Answering over Knowledge Graphs](http://arxiv.org/abs/2401.06772v3)** | 2025-08-30 |  |
+| **[The Demon is in Ambiguity: Revisiting Situation Recognition with Single Positive Multi-Label Learning](http://arxiv.org/abs/2508.21816v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by ICDM 2025</p></details> |
+| **[On the Hardness of Learning GNN-based SAT Solvers: The Role of Graph Ricci Curvature](http://arxiv.org/abs/2508.21513v1)** | 2025-08-29 | Preprint |
+| **[TorchCP: A Python Library for Conformal Prediction](http://arxiv.org/abs/2402.12683v4)** | 2025-08-29 |  |
 
