@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - September 10, 2025
+title: Latest 10 Papers - September 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Two Sides of the Same Optimization Coin: Model Degradation and Representation Collapse in Graph Foundation Models](http://arxiv.org/abs/2509.08401v2)** | 2025-09-11 |  |
+| **[RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models](http://arxiv.org/abs/2509.00614v2)** | 2025-09-09 |  |
 | **[Of Graphs and Tables: Zero-Shot Node Classification with Tabular Foundation Models](http://arxiv.org/abs/2509.07143v1)** | 2025-09-08 |  |
-| **[RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models](http://arxiv.org/abs/2509.00614v1)** | 2025-08-30 |  |
 | **[Turning Tabular Foundation Models into Graph Foundation Models](http://arxiv.org/abs/2508.20906v1)** | 2025-08-28 |  |
 | **[G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning](http://arxiv.org/abs/2505.18499v3)** | 2025-08-19 |  |
 | **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](http://arxiv.org/abs/2409.14500v3)** | 2025-08-18 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[GraphProp: Training the Graph Foundation Models using Graph Properties](http://arxiv.org/abs/2508.04594v1)** | 2025-08-06 |  |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning for Any Atlas and Disorder](http://arxiv.org/abs/2506.02044v2)** | 2025-08-03 | 30pages |
 | **[Graph World Model](http://arxiv.org/abs/2507.10539v1)** | 2025-07-14 |  |
-| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v2)** | 2025-06-27 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adversarial Robustness of Link Sign Prediction in Signed Graphs](http://arxiv.org/abs/2401.10590v3)** | 2025-09-09 |  |
 | **[Hybrid Matrix Factorization Based Graph Contrastive Learning for Recommendation System](http://arxiv.org/abs/2509.05115v1)** | 2025-09-05 |  |
 | **[Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size](http://arxiv.org/abs/2509.01541v1)** | 2025-09-01 | 12 pages, 5 figures |
 | **[Structures Meet Semantics: Multimodal Fusion via Graph Contrastive Learning](http://arxiv.org/abs/2508.18322v1)** | 2025-08-24 | <details><summary>9 pag...</summary><p>9 pages,7 figures,conference</p></details> |
@@ -44,19 +45,18 @@ labels: documentation
 | **[VoteGCL: Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation](http://arxiv.org/abs/2507.21563v3)** | 2025-08-13 |  |
 | **[Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning](http://arxiv.org/abs/2508.07205v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
 | **[Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection](http://arxiv.org/abs/2508.07201v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by AAAI2024</p></details> |
-| **[Khan-GCL: Kolmogorov-Arnold Network Based Graph Contrastive Learning with Hard Negatives](http://arxiv.org/abs/2505.15103v2)** | 2025-08-08 | <details><summary>Graph...</summary><p>Graph Contrastive Learning, Self-supervised Learning, Kolmogorov-Arnold Network, Representation Learning</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MSRFormer: Road Network Representation Learning using Multi-scale Feature Fusion of Heterogeneous Spatial Interactions](http://arxiv.org/abs/2509.05685v2)** | 2025-09-09 |  |
-| **[A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges](http://arxiv.org/abs/2509.07887v1)** | 2025-09-09 | 16 pages, 1 figure |
-| **[Safeguarding Graph Neural Networks against Topology Inference Attacks](http://arxiv.org/abs/2509.05429v2)** | 2025-09-09 | <details><summary>Accte...</summary><p>Acctepted by ACM CCS'25</p></details> |
-| **[IBN: An Interpretable Bidirectional-Modeling Network for Multivariate Time Series Forecasting with Variable Missing](http://arxiv.org/abs/2509.07725v1)** | 2025-09-09 |  |
-| **[VariSAC: V2X Assured Connectivity in RIS-Aided ISAC via GNN-Augmented Reinforcement Learning](http://arxiv.org/abs/2509.06763v2)** | 2025-09-09 |  |
-| **[DeepGraphLog for Layered Neurosymbolic AI](http://arxiv.org/abs/2509.07665v1)** | 2025-09-09 |  |
-| **[Graph-based Integrated Gradients for Explaining Graph Neural Networks](http://arxiv.org/abs/2509.07648v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted at the Australasian Joint Conference on Artificial Intelligence (AJCAI) 2025</p></details> |
-| **[NestGNN: A Graph Neural Network Framework Generalizing the Nested Logit Model for Travel Mode Choice](http://arxiv.org/abs/2509.07123v1)** | 2025-09-08 |  |
-| **[Asynchronous Message Passing for Addressing Oversquashing in Graph Neural Networks](http://arxiv.org/abs/2509.06777v1)** | 2025-09-08 |  |
-| **[A Composite-Loss Graph Neural Network for the Multivariate Post-Processing of Ensemble Weather Forecasts](http://arxiv.org/abs/2509.02784v2)** | 2025-09-08 | <details><summary>30 pa...</summary><p>30 pages, 16 figures, 3 tables</p></details> |
+| **[Towards Explainable Job Title Matching: Leveraging Semantic Textual Relatedness and Knowledge Graphs](http://arxiv.org/abs/2509.09522v1)** | 2025-09-11 |  |
+| **[Database Views as Explanations for Relational Deep Learning](http://arxiv.org/abs/2509.09482v1)** | 2025-09-11 |  |
+| **[MoSE: Unveiling Structural Patterns in Graphs via Mixture of Subgraph Experts](http://arxiv.org/abs/2509.09337v1)** | 2025-09-11 | 16 pages, 11 figures |
+| **[Vejde: A Framework for Inductive Deep Reinforcement Learning Based on Factor Graph Color Refinement](http://arxiv.org/abs/2509.09219v1)** | 2025-09-11 |  |
+| **[Diffusion Graph Neural Networks for Robustness in Olfaction Sensors and Datasets](http://arxiv.org/abs/2506.00455v3)** | 2025-09-11 |  |
+| **[CryptGNN: Enabling Secure Inference for Graph Neural Networks](http://arxiv.org/abs/2509.09107v1)** | 2025-09-11 |  |
+| **[Deep Reinforcement Learning for Inventory Networks: Toward Reliable Policy Optimization](http://arxiv.org/abs/2306.11246v3)** | 2025-09-10 |  |
+| **[Robust Belief-State Policy Learning for Quantum Network Routing Under Decoherence and Time-Varying Conditions](http://arxiv.org/abs/2509.08654v1)** | 2025-09-10 |  |
+| **[Second-Order Tensorial Partial Differential Equations on Graphs](http://arxiv.org/abs/2509.02015v2)** | 2025-09-10 | 10 pages, 1 figure |
+| **[Facet: highly efficient E(3)-equivariant networks for interatomic potentials](http://arxiv.org/abs/2509.08418v1)** | 2025-09-10 |  |
 
