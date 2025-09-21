@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - September 17, 2025
+title: Latest 10 Papers - September 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification](http://arxiv.org/abs/2509.14893v1)** | 2025-09-18 |  |
 | **[Adversarial Robustness of Link Sign Prediction in Signed Graphs](http://arxiv.org/abs/2401.10590v3)** | 2025-09-09 |  |
 | **[Hybrid Matrix Factorization Based Graph Contrastive Learning for Recommendation System](http://arxiv.org/abs/2509.05115v1)** | 2025-09-05 |  |
 | **[Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size](http://arxiv.org/abs/2509.01541v1)** | 2025-09-01 | 12 pages, 5 figures |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Transferable Parasitic Estimation via Graph Contrastive Learning and Label Rebalancing in AMS Circuits](http://arxiv.org/abs/2507.06535v3)** | 2025-08-15 | <details><summary>Final...</summary><p>Final version accepted by the International Conference on Computer-Aided Design (ICCAD) 2025</p></details> |
 | **[VoteGCL: Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation](http://arxiv.org/abs/2507.21563v3)** | 2025-08-13 |  |
 | **[Towards Real-World Rumor Detection: Anomaly Detection Framework with Graph Supervised Contrastive Learning](http://arxiv.org/abs/2508.07205v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by COLING2025</p></details> |
-| **[Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection](http://arxiv.org/abs/2508.07201v1)** | 2025-08-10 | <details><summary>This ...</summary><p>This paper is accepted by AAAI2024</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[JANUS: A Dual-Constraint Generative Framework for Stealthy Node Injection Attacks](http://arxiv.org/abs/2509.13266v1)** | 2025-09-16 |  |
-| **[Learning from Heterophilic Graphs: A Spectral Theory Perspective on the Impact of Self-Loops and Parallel Edges](http://arxiv.org/abs/2509.13139v1)** | 2025-09-16 |  |
-| **[Curriculum Learning for Mesh-based simulations](http://arxiv.org/abs/2509.13138v1)** | 2025-09-16 |  |
-| **[Second-Order Tensorial Partial Differential Equations on Graphs](http://arxiv.org/abs/2509.02015v3)** | 2025-09-16 | 9 pages, 1 figure |
-| **[Spatiotemporal graph neural process for reconstruction, extrapolation, and classification of cardiac trajectories](http://arxiv.org/abs/2509.12953v1)** | 2025-09-16 |  |
-| **[Learn from Global Correlations: Enhancing Evolutionary Algorithm via Spectral GNN](http://arxiv.org/abs/2412.17629v4)** | 2025-09-16 | 9 pages, 4 figures |
-| **[Explicit Multimodal Graph Modeling for Human-Object Interaction Detection](http://arxiv.org/abs/2509.12554v1)** | 2025-09-16 |  |
-| **[Graph Homophily Booster: Rethinking the Role of Discrete Features on Heterophilic Graphs](http://arxiv.org/abs/2509.12530v1)** | 2025-09-16 | 14 pages |
-| **[PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training](http://arxiv.org/abs/2507.11683v3)** | 2025-09-15 | <details><summary>To ap...</summary><p>To appear in the 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis</p></details> |
-| **[3DViT-GAT: A Unified Atlas-Based 3D Vision Transformer and Graph Learning Framework for Major Depressive Disorder Detection Using Structural MRI Data](http://arxiv.org/abs/2509.12143v1)** | 2025-09-15 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 7 tables</p></details> |
+| **[Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering](http://arxiv.org/abs/2506.09920v2)** | 2025-09-18 |  |
+| **[Attention Beyond Neighborhoods: Reviving Transformer for Graph Clustering](http://arxiv.org/abs/2509.15024v1)** | 2025-09-18 | 9 pages, 5 figures |
+| **[Spatio-Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter](http://arxiv.org/abs/2311.04190v2)** | 2025-09-18 | <details><summary>23 pa...</summary><p>23 pages, 17 figures, 3 tables, and published version</p></details> |
+| **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v5)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
+| **[Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study](http://arxiv.org/abs/2509.14863v1)** | 2025-09-18 |  |
+| **[Let's Grow an Unbiased Community: Guiding the Fairness of Graphs via New Links](http://arxiv.org/abs/2508.15499v2)** | 2025-09-18 |  |
+| **[Top K Enhanced Reinforcement Learning Attacks on Heterogeneous Graph Node Classification](http://arxiv.org/abs/2408.01964v2)** | 2025-09-18 |  |
+| **[Federated Hypergraph Learning with Local Differential Privacy: Toward Privacy-Aware Hypergraph Structure Completion](http://arxiv.org/abs/2408.05160v3)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Data Mining 2025 (ICDM2025)</p></details> |
+| **[General Geospatial Inference with a Population Dynamics Foundation Model](http://arxiv.org/abs/2411.07207v5)** | 2025-09-17 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, preprint; v5: updated authors</p></details> |
+| **[Local-Canonicalization Equivariant Graph Neural Networks for Sample-Efficient and Generalizable Swarm Robot Control](http://arxiv.org/abs/2509.14431v1)** | 2025-09-17 | 8 pages, 8 figures |
 
