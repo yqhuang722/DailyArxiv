@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - October 01, 2025
+title: Latest 10 Papers - October 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flock: A Knowledge Graph Foundation Model via Learning on Random Walks](http://arxiv.org/abs/2510.01510v1)** | 2025-10-01 |  |
 | **[G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge](http://arxiv.org/abs/2509.24276v1)** | 2025-09-29 | 22 pages, 6 figures |
 | **[Graph Foundation Models: Bridging Language Model Paradigms and Graph Optimization](http://arxiv.org/abs/2509.24256v1)** | 2025-09-29 |  |
 | **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](http://arxiv.org/abs/2509.21489v1)** | 2025-09-25 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Flatten Graphs as Sequences: Transformers are Scalable Graph Generators](http://arxiv.org/abs/2502.02216v2)** | 2025-09-19 | <details><summary>To ap...</summary><p>To appear at NeurIPS 2025</p></details> |
 | **[SEMMA: A Semantic Aware Knowledge Graph Foundation Model](http://arxiv.org/abs/2505.20422v2)** | 2025-09-19 | EMNLP 2025 |
 | **[Two Facets of the Same Optimization Coin: Model Degradation and Representation Collapse in Graph Foundation Models](http://arxiv.org/abs/2509.08401v4)** | 2025-09-19 |  |
-| **[RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models](http://arxiv.org/abs/2509.00614v2)** | 2025-09-09 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement](http://arxiv.org/abs/2510.01910v1)** | 2025-10-02 | 14 pages |
 | **[Less is More: Towards Simple Graph Contrastive Learning](http://arxiv.org/abs/2509.25742v1)** | 2025-09-30 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 | **[Fractal Graph Contrastive Learning](http://arxiv.org/abs/2505.11356v3)** | 2025-09-25 |  |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](http://arxiv.org/abs/2505.17786v4)** | 2025-09-25 | under review |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification](http://arxiv.org/abs/2509.14893v1)** | 2025-09-18 |  |
 | **[Adversarial Robustness of Link Sign Prediction in Signed Graphs](http://arxiv.org/abs/2401.10590v3)** | 2025-09-09 |  |
 | **[Hybrid Matrix Factorization Based Graph Contrastive Learning for Recommendation System](http://arxiv.org/abs/2509.05115v1)** | 2025-09-05 |  |
-| **[Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size](http://arxiv.org/abs/2509.01541v1)** | 2025-09-01 | 12 pages, 5 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MUSE-Explainer: Counterfactual Explanations for Symbolic Music Graph Classification Models](http://arxiv.org/abs/2509.26521v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted at the 17th International Symposium on Computer Music Multidisciplinary Research (CMMR) 2025</p></details> |
-| **[Regression Language Models for Code](http://arxiv.org/abs/2509.26476v1)** | 2025-09-30 |  |
-| **[MC-GNNAS-Dock: Multi-criteria GNN-based Algorithm Selection for Molecular Docking](http://arxiv.org/abs/2509.26377v1)** | 2025-09-30 | <details><summary>Short...</summary><p>Short paper. Preprint of a forthcoming conference contribution</p></details> |
-| **[Ultra-Reliable Risk-Aggregated Sum Rate Maximization via Model-Aided Deep Learning](http://arxiv.org/abs/2509.26311v1)** | 2025-09-30 |  |
-| **[scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via Deep Cut-informed Graph Embedding](http://arxiv.org/abs/2404.06167v2)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted as a long paper for the research track at DASFAA 2024; Error Correction</p></details> |
-| **[Stealthy Yet Effective: Distribution-Preserving Backdoor Attacks on Graph Classification](http://arxiv.org/abs/2509.26032v1)** | 2025-09-30 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[scSiameseClu: A Siamese Clustering Framework for Interpreting single-cell RNA Sequencing Data](http://arxiv.org/abs/2505.12626v2)** | 2025-09-30 |  |
-| **[Deep Graph Learning for Industrial Carbon Emission Analysis and Policy Impact](http://arxiv.org/abs/2507.02912v2)** | 2025-09-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025 AI for Science Workshop</p></details> |
-| **[Spatio-Temporal-Network Point Processes for Modeling Crime Events with Landmarks](http://arxiv.org/abs/2409.10882v2)** | 2025-09-30 |  |
-| **[HiFIRec: Towards High-Frequency yet Low-Intention Behaviors for Multi-Behavior Recommendation](http://arxiv.org/abs/2509.25755v1)** | 2025-09-30 |  |
+| **[Fine-Grained Urban Traffic Forecasting on Metropolis-Scale Road Networks](http://arxiv.org/abs/2510.02278v1)** | 2025-10-02 |  |
+| **[Transformers Discover Molecular Structure Without Graph Priors](http://arxiv.org/abs/2510.02259v1)** | 2025-10-02 |  |
+| **[LPAC: Learnable Perception-Action-Communication Loops with Applications to Coverage Control](http://arxiv.org/abs/2401.04855v4)** | 2025-10-02 | <details><summary>20 Pa...</summary><p>20 Pages, 20 figures, Accepted for publication in the IEEE Transactions on Robotics</p></details> |
+| **[Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection](http://arxiv.org/abs/2507.11997v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
+| **[Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement](http://arxiv.org/abs/2510.01910v1)** | 2025-10-02 | 14 pages |
+| **[Detecting LLM-Generated Spam Reviews by Integrating Language Model Embeddings and Graph Neural Network](http://arxiv.org/abs/2510.01801v1)** | 2025-10-02 |  |
+| **[Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs](http://arxiv.org/abs/2505.17599v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[scSiameseClu: A Siamese Clustering Framework for Interpreting single-cell RNA Sequencing Data](http://arxiv.org/abs/2505.12626v3)** | 2025-10-02 |  |
+| **[Reconstructing Brain Causal Dynamics for Subject and Task Fingerprints using fMRI Time-series Data](http://arxiv.org/abs/2505.06392v2)** | 2025-10-01 |  |
+| **[Rapid training of Hamiltonian graph networks using random features](http://arxiv.org/abs/2506.06558v2)** | 2025-10-01 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 3 tables, and an appendix</p></details> |
 
