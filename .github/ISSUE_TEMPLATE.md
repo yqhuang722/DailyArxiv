@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - October 08, 2025
+title: Latest 10 Papers - October 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FedBook: A Unified Federated Graph Foundation Codebook with Intra-domain and Inter-domain Knowledge Modeling](http://arxiv.org/abs/2510.07755v1)** | 2025-10-09 | Under Review |
+| **[Bringing Graphs to the Table: Zero-shot Node Classification via Tabular Foundation Models](http://arxiv.org/abs/2509.07143v2)** | 2025-10-08 |  |
 | **[GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](http://arxiv.org/abs/2510.04567v1)** | 2025-10-06 |  |
 | **[Flock: A Knowledge Graph Foundation Model via Learning on Random Walks](http://arxiv.org/abs/2510.01510v1)** | 2025-10-01 |  |
 | **[G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge](http://arxiv.org/abs/2509.24276v1)** | 2025-09-29 | 22 pages, 6 figures |
@@ -15,8 +17,6 @@ labels: documentation
 | **[HEIST: A Graph Foundation Model for Spatial Transcriptomics and Proteomics Data](http://arxiv.org/abs/2506.11152v2)** | 2025-09-25 |  |
 | **[GraphUniverse: Enabling Systematic Evaluation of Inductive Generalization](http://arxiv.org/abs/2509.21097v1)** | 2025-09-25 |  |
 | **[Turning Tabular Foundation Models into Graph Foundation Models](http://arxiv.org/abs/2508.20906v2)** | 2025-09-23 |  |
-| **[Flatten Graphs as Sequences: Transformers are Scalable Graph Generators](http://arxiv.org/abs/2502.02216v2)** | 2025-09-19 | <details><summary>To ap...</summary><p>To appear at NeurIPS 2025</p></details> |
-| **[SEMMA: A Semantic Aware Knowledge Graph Foundation Model](http://arxiv.org/abs/2505.20422v2)** | 2025-09-19 | EMNLP 2025 |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,8 +35,9 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Moments to Models: Graphon Mixture-Aware Mixup and Contrastive Learning](http://arxiv.org/abs/2510.03690v2)** | 2025-10-09 |  |
+| **[Quantum Rationale-Aware Graph Contrastive Learning for Jet Discrimination](http://arxiv.org/abs/2411.01642v5)** | 2025-10-08 |  |
 | **[LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization](http://arxiv.org/abs/2505.12396v2)** | 2025-10-05 |  |
-| **[From Moments to Models: Graphon Mixture-Aware Mixup and Contrastive Learning](http://arxiv.org/abs/2510.03690v1)** | 2025-10-04 |  |
 | **[Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement](http://arxiv.org/abs/2510.01910v1)** | 2025-10-02 | 14 pages |
 | **[Less is More: Towards Simple Graph Contrastive Learning](http://arxiv.org/abs/2509.25742v1)** | 2025-09-30 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 | **[Fractal Graph Contrastive Learning](http://arxiv.org/abs/2505.11356v3)** | 2025-09-25 |  |
@@ -44,19 +45,18 @@ labels: documentation
 | **[PGCLODA: Prompt-Guided Graph Contrastive Learning for Oligopeptide-Infectious Disease Association Prediction](http://arxiv.org/abs/2509.20290v1)** | 2025-09-24 | 12page and 8 figures |
 | **[CueGCL: Cluster-aware Personalized Self-Training for Unsupervised Graph Contrastive Learning](http://arxiv.org/abs/2311.11073v2)** | 2025-09-23 | 13 pages, 7 figures |
 | **[SeqUDA-Rec: Sequential User Behavior Enhanced Recommendation via Global Unsupervised Data Augmentation for Personalized Content Marketing](http://arxiv.org/abs/2509.17361v1)** | 2025-09-22 |  |
-| **[Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification](http://arxiv.org/abs/2509.14893v1)** | 2025-09-18 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Spatiotemporal Graph Learning with Direct Volumetric Information Passing and Feature Enhancement](http://arxiv.org/abs/2409.18013v2)** | 2025-10-07 |  |
-| **[Analyzing the Effect of Embedding Norms and Singular Values to Oversmoothing in Graph Neural Networks](http://arxiv.org/abs/2510.06066v1)** | 2025-10-07 |  |
-| **[A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond](http://arxiv.org/abs/2410.02362v2)** | 2025-10-07 |  |
-| **[A comprehensive comparison of neural operators for 3D industry-scale engineering designs](http://arxiv.org/abs/2510.05995v1)** | 2025-10-07 |  |
-| **[Cross-Document Cross-Lingual NLI via RST-Enhanced Graph Fusion and Interpretability Prediction](http://arxiv.org/abs/2504.12324v3)** | 2025-10-07 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main (Camera Ready)</p></details> |
-| **[Uncertainty assessment in satellite-based greenhouse gas emissions estimates using emulated atmospheric transport](http://arxiv.org/abs/2510.05751v1)** | 2025-10-07 |  |
-| **[Are Heterogeneous Graph Neural Networks Truly Effective? A Causal Perspective](http://arxiv.org/abs/2510.05750v1)** | 2025-10-07 |  |
-| **[QGraphLIME - Explaining Quantum Graph Neural Networks](http://arxiv.org/abs/2510.05683v1)** | 2025-10-07 |  |
-| **[Inductive inference of gradient-boosted decision trees on graphs for insurance fraud detection](http://arxiv.org/abs/2510.05676v1)** | 2025-10-07 |  |
-| **[Applications of Large Models in Medicine](http://arxiv.org/abs/2502.17132v2)** | 2025-10-07 |  |
+| **[Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks](http://arxiv.org/abs/2310.07979v3)** | 2025-10-09 |  |
+| **[Efficient Graph Condensation via Gaussian Process](http://arxiv.org/abs/2501.02565v2)** | 2025-10-09 |  |
+| **[gLSTM: Mitigating Over-Squashing by Increasing Storage Capacity](http://arxiv.org/abs/2510.08450v1)** | 2025-10-09 | <details><summary>22 pa...</summary><p>22 pages, 22 figures, 7 tables</p></details> |
+| **[Interpreting GNN-based IDS Detections Using Provenance Graph Structural Features](http://arxiv.org/abs/2306.00934v7)** | 2025-10-09 |  |
+| **[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](http://arxiv.org/abs/2502.00338v4)** | 2025-10-09 |  |
+| **[GNN-based Path Embeddings for Efficient and Exact Subgraph Matching (Technical Report)](http://arxiv.org/abs/2309.15641v4)** | 2025-10-09 |  |
+| **[FireGNN: Neuro-Symbolic Graph Neural Networks with Trainable Fuzzy Rules for Interpretable Medical Image Classification](http://arxiv.org/abs/2509.10510v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Conference (Workshop Track), San Diego, USA</p></details> |
+| **[Verifying Graph Neural Networks with Readout is Intractable](http://arxiv.org/abs/2510.08045v1)** | 2025-10-09 |  |
+| **[GraphEnet: Event-driven Human Pose Estimation with a Graph Neural Network](http://arxiv.org/abs/2510.07990v1)** | 2025-10-09 |  |
+| **[MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation](http://arxiv.org/abs/2510.07910v1)** | 2025-10-09 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer-Assisted Intervention (MICCAI) Predictive Intelligence in Medicine Workshop (MICCAI PRIME) 2025; 13 pages</p></details> |
 
