@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - October 19, 2025
+title: Latest 10 Papers - October 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](http://arxiv.org/abs/2503.03313v3)** | 2025-10-20 |  |
+| **[Deeper with Riemannian Geometry: Overcoming Oversmoothing and Oversquashing for Graph Foundation Models](http://arxiv.org/abs/2510.17457v1)** | 2025-10-20 | Accept by NeurIPS 25 |
+| **[GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](http://arxiv.org/abs/2502.01113v2)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](http://arxiv.org/abs/2409.14500v4)** | 2025-10-16 |  |
 | **[Stealthy Dual-Trigger Backdoors: Attacking Prompt Tuning in LM-Empowered Graph Foundation Models](http://arxiv.org/abs/2510.14470v1)** | 2025-10-16 |  |
 | **[Boosting Graph Foundation Model from Structural Perspective](http://arxiv.org/abs/2407.19941v2)** | 2025-10-16 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-025-50736-y}</p></details> |
@@ -14,9 +17,6 @@ labels: documentation
 | **[GraphShaper: Geometry-aware Alignment for Improving Transfer Learning in Text-Attributed Graphs](http://arxiv.org/abs/2510.12085v1)** | 2025-10-14 |  |
 | **[A Graph Laplacian Eigenvector-based Pre-training Method for Graph Neural Networks](http://arxiv.org/abs/2509.02803v2)** | 2025-10-11 |  |
 | **[FedBook: A Unified Federated Graph Foundation Codebook with Intra-domain and Inter-domain Knowledge Modeling](http://arxiv.org/abs/2510.07755v1)** | 2025-10-09 | Under Review |
-| **[Bringing Graphs to the Table: Zero-shot Node Classification via Tabular Foundation Models](http://arxiv.org/abs/2509.07143v2)** | 2025-10-08 |  |
-| **[GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](http://arxiv.org/abs/2510.04567v1)** | 2025-10-06 |  |
-| **[Flock: A Knowledge Graph Foundation Model via Learning on Random Walks](http://arxiv.org/abs/2510.01510v1)** | 2025-10-01 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward General Digraph Contrastive Learning: A Dual Spatial Perspective](http://arxiv.org/abs/2510.16311v1)** | 2025-10-18 |  |
 | **[Transferable Parasitic Estimation via Graph Contrastive Learning and Label Rebalancing in AMS Circuits](http://arxiv.org/abs/2507.06535v4)** | 2025-10-10 | <details><summary>Final...</summary><p>Final version accepted by the International Conference on Computer-Aided Design (ICCAD) 2025. First two authors have equal contributions</p></details> |
 | **[Generative Data Augmentation in Graph Contrastive Learning for Recommendation](http://arxiv.org/abs/2510.09129v1)** | 2025-10-10 | <details><summary>The 3...</summary><p>The 34th ACM International Conference on Information and Knowledge Management</p></details> |
 | **[From Moments to Models: Graphon Mixture-Aware Mixup and Contrastive Learning](http://arxiv.org/abs/2510.03690v2)** | 2025-10-09 |  |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Less is More: Towards Simple Graph Contrastive Learning](http://arxiv.org/abs/2509.25742v1)** | 2025-09-30 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 | **[Fractal Graph Contrastive Learning](http://arxiv.org/abs/2505.11356v3)** | 2025-09-25 |  |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](http://arxiv.org/abs/2505.17786v4)** | 2025-09-25 | under review |
-| **[PGCLODA: Prompt-Guided Graph Contrastive Learning for Oligopeptide-Infectious Disease Association Prediction](http://arxiv.org/abs/2509.20290v1)** | 2025-09-24 | 12page and 8 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](http://arxiv.org/abs/2409.14500v4)** | 2025-10-16 |  |
-| **[Spatial Computing Communications for Multi-User Virtual Reality in Distributed Mobile Edge Computing Network](http://arxiv.org/abs/2510.14243v1)** | 2025-10-16 | <details><summary>submi...</summary><p>submited to IEEE journal</p></details> |
-| **[Inferred global dense residue transition graphs from primary structure sequences enable protein interaction prediction via directed graph convolutional neural networks](http://arxiv.org/abs/2510.14139v1)** | 2025-10-15 | <details><summary>under...</summary><p>under review in Frontiers in Bioinformatics</p></details> |
-| **[iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering](http://arxiv.org/abs/2506.01784v3)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Track</p></details> |
-| **[On the expressivity of sparse maxout networks](http://arxiv.org/abs/2510.14068v1)** | 2025-10-15 |  |
-| **[Maximum entropy temporal networks](http://arxiv.org/abs/2509.02098v4)** | 2025-10-15 | 17 pages, 25 figures |
-| **[GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations](http://arxiv.org/abs/2510.14035v1)** | 2025-10-15 | <details><summary>10 pa...</summary><p>10 pages content. 2 pages references</p></details> |
-| **[Multi-Scale High-Resolution Logarithmic Grapher Module for Efficient Vision GNNs](http://arxiv.org/abs/2510.13740v1)** | 2025-10-15 | <details><summary>Publi...</summary><p>Published in the Proceedings of the Third Learning on Graphs Conference (LoG 2024)</p></details> |
-| **[Axial Neural Networks for Dimension-Free Foundation Models](http://arxiv.org/abs/2510.13665v1)** | 2025-10-15 |  |
-| **[Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision](http://arxiv.org/abs/2504.02477v3)** | 2025-10-15 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Accepted to Information Fusion. Final journal version: volume 126 (Part B), February 2026</p></details> |
+| **[Generation of Uncertainty-Aware Emergent Concepts in Factorized 3D Scene Graphs via Graph Neural Networks](http://arxiv.org/abs/2409.11972v2)** | 2025-10-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Robustness Verification of Graph Neural Networks Via Lightweight Satisfiability Testing](http://arxiv.org/abs/2510.18591v1)** | 2025-10-21 |  |
+| **[Molecular Fingerprints Are Strong Models for Peptide Function Prediction](http://arxiv.org/abs/2501.17901v2)** | 2025-10-21 |  |
+| **[Benchmarking Fairness-aware Graph Neural Networks in Knowledge Graphs](http://arxiv.org/abs/2510.18473v1)** | 2025-10-21 |  |
+| **[Simple and Efficient Heterogeneous Temporal Graph Neural Network](http://arxiv.org/abs/2510.18467v1)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by Neurips 2025</p></details> |
+| **[Training Diverse Graph Experts for Ensembles: A Systematic Empirical Study](http://arxiv.org/abs/2510.18370v1)** | 2025-10-21 |  |
+| **[Preference-driven Knowledge Distillation for Few-shot Node Classification](http://arxiv.org/abs/2510.10116v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis](http://arxiv.org/abs/2311.00164v3)** | 2025-10-21 | <details><summary>22 pa...</summary><p>22 pages. Appeared in NeurIPS 2023</p></details> |
+| **[QINNs: Quantum-Informed Neural Networks](http://arxiv.org/abs/2510.17984v1)** | 2025-10-20 | 20 pages, 9 figures |
+| **[OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs](http://arxiv.org/abs/2510.15188v2)** | 2025-10-20 | <details><summary>This ...</summary><p>This is the authors' extended version of the paper accepted for publication at the ACM SIGSAC Conference on Computer and Communications Security (CCS 2025). The final published version is available at https://doi.org/10.1145/3719027.3765219</p></details> |
 
