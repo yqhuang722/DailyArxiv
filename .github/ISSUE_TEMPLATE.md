@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - November 02, 2025
+title: Latest 10 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation](http://arxiv.org/abs/2511.00097v1)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted by the Main Track of NeurIPS-2025</p></details> |
 | **[Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models](http://arxiv.org/abs/2506.14291v5)** | 2025-10-28 |  |
 | **[The Underappreciated Power of Vision Models for Graph Structural Understanding](http://arxiv.org/abs/2510.24788v1)** | 2025-10-27 | NeurIPS 2025 |
 | **[Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment](http://arxiv.org/abs/2510.19384v1)** | 2025-10-22 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](http://arxiv.org/abs/2409.14500v4)** | 2025-10-16 |  |
 | **[Stealthy Dual-Trigger Backdoors: Attacking Prompt Tuning in LM-Empowered Graph Foundation Models](http://arxiv.org/abs/2510.14470v1)** | 2025-10-16 |  |
 | **[Boosting Graph Foundation Model from Structural Perspective](http://arxiv.org/abs/2407.19941v2)** | 2025-10-16 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-025-50736-y}</p></details> |
-| **[Knowledge Reasoning Language Model: Unifying Knowledge and Language for Inductive Knowledge Graph Reasoning](http://arxiv.org/abs/2510.13909v1)** | 2025-10-15 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HEIR: Learning Graph-Based Motion Hierarchies](http://arxiv.org/abs/2510.26786v1)** | 2025-10-30 | <details><summary>Code ...</summary><p>Code link: https://github.com/princeton-computational-imaging/HEIR</p></details> |
-| **[Understanding Generalization in Node and Link Prediction](http://arxiv.org/abs/2507.00927v3)** | 2025-10-30 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2412.07106</p></details> |
-| **[UnifiedFL: A Dynamic Unified Learning Framework for Equitable Federation](http://arxiv.org/abs/2510.26350v1)** | 2025-10-30 |  |
-| **[From Embedding to Control: Representations for Stochastic Multi-Object Systems](http://arxiv.org/abs/2510.26344v1)** | 2025-10-30 |  |
-| **[A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection](http://arxiv.org/abs/2510.26307v1)** | 2025-10-30 | <details><summary>37 pa...</summary><p>37 pages, 4 figures, 86 references. Submitted to Journal of Computer Security (under review)</p></details> |
-| **[Morphology-Aware Graph Reinforcement Learning for Tensegrity Robot Locomotion](http://arxiv.org/abs/2510.26067v1)** | 2025-10-30 |  |
-| **[Data-driven Projection Generation for Efficiently Solving Heterogeneous Quadratic Programming Problems](http://arxiv.org/abs/2510.26061v1)** | 2025-10-30 |  |
-| **[Hierarchical Graph Networks for Accurate Weather Forecasting via Lightweight Training](http://arxiv.org/abs/2510.22094v2)** | 2025-10-29 |  |
-| **[Robust GNN Watermarking via Implicit Perception of Topological Invariants](http://arxiv.org/abs/2510.25934v1)** | 2025-10-29 |  |
-| **[Graph Network-based Structural Simulator: Graph Neural Networks for Structural Dynamics](http://arxiv.org/abs/2510.25683v1)** | 2025-10-29 | 16 pages, 14 figures |
+| **[Causal Graph Neural Networks for Healthcare](http://arxiv.org/abs/2511.02531v1)** | 2025-11-04 |  |
+| **[Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization](http://arxiv.org/abs/2511.02489v1)** | 2025-11-04 | <details><summary>20 pa...</summary><p>20 pages, Submitted to IEEE TIM</p></details> |
+| **[Using ensemble learning with hybrid graph neural networks and transformers to predict traffic in cities](http://arxiv.org/abs/2511.02484v1)** | 2025-11-04 |  |
+| **[Link Prediction with Untrained Message Passing Layers](http://arxiv.org/abs/2406.16687v2)** | 2025-11-04 |  |
+| **[Evolving Graph Learning for Out-of-Distribution Generalization in Non-stationary Environments](http://arxiv.org/abs/2511.02354v1)** | 2025-11-04 |  |
+| **[Explainable Graph Neural Architecture Search via Monte-Carlo Tree Search (Full version)](http://arxiv.org/abs/2308.15734v3)** | 2025-11-04 |  |
+| **[UFGraphFR: Graph Federation Recommendation System based on User Text description features](http://arxiv.org/abs/2501.08044v4)** | 2025-11-04 |  |
+| **[3DViT-GAT: A Unified Atlas-Based 3D Vision Transformer and Graph Learning Framework for Major Depressive Disorder Detection Using Structural MRI Data](http://arxiv.org/abs/2509.12143v3)** | 2025-11-04 | <details><summary>17 pa...</summary><p>17 pages, 3 figure, 9 tables</p></details> |
+| **[Link prediction Graph Neural Networks for structure recognition of Handwritten Mathematical Expressions](http://arxiv.org/abs/2511.02288v1)** | 2025-11-04 | <details><summary>accep...</summary><p>accepted for ICDAR2025-WML</p></details> |
+| **[PrivGNN: High-Performance Secure Inference for Cryptographic Graph Neural Networks](http://arxiv.org/abs/2511.02185v1)** | 2025-11-04 | Accepted to FC'25 |
 
