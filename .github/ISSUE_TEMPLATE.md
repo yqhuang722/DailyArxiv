@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - November 12, 2025
+title: Latest 10 Papers - November 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Turning Tabular Foundation Models into Graph Foundation Models](https://arxiv.org/pdf/2508.20906v2)** | 2025-09-24 |  |
-| **[Graph Foundation Models: A Comprehensive Survey](https://arxiv.org/pdf/2505.15116v1)** | 2025-05-22 | <details><summary>Githu...</summary><p>Github Repo: https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs. 93 pages, 438 references</p></details> |
-| **[Graph Foundation Models: Bridging Language Model Paradigms and Graph Optimization](https://arxiv.org/pdf/2509.24256v1)** | 2025-09-30 |  |
-| **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/pdf/2509.21489v1)** | 2025-09-29 |  |
-| **[Position: Graph Foundation Models are Already Here](https://arxiv.org/pdf/2402.02216v3)** | 2024-06-03 | 23 pages, 2 figures |
-| **[Graph Foundation Models: Concepts, Opportunities and Challenges](https://arxiv.org/pdf/2310.11829v4)** | 2025-03-11 | <details><summary>This ...</summary><p>This is the author's version of the accepted paper (not the IEEE-published version). Citation information: DOI 10.1109/TPAMI.2025.3548729. For access to the final edited and published article, please follow the link provided: https://ieeexplore.ieee.org/document/10915556</p></details> |
-| **[Towards Foundation Models for Knowledge Graph Reasoning](https://arxiv.org/pdf/2310.04562v2)** | 2024-04-11 | ICLR 2024 |
-| **[Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models](https://arxiv.org/pdf/2506.14291v5)** | 2025-10-29 |  |
-| **[FIMP: Foundation Model-Informed Message Passing for Graph Neural Networks](https://arxiv.org/pdf/2210.09475v5)** | 2024-07-03 | <details><summary>16 pa...</summary><p>16 pages (12 + 4 pages appendix). 5 figures and 4 tables</p></details> |
-| **[GFT: Graph Foundation Model with Transferable Tree Vocabulary](https://arxiv.org/pdf/2411.06070v1)** | 2024-11-12 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024</p></details> |
+| **[Knowledge Graphs Generation from Cultural Heritage Texts: Combining LLMs and Ontological Engineering for Scholarly Debates](https://arxiv.org/abs/2511.10354v1)** | 2025-11-13 | 46 pages |
+| **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](https://arxiv.org/abs/2509.04449v2)** | 2025-11-13 |  |
+| **[Towards Practical Multi-label Causal Discovery in High-Dimensional Event Sequences via One-Shot Graph Aggregation](https://arxiv.org/abs/2509.19112v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at NeuRIPS2025 Workshop on Structured Probabilistic Inference and Generative Modeling</p></details> |
+| **[NeuroLingua: A Language-Inspired Hierarchical Framework for Multimodal Sleep Stage Classification Using EEG and EOG](https://arxiv.org/abs/2511.09773v1)** | 2025-11-12 |  |
+| **[TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Representations and Graph Neural Networks](https://arxiv.org/abs/2511.09605v1)** | 2025-11-12 | <details><summary>Prepr...</summary><p>Preprint submitted to Medical Image Analysis (MedIA)</p></details> |
+| **[LLM-Guided Dynamic-UMAP for Personalized Federated Graph Learning](https://arxiv.org/abs/2511.09438v1)** | 2025-11-12 |  |
+| **[A Distributed Training Architecture For Combinatorial Optimization](https://arxiv.org/abs/2511.09261v1)** | 2025-11-12 |  |
+| **[Certified L2-Norm Robustness of 3D Point Cloud Recognition in the Frequency Domain](https://arxiv.org/abs/2511.07029v1)** | 2025-11-10 | Accepted by AAAI26 |
+| **[A Graph Laplacian Eigenvector-based Pre-training Method for Graph Neural Networks](https://arxiv.org/abs/2509.02803v3)** | 2025-11-09 |  |
+| **[Multi-Scale Feature Fusion and Graph Neural Network Integration for Text Classification with Large Language Models](https://arxiv.org/abs/2511.05752v1)** | 2025-11-07 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProG: A Graph Prompt Learning Benchmark](https://arxiv.org/pdf/2406.05346v2)** | 2024-06-21 |  |
-| **[A Unified Graph Selective Prompt Learning for Graph Neural Networks](https://arxiv.org/pdf/2406.10498v1)** | 2024-06-18 |  |
-| **[DAGPrompT: Pushing the Limits of Graph Prompting with a Distribution-aware Graph Prompt Tuning Approach](https://arxiv.org/pdf/2501.15142v1)** | 2025-01-28 | <details><summary>To be...</summary><p>To be published in WWW '25, April 28-May 2, 2025, Sydney, NSW, Australia</p></details> |
-| **[Instance-Aware Graph Prompt Learning](https://arxiv.org/pdf/2411.17676v1)** | 2024-11-27 |  |
-| **[GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks](https://arxiv.org/pdf/2510.22451v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted by the 39 Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Prompt-Driven Continual Graph Learning](https://arxiv.org/pdf/2502.06327v1)** | 2025-02-11 | 12 pages, 7figures |
-| **[Graph Prompting for Graph Learning Models: Recent Advances and Future Directions](https://arxiv.org/pdf/2506.08326v1)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 Tutorial/Survey Track</p></details> |
-| **[Graph Prompt Learning: A Comprehensive Survey and Beyond](https://arxiv.org/pdf/2311.16534v1)** | 2023-11-29 |  |
-| **[Prompt-SAW: Leveraging Relation-Aware Graphs for Textual Prompt Compression](https://arxiv.org/pdf/2404.00489v2)** | 2024-10-18 | 16 pages |
-| **[A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges](https://arxiv.org/pdf/2303.07275v2)** | 2023-06-01 | 9 pages + 1 figure |
+| **[GraphIF: Enhancing Multi-Turn Instruction Following for Large Language Models with Relation Graph Prompt](https://arxiv.org/abs/2511.10051v1)** | 2025-11-13 |  |
+| **[Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation](https://arxiv.org/abs/2501.18638v3)** | 2025-11-12 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; published in EMNLP 2025 ; Code at: https://github.com/dsbuddy/GAP-LLM-Safety</p></details> |
+| **[LLM-Guided Dynamic-UMAP for Personalized Federated Graph Learning](https://arxiv.org/abs/2511.09438v1)** | 2025-11-12 |  |
+| **[GSAP-ERE: Fine-Grained Scholarly Entity and Relation Extraction Focused on Machine Learning](https://arxiv.org/abs/2511.09411v1)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases](https://arxiv.org/abs/2504.05478v2)** | 2025-11-12 |  |
+| **[Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering](https://arxiv.org/abs/2409.04181v3)** | 2025-11-11 |  |
+| **[Self-Correction Distillation for Structured Data Question Answering](https://arxiv.org/abs/2511.07998v1)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Unified Work Embeddings: Contrastive Learning of a Bidirectional Multi-task Ranker](https://arxiv.org/abs/2511.07969v1)** | 2025-11-11 | Preprint |
+| **[Inferring DAGs and Phylogenetic Networks from Least Common Ancestors](https://arxiv.org/abs/2511.07965v1)** | 2025-11-11 | 12 figures |
+| **[Feedback Descent: Open-Ended Text Optimization via Pairwise Comparison](https://arxiv.org/abs/2511.07919v1)** | 2025-11-11 |  |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dual Space Graph Contrastive Learning](https://arxiv.org/pdf/2201.07409v2)** | 2022-03-08 |  |
-| **[Calibrating and Improving Graph Contrastive Learning](https://arxiv.org/pdf/2101.11525v2)** | 2023-08-23 |  |
-| **[Bayesian Graph Contrastive Learning](https://arxiv.org/pdf/2112.07823v4)** | 2022-08-30 |  |
-| **[Localized Contrastive Learning on Graphs](https://arxiv.org/pdf/2212.04604v1)** | 2022-12-12 |  |
-| **[Adversarial Graph Contrastive Learning with Information Regularization](https://arxiv.org/pdf/2202.06491v5)** | 2023-12-19 | WWW 2022 |
-| **[ARIEL: Adversarial Graph Contrastive Learning](https://arxiv.org/pdf/2208.06956v2)** | 2024-02-07 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2202.06491</p></details> |
-| **[Unifying Graph Contrastive Learning via Graph Message Augmentation](https://arxiv.org/pdf/2401.03638v1)** | 2024-01-09 |  |
-| **[Multi-Level Graph Contrastive Learning](https://arxiv.org/pdf/2107.02639v1)** | 2021-07-07 |  |
-| **[Motif-Driven Contrastive Learning of Graph Representations](https://arxiv.org/pdf/2012.12533v3)** | 2021-04-19 |  |
-| **[Generative Contrastive Graph Learning for Recommendation](https://arxiv.org/pdf/2307.05100v1)** | 2023-07-12 | <details><summary>This ...</summary><p>This paper is accepted to SIGIR 2023. Code is avaliable: https://github.com/yimutianyang/SIGIR23-VGCL</p></details> |
+| **[DarkFarseer: Robust Spatio-temporal Kriging under Graph Sparsity and Noise](https://arxiv.org/abs/2501.02808v2)** | 2025-11-13 | Accepted by AAAI'26 |
+| **[TermGPT: Multi-Level Contrastive Fine-Tuning for Terminology Adaptation in Legal and Financial Domain](https://arxiv.org/abs/2511.09854v1)** | 2025-11-13 | 13 pages, 4 figures |
+| **[Conditional Distribution Learning for Graph Classification](https://arxiv.org/abs/2411.15206v3)** | 2025-11-12 | 8 pages |
+| **[Graph Contrastive Learning for Connectome Classification](https://arxiv.org/abs/2502.05109v2)** | 2025-11-12 | <details><summary>Prese...</summary><p>Presented at Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[CoCo-MILP: Inter-Variable Contrastive and Intra-Constraint Competitive MILP Solution Prediction](https://arxiv.org/abs/2511.09209v1)** | 2025-11-12 |  |
+| **[Adaptive graph Kolmogorov-Arnold network for 3D human pose estimation](https://arxiv.org/abs/2511.08809v1)** | 2025-11-11 |  |
+| **[One Model for All: Universal Pre-training for EEG based Emotion Recognition across Heterogeneous Datasets and Paradigms](https://arxiv.org/abs/2511.08444v1)** | 2025-11-11 |  |
+| **[Dual-Kernel Graph Community Contrastive Learning](https://arxiv.org/abs/2511.08287v1)** | 2025-11-11 |  |
+| **[Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models](https://arxiv.org/abs/2511.07295v2)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Versatile and Risk-Sensitive Cardiac Diagnosis via Graph-Based ECG Signal Representation](https://arxiv.org/abs/2511.07973v1)** | 2025-11-11 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Factor Graph Neural Network](https://arxiv.org/pdf/1906.00554v1)** | 2019-06-04 |  |
-| **[Neural Graph Machines: Learning Neural Networks Using Graphs](https://arxiv.org/pdf/1703.04818v1)** | 2017-03-16 | 9 pages |
-| **[Graph Neural Networks for Learning Equivariant Representations of Neural Networks](https://arxiv.org/pdf/2403.12143v3)** | 2024-07-24 | <details><summary>In IC...</summary><p>In ICLR 2024. Source code: https://github.com/mkofinas/neural-graphs</p></details> |
-| **[Superhypergraph Neural Networks and Plithogenic Graph Neural Networks: Theoretical Foundations](https://arxiv.org/pdf/2412.01176v1)** | 2025-05-26 | 77 pages; 3 figures |
-| **[Graph Structure of Neural Networks](https://arxiv.org/pdf/2007.06559v2)** | 2020-08-28 | <details><summary>ICML ...</summary><p>ICML 2020, with open-source code</p></details> |
-| **[Customized Graph Neural Networks](https://arxiv.org/pdf/2005.12386v2)** | 2021-12-15 |  |
-| **[Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview](https://arxiv.org/pdf/1908.00187v1)** | 2019-09-30 | <details><summary>30 pa...</summary><p>30 pages. arXiv admin note: text overlap with arXiv:1908.00187</p></details> |
-| **[On Node Features for Graph Neural Networks](https://arxiv.org/pdf/1911.08795v1)** | 2019-11-21 |  |
-| **[Graph Neural Processes: Towards Bayesian Graph Neural Networks](https://arxiv.org/pdf/1902.10042v2)** | 2019-10-03 |  |
-| **[Graph Neural Networks: Taxonomy, Advances and Trends](https://arxiv.org/pdf/2012.08752v4)** | 2022-02-28 | 55 pages, 7 figures |
+| **[DESS: DeBERTa Enhanced Syntactic-Semantic Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2511.10577v1)** | 2025-11-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures. Published in Proceedings of the 17th International Conference on Computational Collective Intelligence (ICCCI 2025), Lecture Notes in Artificial Intelligence, Springer</p></details> |
+| **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Enhanced Structured Lasso Pruning with Class-wise Information](https://arxiv.org/abs/2502.09125v2)** | 2025-11-13 | 11 pages, 3 figures |
+| **[Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling](https://arxiv.org/abs/2511.10501v1)** | 2025-11-13 | 26 pages |
+| **[On Stealing Graph Neural Network Models](https://arxiv.org/abs/2511.07170v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[FastGraph: Optimized GPU-Enabled Algorithms for Fast Graph Building and Message Passing](https://arxiv.org/abs/2511.10442v1)** | 2025-11-13 |  |
+| **[Efficient quantification on large-scale networks](https://arxiv.org/abs/2503.15267v2)** | 2025-11-13 | Published version |
+| **[Enhancing Logical Expressiveness in Graph Neural Networks via Path-Neighbor Aggregation](https://arxiv.org/abs/2511.07994v2)** | 2025-11-13 |  |
+| **[DarkFarseer: Robust Spatio-temporal Kriging under Graph Sparsity and Noise](https://arxiv.org/abs/2501.02808v2)** | 2025-11-13 | Accepted by AAAI'26 |
+| **[SVD-NO: Learning PDE Solution Operators with SVD Integral Kernels](https://arxiv.org/abs/2511.10025v1)** | 2025-11-13 | AAAI-26 |
 
