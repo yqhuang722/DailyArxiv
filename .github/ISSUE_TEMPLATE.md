@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - November 16, 2025
+title: Latest 10 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,56 +7,56 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Knowledge Graphs Generation from Cultural Heritage Texts: Combining LLMs and Ontological Engineering for Scholarly Debates](https://arxiv.org/abs/2511.10354v1)** | 2025-11-13 | 46 pages |
-| **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](https://arxiv.org/abs/2509.04449v2)** | 2025-11-13 |  |
-| **[Towards Practical Multi-label Causal Discovery in High-Dimensional Event Sequences via One-Shot Graph Aggregation](https://arxiv.org/abs/2509.19112v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at NeuRIPS2025 Workshop on Structured Probabilistic Inference and Generative Modeling</p></details> |
-| **[NeuroLingua: A Language-Inspired Hierarchical Framework for Multimodal Sleep Stage Classification Using EEG and EOG](https://arxiv.org/abs/2511.09773v1)** | 2025-11-12 |  |
-| **[TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Representations and Graph Neural Networks](https://arxiv.org/abs/2511.09605v1)** | 2025-11-12 | <details><summary>Prepr...</summary><p>Preprint submitted to Medical Image Analysis (MedIA)</p></details> |
-| **[LLM-Guided Dynamic-UMAP for Personalized Federated Graph Learning](https://arxiv.org/abs/2511.09438v1)** | 2025-11-12 |  |
-| **[A Distributed Training Architecture For Combinatorial Optimization](https://arxiv.org/abs/2511.09261v1)** | 2025-11-12 |  |
-| **[Certified L2-Norm Robustness of 3D Point Cloud Recognition in the Frequency Domain](https://arxiv.org/abs/2511.07029v1)** | 2025-11-10 | Accepted by AAAI26 |
-| **[A Graph Laplacian Eigenvector-based Pre-training Method for Graph Neural Networks](https://arxiv.org/abs/2509.02803v3)** | 2025-11-09 |  |
-| **[Multi-Scale Feature Fusion and Graph Neural Network Integration for Text Classification with Large Language Models](https://arxiv.org/abs/2511.05752v1)** | 2025-11-07 |  |
+| **[Rate-Distortion Guided Knowledge Graph Construction from Lecture Notes Using Gromov-Wasserstein Optimal Transport](https://arxiv.org/abs/2511.14595v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted in the 5th Workshop on Knowledge Graphs and Big Data in Conjunction with IEEE Big Data 2025</p></details> |
+| **[A Survey of Cross-domain Graph Learning: Progress and Future Directions](https://arxiv.org/abs/2503.11086v2)** | 2025-11-18 |  |
+| **[LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation](https://arxiv.org/abs/2511.00090v2)** | 2025-11-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
+| **[Foundations of Structural Causal Models with Latent Selection](https://arxiv.org/abs/2401.06925v3)** | 2025-11-16 |  |
+| **[Event-CausNet: Unlocking Causal Knowledge from Text with Large Language Models for Reliable Spatio-Temporal Forecasting](https://arxiv.org/abs/2511.12769v1)** | 2025-11-16 |  |
+| **[EmoVerse: A MLLMs-Driven Emotion Representation Dataset for Interpretable Visual Emotion Analysis](https://arxiv.org/abs/2511.12554v1)** | 2025-11-16 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. This is a preprint version of a paper submitted to CVPR 2026</p></details> |
+| **[Spanning Trees and Redistricting: New Methods for Sampling and Validation](https://arxiv.org/abs/2210.01401v2)** | 2025-11-16 | SIREV, to appear |
+| **[PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks](https://arxiv.org/abs/2504.00844v2)** | 2025-11-15 |  |
+| **[Hierarchical Knowledge Graphs for Story Understanding in Visual Narratives](https://arxiv.org/abs/2506.10008v2)** | 2025-11-15 | <details><summary>Updat...</summary><p>Updated with the ICIDS 2025 camera-ready version. This revision includes the final title, updated abstract, improved explanations of the narrative coherence framework, and minor editorial changes. Figures and examples have been refined for clarity. No new experiments were added</p></details> |
+| **[A Systematic Study of Model Extraction Attacks on Graph Foundation Models](https://arxiv.org/abs/2511.11912v1)** | 2025-11-14 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GraphIF: Enhancing Multi-Turn Instruction Following for Large Language Models with Relation Graph Prompt](https://arxiv.org/abs/2511.10051v1)** | 2025-11-13 |  |
-| **[Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation](https://arxiv.org/abs/2501.18638v3)** | 2025-11-12 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; published in EMNLP 2025 ; Code at: https://github.com/dsbuddy/GAP-LLM-Safety</p></details> |
-| **[LLM-Guided Dynamic-UMAP for Personalized Federated Graph Learning](https://arxiv.org/abs/2511.09438v1)** | 2025-11-12 |  |
-| **[GSAP-ERE: Fine-Grained Scholarly Entity and Relation Extraction Focused on Machine Learning](https://arxiv.org/abs/2511.09411v1)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases](https://arxiv.org/abs/2504.05478v2)** | 2025-11-12 |  |
-| **[Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering](https://arxiv.org/abs/2409.04181v3)** | 2025-11-11 |  |
-| **[Self-Correction Distillation for Structured Data Question Answering](https://arxiv.org/abs/2511.07998v1)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Unified Work Embeddings: Contrastive Learning of a Bidirectional Multi-task Ranker](https://arxiv.org/abs/2511.07969v1)** | 2025-11-11 | Preprint |
-| **[Inferring DAGs and Phylogenetic Networks from Least Common Ancestors](https://arxiv.org/abs/2511.07965v1)** | 2025-11-11 | 12 figures |
-| **[Feedback Descent: Open-Ended Text Optimization via Pairwise Comparison](https://arxiv.org/abs/2511.07919v1)** | 2025-11-11 |  |
+| **[SpiderGen: Towards Procedure Generation For Carbon Life Cycle Assessments with Generative AI](https://arxiv.org/abs/2511.10684v2)** | 2025-11-18 |  |
+| **[SkillGen: Learning Domain Skills for In-Context Sequential Decision Making](https://arxiv.org/abs/2511.14670v1)** | 2025-11-18 |  |
+| **[CARScenes: Semantic VLM Dataset for Safe Autonomous Driving](https://arxiv.org/abs/2511.10701v2)** | 2025-11-18 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 7 tables</p></details> |
+| **[Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning](https://arxiv.org/abs/2511.14249v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Crossing Borders: A Multimodal Challenge for Indian Poetry Translation and Image Generation](https://arxiv.org/abs/2511.13689v2)** | 2025-11-18 |  |
+| **[AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection](https://arxiv.org/abs/2508.01249v3)** | 2025-11-18 |  |
+| **[Moving Pictures of Thought: Extracting Visual Knowledge in Charles S. Peirce's Manuscripts with Vision-Language Models](https://arxiv.org/abs/2511.13378v1)** | 2025-11-17 |  |
+| **[PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths](https://arxiv.org/abs/2502.14902v2)** | 2025-11-17 |  |
+| **[Self-Correction Distillation for Structured Data Question Answering](https://arxiv.org/abs/2511.07998v2)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[MedRule-KG: A Knowledge-Graph--Steered Scaffold for Reliable Mathematical and Biomedical Reasoning](https://arxiv.org/abs/2511.12963v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026 Workshop AI2ASE</p></details> |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DarkFarseer: Robust Spatio-temporal Kriging under Graph Sparsity and Noise](https://arxiv.org/abs/2501.02808v2)** | 2025-11-13 | Accepted by AAAI'26 |
-| **[TermGPT: Multi-Level Contrastive Fine-Tuning for Terminology Adaptation in Legal and Financial Domain](https://arxiv.org/abs/2511.09854v1)** | 2025-11-13 | 13 pages, 4 figures |
-| **[Conditional Distribution Learning for Graph Classification](https://arxiv.org/abs/2411.15206v3)** | 2025-11-12 | 8 pages |
-| **[Graph Contrastive Learning for Connectome Classification](https://arxiv.org/abs/2502.05109v2)** | 2025-11-12 | <details><summary>Prese...</summary><p>Presented at Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
-| **[CoCo-MILP: Inter-Variable Contrastive and Intra-Constraint Competitive MILP Solution Prediction](https://arxiv.org/abs/2511.09209v1)** | 2025-11-12 |  |
-| **[Adaptive graph Kolmogorov-Arnold network for 3D human pose estimation](https://arxiv.org/abs/2511.08809v1)** | 2025-11-11 |  |
-| **[One Model for All: Universal Pre-training for EEG based Emotion Recognition across Heterogeneous Datasets and Paradigms](https://arxiv.org/abs/2511.08444v1)** | 2025-11-11 |  |
-| **[Dual-Kernel Graph Community Contrastive Learning](https://arxiv.org/abs/2511.08287v1)** | 2025-11-11 |  |
-| **[Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models](https://arxiv.org/abs/2511.07295v2)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Versatile and Risk-Sensitive Cardiac Diagnosis via Graph-Based ECG Signal Representation](https://arxiv.org/abs/2511.07973v1)** | 2025-11-11 |  |
+| **[Seeing and Knowing in the Wild: Open-domain Visual Entity Recognition with Large-scale Knowledge Graphs via Contrastive Learning](https://arxiv.org/abs/2510.13675v2)** | 2025-11-18 | Accepted by AAAI2026 |
+| **[Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning](https://arxiv.org/abs/2507.00965v2)** | 2025-11-18 | <details><summary>Code ...</summary><p>Code available at https://github.com/flefebv/sepal.git</p></details> |
+| **[Gradient-Based Join Ordering](https://arxiv.org/abs/2511.14482v1)** | 2025-11-18 |  |
+| **[Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning](https://arxiv.org/abs/2511.14249v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[ST-ProC: A Graph-Prototypical Framework for Robust Semi-Supervised Travel Mode Identification](https://arxiv.org/abs/2511.13702v1)** | 2025-11-17 |  |
+| **[PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning](https://arxiv.org/abs/2508.10501v3)** | 2025-11-17 |  |
+| **[RAC-DMVC: Reliability-Aware Contrastive Deep Multi-View Clustering under Multi-Source Noise](https://arxiv.org/abs/2511.13561v1)** | 2025-11-17 |  |
+| **[Neural Atlas Graphs for Dynamic Scene Decomposition and Editing](https://arxiv.org/abs/2509.16336v3)** | 2025-11-17 |  |
+| **[Personality-guided Public-Private Domain Disentangled Hypergraph-Former Network for Multimodal Depression Detection](https://arxiv.org/abs/2511.12460v1)** | 2025-11-16 | AAAI 2026 accepted |
+| **[HiLoMix: Robust High- and Low-Frequency Graph Learning Framework for Mixing Address Association](https://arxiv.org/abs/2511.07759v2)** | 2025-11-16 | AAAI 2026 |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DESS: DeBERTa Enhanced Syntactic-Semantic Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2511.10577v1)** | 2025-11-13 | <details><summary>15 pa...</summary><p>15 pages, 2 figures. Published in Proceedings of the 17th International Conference on Computational Collective Intelligence (ICCCI 2025), Lecture Notes in Artificial Intelligence, Springer</p></details> |
-| **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Enhanced Structured Lasso Pruning with Class-wise Information](https://arxiv.org/abs/2502.09125v2)** | 2025-11-13 | 11 pages, 3 figures |
-| **[Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling](https://arxiv.org/abs/2511.10501v1)** | 2025-11-13 | 26 pages |
-| **[On Stealing Graph Neural Network Models](https://arxiv.org/abs/2511.07170v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[FastGraph: Optimized GPU-Enabled Algorithms for Fast Graph Building and Message Passing](https://arxiv.org/abs/2511.10442v1)** | 2025-11-13 |  |
-| **[Efficient quantification on large-scale networks](https://arxiv.org/abs/2503.15267v2)** | 2025-11-13 | Published version |
-| **[Enhancing Logical Expressiveness in Graph Neural Networks via Path-Neighbor Aggregation](https://arxiv.org/abs/2511.07994v2)** | 2025-11-13 |  |
-| **[DarkFarseer: Robust Spatio-temporal Kriging under Graph Sparsity and Noise](https://arxiv.org/abs/2501.02808v2)** | 2025-11-13 | Accepted by AAAI'26 |
-| **[SVD-NO: Learning PDE Solution Operators with SVD Integral Kernels](https://arxiv.org/abs/2511.10025v1)** | 2025-11-13 | AAAI-26 |
+| **[Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge](https://arxiv.org/abs/2511.14744v1)** | 2025-11-18 |  |
+| **[Graph Neural Networks for Vehicular Social Networks: Trends, Challenges, and Opportunities](https://arxiv.org/abs/2511.14720v1)** | 2025-11-18 | <details><summary>Submi...</summary><p>Submitted for IEEE Transactions on Intelligent Transportation Systems (T-ITS)</p></details> |
+| **[A Neuro-Symbolic Framework for Reasoning under Perceptual Uncertainty: Bridging Continuous Perception and Discrete Symbolic Planning](https://arxiv.org/abs/2511.14533v1)** | 2025-11-18 | <details><summary>29 pa...</summary><p>29 pages, 10 figures, 12 tables</p></details> |
+| **[Gradient-Based Join Ordering](https://arxiv.org/abs/2511.14482v1)** | 2025-11-18 |  |
+| **[FoilDiff: A Hybrid Transformer Backbone for Diffusion-based Modelling of 2D Airfoil Flow Fields](https://arxiv.org/abs/2510.04325v2)** | 2025-11-18 |  |
+| **[Graph Neural Networks Based Analog Circuit Link Prediction](https://arxiv.org/abs/2504.10240v5)** | 2025-11-18 | <details><summary>Code ...</summary><p>Code and data will be made available on request to the corresponding author</p></details> |
+| **[Manifold Learning for Hyperspectral Images](https://arxiv.org/abs/2503.15016v3)** | 2025-11-18 |  |
+| **[GTENN: A Spatiotemporal Graph Neural Framework for Community Discovery in Dynamic Social Networks](https://arxiv.org/abs/2501.12208v2)** | 2025-11-18 | 24 pages, 11 figures |
+| **[Benchmark on Drug Target Interaction Modeling from a Drug Structure Perspective](https://arxiv.org/abs/2407.04055v2)** | 2025-11-18 |  |
+| **[Certified Signed Graph Unlearning](https://arxiv.org/abs/2511.14168v1)** | 2025-11-18 |  |
 
