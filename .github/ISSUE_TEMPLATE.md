@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - December 17, 2025
+title: Latest 10 Papers - December 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Representations and Graph Neural Networks](https://arxiv.org/abs/2511.09605v3)** | 2025-12-16 | <details><summary>Prepr...</summary><p>Preprint submitted to Medical Image Analysis (MedIA)</p></details> |
-| **[Property-Isometric Variational Autoencoders for Sequence Modeling and Design](https://arxiv.org/abs/2509.14287v2)** | 2025-12-16 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, preprint</p></details> |
-| **[A Graph-Based Forensic Framework for Inferring Hardware Noise of Cloud Quantum Backend](https://arxiv.org/abs/2512.14541v1)** | 2025-12-16 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference</p></details> |
-| **[Online Multi-modal Root Cause Identification in Microservice Systems](https://arxiv.org/abs/2410.10021v2)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by BigData 2025</p></details> |
-| **[Dual-Axis RCCL: Representation-Complete Convergent Learning for Organic Chemical Space](https://arxiv.org/abs/2512.14418v1)** | 2025-12-16 | 33 pages, 10 figures |
-| **[HeSRN: Representation Learning On Heterogeneous Graphs via Slot-Aware Retentive Network](https://arxiv.org/abs/2510.09767v2)** | 2025-12-16 |  |
-| **[GALAX: Graph-Augmented Language Model for Explainable Reinforcement-Guided Subgraph Reasoning in Precision Medicine](https://arxiv.org/abs/2509.20935v2)** | 2025-12-16 |  |
-| **[ProtoFlow: Interpretable and Robust Surgical Workflow Modeling with Learned Dynamic Scene Graph Prototypes](https://arxiv.org/abs/2512.14092v1)** | 2025-12-16 |  |
-| **[Multivariate Time Series Forecasting with Hybrid Euclidean-SPD Manifold Graph Neural Networks](https://arxiv.org/abs/2512.14023v1)** | 2025-12-16 |  |
-| **[A Complete Guide to Spherical Equivariant Graph Transformers](https://arxiv.org/abs/2512.13927v1)** | 2025-12-15 | <details><summary>This ...</summary><p>This paper is a technical version of the article originally published in Alchemy Bio (99 pages, 46 figures)</p></details> |
+| **[Microsoft Academic Graph Information Retrieval for Research Recommendation and Assistance](https://arxiv.org/abs/2512.16661v1)** | 2025-12-18 | 5 pages, 3 figures |
+| **[Riemannian Stochastic Interpolants for Amorphous Particle Systems](https://arxiv.org/abs/2512.16607v1)** | 2025-12-18 |  |
+| **[STAGNet: A Spatio-Temporal Graph and LSTM Framework for Accident Anticipation](https://arxiv.org/abs/2508.15216v2)** | 2025-12-18 | <details><summary>Publi...</summary><p>Published in IEEE Access (Early Access)</p></details> |
+| **[GFLAN: Generative Functional Layouts](https://arxiv.org/abs/2512.16275v1)** | 2025-12-18 | 21 pages, 15 figures |
+| **[Sharpness-aware Federated Graph Learning](https://arxiv.org/abs/2512.16247v1)** | 2025-12-18 | Accepted by WSDM'26 |
+| **[Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models](https://arxiv.org/abs/2512.16244v1)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models](https://arxiv.org/abs/2512.16236v1)** | 2025-12-18 | <details><summary>15 pa...</summary><p>15 pages, 1 figure, Accepted in CLNLP'25</p></details> |
+| **[A Multi-scale Fused Graph Neural Network with Inter-view Contrastive Learning for Spatial Transcriptomics Data Clustering](https://arxiv.org/abs/2512.16188v1)** | 2025-12-18 | 15 pages, 3 figures |
+| **[A Multimodal Approach to Alzheimer's Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments](https://arxiv.org/abs/2512.16184v1)** | 2025-12-18 |  |
+| **[SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation](https://arxiv.org/abs/2512.16143v1)** | 2025-12-18 |  |
 
