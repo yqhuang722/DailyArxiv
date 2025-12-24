@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - December 21, 2025
+title: Latest 10 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphShaper: Geometry-aware Alignment for Improving Transfer Learning in Text-Attributed Graphs](https://arxiv.org/abs/2510.12085v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
 | **[SA$^{2}$GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation](https://arxiv.org/abs/2512.07857v2)** | 2025-12-15 |  |
 | **[HEIST: A Graph Foundation Model for Spatial Transcriptomics and Proteomics Data](https://arxiv.org/abs/2506.11152v3)** | 2025-12-11 |  |
 | **[RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models](https://arxiv.org/abs/2509.00614v3)** | 2025-12-11 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks](https://arxiv.org/abs/2511.17989v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026(Oral)</p></details> |
 | **[Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models](https://arxiv.org/abs/2511.17982v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[A Survey of Cross-domain Graph Learning: Progress and Future Directions](https://arxiv.org/abs/2503.11086v2)** | 2025-11-18 |  |
-| **[A Systematic Study of Model Extraction Attacks on Graph Foundation Models](https://arxiv.org/abs/2511.11912v1)** | 2025-11-14 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,28 +35,28 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Contrastive Learning via Spectral Graph Alignment](https://arxiv.org/abs/2512.07878v3)** | 2025-12-21 | <details><summary>The a...</summary><p>The author thanks Joshua Cape for helpful comments and apologizes for listing him as a coauthor on a previous version of this article without his consent</p></details> |
+| **[Conditional Distribution Learning for Graph Classification](https://arxiv.org/abs/2411.15206v4)** | 2025-12-20 | 8 pages |
+| **[Grad: Guided Relation Diffusion Generation for Graph Augmentation in Graph Fraud Detection](https://arxiv.org/abs/2512.18133v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted by The Web Conference 2025 (WWW'25). 12 pages, includes implementation details. Code: https://github.com/AI4Risk/antifraud and https://github.com/Muyiiiiii/WWW25-Grad</p></details> |
 | **[CORE: Contrastive Masked Feature Reconstruction on Graphs](https://arxiv.org/abs/2512.13235v1)** | 2025-12-15 |  |
-| **[Graph Contrastive Learning via Spectral Graph Alignment](https://arxiv.org/abs/2512.07878v2)** | 2025-12-13 | <details><summary>There...</summary><p>There was an error with the theoretical guarantee part</p></details> |
 | **[Quantum Rationale-Aware Graph Contrastive Learning for Jet Discrimination](https://arxiv.org/abs/2411.01642v6)** | 2025-12-09 |  |
 | **[Less is More: Towards Simple Graph Contrastive Learning](https://arxiv.org/abs/2509.25742v2)** | 2025-12-01 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 | **[HTG-GCL: Leveraging Hierarchical Topological Granularity from Cellular Complexes for Graph Contrastive Learning](https://arxiv.org/abs/2512.02073v1)** | 2025-11-30 |  |
 | **[LEXA: Legal Case Retrieval via Graph Contrastive Learning with Contextualised LLM Embeddings](https://arxiv.org/abs/2405.11791v2)** | 2025-11-29 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2312.11229</p></details> |
 | **[MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering](https://arxiv.org/abs/2511.05876v3)** | 2025-11-29 |  |
 | **[LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization](https://arxiv.org/abs/2505.12396v4)** | 2025-11-21 |  |
-| **[GCL-OT: Graph Contrastive Learning with Optimal Transport for Heterophilic Text-Attributed Graphs](https://arxiv.org/abs/2511.16778v1)** | 2025-11-20 | AAAI 2026 |
-| **[HiLoMix: Robust High- and Low-Frequency Graph Learning Framework for Mixing Address Association](https://arxiv.org/abs/2511.07759v2)** | 2025-11-16 | AAAI 2026 |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Microsoft Academic Graph Information Retrieval for Research Recommendation and Assistance](https://arxiv.org/abs/2512.16661v1)** | 2025-12-18 | 5 pages, 3 figures |
-| **[Riemannian Stochastic Interpolants for Amorphous Particle Systems](https://arxiv.org/abs/2512.16607v1)** | 2025-12-18 |  |
-| **[STAGNet: A Spatio-Temporal Graph and LSTM Framework for Accident Anticipation](https://arxiv.org/abs/2508.15216v2)** | 2025-12-18 | <details><summary>Publi...</summary><p>Published in IEEE Access (Early Access)</p></details> |
-| **[GFLAN: Generative Functional Layouts](https://arxiv.org/abs/2512.16275v1)** | 2025-12-18 | 21 pages, 15 figures |
-| **[Sharpness-aware Federated Graph Learning](https://arxiv.org/abs/2512.16247v1)** | 2025-12-18 | Accepted by WSDM'26 |
-| **[Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models](https://arxiv.org/abs/2512.16244v1)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models](https://arxiv.org/abs/2512.16236v1)** | 2025-12-18 | <details><summary>15 pa...</summary><p>15 pages, 1 figure, Accepted in CLNLP'25</p></details> |
-| **[A Multi-scale Fused Graph Neural Network with Inter-view Contrastive Learning for Spatial Transcriptomics Data Clustering](https://arxiv.org/abs/2512.16188v1)** | 2025-12-18 | 15 pages, 3 figures |
-| **[A Multimodal Approach to Alzheimer's Diagnosis: Geometric Insights from Cube Copying and Cognitive Assessments](https://arxiv.org/abs/2512.16184v1)** | 2025-12-18 |  |
-| **[SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation](https://arxiv.org/abs/2512.16143v1)** | 2025-12-18 |  |
+| **[SirenPose: Dynamic Scene Reconstruction via Geometric Supervision](https://arxiv.org/abs/2512.20531v1)** | 2025-12-23 | Under submission |
+| **[Enhancing Topological Dependencies in Spatio-Temporal Graphs with Cycle Message Passing Blocks](https://arxiv.org/abs/2401.15894v3)** | 2025-12-23 | <details><summary>Proce...</summary><p>Proceedings of the Third Learning on Graphs Conference (LoG 2024)</p></details> |
+| **[A Novel Graph-Sequence Learning Model for Inductive Text Classification](https://arxiv.org/abs/2512.20097v1)** | 2025-12-23 |  |
+| **[Jensen-Shannon Divergence Message-Passing for Rich-Text Graph Representation Learning](https://arxiv.org/abs/2512.20094v1)** | 2025-12-23 |  |
+| **[Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection](https://arxiv.org/abs/2512.20086v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Workshop in AI for Science: The Reach and Limits of AI for Scientific Discovery</p></details> |
+| **[QE-Catalytic: A Graph-Language Multimodal Base Model for Relaxed-Energy Prediction in Catalytic Adsorption](https://arxiv.org/abs/2512.20084v1)** | 2025-12-23 | 25 pages |
+| **[MAPI-GNN: Multi-Activation Plane Interaction Graph Neural Network for Multimodal Medical Diagnosis](https://arxiv.org/abs/2512.20026v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the AAAI Conference on Artificial Intelligence 40 (AAAI-26)</p></details> |
+| **[A hybrid global local computational framework for ship hull structural analysis using homogenized model and graph neural network](https://arxiv.org/abs/2512.20020v1)** | 2025-12-23 |  |
+| **[Multi-Scale Harmonic Encoding for Feature-Wise Graph Message Passing](https://arxiv.org/abs/2505.15015v2)** | 2025-12-23 |  |
+| **[IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense](https://arxiv.org/abs/2512.20004v1)** | 2025-12-23 | 13 pages |
 
