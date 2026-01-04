@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - December 31, 2025
+title: Latest 10 Papers - January 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Information is localized in growing network models](https://arxiv.org/abs/2512.23622v1)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 1 table</p></details> |
-| **[When Deepfake Detection Meets Graph Neural Network:a Unified and Lightweight Learning Framework](https://arxiv.org/abs/2508.05526v2)** | 2025-12-29 | Accepted to KDD 2026 |
-| **[The Gaining Paths to Investment Success: Information-Driven LLM Graph Reasoning for Venture Capital Prediction](https://arxiv.org/abs/2512.23489v1)** | 2025-12-29 |  |
-| **[Task-driven Heterophilic Graph Structure Learning](https://arxiv.org/abs/2512.23406v1)** | 2025-12-29 |  |
-| **[Domain matters: Towards domain-informed evaluation for link prediction](https://arxiv.org/abs/2512.23371v1)** | 2025-12-29 |  |
-| **[Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction](https://arxiv.org/abs/2510.04714v2)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code: https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes</p></details> |
-| **[Graph Neural Networks with Transformer Fusion of Brain Connectivity Dynamics and Tabular Data for Forecasting Future Tobacco Use](https://arxiv.org/abs/2512.23137v1)** | 2025-12-29 | 22 pages, 4 figures |
-| **[Improving Graph Neural Network Training, Defense and Hypergraph Partitioning via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v10)** | 2025-12-28 |  |
-| **[Debugging Tabular Log as Dynamic Graphs](https://arxiv.org/abs/2512.22903v1)** | 2025-12-28 |  |
-| **[GRExplainer: A Universal Explanation Method for Temporal Graph Neural Networks](https://arxiv.org/abs/2512.22772v1)** | 2025-12-28 |  |
+| **[Interpretable Perturbation Modeling Through Biomedical Knowledge Graphs](https://arxiv.org/abs/2512.22251v2)** | 2025-12-31 |  |
+| **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v1)** | 2025-12-31 | <details><summary>Prepr...</summary><p>Preprint. 18 pages, 10 figures</p></details> |
+| **[Spectral Graph Neural Networks for Cognitive Task Classification in fMRI Connectomes](https://arxiv.org/abs/2512.24901v1)** | 2025-12-31 |  |
+| **[Knowledge-Driven Federated Graph Learning on Model Heterogeneity](https://arxiv.org/abs/2501.12624v4)** | 2025-12-31 |  |
+| **[HeteroHBA: A Generative Structure-Manipulating Backdoor Attack on Heterogeneous Graphs](https://arxiv.org/abs/2512.24665v1)** | 2025-12-31 |  |
+| **[A Scalable Framework for logP Prediction: From Terabyte-Scale Data Integration to Interpretable Ensemble Modeling](https://arxiv.org/abs/2512.24643v1)** | 2025-12-31 | <details><summary>18 pa...</summary><p>18 pages, 15 figures, 4 equations, 2 algorithms, 6 tables, to be published in KST 2026, unabridged version</p></details> |
+| **[A Graph Neural Network with Auxiliary Task Learning for Missing PMU Data Reconstruction](https://arxiv.org/abs/2512.24542v1)** | 2025-12-31 |  |
+| **[Networked Markets, Fragmented Data: Adaptive Graph Learning for Customer Risk Analytics and Policy Design](https://arxiv.org/abs/2512.24487v1)** | 2025-12-30 |  |
+| **[Rapid prediction of cardiac activation in the left ventricle with geometric deep learning: a step towards cardiac resynchronization therapy planning](https://arxiv.org/abs/2506.08987v3)** | 2025-12-30 |  |
+| **[RAST: A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction](https://arxiv.org/abs/2508.16623v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (AI for Social Impact)</p></details> |
 
