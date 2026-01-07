@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - January 04, 2026
+title: Latest 10 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,8 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Prompting Meets Spiking: Graph Sparse Prompting via Spiking Graph Prompt Learning](https://arxiv.org/abs/2601.02662v1)** | 2026-01-06 |  |
+| **[Robust Graph Fine-Tuning with Adversarial Graph Prompting](https://arxiv.org/abs/2601.00229v1)** | 2026-01-01 |  |
 | **[Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning](https://arxiv.org/abs/2512.08763v1)** | 2025-12-09 | Accepted by KDD 2026 |
 | **[Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](https://arxiv.org/abs/2505.12684v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[GraphIF: Enhancing Multi-Turn Instruction Following for Large Language Models with Relation Graph Prompt](https://arxiv.org/abs/2511.10051v1)** | 2025-11-13 |  |
@@ -29,12 +31,11 @@ labels: documentation
 | **[Adaptive Dual Prompting: Hierarchical Debiasing for Fairness-aware Graph Neural Networks](https://arxiv.org/abs/2510.23469v1)** | 2025-10-27 |  |
 | **[Cross-Paradigm Graph Backdoor Attacks with Promptable Subgraph Triggers](https://arxiv.org/abs/2510.22555v1)** | 2025-10-26 |  |
 | **[GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks](https://arxiv.org/abs/2510.22451v1)** | 2025-10-25 | <details><summary>Accep...</summary><p>Accepted by the 39 Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[One Prompt Fits All: Universal Graph Adaptation for Pretrained Models](https://arxiv.org/abs/2509.22416v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted by NeurIPS 2025 main conference</p></details> |
-| **[Event-Aware Prompt Learning for Dynamic Graphs](https://arxiv.org/abs/2510.11339v1)** | 2025-10-13 | Under review |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Topology-aware Pathological Consistency Matching for Weakly-Paired IHC Virtual Staining](https://arxiv.org/abs/2601.02806v1)** | 2026-01-06 |  |
 | **[MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering](https://arxiv.org/abs/2511.05876v4)** | 2025-12-25 |  |
 | **[Graph Contrastive Learning via Spectral Graph Alignment](https://arxiv.org/abs/2512.07878v3)** | 2025-12-21 | <details><summary>The a...</summary><p>The author thanks Joshua Cape for helpful comments and apologizes for listing him as a coauthor on a previous version of this article without his consent</p></details> |
 | **[Conditional Distribution Learning for Graph Classification](https://arxiv.org/abs/2411.15206v4)** | 2025-12-20 | 8 pages |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Less is More: Towards Simple Graph Contrastive Learning](https://arxiv.org/abs/2509.25742v2)** | 2025-12-01 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 | **[HTG-GCL: Leveraging Hierarchical Topological Granularity from Cellular Complexes for Graph Contrastive Learning](https://arxiv.org/abs/2512.02073v1)** | 2025-11-30 |  |
 | **[LEXA: Legal Case Retrieval via Graph Contrastive Learning with Contextualised LLM Embeddings](https://arxiv.org/abs/2405.11791v2)** | 2025-11-29 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2312.11229</p></details> |
-| **[LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization](https://arxiv.org/abs/2505.12396v4)** | 2025-11-21 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Interpretable Perturbation Modeling Through Biomedical Knowledge Graphs](https://arxiv.org/abs/2512.22251v2)** | 2025-12-31 |  |
-| **[Frequent subgraph-based persistent homology for graph classification](https://arxiv.org/abs/2512.24917v1)** | 2025-12-31 | <details><summary>Prepr...</summary><p>Preprint. 18 pages, 10 figures</p></details> |
-| **[Spectral Graph Neural Networks for Cognitive Task Classification in fMRI Connectomes](https://arxiv.org/abs/2512.24901v1)** | 2025-12-31 |  |
-| **[Knowledge-Driven Federated Graph Learning on Model Heterogeneity](https://arxiv.org/abs/2501.12624v4)** | 2025-12-31 |  |
-| **[HeteroHBA: A Generative Structure-Manipulating Backdoor Attack on Heterogeneous Graphs](https://arxiv.org/abs/2512.24665v1)** | 2025-12-31 |  |
-| **[A Scalable Framework for logP Prediction: From Terabyte-Scale Data Integration to Interpretable Ensemble Modeling](https://arxiv.org/abs/2512.24643v1)** | 2025-12-31 | <details><summary>18 pa...</summary><p>18 pages, 15 figures, 4 equations, 2 algorithms, 6 tables, to be published in KST 2026, unabridged version</p></details> |
-| **[A Graph Neural Network with Auxiliary Task Learning for Missing PMU Data Reconstruction](https://arxiv.org/abs/2512.24542v1)** | 2025-12-31 |  |
-| **[Networked Markets, Fragmented Data: Adaptive Graph Learning for Customer Risk Analytics and Policy Design](https://arxiv.org/abs/2512.24487v1)** | 2025-12-30 |  |
-| **[Rapid prediction of cardiac activation in the left ventricle with geometric deep learning: a step towards cardiac resynchronization therapy planning](https://arxiv.org/abs/2506.08987v3)** | 2025-12-30 |  |
-| **[RAST: A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction](https://arxiv.org/abs/2508.16623v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (AI for Social Impact)</p></details> |
+| **[Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction](https://arxiv.org/abs/2504.06193v2)** | 2026-01-06 |  |
+| **[Explainable Fuzzy GNNs for Leak Detection in Water Distribution Networks](https://arxiv.org/abs/2601.03062v1)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted at IFSA-NAFIPS 2025</p></details> |
+| **[Flow Matching and Diffusion Models via PointNet for Generating Fluid Fields on Irregular Geometries](https://arxiv.org/abs/2601.03030v1)** | 2026-01-06 |  |
+| **[A Large-Scale Analysis on the Use of Arrival Time Prediction for Automated Shuttle Services in the Real World](https://arxiv.org/abs/2401.05322v2)** | 2026-01-06 |  |
+| **[Accelerating Storage-Based Training for Graph Neural Networks](https://arxiv.org/abs/2601.01473v2)** | 2026-01-06 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, 2 tables, ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) 2026</p></details> |
+| **[Listen to the Unexpected: Self-Supervised Surprise Detection for Efficient Viewport Prediction](https://arxiv.org/abs/2601.02629v1)** | 2026-01-06 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Under review</p></details> |
+| **[Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network](https://arxiv.org/abs/2601.02566v1)** | 2026-01-05 | <details><summary>Under...</summary><p>Under review for journal publication</p></details> |
+| **[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882v4)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted KDD 2026 Research Track Paper</p></details> |
+| **[mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks](https://arxiv.org/abs/2601.02451v1)** | 2026-01-05 |  |
+| **[Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction](https://arxiv.org/abs/2601.02213v1)** | 2026-01-05 |  |
 
