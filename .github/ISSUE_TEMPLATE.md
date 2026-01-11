@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - January 07, 2026
+title: Latest 10 Papers - January 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction](https://arxiv.org/abs/2504.06193v2)** | 2026-01-06 |  |
-| **[Explainable Fuzzy GNNs for Leak Detection in Water Distribution Networks](https://arxiv.org/abs/2601.03062v1)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted at IFSA-NAFIPS 2025</p></details> |
-| **[Flow Matching and Diffusion Models via PointNet for Generating Fluid Fields on Irregular Geometries](https://arxiv.org/abs/2601.03030v1)** | 2026-01-06 |  |
-| **[A Large-Scale Analysis on the Use of Arrival Time Prediction for Automated Shuttle Services in the Real World](https://arxiv.org/abs/2401.05322v2)** | 2026-01-06 |  |
-| **[Accelerating Storage-Based Training for Graph Neural Networks](https://arxiv.org/abs/2601.01473v2)** | 2026-01-06 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, 2 tables, ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) 2026</p></details> |
-| **[Listen to the Unexpected: Self-Supervised Surprise Detection for Efficient Viewport Prediction](https://arxiv.org/abs/2601.02629v1)** | 2026-01-06 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Under review</p></details> |
-| **[Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network](https://arxiv.org/abs/2601.02566v1)** | 2026-01-05 | <details><summary>Under...</summary><p>Under review for journal publication</p></details> |
-| **[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882v4)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted KDD 2026 Research Track Paper</p></details> |
-| **[mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks](https://arxiv.org/abs/2601.02451v1)** | 2026-01-05 |  |
-| **[Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction](https://arxiv.org/abs/2601.02213v1)** | 2026-01-05 |  |
+| **[Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](https://arxiv.org/abs/2512.10105v2)** | 2026-01-08 |  |
+| **[Neural Algorithmic Reasoning for Approximate $k$-Coloring with Recursive Warm Starts](https://arxiv.org/abs/2601.05137v1)** | 2026-01-08 | 33 pages, 10 figures |
+| **[Topology-Informed Graph Transformer](https://arxiv.org/abs/2402.02005v3)** | 2026-01-08 | <details><summary>Proce...</summary><p>Proceedings of the Geometry-grounded Representation Learning and Generative Modeling Workshop (GRaM) at ICML 2024</p></details> |
+| **[Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://arxiv.org/abs/2601.04855v1)** | 2026-01-08 |  |
+| **[Parallelizing Node-Level Explainability in Graph Neural Networks](https://arxiv.org/abs/2601.04807v1)** | 2026-01-08 |  |
+| **[MPM-LLM4DSE: Reaching the Pareto Frontier in HLS with Multimodal Learning and LLM-Driven Exploration](https://arxiv.org/abs/2601.04801v1)** | 2026-01-08 |  |
+| **[GRAPHGINI: Fostering Individual and Group Fairness in Graph Neural Networks](https://arxiv.org/abs/2402.12937v2)** | 2026-01-08 |  |
+| **[MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training](https://arxiv.org/abs/2601.04707v1)** | 2026-01-08 | IEEE Access 2025 |
+| **[A zone-based training approach for last-mile routing using Graph Neural Networks and Pointer Networks](https://arxiv.org/abs/2601.04705v1)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in SMF 2026. 8 pages, 3 figures</p></details> |
+| **[A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models](https://arxiv.org/abs/2601.04696v1)** | 2026-01-08 |  |
 
