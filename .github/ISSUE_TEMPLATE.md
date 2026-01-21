@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - January 18, 2026
+title: Latest 10 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection](https://arxiv.org/abs/2601.12745v1)** | 2026-01-19 |  |
 | **[GraphIF: Enhancing Multi-Turn Instruction Following for Large Language Models with Relation Graph Prompt](https://arxiv.org/abs/2511.10051v2)** | 2026-01-15 |  |
 | **[When Prompting Meets Spiking: Graph Sparse Prompting via Spiking Graph Prompt Learning](https://arxiv.org/abs/2601.02662v1)** | 2026-01-06 |  |
 | **[Robust Graph Fine-Tuning with Adversarial Graph Prompting](https://arxiv.org/abs/2601.00229v1)** | 2026-01-01 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[FoGE: Fock Space inspired encoding for graph prompting](https://arxiv.org/abs/2507.02937v2)** | 2025-10-27 |  |
 | **[Adaptive Dual Prompting: Hierarchical Debiasing for Fairness-aware Graph Neural Networks](https://arxiv.org/abs/2510.23469v1)** | 2025-10-27 |  |
 | **[Cross-Paradigm Graph Backdoor Attacks with Promptable Subgraph Triggers](https://arxiv.org/abs/2510.22555v1)** | 2025-10-26 |  |
-| **[GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks](https://arxiv.org/abs/2510.22451v1)** | 2025-10-25 | <details><summary>Accep...</summary><p>Accepted by the 39 Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Knowledge Homophily in Large Language Models](https://arxiv.org/abs/2509.23773v2)** | 2026-01-15 |  |
-| **[PLGC: Pseudo-Labeled Graph Condensation](https://arxiv.org/abs/2601.10358v1)** | 2026-01-15 |  |
-| **[A Low-Complexity Architecture for Multi-access Coded Caching Systems with Arbitrary User-cache Access Topology](https://arxiv.org/abs/2601.10175v1)** | 2026-01-15 |  |
-| **[MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning](https://arxiv.org/abs/2601.10157v1)** | 2026-01-15 |  |
-| **[Attn-JGNN: Attention Enhanced Join-Graph Neural Networks](https://arxiv.org/abs/2510.15583v2)** | 2026-01-14 |  |
-| **[An intelligent agent-based simulation of human mobility in extreme urban morphologies](https://arxiv.org/abs/2507.15143v2)** | 2026-01-14 |  |
-| **[Graph Neural Network Surrogates to leverage Mechanistic Expert Knowledge towards Reliable and Immediate Pandemic Response](https://arxiv.org/abs/2411.06500v4)** | 2026-01-14 | 20 pages, 9 figures |
-| **[Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings](https://arxiv.org/abs/2511.10501v3)** | 2026-01-14 | 27 pages |
-| **[SGAC: A Graph Neural Network Framework for Imbalanced and Structure-Aware AMP Classification](https://arxiv.org/abs/2412.16276v2)** | 2026-01-14 |  |
-| **[SPOT-Face: Forensic Face Identification using Attention Guided Optimal Transport](https://arxiv.org/abs/2601.09229v1)** | 2026-01-14 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 3 tables (ICPR_2026)</p></details> |
+| **[Adaptive Riemannian Graph Neural Networks](https://arxiv.org/abs/2508.02600v2)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted in The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26), Main Technical Track</p></details> |
+| **[Riemannian Liquid Spatio-Temporal Graph Network](https://arxiv.org/abs/2601.14115v1)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper has been accepted to The Web Conference 2026</p></details> |
+| **[Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection](https://arxiv.org/abs/2601.02438v2)** | 2026-01-20 |  |
+| **[Resilient Routing: Risk-Aware Dynamic Routing in Smart Logistics via Spatiotemporal Graph Learning](https://arxiv.org/abs/2601.13632v1)** | 2026-01-20 |  |
+| **[Graph Neural Networks are Heuristics](https://arxiv.org/abs/2601.13465v1)** | 2026-01-19 |  |
+| **[TrustEnergy: A Unified Framework for Accurate and Reliable User-level Energy Usage Prediction](https://arxiv.org/abs/2601.13422v1)** | 2026-01-19 |  |
+| **[Conflict Detection in AI-RAN: Efficient Interaction Learning and Autonomous Graph Reconstruction](https://arxiv.org/abs/2601.13213v1)** | 2026-01-19 |  |
+| **[Vejde: A Framework for Inductive Deep Reinforcement Learning Based on Factor Graph Color Refinement](https://arxiv.org/abs/2509.09219v2)** | 2026-01-19 |  |
+| **[HT-GNN: Hyper-Temporal Graph Neural Network for Customer Lifetime Value Prediction in Baidu Ads](https://arxiv.org/abs/2601.13013v1)** | 2026-01-19 |  |
+| **[Efficient Code Analysis via Graph-Guided Large Language Models](https://arxiv.org/abs/2601.12890v1)** | 2026-01-19 |  |
 
