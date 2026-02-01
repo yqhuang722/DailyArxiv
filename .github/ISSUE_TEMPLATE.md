@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - January 28, 2026
+title: Latest 10 Papers - February 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v1)** | 2026-01-29 | <details><summary>Under...</summary><p>Under Review. E-mail: zhuylin27@mail2.sysu.edu.cn</p></details> |
+| **[Breaking the Reasoning Horizon in Entity Alignment Foundation Models](https://arxiv.org/abs/2601.21174v1)** | 2026-01-29 |  |
+| **[Out-of-Distribution Generalization in Graph Foundation Models](https://arxiv.org/abs/2601.21067v1)** | 2026-01-28 |  |
 | **[OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection](https://arxiv.org/abs/2601.19102v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[RAG-GFM: Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation](https://arxiv.org/abs/2601.15124v2)** | 2026-01-24 | <details><summary>Accep...</summary><p>Accepted by the Web Conference 2026 (Research Track)</p></details> |
 | **[GFM4GA: Graph Foundation Model for Group Anomaly Detection](https://arxiv.org/abs/2601.10193v1)** | 2026-01-15 |  |
@@ -14,9 +17,6 @@ labels: documentation
 | **[Geometric Structural Knowledge Graph Foundation Model](https://arxiv.org/abs/2512.22931v1)** | 2025-12-28 | <details><summary>Submi...</summary><p>Submitted to IEEE TPAMI, under review</p></details> |
 | **[GraphShaper: Geometry-aware Alignment for Improving Transfer Learning in Text-Attributed Graphs](https://arxiv.org/abs/2510.12085v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
 | **[SA$^{2}$GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation](https://arxiv.org/abs/2512.07857v2)** | 2025-12-15 |  |
-| **[HEIST: A Graph Foundation Model for Spatial Transcriptomics and Proteomics Data](https://arxiv.org/abs/2506.11152v3)** | 2025-12-11 |  |
-| **[RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models](https://arxiv.org/abs/2509.00614v3)** | 2025-12-11 |  |
-| **[GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation](https://arxiv.org/abs/2502.01113v3)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,6 +35,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AC2L-GAD: Active Counterfactual Contrastive Learning for Graph Anomaly Detection](https://arxiv.org/abs/2601.21171v1)** | 2026-01-29 |  |
+| **[GCL-OT: Graph Contrastive Learning with Optimal Transport for Heterophilic Text-Attributed Graphs](https://arxiv.org/abs/2511.16778v2)** | 2026-01-28 | AAAI 2026 |
 | **[Quantum Rationale-Aware Graph Contrastive Learning for Jet Discrimination](https://arxiv.org/abs/2411.01642v7)** | 2026-01-25 |  |
 | **[KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning](https://arxiv.org/abs/2412.04948v2)** | 2026-01-13 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-50906-6}</p></details> |
 | **[Topology-aware Pathological Consistency Matching for Weakly-Paired IHC Virtual Staining](https://arxiv.org/abs/2601.02806v1)** | 2026-01-06 |  |
@@ -43,20 +45,18 @@ labels: documentation
 | **[Conditional Distribution Learning for Graph Classification](https://arxiv.org/abs/2411.15206v4)** | 2025-12-20 | 8 pages |
 | **[Grad: Guided Relation Diffusion Generation for Graph Augmentation in Graph Fraud Detection](https://arxiv.org/abs/2512.18133v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted by The Web Conference 2025 (WWW'25). 12 pages, includes implementation details. Code: https://github.com/AI4Risk/antifraud and https://github.com/Muyiiiiii/WWW25-Grad</p></details> |
 | **[CORE: Contrastive Masked Feature Reconstruction on Graphs](https://arxiv.org/abs/2512.13235v1)** | 2025-12-15 |  |
-| **[Less is More: Towards Simple Graph Contrastive Learning](https://arxiv.org/abs/2509.25742v2)** | 2025-12-01 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
-| **[HTG-GCL: Leveraging Hierarchical Topological Granularity from Cellular Complexes for Graph Contrastive Learning](https://arxiv.org/abs/2512.02073v1)** | 2025-11-30 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Effect of Architecture During Continual Learning](https://arxiv.org/abs/2601.19766v1)** | 2026-01-27 |  |
-| **[Leveraging Convolutional and Graph Networks for an Unsupervised Remote Sensing Labelling Tool](https://arxiv.org/abs/2508.00506v2)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted for Taylor and Francis, Annals of GIS * Video supplement demonstrating feature-space exploration and interactive labelling is available at: https://youtu.be/GZl1ebZJgEA and is archived at https://doi.org/10.5281/zenodo.16676591</p></details> |
-| **[PowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization with Large Language Models](https://arxiv.org/abs/2501.07639v3)** | 2026-01-27 | <details><summary>Publi...</summary><p>Published at IEEE Transactions on Power Systems</p></details> |
-| **[Fixed Aggregation Features Can Rival GNNs](https://arxiv.org/abs/2601.19449v1)** | 2026-01-27 |  |
-| **[GraphSB: Boosting Imbalanced Node Classification on Graphs through Structural Balance](https://arxiv.org/abs/2601.19352v1)** | 2026-01-27 |  |
-| **[KOCOBrain: Kuramoto-Guided Graph Network for Uncovering Structure-Function Coupling in Adolescent Prenatal Drug Exposure](https://arxiv.org/abs/2601.11018v2)** | 2026-01-27 | <details><summary>Prepr...</summary><p>Preprint version of the paper accepted to the IEEE International Symposium on Biomedical Imaging (ISBI 2026). This is the author's accepted manuscript. The final published version will appear in IEEE Xplore</p></details> |
-| **[GPCR-Filter: a deep learning framework for efficient and precise GPCR modulator discovery](https://arxiv.org/abs/2601.19149v1)** | 2026-01-27 |  |
-| **[Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks](https://arxiv.org/abs/2503.24203v2)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE Transactions on Networking</p></details> |
-| **[FloydNet: A Learning Paradigm for Global Relational Reasoning](https://arxiv.org/abs/2601.19094v1)** | 2026-01-27 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 14 tables</p></details> |
-| **[XIMP: Cross Graph Inter-Message Passing for Molecular Property Prediction](https://arxiv.org/abs/2601.19037v1)** | 2026-01-26 |  |
+| **[Do graph neural network states contain graph properties?](https://arxiv.org/abs/2411.02168v3)** | 2026-01-29 | <details><summary>10 pa...</summary><p>10 pages, 22 figures, conference</p></details> |
+| **[MEIDNet: Multimodal generative AI framework for inverse materials design](https://arxiv.org/abs/2601.22009v1)** | 2026-01-29 |  |
+| **[Bridging Graph Structure and Knowledge-Guided Editing for Interpretable Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2601.21978v1)** | 2026-01-29 |  |
+| **[One Model, Any Conjunctive Query: Graph Neural Networks for Answering Queries over Incomplete Knowledge Graphs](https://arxiv.org/abs/2409.13959v3)** | 2026-01-29 | <details><summary>Proce...</summary><p>Proceedings of the Fourth Learning on Graphs Conference (LoG 2025)</p></details> |
+| **[How Expressive Are Graph Neural Networks in the Presence of Node Identifiers?](https://arxiv.org/abs/2601.21882v1)** | 2026-01-29 | 35 pages |
+| **[Graph Homomorphism Distortion: A Metric to Distinguish Them All and in the Latent Space Bind Them](https://arxiv.org/abs/2511.03068v2)** | 2026-01-29 |  |
+| **[Embodied Task Planning via Graph-Informed Action Generation with Large Lanaguage Model](https://arxiv.org/abs/2601.21841v1)** | 2026-01-29 |  |
+| **[WL Tests Are Far from All We Need: Revisiting WL-Test Hardness and GNN Expressive Power from a Distributed Computation Perspective](https://arxiv.org/abs/2410.01308v5)** | 2026-01-29 |  |
+| **[Beyond Parameter Finetuning: Test-Time Representation Refinement for Node Classification](https://arxiv.org/abs/2601.21615v1)** | 2026-01-29 |  |
+| **[Heterogeneity-Aware Knowledge Sharing for Graph Federated Learning](https://arxiv.org/abs/2601.21589v1)** | 2026-01-29 | 33 pages |
 
