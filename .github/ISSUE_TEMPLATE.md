@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 04, 2026
+title: Latest 10 Papers - February 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,20 +7,21 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Billion-Scale Graph Foundation Models](https://arxiv.org/abs/2602.04768v1)** | 2026-02-04 |  |
+| **[Training A Foundation Model to Represent Graphs as Vectors](https://arxiv.org/abs/2602.04244v1)** | 2026-02-04 |  |
+| **[Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach](https://arxiv.org/abs/2602.04116v1)** | 2026-02-04 | 20 pages, 6 figures |
+| **[DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks](https://arxiv.org/abs/2602.03981v1)** | 2026-02-03 |  |
 | **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v1)** | 2026-01-29 | <details><summary>Under...</summary><p>Under Review. E-mail: zhuylin27@mail2.sysu.edu.cn</p></details> |
 | **[Breaking the Reasoning Horizon in Entity Alignment Foundation Models](https://arxiv.org/abs/2601.21174v1)** | 2026-01-29 |  |
 | **[Out-of-Distribution Generalization in Graph Foundation Models](https://arxiv.org/abs/2601.21067v1)** | 2026-01-28 |  |
 | **[OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection](https://arxiv.org/abs/2601.19102v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[RAG-GFM: Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation](https://arxiv.org/abs/2601.15124v2)** | 2026-01-24 | <details><summary>Accep...</summary><p>Accepted by the Web Conference 2026 (Research Track)</p></details> |
 | **[GFM4GA: Graph Foundation Model for Group Anomaly Detection](https://arxiv.org/abs/2601.10193v1)** | 2026-01-15 |  |
-| **[CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks](https://arxiv.org/abs/2601.05988v1)** | 2026-01-09 | <details><summary>17 pa...</summary><p>17 pages; 11 figures; 8 tables</p></details> |
-| **[Geometric Structural Knowledge Graph Foundation Model](https://arxiv.org/abs/2512.22931v1)** | 2025-12-28 | <details><summary>Submi...</summary><p>Submitted to IEEE TPAMI, under review</p></details> |
-| **[GraphShaper: Geometry-aware Alignment for Improving Transfer Learning in Text-Attributed Graphs](https://arxiv.org/abs/2510.12085v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
-| **[SA$^{2}$GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation](https://arxiv.org/abs/2512.07857v2)** | 2025-12-15 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MAGPrompt: Message-Adaptive Graph Prompt Tuning for Graph Neural Networks](https://arxiv.org/abs/2602.05567v1)** | 2026-02-05 |  |
 | **[Beyond Single-Granularity Prompts: A Multi-Scale Chain-of-Thought Prompt Learning for Graph](https://arxiv.org/abs/2510.09394v4)** | 2026-01-26 | Accepted by WWW2026 |
 | **[A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection](https://arxiv.org/abs/2601.12745v1)** | 2026-01-19 |  |
 | **[GraphIF: Enhancing Multi-Turn Instruction Following for Large Language Models with Relation Graph Prompt](https://arxiv.org/abs/2511.10051v2)** | 2026-01-15 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](https://arxiv.org/abs/2505.12684v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[LLM-Guided Dynamic-UMAP for Personalized Federated Graph Learning](https://arxiv.org/abs/2511.09438v1)** | 2025-11-12 |  |
 | **[FoGE: Fock Space inspired encoding for graph prompting](https://arxiv.org/abs/2507.02937v2)** | 2025-10-27 |  |
-| **[Adaptive Dual Prompting: Hierarchical Debiasing for Fairness-aware Graph Neural Networks](https://arxiv.org/abs/2510.23469v1)** | 2025-10-27 |  |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network](https://arxiv.org/abs/2602.03808v1)** | 2026-02-03 |  |
-| **[Data-Driven Graph Filters via Adaptive Spectral Shaping](https://arxiv.org/abs/2602.03698v1)** | 2026-02-03 |  |
-| **[Acceleration of Atomistic NEGF: Algorithms, Parallelization, and Machine Learning](https://arxiv.org/abs/2602.03438v1)** | 2026-02-03 |  |
-| **[SPGCL: Simple yet Powerful Graph Contrastive Learning via SVD-Guided Structural Perturbation](https://arxiv.org/abs/2602.00064v2)** | 2026-02-03 |  |
-| **[Exploring the Global-to-Local Attention Scheme in Graph Transformers: An Empirical Study](https://arxiv.org/abs/2509.14863v2)** | 2026-02-03 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-51718-4}</p></details> |
-| **[GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning](https://arxiv.org/abs/2601.20753v3)** | 2026-02-03 |  |
-| **[Non-Intrusive Graph-Based Bot Detection for E-Commerce Using Inductive Graph Neural Networks](https://arxiv.org/abs/2601.22579v2)** | 2026-02-03 |  |
-| **[MGKAN: Predicting Asymmetric Drug-Drug Interactions via a Multimodal Graph Kolmogorov-Arnold Network](https://arxiv.org/abs/2602.01751v2)** | 2026-02-03 | <details><summary>This ...</summary><p>This paper has been accepted by ICASSP 2026</p></details> |
-| **[Fast Task Planning with Neuro-Symbolic Relaxation](https://arxiv.org/abs/2507.15975v2)** | 2026-02-03 | 8 pages, 6 figures |
-| **[Multi-view Graph Condensation via Tensor Decomposition](https://arxiv.org/abs/2508.14330v2)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted at WSDM 2026</p></details> |
+| **[Breaking Symmetry Bottlenecks in GNN Readouts](https://arxiv.org/abs/2602.05950v1)** | 2026-02-05 | 23 pages |
+| **[Scaling Multi-Agent Epistemic Planning through GNN-Derived Heuristics](https://arxiv.org/abs/2508.12840v3)** | 2026-02-05 |  |
+| **[Energy Guided smoothness to improve Robustness in Graph Classification](https://arxiv.org/abs/2412.08419v2)** | 2026-02-05 |  |
+| **[CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs](https://arxiv.org/abs/2602.05861v1)** | 2026-02-05 |  |
+| **[Interpreting Manifolds and Graph Neural Embeddings from Internet of Things Traffic Flows](https://arxiv.org/abs/2602.05817v1)** | 2026-02-05 |  |
+| **[STProtein: predicting spatial protein expression from multi-omics data](https://arxiv.org/abs/2602.05811v1)** | 2026-02-05 | <details><summary>STPro...</summary><p>STProtein: predicting spatial protein expression from multi-omics data is accepted SPARTA_AAAI2026 Oral GitHub: https://github.com/zhaorui-bi/STProtein</p></details> |
+| **[Event2Vec: Processing Neuromorphic Events Directly by Representations in Vector Space](https://arxiv.org/abs/2504.15371v5)** | 2026-02-05 | <details><summary>Fix a...</summary><p>Fix a minor error in the abstract within the metadata of the previous version</p></details> |
+| **[Broken neural scaling laws in materials science](https://arxiv.org/abs/2602.05702v1)** | 2026-02-05 |  |
+| **[EdgeMask-DG*: Learning Domain-Invariant Graph Structures via Adversarial Edge Masking](https://arxiv.org/abs/2602.05571v1)** | 2026-02-05 |  |
+| **[MAGPrompt: Message-Adaptive Graph Prompt Tuning for Graph Neural Networks](https://arxiv.org/abs/2602.05567v1)** | 2026-02-05 |  |
 
