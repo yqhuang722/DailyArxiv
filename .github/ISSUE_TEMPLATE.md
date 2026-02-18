@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 15, 2026
+title: Latest 10 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flock: A Knowledge Graph Foundation Model via Learning on Random Walks](https://arxiv.org/abs/2510.01510v2)** | 2026-02-17 | 42 pages, 7 figures |
+| **[HYPER: A Foundation Model for Inductive Link Prediction with Knowledge Hypergraphs](https://arxiv.org/abs/2506.12362v2)** | 2026-02-13 |  |
 | **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489v2)** | 2026-02-12 |  |
 | **[Diffusion-Guided Pretraining for Brain Graph Foundation Models](https://arxiv.org/abs/2602.09437v1)** | 2026-02-10 | 18 pages |
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning across Broad Atlases and Disorders](https://arxiv.org/abs/2506.02044v3)** | 2026-02-10 | 30pages |
@@ -15,8 +17,6 @@ labels: documentation
 | **[Training A Foundation Model to Represent Graphs as Vectors](https://arxiv.org/abs/2602.04244v1)** | 2026-02-04 |  |
 | **[Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach](https://arxiv.org/abs/2602.04116v1)** | 2026-02-04 | 20 pages, 6 figures |
 | **[DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks](https://arxiv.org/abs/2602.03981v1)** | 2026-02-03 |  |
-| **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v1)** | 2026-01-29 | <details><summary>Under...</summary><p>Under Review. E-mail: zhuylin27@mail2.sysu.edu.cn</p></details> |
-| **[Breaking the Reasoning Horizon in Entity Alignment Foundation Models](https://arxiv.org/abs/2601.21174v1)** | 2026-01-29 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Community Concealment from Unsupervised Graph Learning-Based Clustering](https://arxiv.org/abs/2602.12250v1)** | 2026-02-12 |  |
-| **[Towards Personalized Bangla Book Recommendation: A Large-Scale Multi-Entity Book Graph Dataset](https://arxiv.org/abs/2602.12129v1)** | 2026-02-12 |  |
-| **[Self-Adaptive Graph Mixture of Models](https://arxiv.org/abs/2511.13062v2)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks](https://arxiv.org/abs/2602.11629v1)** | 2026-02-12 | 16 pages, 8 figures |
-| **[TF-DWGNet: A Directed Weighted Graph Neural Network with Tensor Fusion for Multi-Omics Cancer Subtype Classification](https://arxiv.org/abs/2509.16301v2)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 4 tables</p></details> |
-| **[Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design](https://arxiv.org/abs/2507.15336v2)** | 2026-02-11 | <details><summary>Title...</summary><p>Title changed from "Beyond Model Base Selection: Weaving Knowledge to Master Fine-grained Neural Network Design" to "Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design"</p></details> |
-| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
-| **[Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models](https://arxiv.org/abs/2408.06717v3)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at WSDM 2026. Title changed from "Computation-friendly graph neural network design by accumulating knowledge on large language models" to "Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models"</p></details> |
-| **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
-| **[RiemannGL: Riemannian Geometry Changes Graph Deep Learning](https://arxiv.org/abs/2602.10982v1)** | 2026-02-11 | <details><summary>34 pa...</summary><p>34 pages, 11 figures, position paper</p></details> |
+| **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v2)** | 2026-02-17 |  |
+| **[A Code Smell Refactoring Approach using GNNs](https://arxiv.org/abs/2511.12069v2)** | 2026-02-17 |  |
+| **[Beyond ReLU: Bifurcation, Oversmoothing, and Topological Priors](https://arxiv.org/abs/2602.15634v1)** | 2026-02-17 |  |
+| **[On the Geometric Coherence of Global Aggregation in Federated GNN](https://arxiv.org/abs/2602.15510v1)** | 2026-02-17 | <details><summary>This ...</summary><p>This is a developing preprint of an 18-page journal manuscript (6 figures), currently being prepared for formal peer-review submission</p></details> |
+| **[NeuroLifting: Neural Inference on Markov Random Fields at Scale](https://arxiv.org/abs/2411.18954v3)** | 2026-02-17 |  |
+| **[Size Transferability of Graph Transformers with Convolutional Positional Encodings](https://arxiv.org/abs/2602.15239v1)** | 2026-02-16 |  |
+| **[Grappa: Gradient-Only Communication for Scalable Graph Neural Network Training](https://arxiv.org/abs/2602.01872v2)** | 2026-02-16 |  |
+| **[iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering](https://arxiv.org/abs/2506.01784v6)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Track</p></details> |
+| **[Learning Structural Hardness for Combinatorial Auctions: Instance-Dependent Algorithm Selection via Graph Neural Networks](https://arxiv.org/abs/2602.14772v1)** | 2026-02-16 |  |
+| **[Bayesian Cosmic Void Finding with Graph Flows](https://arxiv.org/abs/2602.14630v1)** | 2026-02-16 | <details><summary>8+3 p...</summary><p>8+3 pages, 9+2 figures. Comments welcome!</p></details> |
 
