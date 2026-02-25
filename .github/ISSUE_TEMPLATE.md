@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 22, 2026
+title: Latest 10 Papers - February 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Neural Model Predictive Control for High-Dimensional Systems](https://arxiv.org/abs/2602.17601v1)** | 2026-02-19 |  |
-| **[The Correspondence Between Bounded Graph Neural Networks and Fragments of First-Order Logic](https://arxiv.org/abs/2505.08021v4)** | 2026-02-19 | 21 pages |
-| **[From Subtle to Significant: Prompt-Driven Self-Improving Optimization in Test-Time Graph OOD Detection](https://arxiv.org/abs/2602.17342v1)** | 2026-02-19 | 9pages, 5 figures |
-| **[Semi-Supervised Learning on Graphs using Graph Neural Networks](https://arxiv.org/abs/2602.17115v1)** | 2026-02-19 | 57 pages, 7 figures |
-| **[A Locality Radius Framework for Understanding Relational Inductive Bias in Database Learning](https://arxiv.org/abs/2602.17092v1)** | 2026-02-19 |  |
-| **[AdvSynGNN: Structure-Adaptive Graph Neural Nets via Adversarial Synthesis and Self-Corrective Propagation](https://arxiv.org/abs/2602.17071v1)** | 2026-02-19 | 32 pages, 8 figures |
-| **[Beyond Message Passing: A Symbolic Alternative for Expressive and Interpretable Graph Learning](https://arxiv.org/abs/2602.16947v1)** | 2026-02-18 | 23 pages, 9 pages |
-| **[Predicting The Cop Number Using Machine Learning](https://arxiv.org/abs/2602.16600v1)** | 2026-02-18 | 8 pages |
-| **[Hardware-accelerated graph neural networks: an alternative approach for neuromorphic event-based audio classification and keyword spotting on SoC FPGA](https://arxiv.org/abs/2602.16442v1)** | 2026-02-18 | <details><summary>Under...</summary><p>Under revision in TRETS Journal</p></details> |
-| **[Graph neural network for colliding particles with an application to sea ice floe modeling](https://arxiv.org/abs/2602.16213v1)** | 2026-02-18 |  |
+| **[Probing Graph Neural Network Activation Patterns Through Graph Topology](https://arxiv.org/abs/2602.21092v1)** | 2026-02-24 |  |
+| **[A Spectral Framework for Graph Neural Operators: Convergence Guarantees and Tradeoffs](https://arxiv.org/abs/2510.20954v2)** | 2026-02-23 |  |
+| **[CITED: A Decision Boundary-Aware Signature for GNNs Towards Model Extraction Defense](https://arxiv.org/abs/2602.20418v1)** | 2026-02-23 |  |
+| **[Beyond Message Passing: A Symbolic Alternative for Expressive and Interpretable Graph Learning](https://arxiv.org/abs/2602.16947v2)** | 2026-02-23 | 23 pages, 9 pages |
+| **[Can You Hear Me Now? A Benchmark for Long-Range Graph Propagation](https://arxiv.org/abs/2512.17762v2)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 ( https://openreview.net/forum?id=DgkWFPZMPp )</p></details> |
+| **[A Secure and Private Distributed Bayesian Federated Learning Design](https://arxiv.org/abs/2602.20003v1)** | 2026-02-23 | 14 pages, 9 figures |
+| **[Detecting High-Potential SMEs with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2602.19591v1)** | 2026-02-23 |  |
+| **[Temporal-Aware Heterogeneous Graph Reasoning with Multi-View Fusion for Temporal Question Answering](https://arxiv.org/abs/2602.19569v1)** | 2026-02-23 | 6pages |
+| **[Training-Free Cross-Architecture Merging for Graph Neural Networks](https://arxiv.org/abs/2602.19332v1)** | 2026-02-22 |  |
+| **[CTS-Bench: Benchmarking Graph Coarsening Trade-offs for GNNs in Clock Tree Synthesis](https://arxiv.org/abs/2602.19330v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted to ML Bench'26 ASPLOS</p></details> |
 
