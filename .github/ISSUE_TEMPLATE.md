@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - February 25, 2026
+title: Latest 10 Papers - March 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge](https://arxiv.org/abs/2509.24276v2)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[Diffusion-Guided Pretraining for Brain Graph Foundation Models](https://arxiv.org/abs/2602.09437v2)** | 2026-02-19 | <details><summary>Paper...</summary><p>Paper has some mistakes</p></details> |
 | **[Flock: A Knowledge Graph Foundation Model via Learning on Random Walks](https://arxiv.org/abs/2510.01510v2)** | 2026-02-17 | 42 pages, 7 figures |
 | **[HYPER: A Foundation Model for Inductive Link Prediction with Knowledge Hypergraphs](https://arxiv.org/abs/2506.12362v2)** | 2026-02-13 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models](https://arxiv.org/abs/2602.08592v1)** | 2026-02-09 |  |
 | **[Billion-Scale Graph Foundation Models](https://arxiv.org/abs/2602.04768v1)** | 2026-02-04 |  |
 | **[Training A Foundation Model to Represent Graphs as Vectors](https://arxiv.org/abs/2602.04244v1)** | 2026-02-04 |  |
-| **[Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach](https://arxiv.org/abs/2602.04116v1)** | 2026-02-04 | 20 pages, 6 figures |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Probing Graph Neural Network Activation Patterns Through Graph Topology](https://arxiv.org/abs/2602.21092v1)** | 2026-02-24 |  |
-| **[A Spectral Framework for Graph Neural Operators: Convergence Guarantees and Tradeoffs](https://arxiv.org/abs/2510.20954v2)** | 2026-02-23 |  |
-| **[CITED: A Decision Boundary-Aware Signature for GNNs Towards Model Extraction Defense](https://arxiv.org/abs/2602.20418v1)** | 2026-02-23 |  |
-| **[Beyond Message Passing: A Symbolic Alternative for Expressive and Interpretable Graph Learning](https://arxiv.org/abs/2602.16947v2)** | 2026-02-23 | 23 pages, 9 pages |
-| **[Can You Hear Me Now? A Benchmark for Long-Range Graph Propagation](https://arxiv.org/abs/2512.17762v2)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 ( https://openreview.net/forum?id=DgkWFPZMPp )</p></details> |
-| **[A Secure and Private Distributed Bayesian Federated Learning Design](https://arxiv.org/abs/2602.20003v1)** | 2026-02-23 | 14 pages, 9 figures |
-| **[Detecting High-Potential SMEs with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2602.19591v1)** | 2026-02-23 |  |
-| **[Temporal-Aware Heterogeneous Graph Reasoning with Multi-View Fusion for Temporal Question Answering](https://arxiv.org/abs/2602.19569v1)** | 2026-02-23 | 6pages |
-| **[Training-Free Cross-Architecture Merging for Graph Neural Networks](https://arxiv.org/abs/2602.19332v1)** | 2026-02-22 |  |
-| **[CTS-Bench: Benchmarking Graph Coarsening Trade-offs for GNNs in Clock Tree Synthesis](https://arxiv.org/abs/2602.19330v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted to ML Bench'26 ASPLOS</p></details> |
+| **[Deep ensemble graph neural networks for probabilistic cosmic-ray direction and energy reconstruction in autonomous radio arrays](https://arxiv.org/abs/2602.23321v1)** | 2026-02-26 | <details><summary>Submi...</summary><p>Submitted to Astroparticle Physics Journal</p></details> |
+| **[Real-Time Stream Compaction for Sparse Machine Learning on FPGAs](https://arxiv.org/abs/2602.23281v1)** | 2026-02-26 | 8 pages |
+| **[Efficient Graph Coloring with Neural Networks: A Physics-Inspired Approach for Large Graphs](https://arxiv.org/abs/2408.01503v2)** | 2026-02-26 | 15 pages, 9 figures |
+| **[Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction](https://arxiv.org/abs/2510.04714v4)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code: https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes</p></details> |
+| **[A Perspective on Open Challenges in Deformable Object Manipulation](https://arxiv.org/abs/2602.22998v1)** | 2026-02-26 | 28 pages, 7 Figures |
+| **[ECHO: Encoding Communities via High-order Operators](https://arxiv.org/abs/2602.22446v1)** | 2026-02-25 |  |
+| **[AutoSew: A Geometric Approach to Stitching Prediction with Graph Neural Networks](https://arxiv.org/abs/2602.22052v1)** | 2026-02-25 | WACV 2026 |
+| **[Protein Graph Neural Networks for Heterogeneous Cryo-EM Reconstruction](https://arxiv.org/abs/2602.21915v1)** | 2026-02-25 |  |
+| **[Nonstabilizerness Estimation using Graph Neural Networks](https://arxiv.org/abs/2511.23224v2)** | 2026-02-25 |  |
+| **[RABot: Reinforcement-Guided Graph Augmentation for Imbalanced and Noisy Social Bot Detection](https://arxiv.org/abs/2602.21749v1)** | 2026-02-25 |  |
 
