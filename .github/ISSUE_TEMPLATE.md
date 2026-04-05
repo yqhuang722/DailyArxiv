@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 01, 2026
+title: Latest 10 Papers - April 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Cross-graph Tuning-free GNN Prompting Framework](https://arxiv.org/abs/2604.00399v1)** | 2026-04-01 |  |
 | **[Disentangled Graph Prompting for Out-Of-Distribution Detection](https://arxiv.org/abs/2603.29644v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Knowledge and Data Engineering (TKDE)</p></details> |
 | **[Learning Concept Bottleneck Models from Mechanistic Explanations](https://arxiv.org/abs/2603.07343v1)** | 2026-03-07 | ICLR 2026 |
 | **[GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks](https://arxiv.org/abs/2602.11629v1)** | 2026-02-12 | 16 pages, 8 figures |
@@ -30,11 +31,11 @@ labels: documentation
 | **[A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection](https://arxiv.org/abs/2601.12745v1)** | 2026-01-19 |  |
 | **[GraphIF: Enhancing Multi-Turn Instruction Following for Large Language Models with Relation Graph Prompt](https://arxiv.org/abs/2511.10051v2)** | 2026-01-15 |  |
 | **[When Prompting Meets Spiking: Graph Sparse Prompting via Spiking Graph Prompt Learning](https://arxiv.org/abs/2601.02662v1)** | 2026-01-06 |  |
-| **[Robust Graph Fine-Tuning with Adversarial Graph Prompting](https://arxiv.org/abs/2601.00229v1)** | 2026-01-01 |  |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Graph Representation Learning via Adaptive Spectral Contrast](https://arxiv.org/abs/2604.01878v1)** | 2026-04-02 |  |
 | **[From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://arxiv.org/abs/2510.03690v3)** | 2026-03-31 |  |
 | **[MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering](https://arxiv.org/abs/2511.05876v5)** | 2026-03-24 |  |
 | **[Cross-Slice Knowledge Transfer via Masked Multi-Modal Heterogeneous Graph Contrastive Learning for Spatial Gene Expression Inference](https://arxiv.org/abs/2603.22821v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by CVPR-2026</p></details> |
@@ -44,19 +45,18 @@ labels: documentation
 | **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
 | **[ProvAgent: Threat Detection Based on Identity-Behavior Binding and Multi-Agent Collaborative Attack Investigation](https://arxiv.org/abs/2603.09358v1)** | 2026-03-10 | <details><summary>The c...</summary><p>The code of ProvAgent is publicly available at \url{https://github.com/Win7ery/ProvAgent}</p></details> |
 | **[Structure-Preserving Graph Contrastive Learning for Mathematical Information Retrieval](https://arxiv.org/abs/2603.08012v1)** | 2026-03-09 |  |
-| **[LEXA: Legal Case Retrieval via Graph Contrastive Learning with Contextualised LLM Embeddings](https://arxiv.org/abs/2405.11791v3)** | 2026-03-05 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2312.11229</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Does Global Attention Help? A Unified Empirical Study on Atomistic Graph Learning](https://arxiv.org/abs/2510.05583v2)** | 2026-03-31 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 19 tables</p></details> |
-| **[Learning Structural-Functional Brain Representations through Multi-Scale Adaptive Graph Attention for Cognitive Insight](https://arxiv.org/abs/2603.29967v1)** | 2026-03-31 | <details><summary>Prepr...</summary><p>Preprint version of the paper accepted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). This is the author's accepted manuscript. The final published version will appear in IEEE Xplore</p></details> |
-| **[NeuroBRIDGE: Behavior-Conditioned Koopman Dynamics with Riemannian Alignment for Early Substance Use Initiation Prediction from Longitudinal Functional Connectome](https://arxiv.org/abs/2603.29960v1)** | 2026-03-31 | <details><summary>Prepr...</summary><p>Preprint version of the paper accepted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). This is the author's accepted manuscript. The final published version will appear in IEEE Xplore</p></details> |
-| **[Disentangled Graph Prompting for Out-Of-Distribution Detection](https://arxiv.org/abs/2603.29644v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Knowledge and Data Engineering (TKDE)</p></details> |
-| **[Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems](https://arxiv.org/abs/2603.29515v1)** | 2026-03-31 |  |
-| **[Square Superpixel Generation and Representation Learning via Granular Ball Computing](https://arxiv.org/abs/2603.29460v1)** | 2026-03-31 |  |
-| **[Causality-inspired Federated Learning for Dynamic Spatio-Temporal Graphs](https://arxiv.org/abs/2603.29384v1)** | 2026-03-31 |  |
-| **[From Physics to Surrogate Intelligence: A Unified Electro-Thermo-Optimization Framework for TSV Networks](https://arxiv.org/abs/2603.29268v1)** | 2026-03-31 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)</p></details> |
-| **[Cross-attentive Cohesive Subgraph Embedding to Mitigate Oversquashing in GNNs](https://arxiv.org/abs/2603.27529v2)** | 2026-03-31 |  |
-| **[Software Vulnerability Detection Using a Lightweight Graph Neural Network](https://arxiv.org/abs/2603.29216v1)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, preprint of journal submission</p></details> |
+| **[Crystalite: A Lightweight Transformer for Efficient Crystal Modeling](https://arxiv.org/abs/2604.02270v1)** | 2026-04-02 | <details><summary>39 pa...</summary><p>39 pages, 13 figures. Code available at: https://github.com/joshrosie/crystalite</p></details> |
+| **[Cross-attentive Cohesive Subgraph Embedding to Mitigate Oversquashing in GNNs](https://arxiv.org/abs/2603.27529v3)** | 2026-04-02 |  |
+| **[Physics Informed Reinforcement Learning with Gibbs Priors for Topology Control in Power Grids](https://arxiv.org/abs/2604.01830v1)** | 2026-04-02 |  |
+| **[A Graph Neural Network Approach for Solving the Ranked Assignment Problem in Multi-Object Tracking](https://arxiv.org/abs/2604.01696v1)** | 2026-04-02 | <details><summary>2024 ...</summary><p>2024 IEEE Intelligent Vehicles Symposium (IV)</p></details> |
+| **[Wireless Power Control Based on Large Language Models](https://arxiv.org/abs/2603.00474v2)** | 2026-04-02 | 13 pages, 6 figures |
+| **[A Review of Neural Networks in Precipitation Prediction](https://arxiv.org/abs/2510.22855v2)** | 2026-04-01 |  |
+| **[EmbedPart: Embedding-Driven Graph Partitioning for Scalable Graph Neural Network Training](https://arxiv.org/abs/2604.01000v1)** | 2026-04-01 |  |
+| **[BN-Pool: Bayesian Nonparametric Pooling for Graphs](https://arxiv.org/abs/2501.09821v2)** | 2026-04-01 |  |
+| **[Generalization Bounds for Spectral GNNs via Fourier Domain Analysis](https://arxiv.org/abs/2604.00918v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted to AISTATS 2026</p></details> |
+| **[Can We Go Beyond Visual Features? Neural Tissue Relation Modeling for Relational Graph Analysis in Non-Melanoma Skin Histology](https://arxiv.org/abs/2512.06949v2)** | 2026-04-01 | CVPR 2026 Workshops |
 
