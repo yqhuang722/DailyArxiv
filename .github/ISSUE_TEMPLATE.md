@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 05, 2026
+title: Latest 10 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge Reasoning Language Model: Unifying Knowledge and Language for Inductive Knowledge Graph Reasoning](https://arxiv.org/abs/2510.13909v2)** | 2026-04-07 |  |
 | **[CrossHGL: A Text-Free Foundation Model for Cross-Domain Heterogeneous Graph Learning](https://arxiv.org/abs/2603.27685v1)** | 2026-03-29 |  |
 | **[OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection](https://arxiv.org/abs/2601.19102v2)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[Can Graph Foundation Models Generalize Over Architecture?](https://arxiv.org/abs/2603.22984v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages main text + 18 pages references and appendix (27 pages total), 5 figures. Accepted to GRaM Workshop @ ICLR 2026: Workshop on Geometry-grounded Representation Learning and Generative Modeling (to appear in PMLR)</p></details> |
@@ -16,7 +17,6 @@ labels: documentation
 | **[SA$^{2}$GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation](https://arxiv.org/abs/2512.07857v3)** | 2026-03-10 |  |
 | **[TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection](https://arxiv.org/abs/2603.09349v1)** | 2026-03-10 |  |
 | **[Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG](https://arxiv.org/abs/2603.07179v1)** | 2026-03-07 |  |
-| **[GraphProp: Training the Graph Foundation Models using Graph Properties](https://arxiv.org/abs/2508.04594v2)** | 2026-03-07 | <details><summary>The p...</summary><p>The paper will be extensively rewritten to resolve fundamental limitations, particularly concerning the influence of graph properties on performance across various graph tasks</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Crystalite: A Lightweight Transformer for Efficient Crystal Modeling](https://arxiv.org/abs/2604.02270v1)** | 2026-04-02 | <details><summary>39 pa...</summary><p>39 pages, 13 figures. Code available at: https://github.com/joshrosie/crystalite</p></details> |
-| **[Cross-attentive Cohesive Subgraph Embedding to Mitigate Oversquashing in GNNs](https://arxiv.org/abs/2603.27529v3)** | 2026-04-02 |  |
-| **[Physics Informed Reinforcement Learning with Gibbs Priors for Topology Control in Power Grids](https://arxiv.org/abs/2604.01830v1)** | 2026-04-02 |  |
-| **[A Graph Neural Network Approach for Solving the Ranked Assignment Problem in Multi-Object Tracking](https://arxiv.org/abs/2604.01696v1)** | 2026-04-02 | <details><summary>2024 ...</summary><p>2024 IEEE Intelligent Vehicles Symposium (IV)</p></details> |
-| **[Wireless Power Control Based on Large Language Models](https://arxiv.org/abs/2603.00474v2)** | 2026-04-02 | 13 pages, 6 figures |
-| **[A Review of Neural Networks in Precipitation Prediction](https://arxiv.org/abs/2510.22855v2)** | 2026-04-01 |  |
-| **[EmbedPart: Embedding-Driven Graph Partitioning for Scalable Graph Neural Network Training](https://arxiv.org/abs/2604.01000v1)** | 2026-04-01 |  |
-| **[BN-Pool: Bayesian Nonparametric Pooling for Graphs](https://arxiv.org/abs/2501.09821v2)** | 2026-04-01 |  |
-| **[Generalization Bounds for Spectral GNNs via Fourier Domain Analysis](https://arxiv.org/abs/2604.00918v1)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted to AISTATS 2026</p></details> |
-| **[Can We Go Beyond Visual Features? Neural Tissue Relation Modeling for Relational Graph Analysis in Non-Melanoma Skin Histology](https://arxiv.org/abs/2512.06949v2)** | 2026-04-01 | CVPR 2026 Workshops |
+| **[Interpreting Temporal Graph Neural Networks with Koopman Theory](https://arxiv.org/abs/2410.13469v2)** | 2026-04-07 |  |
+| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
+| **[Incident-Guided Spatiotemporal Traffic Forecasting](https://arxiv.org/abs/2602.02528v2)** | 2026-04-07 |  |
+| **[Energy-Balanced Hyperspherical Graph Representation Learning via Structural Binding and Entropic Dispersion](https://arxiv.org/abs/2512.24062v2)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted to Knowledge-Based Systems</p></details> |
+| **[CROSS-Net: Region-Agnostic Taxi-Demand Prediction Using Feature Disentanglement](https://arxiv.org/abs/2310.18215v2)** | 2026-04-07 | <details><summary>An ac...</summary><p>An accepted journal article on IEEE Transactions on Intelligent Transportation System</p></details> |
+| **[Deterministic and probabilistic neural surrogates of global hybrid-Vlasov simulations](https://arxiv.org/abs/2601.12614v3)** | 2026-04-06 |  |
+| **[Graph Signal Diffusion Models for Wireless Resource Allocation](https://arxiv.org/abs/2604.05175v1)** | 2026-04-06 | <details><summary>Under...</summary><p>Under review for SPAWC'26</p></details> |
+| **[General Geospatial Inference with a Population Dynamics Foundation Model](https://arxiv.org/abs/2411.07207v6)** | 2026-04-06 | <details><summary>updat...</summary><p>updated access information</p></details> |
+| **[Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning](https://arxiv.org/abs/2604.04916v1)** | 2026-04-06 |  |
+| **[Pixels or Positions? Benchmarking Modalities in Group Activity Recognition](https://arxiv.org/abs/2511.12606v2)** | 2026-04-06 |  |
 
