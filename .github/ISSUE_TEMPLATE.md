@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 08, 2026
+title: Latest 10 Papers - April 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Graph Foundation Model for Wireless Resource Allocation](https://arxiv.org/abs/2604.07390v1)** | 2026-04-08 |  |
+| **[Toward a universal foundation model for graph-structured data](https://arxiv.org/abs/2604.06391v1)** | 2026-04-07 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 12 supplementary figures</p></details> |
 | **[Knowledge Reasoning Language Model: Unifying Knowledge and Language for Inductive Knowledge Graph Reasoning](https://arxiv.org/abs/2510.13909v2)** | 2026-04-07 |  |
 | **[CrossHGL: A Text-Free Foundation Model for Cross-Domain Heterogeneous Graph Learning](https://arxiv.org/abs/2603.27685v1)** | 2026-03-29 |  |
 | **[OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection](https://arxiv.org/abs/2601.19102v2)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
@@ -15,8 +17,6 @@ labels: documentation
 | **[Modality-free Graph In-context Alignment](https://arxiv.org/abs/2603.13434v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation](https://arxiv.org/abs/2511.00097v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by the Main Track of NeurIPS-2025</p></details> |
 | **[SA$^{2}$GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation](https://arxiv.org/abs/2512.07857v3)** | 2026-03-10 |  |
-| **[TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection](https://arxiv.org/abs/2603.09349v1)** | 2026-03-10 |  |
-| **[Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG](https://arxiv.org/abs/2603.07179v1)** | 2026-03-07 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Interpreting Temporal Graph Neural Networks with Koopman Theory](https://arxiv.org/abs/2410.13469v2)** | 2026-04-07 |  |
-| **[Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors](https://arxiv.org/abs/2604.06074v1)** | 2026-04-07 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, Accepted by ICME 2026</p></details> |
-| **[Incident-Guided Spatiotemporal Traffic Forecasting](https://arxiv.org/abs/2602.02528v2)** | 2026-04-07 |  |
-| **[Energy-Balanced Hyperspherical Graph Representation Learning via Structural Binding and Entropic Dispersion](https://arxiv.org/abs/2512.24062v2)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted to Knowledge-Based Systems</p></details> |
-| **[CROSS-Net: Region-Agnostic Taxi-Demand Prediction Using Feature Disentanglement](https://arxiv.org/abs/2310.18215v2)** | 2026-04-07 | <details><summary>An ac...</summary><p>An accepted journal article on IEEE Transactions on Intelligent Transportation System</p></details> |
-| **[Deterministic and probabilistic neural surrogates of global hybrid-Vlasov simulations](https://arxiv.org/abs/2601.12614v3)** | 2026-04-06 |  |
-| **[Graph Signal Diffusion Models for Wireless Resource Allocation](https://arxiv.org/abs/2604.05175v1)** | 2026-04-06 | <details><summary>Under...</summary><p>Under review for SPAWC'26</p></details> |
-| **[General Geospatial Inference with a Population Dynamics Foundation Model](https://arxiv.org/abs/2411.07207v6)** | 2026-04-06 | <details><summary>updat...</summary><p>updated access information</p></details> |
-| **[Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning](https://arxiv.org/abs/2604.04916v1)** | 2026-04-06 |  |
-| **[Pixels or Positions? Benchmarking Modalities in Group Activity Recognition](https://arxiv.org/abs/2511.12606v2)** | 2026-04-06 |  |
+| **[Persistence-Augmented Neural Networks](https://arxiv.org/abs/2604.08469v1)** | 2026-04-09 |  |
+| **[U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations](https://arxiv.org/abs/2604.08295v1)** | 2026-04-09 |  |
+| **[OpenGLT: A Comprehensive Benchmark of Graph Neural Networks for Graph-Level Tasks](https://arxiv.org/abs/2501.00773v3)** | 2026-04-09 |  |
+| **[Graph Neural Networks for Misinformation Detection: Performance-Efficiency Trade-offs](https://arxiv.org/abs/2604.08131v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at Computational Modeling and Artificial Intelligence for Social Systems Track in ICCS 2026</p></details> |
+| **[AFGNN: API Misuse Detection using Graph Neural Networks and Clustering](https://arxiv.org/abs/2604.07891v1)** | 2026-04-09 |  |
+| **[Toward Generalizable Graph Learning for 3D Engineering AI: Explainable Workflows for CAE Mode Shape Classification and CFD Field Prediction](https://arxiv.org/abs/2604.07781v1)** | 2026-04-09 |  |
+| **[Rhizome OS-1: Rhizome's Semi-Autonomous Operating System for Small Molecule Drug Discovery](https://arxiv.org/abs/2604.07512v1)** | 2026-04-08 |  |
+| **[Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability](https://arxiv.org/abs/2604.07292v1)** | 2026-04-08 |  |
+| **[BadImplant: Injection-based Multi-Targeted Graph Backdoor Attack](https://arxiv.org/abs/2601.15474v2)** | 2026-04-08 |  |
+| **[Self-Discovered Intention-aware Transformer for Multi-modal Vehicle Trajectory Prediction](https://arxiv.org/abs/2604.07126v1)** | 2026-04-08 | 5 pages, 2 figures |
 
