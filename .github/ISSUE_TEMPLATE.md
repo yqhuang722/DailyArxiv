@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 19, 2026
+title: Latest 10 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable and Adaptive Parallel Training of Graph Transformer on Large Graphs](https://arxiv.org/abs/2604.16715v1)** | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to the 63rd ACM/IEEE Design Automation Conference (DAC 2026)</p></details> |
+| **[Exascale Multi-Task Graph Foundation Models for Imbalanced, Multi-Fidelity Atomistic Data](https://arxiv.org/abs/2604.15380v1)** | 2026-04-15 | <details><summary>12 pa...</summary><p>12 pages; 5 figures; 15 tables</p></details> |
 | **[Uncertainty Quantification on Graph Learning: A Survey](https://arxiv.org/abs/2404.14642v4)** | 2026-04-14 |  |
 | **[A Graph Foundation Model for Wireless Resource Allocation](https://arxiv.org/abs/2604.07390v1)** | 2026-04-08 |  |
 | **[Toward a universal foundation model for graph-structured data](https://arxiv.org/abs/2604.06391v1)** | 2026-04-07 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 12 supplementary figures</p></details> |
@@ -15,8 +17,6 @@ labels: documentation
 | **[OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection](https://arxiv.org/abs/2601.19102v2)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[Can Graph Foundation Models Generalize Over Architecture?](https://arxiv.org/abs/2603.22984v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages main text + 18 pages references and appendix (27 pages total), 5 figures. Accepted to GRaM Workshop @ ICLR 2026: Workshop on Geometry-grounded Representation Learning and Generative Modeling (to appear in PMLR)</p></details> |
 | **[Riemannian Geometry Speaks Louder Than Words: From Graph Foundation Model to Next-Generation Graph Intelligence](https://arxiv.org/abs/2603.21601v1)** | 2026-03-23 | 7 pages |
-| **[Modality-free Graph In-context Alignment](https://arxiv.org/abs/2603.13434v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation](https://arxiv.org/abs/2511.00097v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by the Main Track of NeurIPS-2025</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VoteGCL: Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation](https://arxiv.org/abs/2507.21563v4)** | 2026-04-21 |  |
 | **[Disentangle-then-Refine: LLM-Guided Decoupling and Structure-Aware Refinement for Graph Contrastive Learning](https://arxiv.org/abs/2604.14746v1)** | 2026-04-16 | Accept in ICME 2026 |
 | **[Robust Graph Representation Learning via Adaptive Spectral Contrast](https://arxiv.org/abs/2604.01878v1)** | 2026-04-02 |  |
 | **[From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://arxiv.org/abs/2510.03690v3)** | 2026-03-31 |  |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Less is More: Towards Simple Graph Contrastive Learning](https://arxiv.org/abs/2509.25742v3)** | 2026-03-20 |  |
 | **[Adaptive Multi-view Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](https://arxiv.org/abs/2511.06216v3)** | 2026-03-18 | <details><summary>Machi...</summary><p>Machine learning, diffusion neural networks. arXiv admin note: text overlap with arXiv:2504.16748</p></details> |
 | **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[ProvAgent: Threat Detection Based on Identity-Behavior Binding and Multi-Agent Collaborative Attack Investigation](https://arxiv.org/abs/2603.09358v1)** | 2026-03-10 | <details><summary>The c...</summary><p>The code of ProvAgent is publicly available at \url{https://github.com/Win7ery/ProvAgent}</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations](https://arxiv.org/abs/2604.15273v1)** | 2026-04-16 | <details><summary>6 pag...</summary><p>6 pages. Accepted at IJCNN 2026</p></details> |
-| **[Sampling Transferable Graph Neural Networks with Limited Graph Information](https://arxiv.org/abs/2410.16593v6)** | 2026-04-16 | <details><summary>Submi...</summary><p>Submitted to IEEE TSP</p></details> |
-| **[Beyond the Laplacian: Doubly Stochastic Matrices for Graph Neural Networks](https://arxiv.org/abs/2604.15069v1)** | 2026-04-16 |  |
-| **[Adaptive Canonicalization with Application to Invariant Anisotropic Geometric Networks](https://arxiv.org/abs/2509.24886v3)** | 2026-04-16 |  |
-| **[Dense Neural Networks are not Universal Approximators](https://arxiv.org/abs/2602.07618v3)** | 2026-04-16 |  |
-| **[Using deep learning to construct stochastic local search SAT solvers with performance bounds](https://arxiv.org/abs/2309.11452v3)** | 2026-04-16 | <details><summary>24 pa...</summary><p>24 pages, significantly updated version with new datasets and experiments. Code available at https://github.com/porscheofficial/sls_sat_solving_with_deep_learning. Accepted for publication in Machine Learning: Science and Technology 7 (2026) 025057</p></details> |
-| **[Leveraging graph neural networks and mobility data for COVID-19 forecasting](https://arxiv.org/abs/2501.11711v2)** | 2026-04-16 |  |
-| **[PUFFIN: Protein Unit Discovery with Functional Supervision](https://arxiv.org/abs/2604.14796v1)** | 2026-04-16 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, to appear in ISMB 2026 proceedings</p></details> |
-| **[Graph-Based Alternatives to LLMs for Human Simulation](https://arxiv.org/abs/2511.02135v2)** | 2026-04-16 | <details><summary>Confe...</summary><p>Conference: ACL 2026 Long Main Code: https://github.com/schang-lab/gems</p></details> |
-| **[CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations](https://arxiv.org/abs/2604.14586v1)** | 2026-04-16 | <details><summary>Publi...</summary><p>Published in ACM Transactions on Information Systems (TOIS). 43 pages, 9 figures</p></details> |
+| **[When Graph Structure Becomes a Liability: A Critical Re-Evaluation of Graph Neural Networks for Bitcoin Fraud Detection under Temporal Distribution Shift](https://arxiv.org/abs/2604.19514v1)** | 2026-04-21 | <details><summary>Code ...</summary><p>Code to be released soon</p></details> |
+| **[Towards Generalization of Graph Neural Networks for AC Optimal Power Flow](https://arxiv.org/abs/2510.06860v2)** | 2026-04-21 | <details><summary>Pre-p...</summary><p>Pre-print has been submitted for review</p></details> |
+| **[The Logical Expressiveness of Topological Neural Networks](https://arxiv.org/abs/2604.19212v1)** | 2026-04-21 | <details><summary>39 pa...</summary><p>39 pages, Published at the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[Inductive Subgraphs as Shortcuts: Causal Disentanglement for Heterophilic Graph Learning](https://arxiv.org/abs/2604.19186v1)** | 2026-04-21 | SIGIR 2026 |
+| **[Pixels or Positions? Benchmarking Modalities in Group Activity Recognition](https://arxiv.org/abs/2511.12606v3)** | 2026-04-21 |  |
+| **[Graph Data Augmentation with Contrastive Learning on Covariate Distribution Shift](https://arxiv.org/abs/2512.00716v2)** | 2026-04-21 | 8 tables, 8 figures |
+| **[TRN-R1-Zero: Text-rich Network Reasoning via LLMs with Reinforcement Learning Only](https://arxiv.org/abs/2604.19070v1)** | 2026-04-21 |  |
+| **[SAGE: Signal-Amplified Guided Embeddings for LLM-based Vulnerability Detection](https://arxiv.org/abs/2604.19031v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 6 tables. Accepted by ISSTA 2026</p></details> |
+| **[Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://arxiv.org/abs/2604.19028v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. OpenReview: https://openreview.net/forum?id=FmxRzlu0rT</p></details> |
+| **[AI-Enabled Image-Based Hybrid Vision/Force Control of Tendon-Driven Aerial Continuum Manipulators](https://arxiv.org/abs/2604.18961v1)** | 2026-04-21 |  |
 
