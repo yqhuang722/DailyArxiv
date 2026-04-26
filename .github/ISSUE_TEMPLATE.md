@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - April 22, 2026
+title: Latest 10 Papers - April 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Graph Structure Becomes a Liability: A Critical Re-Evaluation of Graph Neural Networks for Bitcoin Fraud Detection under Temporal Distribution Shift](https://arxiv.org/abs/2604.19514v1)** | 2026-04-21 | <details><summary>Code ...</summary><p>Code to be released soon</p></details> |
-| **[Towards Generalization of Graph Neural Networks for AC Optimal Power Flow](https://arxiv.org/abs/2510.06860v2)** | 2026-04-21 | <details><summary>Pre-p...</summary><p>Pre-print has been submitted for review</p></details> |
-| **[The Logical Expressiveness of Topological Neural Networks](https://arxiv.org/abs/2604.19212v1)** | 2026-04-21 | <details><summary>39 pa...</summary><p>39 pages, Published at the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[Inductive Subgraphs as Shortcuts: Causal Disentanglement for Heterophilic Graph Learning](https://arxiv.org/abs/2604.19186v1)** | 2026-04-21 | SIGIR 2026 |
-| **[Pixels or Positions? Benchmarking Modalities in Group Activity Recognition](https://arxiv.org/abs/2511.12606v3)** | 2026-04-21 |  |
-| **[Graph Data Augmentation with Contrastive Learning on Covariate Distribution Shift](https://arxiv.org/abs/2512.00716v2)** | 2026-04-21 | 8 tables, 8 figures |
-| **[TRN-R1-Zero: Text-rich Network Reasoning via LLMs with Reinforcement Learning Only](https://arxiv.org/abs/2604.19070v1)** | 2026-04-21 |  |
-| **[SAGE: Signal-Amplified Guided Embeddings for LLM-based Vulnerability Detection](https://arxiv.org/abs/2604.19031v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 6 tables. Accepted by ISSTA 2026</p></details> |
-| **[Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors](https://arxiv.org/abs/2604.19028v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. OpenReview: https://openreview.net/forum?id=FmxRzlu0rT</p></details> |
-| **[AI-Enabled Image-Based Hybrid Vision/Force Control of Tendon-Driven Aerial Continuum Manipulators](https://arxiv.org/abs/2604.18961v1)** | 2026-04-21 |  |
+| **[StormNet: Improving storm surge predictions with a GNN-based spatio-temporal offset forecasting model](https://arxiv.org/abs/2604.20688v2)** | 2026-04-23 | <details><summary>51 pa...</summary><p>51 pages, 9 figures, 5 tables</p></details> |
+| **[Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection](https://arxiv.org/abs/2601.02438v3)** | 2026-04-23 |  |
+| **[Forecasting Individual NetFlows using a Predictive Masked Graph Autoencoder](https://arxiv.org/abs/2604.20483v2)** | 2026-04-23 | 3 figures, 6 pages |
+| **[Drug Synergy Prediction via Residual Graph Isomorphism Networks and Attention Mechanisms](https://arxiv.org/abs/2604.21473v1)** | 2026-04-23 |  |
+| **[Adaptive Soft Error Protection for Neural Network Processing](https://arxiv.org/abs/2407.19664v3)** | 2026-04-23 |  |
+| **[Information Bottleneck-Guided Heterogeneous Graph Learning for Interpretable Neurodevelopmental Disorder Diagnosis](https://arxiv.org/abs/2502.20769v3)** | 2026-04-23 |  |
+| **[GraphLeap: Decoupling Graph Construction and Convolution for Vision GNN Acceleration on FPGA](https://arxiv.org/abs/2604.21290v1)** | 2026-04-23 | FCCM 2026 |
+| **[Graph Neural Network-Informed Predictive Flows for Faster Ford-Fulkerson and PAC-Learnability](https://arxiv.org/abs/2604.21175v1)** | 2026-04-23 |  |
+| **[Spectral Embeddings Leak Graph Topology: Theory, Benchmark, and Adaptive Reconstruction](https://arxiv.org/abs/2604.21094v1)** | 2026-04-22 |  |
+| **[TRAVELFRAUDBENCH: A Configurable Evaluation Framework for GNN Fraud Ring Detection in Travel Networks](https://arxiv.org/abs/2604.21093v1)** | 2026-04-22 |  |
 
