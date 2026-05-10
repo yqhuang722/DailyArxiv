@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 06, 2026
+title: Latest 10 Papers - May 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,20 +7,21 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Safety of Graph Representation Learning](https://arxiv.org/abs/2605.06576v1)** | 2026-05-07 | <details><summary>Prepr...</summary><p>Preprint. 10 pages main text, appendices included</p></details> |
+| **[Mochi: Aligning Pre-training and Inference for Efficient Graph Foundation Models via Meta-Learning](https://arxiv.org/abs/2604.22031v2)** | 2026-05-07 | 23 pages, 7 figures |
+| **[Invariant-Based Diagnostics for Graph Benchmarks](https://arxiv.org/abs/2605.06462v1)** | 2026-05-07 |  |
+| **[Graphlets as Building Blocks for Structural Vocabulary in Knowledge Graph Foundation Models](https://arxiv.org/abs/2605.06154v1)** | 2026-05-07 |  |
+| **[Bridging Input Feature Spaces Towards Graph Foundation Models](https://arxiv.org/abs/2605.04834v1)** | 2026-05-06 | <details><summary>33 Pa...</summary><p>33 Pages, 2 Figures, 26 Tables, ICLR 2026</p></details> |
 | **[GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](https://arxiv.org/abs/2409.14500v5)** | 2026-05-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (Datasets & Benchmarks Track)</p></details> |
 | **[Empowering Heterogeneous Graph Foundation Models via Decoupled Relation Alignment](https://arxiv.org/abs/2605.00731v1)** | 2026-05-01 |  |
 | **[G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge](https://arxiv.org/abs/2509.24276v4)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Mochi: Aligning Pre-training and Inference for Efficient Graph Foundation Models via Meta-Learning](https://arxiv.org/abs/2604.22031v1)** | 2026-04-23 | 20 pages, 7 figures |
 | **[Scalable and Adaptive Parallel Training of Graph Transformer on Large Graphs](https://arxiv.org/abs/2604.16715v1)** | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to the 63rd ACM/IEEE Design Automation Conference (DAC 2026)</p></details> |
 | **[Exascale Multi-Task Graph Foundation Models for Imbalanced, Multi-Fidelity Atomistic Data](https://arxiv.org/abs/2604.15380v1)** | 2026-04-15 | <details><summary>12 pa...</summary><p>12 pages; 5 figures; 15 tables</p></details> |
-| **[Uncertainty Quantification on Graph Learning: A Survey](https://arxiv.org/abs/2404.14642v4)** | 2026-04-14 |  |
-| **[A Graph Foundation Model for Wireless Resource Allocation](https://arxiv.org/abs/2604.07390v1)** | 2026-04-08 |  |
-| **[Toward a universal foundation model for graph-structured data](https://arxiv.org/abs/2604.06391v1)** | 2026-04-07 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 12 supplementary figures</p></details> |
-| **[Knowledge Reasoning Language Model: Unifying Knowledge and Language for Inductive Knowledge Graph Reasoning](https://arxiv.org/abs/2510.13909v2)** | 2026-04-07 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphVec: Cross-Domain Graph Vectorization for Graph-Level Representation Learning](https://arxiv.org/abs/2602.04244v2)** | 2026-05-07 |  |
 | **[Cross-Paradigm Graph Backdoor Attacks with Promptable Subgraph Triggers](https://arxiv.org/abs/2510.22555v3)** | 2026-05-05 | <details><summary>accep...</summary><p>accepted by IJCAI 2026</p></details> |
 | **[Unified Graph Prompt Learning via Low-Rank Graph Message Prompting](https://arxiv.org/abs/2604.11257v1)** | 2026-04-13 |  |
 | **[A Cross-graph Tuning-free GNN Prompting Framework](https://arxiv.org/abs/2604.00399v1)** | 2026-04-01 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning across Broad Atlases and Disorders](https://arxiv.org/abs/2506.02044v3)** | 2026-02-10 | 30pages |
 | **[MAGPrompt: Message-Adaptive Graph Prompt Tuning for Graph Neural Networks](https://arxiv.org/abs/2602.05567v1)** | 2026-02-05 |  |
 | **[Beyond Single-Granularity Prompts: A Multi-Scale Chain-of-Thought Prompt Learning for Graph](https://arxiv.org/abs/2510.09394v4)** | 2026-01-26 | Accepted by WWW2026 |
-| **[A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection](https://arxiv.org/abs/2601.12745v1)** | 2026-01-19 |  |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Magic-Informed Quantum Architecture Search](https://arxiv.org/abs/2605.03932v1)** | 2026-05-05 |  |
-| **[Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation](https://arxiv.org/abs/2504.13614v2)** | 2026-05-05 |  |
-| **[Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories](https://arxiv.org/abs/2605.03901v1)** | 2026-05-05 | 13 pages, 6 figures |
-| **[Learning the APT Kill Chain: Temporal Reasoning over Provenance Data for Attack Stage Estimation](https://arxiv.org/abs/2603.07560v2)** | 2026-05-05 | <details><summary>This ...</summary><p>This paper has been accepted for publication in IEEE Global Communications Conference (GLOBECOM) 2026</p></details> |
-| **[Improving Graph Neural Network Training, Defense, Spectral Hypergraph Clustering and Multiview Spectral Clustering via Adversarial Robustness Evaluation](https://arxiv.org/abs/2412.14738v12)** | 2026-05-05 |  |
-| **[Graph Neural Network based Hierarchy-Aware Embeddings of Knowledge Graphs: Applications to Yeast Phenotype Prediction](https://arxiv.org/abs/2605.03690v1)** | 2026-05-05 |  |
-| **[Deep Graph-Language Fusion for Structure-Aware Code Generation](https://arxiv.org/abs/2605.03689v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted in Forge 2026</p></details> |
-| **[Joint Relational Database Generation via Graph-Conditional Diffusion Models](https://arxiv.org/abs/2505.16527v2)** | 2026-05-05 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
-| **[SCGNN: Semantic Consistency enhanced Graph Neural Network Guided by Granular-ball Computing](https://arxiv.org/abs/2605.02617v2)** | 2026-05-05 |  |
-| **[Full-Graph vs. Mini-Batch Training: Comprehensive Analysis from a Batch Size and Fan-Out Size Perspective](https://arxiv.org/abs/2601.22678v2)** | 2026-05-05 |  |
+| **[Towards Metric-Faithful Neural Graph Matching](https://arxiv.org/abs/2605.06588v1)** | 2026-05-07 |  |
+| **[AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling](https://arxiv.org/abs/2603.12031v2)** | 2026-05-07 |  |
+| **[No Triangulation Without Representation: Generalization in Topological Deep Learning](https://arxiv.org/abs/2605.06467v1)** | 2026-05-07 |  |
+| **[Federated Cross-Client Subgraph Pattern Detection](https://arxiv.org/abs/2605.06433v1)** | 2026-05-07 |  |
+| **[A Low-Complexity Framework for Multi-access Coded Caching Systems with Arbitrary User-cache Access Topology](https://arxiv.org/abs/2601.10175v3)** | 2026-05-07 |  |
+| **[ReMAP: Neural Reparameterization for Scalable MAP Inference in Arbitrary-Order Markov Random Fields](https://arxiv.org/abs/2411.18954v4)** | 2026-05-07 |  |
+| **[ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs](https://arxiv.org/abs/2602.01124v3)** | 2026-05-07 |  |
+| **[Full-Spectrum Graph Neural Network: Expressive and Scalable](https://arxiv.org/abs/2605.05759v1)** | 2026-05-07 | <details><summary>40 pa...</summary><p>40 pages, 3 figures. Accepted to ICML 2026</p></details> |
+| **[Dense Neural Networks are not Universal Approximators](https://arxiv.org/abs/2602.07618v5)** | 2026-05-07 |  |
+| **[Adversarial Graph Neural Network Benchmarks: Towards Practical and Fair Evaluation](https://arxiv.org/abs/2605.05534v1)** | 2026-05-07 | 49 pages, 6 figures |
 
