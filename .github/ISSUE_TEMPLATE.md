@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 20, 2026
+title: Latest 10 Papers - May 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[S2Aligner: Pair-Efficient and Transferable Pre-Training for Sparse Text-Attributed Graphs](https://arxiv.org/abs/2605.18579v2)** | 2026-05-19 | 19 pages |
+| **[Billion-Scale Graph Foundation Models](https://arxiv.org/abs/2602.04768v2)** | 2026-05-21 |  |
+| **[S2Aligner: Pair-Efficient and Transferable Pre-Training for Sparse Text-Attributed Graphs](https://arxiv.org/abs/2605.18579v3)** | 2026-05-20 | 19 pages |
 | **[Deep Neural Sheaf Diffusion](https://arxiv.org/abs/2605.19021v1)** | 2026-05-18 | <details><summary>Under...</summary><p>Under review at GFM@ICML2026</p></details> |
 | **[Graph Hierarchical Recurrence for Long-Range Generalization](https://arxiv.org/abs/2605.18387v1)** | 2026-05-18 |  |
 | **[KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907v1)** | 2026-05-14 |  |
@@ -16,11 +17,12 @@ labels: documentation
 | **[Decoupled and Divergence-Conditioned Prompt for Multi-domain Dynamic Graph Foundation Models](https://arxiv.org/abs/2605.13540v1)** | 2026-05-13 |  |
 | **[SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory](https://arxiv.org/abs/2605.12061v1)** | 2026-05-12 |  |
 | **[Learning Graph Foundation Models on Riemannian Graph-of-Graphs](https://arxiv.org/abs/2605.09993v1)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted by ICML 2026</p></details> |
-| **[GraphBench: Next-generation graph learning benchmarking](https://arxiv.org/abs/2512.04475v5)** | 2026-05-09 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Event-Aware Prompt Learning for Dynamic Graphs](https://arxiv.org/abs/2510.11339v2)** | 2026-05-21 | Under review |
+| **[Do LLMs Know What Luxembourgish Borrows? Probing Lexical Neology in Low-Resource Multilingual Models](https://arxiv.org/abs/2605.21227v1)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted to Neollm colocated with LREC2026, Three figures and three tables</p></details> |
 | **[CHoE: Cross-Domain Heterogeneous Graph Prompt Learning via Structure-Conditioned Experts](https://arxiv.org/abs/2605.15888v1)** | 2026-05-15 | <details><summary>accep...</summary><p>accepted by IJCAI 2026, 9 pages, 4 figures</p></details> |
 | **[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](https://arxiv.org/abs/2605.14809v1)** | 2026-05-14 |  |
 | **[Decoupled and Divergence-Conditioned Prompt for Multi-domain Dynamic Graph Foundation Models](https://arxiv.org/abs/2605.13540v1)** | 2026-05-13 |  |
@@ -29,8 +31,6 @@ labels: documentation
 | **[Cross-Paradigm Graph Backdoor Attacks with Promptable Subgraph Triggers](https://arxiv.org/abs/2510.22555v3)** | 2026-05-05 | <details><summary>accep...</summary><p>accepted by IJCAI 2026</p></details> |
 | **[Unified Graph Prompt Learning via Low-Rank Graph Message Prompting](https://arxiv.org/abs/2604.11257v1)** | 2026-04-13 |  |
 | **[A Cross-graph Tuning-free GNN Prompting Framework](https://arxiv.org/abs/2604.00399v1)** | 2026-04-01 |  |
-| **[Disentangled Graph Prompting for Out-Of-Distribution Detection](https://arxiv.org/abs/2603.29644v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Knowledge and Data Engineering (TKDE)</p></details> |
-| **[Learning Concept Bottleneck Models from Mechanistic Explanations](https://arxiv.org/abs/2603.07343v1)** | 2026-03-07 | ICLR 2026 |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -49,14 +49,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GraphPINE: Graph Importance Propagation for Interpretable Drug Response Prediction](https://arxiv.org/abs/2504.05454v2)** | 2026-05-19 |  |
-| **[Towards Distillation Guarantees under Algorithmic Alignment for Combinatorial Optimization](https://arxiv.org/abs/2605.20074v1)** | 2026-05-19 | 22 pages |
-| **[Warm-starting active-set solvers using graph neural networks](https://arxiv.org/abs/2511.13174v2)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted at Learning for Dynamics and Control Conference (L4DC)</p></details> |
-| **[Directed Acyclic Graph Convolutional Networks](https://arxiv.org/abs/2506.12218v2)** | 2026-05-19 |  |
-| **[ST-TGExplainer: Disentangling Stability and Transition Patterns for Temporal GNN Interpretability](https://arxiv.org/abs/2605.19822v1)** | 2026-05-19 |  |
-| **[B-cos GNNs: Faithful Explanations through Dynamic Linearity](https://arxiv.org/abs/2605.19778v1)** | 2026-05-19 |  |
-| **[Gauge-Equivariant Graph Networks via Self-Interference Cancellation](https://arxiv.org/abs/2511.16062v2)** | 2026-05-19 |  |
-| **[Graph Neural Networks for Community Detection in Graph Signal Analysis](https://arxiv.org/abs/2605.19733v1)** | 2026-05-19 |  |
-| **[Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization](https://arxiv.org/abs/2605.19721v1)** | 2026-05-19 | Preprint |
-| **[Physics-Informed Graph Neural Network Surrogates for Turbulent Nanoparticle Dispersion in Dental Clinical Environments](https://arxiv.org/abs/2605.19589v1)** | 2026-05-19 | <details><summary>40 pa...</summary><p>40 pages, 12 figures,</p></details> |
+| **[Scout-Assisted Planning for Heterogeneous Robot Teams under Partially Known Environments](https://arxiv.org/abs/2605.22693v1)** | 2026-05-21 |  |
+| **[U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations](https://arxiv.org/abs/2604.08295v3)** | 2026-05-21 |  |
+| **[Geometry-Induced Diffusion on Graphs: A Learnable Weighted Laplacian for Spectral GNNs](https://arxiv.org/abs/2602.18141v2)** | 2026-05-21 |  |
+| **[Do Deep Ensembles Actually Capture Uncertainty in Graph Neural Networks?](https://arxiv.org/abs/2605.22593v1)** | 2026-05-21 |  |
+| **[Implicit Regularization of Mini-Batch Training in Graph Neural Networks](https://arxiv.org/abs/2605.22480v1)** | 2026-05-21 |  |
+| **[Efficient Higher-order Subgraph Attribution via Message Passing](https://arxiv.org/abs/2605.22385v1)** | 2026-05-21 | <details><summary>Publi...</summary><p>Published in ICML 2022</p></details> |
+| **[Event-Aware Prompt Learning for Dynamic Graphs](https://arxiv.org/abs/2510.11339v2)** | 2026-05-21 | Under review |
+| **[A Generative Adversarial Graph Neural Network for Synthetic Time Series Data](https://arxiv.org/abs/2605.22215v1)** | 2026-05-21 |  |
+| **[Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models](https://arxiv.org/abs/2603.02938v2)** | 2026-05-21 |  |
+| **[Learning Altruistic Collaboration in Heterogeneous Multi-Team Systems](https://arxiv.org/abs/2605.21723v1)** | 2026-05-20 |  |
 
