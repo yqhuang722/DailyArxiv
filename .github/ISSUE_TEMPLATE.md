@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - May 27, 2026
+title: Latest 10 Papers - May 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Do Graph Foundation Models Transfer? A Data-Centric Theory](https://arxiv.org/abs/2605.29828v1)** | 2026-05-28 | <details><summary>21 pa...</summary><p>21 pages, including appendix. Accepted at ICML 2026</p></details> |
+| **[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](https://arxiv.org/abs/2605.14809v2)** | 2026-05-26 |  |
 | **[Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling](https://arxiv.org/abs/2605.27023v1)** | 2026-05-26 |  |
 | **[Deep Neural Sheaf Diffusion](https://arxiv.org/abs/2605.19021v2)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Graph Foundation Models (GFM@ICML 2026). Code available at https://github.com/remibourgerie/deep-neural-sheaf-diffusion</p></details> |
 | **[GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](https://arxiv.org/abs/2510.04567v2)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the GFM @ ICML 2026 Workshop</p></details> |
@@ -15,18 +17,16 @@ labels: documentation
 | **[S2Aligner: Pair-Efficient and Transferable Pre-Training for Sparse Text-Attributed Graphs](https://arxiv.org/abs/2605.18579v3)** | 2026-05-20 | 19 pages |
 | **[Graph Hierarchical Recurrence for Long-Range Generalization](https://arxiv.org/abs/2605.18387v1)** | 2026-05-18 |  |
 | **[KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907v1)** | 2026-05-14 |  |
-| **[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](https://arxiv.org/abs/2605.14809v1)** | 2026-05-14 |  |
-| **[Breaking the Reasoning Horizon in Entity Alignment Foundation Models](https://arxiv.org/abs/2601.21174v2)** | 2026-05-14 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](https://arxiv.org/abs/2605.14809v2)** | 2026-05-26 |  |
 | **[PLACE: Prompt Learning for Attributed Community Search in Large Graphs](https://arxiv.org/abs/2507.05311v2)** | 2026-05-22 | 14 pages, 9 figures |
 | **[GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks](https://arxiv.org/abs/2602.11629v2)** | 2026-05-22 | 16 pages, 8 figures |
 | **[Event-Aware Prompt Learning for Dynamic Graphs](https://arxiv.org/abs/2510.11339v2)** | 2026-05-21 | Under review |
 | **[Do LLMs Know What Luxembourgish Borrows? Probing Lexical Neology in Low-Resource Multilingual Models](https://arxiv.org/abs/2605.21227v1)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted to Neollm colocated with LREC2026, Three figures and three tables</p></details> |
 | **[CHoE: Cross-Domain Heterogeneous Graph Prompt Learning via Structure-Conditioned Experts](https://arxiv.org/abs/2605.15888v1)** | 2026-05-15 | <details><summary>accep...</summary><p>accepted by IJCAI 2026, 9 pages, 4 figures</p></details> |
-| **[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](https://arxiv.org/abs/2605.14809v1)** | 2026-05-14 |  |
 | **[Decoupled and Divergence-Conditioned Prompt for Multi-domain Dynamic Graph Foundation Models](https://arxiv.org/abs/2605.13540v1)** | 2026-05-13 |  |
 | **[Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach](https://arxiv.org/abs/2605.09964v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[GraphVec: Cross-Domain Graph Vectorization for Graph-Level Representation Learning](https://arxiv.org/abs/2602.04244v2)** | 2026-05-07 |  |
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Revisiting Graph Autoencoders as Implicit Contrastive Learners](https://arxiv.org/abs/2410.10241v2)** | 2026-05-27 | <details><summary>KDD 2...</summary><p>KDD 2026 research track. Code available at https://github.com/EdisonLeeeee/lrGAE</p></details> |
 | **[GCIB: Graph Contrastive Information Bottleneck for Multi-Behavior Recommendation](https://arxiv.org/abs/2605.25690v1)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Camera-ready version</p></details> |
 | **[Distance-Aware Joint Spatio-Temporal Graph Contrastive Learning for Major Depressive Disorder Diagnosis](https://arxiv.org/abs/2605.24066v1)** | 2026-05-22 |  |
 | **[A Unified Perspective for Learning Graph Representations Across Multi-Level Abstractions](https://arxiv.org/abs/2605.12685v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Knowledge and Data Engineering (TKDE). 18 pages, 8 figures</p></details> |
@@ -44,19 +45,18 @@ labels: documentation
 | **[Multi-Level Graph Attention Network Contrastive Learning for Knowledge-Aware Recommendation](https://arxiv.org/abs/2605.08499v1)** | 2026-05-08 |  |
 | **[ASPECT: Node-Level Adaptive Spectral Fusion for Graph Contrastive Learning](https://arxiv.org/abs/2604.01878v2)** | 2026-05-06 | <details><summary>28 pa...</summary><p>28 pages, 3 figures. Revised version with updated method framing, improved exposition, and additional experiments</p></details> |
 | **[Cross-Paradigm Graph Backdoor Attacks with Promptable Subgraph Triggers](https://arxiv.org/abs/2510.22555v3)** | 2026-05-05 | <details><summary>accep...</summary><p>accepted by IJCAI 2026</p></details> |
-| **[Adaptive Negative Scheduling for Graph Contrastive Learning](https://arxiv.org/abs/2605.03076v1)** | 2026-05-04 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 9 benchmark datasets, code available at GitHub</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Distributed Control of Network Systems in the Space of Stabilizing Graph Neural Network Policies](https://arxiv.org/abs/2512.18540v2)** | 2026-05-26 |  |
-| **[Is an Image Also Worth 16x16=256 Superpixels? A Framework for Attentional Image Classification](https://arxiv.org/abs/2605.27144v1)** | 2026-05-26 |  |
-| **[TED: Related Party Transaction guided Tax Evasion Detection on Heterogeneous Graph](https://arxiv.org/abs/2605.26984v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted by Data Mining and Knowledge Discovery (DMKD25)</p></details> |
-| **[Generalist Graph Anomaly Detection via Prototype-Based Distillation](https://arxiv.org/abs/2605.26857v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[RAPNet: Accelerating Algebraic Multigrid with Learned Sparse Corrections](https://arxiv.org/abs/2605.26854v1)** | 2026-05-26 | <details><summary>Proce...</summary><p>Proceedings of the 43rd International Conference on Machine Learning, Seoul, South Korea Code available at https://github.com/idoby/rapnet</p></details> |
-| **[A Logical View of GNN-Style Computation and the Role of Activation Functions](https://arxiv.org/abs/2512.19332v2)** | 2026-05-26 |  |
-| **[Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](https://arxiv.org/abs/2505.21285v4)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted in the Forty-Third International Conference on Machine Learning (ICML 2026), Main Track</p></details> |
-| **[Efficient Learning of Mesh-Based Physical Simulation with BSMS-GNN](https://arxiv.org/abs/2210.02573v5)** | 2026-05-25 | <details><summary>Updat...</summary><p>Updates summary: fix the missing remark for yadi and menglei (* mention work partially done during while they are at snap inc.)</p></details> |
-| **[Dynamic Link Prediction with Temporally Enhanced Signed Graph Neural Networks](https://arxiv.org/abs/2605.26290v1)** | 2026-05-25 | 11 pages |
-| **[GraphIP-Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?](https://arxiv.org/abs/2605.12827v2)** | 2026-05-25 | Under review |
+| **[Catalyst-Agent: Autonomous heterogeneous catalyst screening with an LLM Agent](https://arxiv.org/abs/2603.01311v2)** | 2026-05-28 |  |
+| **[What drives performance in molecular MPNNs? An operator-level factorial benchmark](https://arxiv.org/abs/2605.30195v1)** | 2026-05-28 |  |
+| **[Size Transferability of Graph Transformers with Convolutional Positional Encodings](https://arxiv.org/abs/2602.15239v2)** | 2026-05-28 |  |
+| **[Rel-MOSS: Towards Imbalanced Relational Deep Learning on Relational Databases](https://arxiv.org/abs/2603.07916v2)** | 2026-05-28 |  |
+| **[From Short Histories to Long Futures: Horizon-Aware Graph Neural Networks for Long Horizon Forecasting](https://arxiv.org/abs/2605.29952v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted for International Conference on Pattern Recognition (ICPR) 2026</p></details> |
+| **[Self-supervised Adversarial Purification for Graph Neural Networks](https://arxiv.org/abs/2605.23239v2)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at ICML 2025. 21 pages. Code is available at: https://github.com/woodavid31/GPR-GAE</p></details> |
+| **[Understanding and Reducing Metadata-Driven Host Overheads in Sampling-Based GNN Training](https://arxiv.org/abs/2605.29346v1)** | 2026-05-28 |  |
+| **[Neural Posterior Estimation for Spatial Individual-Level Epidemic Models](https://arxiv.org/abs/2605.29180v1)** | 2026-05-27 |  |
+| **[Designing Active Tether-Net Systems for Space Debris Capture with Graph-Learning-Aided Mixed-Combinatorial Optimization](https://arxiv.org/abs/2605.29021v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted for presentation at 2026 AIAA Aviation Forum</p></details> |
+| **[Regression Language Models for Code](https://arxiv.org/abs/2509.26476v2)** | 2026-05-27 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML) 2026</p></details> |
 
