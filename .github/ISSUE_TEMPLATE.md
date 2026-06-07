@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 02, 2026
+title: Latest 10 Papers - June 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,20 +7,22 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning](https://arxiv.org/abs/2606.06397v1)** | 2026-06-04 |  |
+| **[HEIST: A Graph Foundation Model for Spatial Transcriptomics and Proteomics Data](https://arxiv.org/abs/2506.11152v4)** | 2026-06-04 |  |
+| **[Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://arxiv.org/abs/2606.03307v2)** | 2026-06-03 | Accepted by KDD2026 |
+| **[A Graph Foundation Model with Spectral Parsing and Prototype-Guided Spatial Propagation](https://arxiv.org/abs/2606.03315v1)** | 2026-06-02 |  |
+| **[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://arxiv.org/abs/2606.03290v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Are Common Substructures Transferable? Riemannian Graph Foundation Model with Neural Vector Bundles](https://arxiv.org/abs/2606.03270v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[GraphARC: A Comprehensive Benchmark for Graph-Based Abstract Reasoning](https://arxiv.org/abs/2605.31031v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 Datasets and Benchmarks Track</p></details> |
 | **[When Do Graph Foundation Models Transfer? A Data-Centric Theory](https://arxiv.org/abs/2605.29828v1)** | 2026-05-28 | <details><summary>21 pa...</summary><p>21 pages, including appendix. Accepted at ICML 2026</p></details> |
 | **[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](https://arxiv.org/abs/2605.14809v2)** | 2026-05-26 |  |
 | **[Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling](https://arxiv.org/abs/2605.27023v1)** | 2026-05-26 |  |
-| **[Deep Neural Sheaf Diffusion](https://arxiv.org/abs/2605.19021v2)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Graph Foundation Models (GFM@ICML 2026). Code available at https://github.com/remibourgerie/deep-neural-sheaf-diffusion</p></details> |
-| **[GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](https://arxiv.org/abs/2510.04567v2)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the GFM @ ICML 2026 Workshop</p></details> |
-| **[Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids](https://arxiv.org/abs/2605.23194v1)** | 2026-05-22 | <details><summary>10 pa...</summary><p>10 pages, 6 tables, 4 figures</p></details> |
-| **[Billion-Scale Graph Foundation Models](https://arxiv.org/abs/2602.04768v2)** | 2026-05-21 |  |
-| **[S2Aligner: Pair-Efficient and Transferable Pre-Training for Sparse Text-Attributed Graphs](https://arxiv.org/abs/2605.18579v3)** | 2026-05-20 | 19 pages |
-| **[Graph Hierarchical Recurrence for Long-Range Generalization](https://arxiv.org/abs/2605.18387v1)** | 2026-05-18 |  |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IA-RAG: Interval-Algebra-Driven Temporal Reasoning for Dynamic Knowledge Retrieval](https://arxiv.org/abs/2606.06044v1)** | 2026-06-04 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, 13 tables. Code available at https://github.com/xiaoAugenstern/LogicalRAG_TemporalQA</p></details> |
+| **[A2RAG: Adaptive Agentic Graph Retrieval for Cost-Aware and Reliable Reasoning](https://arxiv.org/abs/2601.21162v2)** | 2026-06-04 |  |
 | **[GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction](https://arxiv.org/abs/2605.28645v1)** | 2026-05-27 |  |
 | **[Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning](https://arxiv.org/abs/2509.26383v5)** | 2026-05-22 |  |
 | **[Graph-Augmented Retrieval for Cross-Entity Financial Sentiment Analysis: A Comparative Study](https://arxiv.org/abs/2606.00062v1)** | 2026-05-19 |  |
@@ -29,12 +31,11 @@ labels: documentation
 | **[TagRAG: Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.05254v3)** | 2026-05-02 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
 | **[Deterministic Legal Agents: A Canonical Primitive API for Auditable Reasoning over Temporal Knowledge Graphs](https://arxiv.org/abs/2510.06002v3)** | 2026-04-28 | <details><summary>Subst...</summary><p>Substantially revised version consolidating the paper as a formal SAT-Graph API specification: clarifies Probability Isolation and post-anchoring determinism, broadens semantic anchoring to open and thematic legal queries, refines the data models and temporal primitives, and strengthens the use cases, limitations, and bibliography</p></details> |
 | **[AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction](https://arxiv.org/abs/2510.15339v3)** | 2026-04-20 |  |
-| **[Knowledge Graph RAG: Agentic Crawling and Graph Construction in Enterprise Documents](https://arxiv.org/abs/2604.14220v1)** | 2026-04-14 | 15 pages, 4 figures |
-| **[Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory](https://arxiv.org/abs/2602.15313v2)** | 2026-04-10 | Accepted to ACL2026 |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A2RAG: Adaptive Agentic Graph Retrieval for Cost-Aware and Reliable Reasoning](https://arxiv.org/abs/2601.21162v2)** | 2026-06-04 |  |
 | **[MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.00610v1)** | 2026-05-30 | Accepted by KDD 2026 |
 | **[Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation](https://arxiv.org/abs/2605.28175v2)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 Research Track</p></details> |
 | **[LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning](https://arxiv.org/abs/2605.28120v1)** | 2026-05-27 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, ACL 2026 Main Conference. Project page: https://github.com/XMUDeepLIT/LegalGraphRAG</p></details> |
@@ -44,7 +45,6 @@ labels: documentation
 | **[PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents](https://arxiv.org/abs/2605.13481v1)** | 2026-05-13 |  |
 | **[Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety](https://arxiv.org/abs/2507.13625v2)** | 2026-05-11 | 22 pages, 13 figures |
 | **[TagRAG: Tag-guided Hierarchical Knowledge Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2601.05254v3)** | 2026-05-02 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
-| **[HyperGraphPro: Progress-Aware Reinforcement Learning for Structure-Guided Hypergraph RAG](https://arxiv.org/abs/2601.17755v2)** | 2026-04-12 | In progress |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
