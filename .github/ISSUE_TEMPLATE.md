@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 17, 2026
+title: Latest 10 Papers - June 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graphs Don't Stay Secret: Practical Subgraph Reconstruction Attacks on Defended Graph RAG](https://arxiv.org/abs/2602.06495v2)** | 2026-06-17 |  |
 | **[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.18075v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference 2026 (WWW '26)</p></details> |
 | **[Beyond Chunks and Graphs: Retrieval-Augmented Generation through Triplet-Driven Thinking](https://arxiv.org/abs/2508.02435v2)** | 2026-06-15 | ACL 2026 Findings |
 | **[LongRTL: Graph-Similarity-Guided LLM-driven Long Context RTL Optimization](https://arxiv.org/abs/2606.08944v1)** | 2026-06-08 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 5 tables, conference</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning](https://arxiv.org/abs/2509.26383v5)** | 2026-05-22 |  |
 | **[Graph-Augmented Retrieval for Cross-Entity Financial Sentiment Analysis: A Comparative Study](https://arxiv.org/abs/2606.00062v1)** | 2026-05-19 |  |
 | **[ContextRAG: Extraction-Free Hierarchical Graph Construction for Retrieval-Augmented Generation](https://arxiv.org/abs/2605.19735v1)** | 2026-05-19 | Preprint. 6 tables |
-| **[EpiGraph: Building Generalists for Evidence-Intensive Epilepsy Reasoning in the Wild](https://arxiv.org/abs/2605.09505v2)** | 2026-05-13 |  |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
