@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 21, 2026
+title: Latest 10 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Fair Evaluation of Graph Foundation Models for Node Property Prediction](https://arxiv.org/abs/2606.24509v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at The Workshop on Graph Foundation Models at ICML 2026</p></details> |
+| **[Turning Tabular Foundation Models into Graph Foundation Models](https://arxiv.org/abs/2508.20906v3)** | 2026-06-22 |  |
+| **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489v3)** | 2026-06-22 |  |
 | **[Half a Link can Be Enough to Predict a Whole Link: Understanding Generalization in Knowledge Graph Foundation Models](https://arxiv.org/abs/2606.18001v1)** | 2026-06-16 |  |
 | **[Handling Feature Heterogeneity with Learnable Graph Patches](https://arxiv.org/abs/2606.17667v1)** | 2026-06-16 | Accepted at KDD 2025 |
 | **[Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling](https://arxiv.org/abs/2605.27023v3)** | 2026-06-16 |  |
@@ -14,13 +17,11 @@ labels: documentation
 | **[Towards Graph Foundation Models for Dynamics in Complex Networked Systems: Lessons from Super-Spreader Identification in Multilayer Networks](https://arxiv.org/abs/2606.08306v1)** | 2026-06-06 |  |
 | **[The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning](https://arxiv.org/abs/2606.06397v2)** | 2026-06-05 | <details><summary>Comme...</summary><p>Comments: Suggestions and comments are welcomed</p></details> |
 | **[HEIST: A Graph Foundation Model for Spatial Transcriptomics and Proteomics Data](https://arxiv.org/abs/2506.11152v4)** | 2026-06-04 |  |
-| **[Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://arxiv.org/abs/2606.03307v2)** | 2026-06-03 | Accepted by KDD2026 |
-| **[A Graph Foundation Model with Spectral Parsing and Prototype-Guided Spatial Propagation](https://arxiv.org/abs/2606.03315v1)** | 2026-06-02 |  |
-| **[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://arxiv.org/abs/2606.03290v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Confidence Takes the Wrong Path: Diagnosing Retrieval-State Lock-In in RAG](https://arxiv.org/abs/2606.22728v1)** | 2026-06-22 |  |
 | **[Graphs Don't Stay Secret: Practical Subgraph Reconstruction Attacks on Defended Graph RAG](https://arxiv.org/abs/2602.06495v2)** | 2026-06-17 |  |
 | **[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.18075v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference 2026 (WWW '26)</p></details> |
 | **[Beyond Chunks and Graphs: Retrieval-Augmented Generation through Triplet-Driven Thinking](https://arxiv.org/abs/2508.02435v2)** | 2026-06-15 | ACL 2026 Findings |
@@ -30,7 +31,6 @@ labels: documentation
 | **[GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction](https://arxiv.org/abs/2605.28645v1)** | 2026-05-27 |  |
 | **[Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning](https://arxiv.org/abs/2509.26383v5)** | 2026-05-22 |  |
 | **[Graph-Augmented Retrieval for Cross-Entity Financial Sentiment Analysis: A Comparative Study](https://arxiv.org/abs/2606.00062v1)** | 2026-05-19 |  |
-| **[ContextRAG: Extraction-Free Hierarchical Graph Construction for Retrieval-Augmented Generation](https://arxiv.org/abs/2605.19735v1)** | 2026-05-19 | Preprint. 6 tables |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
@@ -55,8 +55,8 @@ labels: documentation
 | **[GRASP: Graph Agentic Search over Propositions for Multi-hop Question Answering](https://arxiv.org/abs/2605.16598v1)** | 2026-05-15 |  |
 | **[When LLM Agents Meet Graph Optimization: An Automated Data Quality Improvement Approach](https://arxiv.org/abs/2510.08952v4)** | 2026-05-05 | 36 pages, 11 figures |
 | **[MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents](https://arxiv.org/abs/2601.03236v2)** | 2026-04-16 | ACL 2026 Main |
-| **[Modeling Epistemic Uncertainty in Social Perception via Rashomon Set Agents](https://arxiv.org/abs/2603.20750v1)** | 2026-03-21 |  |
 | **[Temporal Knowledge-Graph Memory in a Partially Observable Environment](https://arxiv.org/abs/2408.05861v4)** | 2026-02-25 |  |
 | **[See or Say Graphs: Agent-Driven Scalable Graph Structure Understanding with Vision-Language Models](https://arxiv.org/abs/2510.16769v2)** | 2026-01-09 |  |
 | **[FaST: Efficient and Effective Long-Horizon Forecasting for Large-Scale Spatial-Temporal Graphs via Mixture-of-Experts](https://arxiv.org/abs/2601.05174v1)** | 2026-01-08 | Accepted to KDD 2026 |
+| **[EFX Allocations Exist on Triangle-Free Multi-Graphs](https://arxiv.org/abs/2512.21644v1)** | 2025-12-25 |  |
 
