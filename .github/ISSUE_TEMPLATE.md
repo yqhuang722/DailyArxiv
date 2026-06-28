@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 24, 2026
+title: Latest 10 Papers - June 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation](https://arxiv.org/abs/2606.26458v1)** | 2026-06-24 | Accepted by KDD'26 |
 | **[When Confidence Takes the Wrong Path: Diagnosing Retrieval-State Lock-In in RAG](https://arxiv.org/abs/2606.22728v1)** | 2026-06-22 |  |
 | **[Graphs Don't Stay Secret: Practical Subgraph Reconstruction Attacks on Defended Graph RAG](https://arxiv.org/abs/2602.06495v2)** | 2026-06-17 |  |
 | **[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.18075v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference 2026 (WWW '26)</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[A2RAG: Adaptive Agentic Graph Retrieval for Cost-Aware and Reliable Reasoning](https://arxiv.org/abs/2601.21162v2)** | 2026-06-04 |  |
 | **[GraphSteal: Structural Knowledge Stealing from Graph RAG via Traversal Reconstruction](https://arxiv.org/abs/2605.28645v1)** | 2026-05-27 |  |
 | **[Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning](https://arxiv.org/abs/2509.26383v5)** | 2026-05-22 |  |
-| **[Graph-Augmented Retrieval for Cross-Entity Financial Sentiment Analysis: A Comparative Study](https://arxiv.org/abs/2606.00062v1)** | 2026-05-19 |  |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
@@ -49,6 +49,7 @@ labels: documentation
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization](https://arxiv.org/abs/2606.25656v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 GEM Workshop</p></details> |
 | **[MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic Multimodal RAG in Long-Document QA](https://arxiv.org/abs/2606.15906v1)** | 2026-06-14 |  |
 | **[Agents-K1: Towards Agent-native Knowledge Orchestration](https://arxiv.org/abs/2606.13669v1)** | 2026-06-11 |  |
 | **[ForestHG-Trace: Traceable Long-Horizon Ecological Reasoning over Large-Scale Forest Scenes](https://arxiv.org/abs/2605.27590v2)** | 2026-06-01 | <details><summary>It ha...</summary><p>It has theoretical flaws and experimental errors</p></details> |
@@ -58,5 +59,4 @@ labels: documentation
 | **[Temporal Knowledge-Graph Memory in a Partially Observable Environment](https://arxiv.org/abs/2408.05861v4)** | 2026-02-25 |  |
 | **[See or Say Graphs: Agent-Driven Scalable Graph Structure Understanding with Vision-Language Models](https://arxiv.org/abs/2510.16769v2)** | 2026-01-09 |  |
 | **[FaST: Efficient and Effective Long-Horizon Forecasting for Large-Scale Spatial-Temporal Graphs via Mixture-of-Experts](https://arxiv.org/abs/2601.05174v1)** | 2026-01-08 | Accepted to KDD 2026 |
-| **[EFX Allocations Exist on Triangle-Free Multi-Graphs](https://arxiv.org/abs/2512.21644v1)** | 2025-12-25 |  |
 
