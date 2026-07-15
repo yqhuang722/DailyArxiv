@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 12, 2026
+title: Latest 10 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Surprisingly Simple and Effective Multi-Domain Graph Foundation Model through Graph-to-Table Alignment](https://arxiv.org/abs/2607.11374v1)** | 2026-07-13 |  |
+| **[Graph Optimization Foundation Model: Tokenizing Graph via A Language-Model Paradigm](https://arxiv.org/abs/2509.24256v2)** | 2026-07-13 |  |
+| **[GRATE: Temporal Extensions for Inductive KG Foundation Models via Gated Rotary Attention](https://arxiv.org/abs/2607.10197v1)** | 2026-07-11 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Graph Foundation Models: A New Era for Graph Machine Learning. 17 pages, 4 figures</p></details> |
 | **[Canopy: A Heterograph Foundation Model for Metabolic Engineering](https://arxiv.org/abs/2607.06224v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICML GenBio Workshop 2026 https://openreview.net/forum?id=H8bvgKoT7j</p></details> |
 | **[FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning](https://arxiv.org/abs/2606.32016v1)** | 2026-06-30 |  |
 | **[DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks](https://arxiv.org/abs/2602.03981v2)** | 2026-06-30 |  |
@@ -14,13 +17,11 @@ labels: documentation
 | **[Turning Tabular Foundation Models into Graph Foundation Models](https://arxiv.org/abs/2508.20906v3)** | 2026-06-22 |  |
 | **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489v3)** | 2026-06-22 |  |
 | **[Half a Link can Be Enough to Predict a Whole Link: Understanding Generalization in Knowledge Graph Foundation Models](https://arxiv.org/abs/2606.18001v1)** | 2026-06-16 |  |
-| **[Handling Feature Heterogeneity with Learnable Graph Patches](https://arxiv.org/abs/2606.17667v1)** | 2026-06-16 | Accepted at KDD 2025 |
-| **[Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling](https://arxiv.org/abs/2605.27023v3)** | 2026-06-16 |  |
-| **[GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](https://arxiv.org/abs/2510.04567v3)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the GFM @ ICML 2026 Workshop</p></details> |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TGMS: An Agent-Native Bi-Temporal Graph Management System](https://arxiv.org/abs/2607.10265v1)** | 2026-07-11 |  |
 | **[TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation](https://arxiv.org/abs/2607.03447v1)** | 2026-07-03 |  |
 | **[Query-Aware Spreading Activation for Multi-Hop Retrieval over Knowledge Graphs](https://arxiv.org/abs/2606.30133v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted for publication in Cybernetics and Systems Analysis (Springer). Not yet published</p></details> |
 | **[Multimodal Graph RAG for Long-range Visually Rich Document Understanding](https://arxiv.org/abs/2606.28780v1)** | 2026-06-27 |  |
@@ -30,11 +31,11 @@ labels: documentation
 | **[Graphs Don't Stay Secret: Practical Subgraph Reconstruction Attacks on Defended Graph RAG](https://arxiv.org/abs/2602.06495v2)** | 2026-06-17 |  |
 | **[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.18075v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference 2026 (WWW '26)</p></details> |
 | **[Beyond Chunks and Graphs: Retrieval-Augmented Generation through Triplet-Driven Thinking](https://arxiv.org/abs/2508.02435v2)** | 2026-06-15 | ACL 2026 Findings |
-| **[LongRTL: Graph-Similarity-Guided LLM-driven Long Context RTL Optimization](https://arxiv.org/abs/2606.08944v1)** | 2026-06-08 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 5 tables, conference</p></details> |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM](https://arxiv.org/abs/2607.11683v1)** | 2026-07-13 |  |
 | **[AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2607.00052v1)** | 2026-06-30 |  |
 | **[From Detection to Action: Using LLM Agents for Fault-Tolerant Control](https://arxiv.org/abs/2606.28011v1)** | 2026-06-26 |  |
 | **[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.18075v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference 2026 (WWW '26)</p></details> |
@@ -44,7 +45,6 @@ labels: documentation
 | **[A2RAG: Adaptive Agentic Graph Retrieval for Cost-Aware and Reliable Reasoning](https://arxiv.org/abs/2601.21162v2)** | 2026-06-04 |  |
 | **[MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.00610v1)** | 2026-05-30 | Accepted by KDD 2026 |
 | **[Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation](https://arxiv.org/abs/2605.28175v2)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 Research Track</p></details> |
-| **[LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning](https://arxiv.org/abs/2605.28120v1)** | 2026-05-27 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, ACL 2026 Main Conference. Project page: https://github.com/XMUDeepLIT/LegalGraphRAG</p></details> |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
