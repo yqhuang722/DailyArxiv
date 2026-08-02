@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 29, 2026
+title: Latest 10 Papers - August 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](https://arxiv.org/abs/2607.27966v1)** | 2026-07-30 |  |
+| **[AgentGFM: A Graph Foundation Model with Node-Agent Information-Flow Control](https://arxiv.org/abs/2607.26533v1)** | 2026-07-29 | 13 pages, 5 figures |
 | **[CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](https://arxiv.org/abs/2607.26023v1)** | 2026-07-28 |  |
 | **[Attacking Graph Foundation Models Through Their Shared Representation](https://arxiv.org/abs/2607.18567v1)** | 2026-07-20 |  |
 | **[A Weisfeiler-Leman Characterization of Global-Attention Graph Transformers for Mixed-Integer Linear Programs](https://arxiv.org/abs/2607.17570v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted to Topology, Algebra, and Geometry in Data Science (TAG-DS) 2026 (20 pages, 10 figures) [Lightning Oral Presentation]</p></details> |
@@ -15,8 +17,6 @@ labels: documentation
 | **[Surprisingly Simple and Effective Multi-Domain Graph Foundation Model through Graph-to-Table Alignment](https://arxiv.org/abs/2607.11374v1)** | 2026-07-13 |  |
 | **[Graph Optimization Foundation Model: Tokenizing Graph via A Language-Model Paradigm](https://arxiv.org/abs/2509.24256v2)** | 2026-07-13 |  |
 | **[GRATE: Temporal Extensions for Inductive KG Foundation Models via Gated Rotary Attention](https://arxiv.org/abs/2607.10197v1)** | 2026-07-11 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Graph Foundation Models: A New Era for Graph Machine Learning. 17 pages, 4 figures</p></details> |
-| **[Canopy: A Heterograph Foundation Model for Metabolic Engineering](https://arxiv.org/abs/2607.06224v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICML GenBio Workshop 2026 https://openreview.net/forum?id=H8bvgKoT7j</p></details> |
-| **[FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning](https://arxiv.org/abs/2606.32016v1)** | 2026-06-30 |  |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
@@ -49,7 +49,7 @@ labels: documentation
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agent-UCT: Upper Confidence Bounds Applied to Trees for Agentic Workflow Optimization with Cost-Awareness](https://arxiv.org/abs/2607.24162v1)** | 2026-07-27 |  |
+| **[Agent-UCT: Upper Confidence Bounds Applied to Trees for Agentic Workflow Optimization with Cost-Awareness](https://arxiv.org/abs/2607.24162v2)** | 2026-07-28 |  |
 | **[Node-as-Agent: Graph Agentic Network](https://arxiv.org/abs/2508.00429v5)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, work in progress</p></details> |
 | **[Agents-K1: Towards Agent-native Knowledge Orchestration](https://arxiv.org/abs/2606.13669v3)** | 2026-07-17 |  |
 | **[Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction](https://arxiv.org/abs/2607.05577v1)** | 2026-07-06 | <details><summary>23 pa...</summary><p>23 pages, 4 figures; 9-page main text plus appendix. Preprint</p></details> |
