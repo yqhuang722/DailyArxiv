@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 02, 2026
+title: Latest 10 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v2)** | 2026-08-01 | Under Review |
+| **[Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models](https://arxiv.org/abs/2607.28980v1)** | 2026-07-31 |  |
 | **[What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](https://arxiv.org/abs/2607.27966v1)** | 2026-07-30 |  |
 | **[AgentGFM: A Graph Foundation Model with Node-Agent Information-Flow Control](https://arxiv.org/abs/2607.26533v1)** | 2026-07-29 | 13 pages, 5 figures |
 | **[CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](https://arxiv.org/abs/2607.26023v1)** | 2026-07-28 |  |
@@ -15,12 +17,12 @@ labels: documentation
 | **[Node4All: Learning Node Representation Beyond Datasets](https://arxiv.org/abs/2607.17272v1)** | 2026-07-19 | Accepted to KDD 2026 |
 | **[Toward Federated Multimodal Graph Foundation Models: A Topology-Aware Multimodal Alignment Framework](https://arxiv.org/abs/2607.15687v1)** | 2026-07-17 | Under Review |
 | **[Surprisingly Simple and Effective Multi-Domain Graph Foundation Model through Graph-to-Table Alignment](https://arxiv.org/abs/2607.11374v1)** | 2026-07-13 |  |
-| **[Graph Optimization Foundation Model: Tokenizing Graph via A Language-Model Paradigm](https://arxiv.org/abs/2509.24256v2)** | 2026-07-13 |  |
-| **[GRATE: Temporal Extensions for Inductive KG Foundation Models via Gated Rotary Attention](https://arxiv.org/abs/2607.10197v1)** | 2026-07-11 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Graph Foundation Models: A New Era for Graph Machine Learning. 17 pages, 4 figures</p></details> |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking](https://arxiv.org/abs/2608.01732v1)** | 2026-08-03 |  |
+| **[DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering](https://arxiv.org/abs/2608.01565v1)** | 2026-08-03 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 16 tables</p></details> |
 | **[DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding](https://arxiv.org/abs/2607.24554v1)** | 2026-07-27 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 8 tables</p></details> |
 | **[Superpixel-Based QUBO for Scalable Quantum-Enhanced Medical Image Segmentation](https://arxiv.org/abs/2607.24288v1)** | 2026-07-27 | 7 pages, 2 figures |
 | **[TGMS: An Agent-Native Bi-Temporal Graph Management System](https://arxiv.org/abs/2607.10265v2)** | 2026-07-24 |  |
@@ -29,12 +31,11 @@ labels: documentation
 | **[TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation](https://arxiv.org/abs/2607.03447v1)** | 2026-07-03 |  |
 | **[Query-Aware Spreading Activation for Multi-Hop Retrieval over Knowledge Graphs](https://arxiv.org/abs/2606.30133v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted for publication in Cybernetics and Systems Analysis (Springer). Not yet published</p></details> |
 | **[Multimodal Graph RAG for Long-range Visually Rich Document Understanding](https://arxiv.org/abs/2606.28780v1)** | 2026-06-27 |  |
-| **[From Detection to Action: Using LLM Agents for Fault-Tolerant Control](https://arxiv.org/abs/2606.28011v1)** | 2026-06-26 |  |
-| **[MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation](https://arxiv.org/abs/2606.26458v1)** | 2026-06-24 | Accepted by KDD'26 |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG](https://arxiv.org/abs/2608.01269v2)** | 2026-08-04 | <details><summary>Withd...</summary><p>Withdrawn because the manuscript was posted prematurely before completion of the required internal review and release authorization</p></details> |
 | **[HVM-GraphRAG: Holistic-View Multimodal Graph Retrieval-Augmented Generation on Complex Document](https://arxiv.org/abs/2607.24861v1)** | 2026-07-26 |  |
 | **[Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770v2)** | 2026-07-24 |  |
 | **[What Softmax Throws Away: Mass-Aware Attention for Evidence Accumulation](https://arxiv.org/abs/2607.22781v1)** | 2026-07-24 |  |
@@ -44,7 +45,6 @@ labels: documentation
 | **[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.18075v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference 2026 (WWW '26)</p></details> |
 | **[PathRouter: Aligning Rewards with Retrieval Quality in Agentic Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.16409v1)** | 2026-06-15 |  |
 | **[Beyond Chunks and Graphs: Retrieval-Augmented Generation through Triplet-Driven Thinking](https://arxiv.org/abs/2508.02435v2)** | 2026-06-15 | ACL 2026 Findings |
-| **[VArify: A Visual Analytics System for Verifying Knowledge Enhanced Large Language Model Responses in Food Science](https://arxiv.org/abs/2606.10177v1)** | 2026-06-08 |  |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
