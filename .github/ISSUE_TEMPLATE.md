@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 05, 2026
+title: Latest 10 Papers - August 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
