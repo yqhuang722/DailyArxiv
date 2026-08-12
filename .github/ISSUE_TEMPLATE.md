@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 09, 2026
+title: Latest 10 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,20 +7,22 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes](https://arxiv.org/abs/2608.10699v1)** | 2026-08-11 |  |
+| **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v1)** | 2026-08-09 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
 | **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v2)** | 2026-08-01 | Under Review |
+| **[Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning](https://arxiv.org/abs/2608.06394v1)** | 2026-07-31 |  |
 | **[Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models](https://arxiv.org/abs/2607.28980v1)** | 2026-07-31 |  |
 | **[What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](https://arxiv.org/abs/2607.27966v1)** | 2026-07-30 |  |
 | **[AgentGFM: A Graph Foundation Model with Node-Agent Information-Flow Control](https://arxiv.org/abs/2607.26533v1)** | 2026-07-29 | 13 pages, 5 figures |
 | **[CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](https://arxiv.org/abs/2607.26023v1)** | 2026-07-28 |  |
 | **[Attacking Graph Foundation Models Through Their Shared Representation](https://arxiv.org/abs/2607.18567v1)** | 2026-07-20 |  |
 | **[A Weisfeiler-Leman Characterization of Global-Attention Graph Transformers for Mixed-Integer Linear Programs](https://arxiv.org/abs/2607.17570v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted to Topology, Algebra, and Geometry in Data Science (TAG-DS) 2026 (20 pages, 10 figures) [Lightning Oral Presentation]</p></details> |
-| **[Node4All: Learning Node Representation Beyond Datasets](https://arxiv.org/abs/2607.17272v1)** | 2026-07-19 | Accepted to KDD 2026 |
-| **[Toward Federated Multimodal Graph Foundation Models: A Topology-Aware Multimodal Alignment Framework](https://arxiv.org/abs/2607.15687v1)** | 2026-07-17 | Under Review |
-| **[Surprisingly Simple and Effective Multi-Domain Graph Foundation Model through Graph-to-Table Alignment](https://arxiv.org/abs/2607.11374v1)** | 2026-07-13 |  |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraFine: Retrieval-Time Refinement for Efficient Graph RAG over Corpus Graphs](https://arxiv.org/abs/2601.18579v2)** | 2026-08-11 | CIKM 2026 |
+| **[AkasicDB: Demonstrating Omni RAG with a Unified Vector-Graph-Relational DBMS](https://arxiv.org/abs/2608.09214v1)** | 2026-08-10 | <details><summary>SIGMO...</summary><p>SIGMOD 2026 demonstration</p></details> |
 | **[X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking](https://arxiv.org/abs/2608.01732v1)** | 2026-08-03 |  |
 | **[DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering](https://arxiv.org/abs/2608.01565v1)** | 2026-08-03 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 16 tables</p></details> |
 | **[DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding](https://arxiv.org/abs/2607.24554v1)** | 2026-07-27 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 8 tables</p></details> |
@@ -29,8 +31,6 @@ labels: documentation
 | **[Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching](https://arxiv.org/abs/2607.15516v1)** | 2026-07-17 | 28 |
 | **[HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions](https://arxiv.org/abs/2607.19398v1)** | 2026-07-04 | 8 pages |
 | **[TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation](https://arxiv.org/abs/2607.03447v1)** | 2026-07-03 |  |
-| **[Query-Aware Spreading Activation for Multi-Hop Retrieval over Knowledge Graphs](https://arxiv.org/abs/2606.30133v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted for publication in Cybernetics and Systems Analysis (Springer). Not yet published</p></details> |
-| **[Multimodal Graph RAG for Long-range Visually Rich Document Understanding](https://arxiv.org/abs/2606.28780v1)** | 2026-06-27 |  |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
