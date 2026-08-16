@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 12, 2026
+title: Latest 10 Papers - August 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v2)** | 2026-08-13 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
 | **[ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes](https://arxiv.org/abs/2608.10699v1)** | 2026-08-11 |  |
-| **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v1)** | 2026-08-09 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
 | **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v2)** | 2026-08-01 | Under Review |
 | **[Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning](https://arxiv.org/abs/2608.06394v1)** | 2026-07-31 |  |
 | **[Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models](https://arxiv.org/abs/2607.28980v1)** | 2026-07-31 |  |
@@ -49,6 +49,7 @@ labels: documentation
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable Multi-Agent Maze Traversal with Local Communication](https://arxiv.org/abs/2608.11895v1)** | 2026-08-12 | <details><summary>This ...</summary><p>This manuscript has been accepted for publication in the proceedings of the World Symposium on the Algorithmic Foundations of Robotics (WAFR 2026), to be published by Springer in the Springer Proceedings in Advanced Robotics (SPAR) series</p></details> |
 | **[Agent-UCT: Upper Confidence Bounds Applied to Trees for Agentic Workflow Optimization with Cost-Awareness](https://arxiv.org/abs/2607.24162v2)** | 2026-07-28 |  |
 | **[Node-as-Agent: Graph Agentic Network](https://arxiv.org/abs/2508.00429v5)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, work in progress</p></details> |
 | **[Agents-K1: Towards Agent-native Knowledge Orchestration](https://arxiv.org/abs/2606.13669v3)** | 2026-07-17 |  |
@@ -58,5 +59,4 @@ labels: documentation
 | **[Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization](https://arxiv.org/abs/2606.25656v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 GEM Workshop</p></details> |
 | **[MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic Multimodal RAG in Long-Document QA](https://arxiv.org/abs/2606.15906v1)** | 2026-06-14 |  |
 | **[ForestHG-Trace: Traceable Long-Horizon Ecological Reasoning over Large-Scale Forest Scenes](https://arxiv.org/abs/2605.27590v2)** | 2026-06-01 | <details><summary>It ha...</summary><p>It has theoretical flaws and experimental errors</p></details> |
-| **[GRASP: Graph Agentic Search over Propositions for Multi-hop Question Answering](https://arxiv.org/abs/2605.16598v1)** | 2026-05-15 |  |
 
