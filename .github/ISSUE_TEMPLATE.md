@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 16, 2026
+title: Latest 10 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,16 +21,16 @@ labels: documentation
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA](https://arxiv.org/abs/2608.13706v2)** | 2026-08-18 |  |
+| **[Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery](https://arxiv.org/abs/2608.15919v1)** | 2026-08-16 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 4 tables. Patent pending</p></details> |
+| **[GraphLoom: Reliability-Calibrated Graph Evidence Routing for Multimodal KG-RAG](https://arxiv.org/abs/2608.15056v1)** | 2026-08-15 |  |
+| **[LlamaRec-LKG-RAG: A Single-Pass, Learnable Knowledge Graph-RAG Framework for LLM-Based Ranking](https://arxiv.org/abs/2506.07449v2)** | 2026-08-14 |  |
 | **[GraFine: Retrieval-Time Refinement for Efficient Graph RAG over Corpus Graphs](https://arxiv.org/abs/2601.18579v2)** | 2026-08-11 | CIKM 2026 |
 | **[AkasicDB: Demonstrating Omni RAG with a Unified Vector-Graph-Relational DBMS](https://arxiv.org/abs/2608.09214v1)** | 2026-08-10 | <details><summary>SIGMO...</summary><p>SIGMOD 2026 demonstration</p></details> |
 | **[X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking](https://arxiv.org/abs/2608.01732v1)** | 2026-08-03 |  |
 | **[DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering](https://arxiv.org/abs/2608.01565v1)** | 2026-08-03 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 16 tables</p></details> |
 | **[DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding](https://arxiv.org/abs/2607.24554v1)** | 2026-07-27 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 8 tables</p></details> |
 | **[Superpixel-Based QUBO for Scalable Quantum-Enhanced Medical Image Segmentation](https://arxiv.org/abs/2607.24288v1)** | 2026-07-27 | 7 pages, 2 figures |
-| **[TGMS: An Agent-Native Bi-Temporal Graph Management System](https://arxiv.org/abs/2607.10265v2)** | 2026-07-24 |  |
-| **[Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching](https://arxiv.org/abs/2607.15516v1)** | 2026-07-17 | 28 |
-| **[HyGRL: Adaptive Hybrid Graph Reasoning for Multi-Entity Questions](https://arxiv.org/abs/2607.19398v1)** | 2026-07-04 | 8 pages |
-| **[TRIAGE: Trustworthy Retrieval Instrumentation And Graph Evaluation](https://arxiv.org/abs/2607.03447v1)** | 2026-07-03 |  |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
@@ -49,6 +49,7 @@ labels: documentation
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ORCA: Observability-Grounded Program Repair for Microservice Incidents](https://arxiv.org/abs/2608.17018v1)** | 2026-08-17 |  |
 | **[Scalable Multi-Agent Maze Traversal with Local Communication](https://arxiv.org/abs/2608.11895v1)** | 2026-08-12 | <details><summary>This ...</summary><p>This manuscript has been accepted for publication in the proceedings of the World Symposium on the Algorithmic Foundations of Robotics (WAFR 2026), to be published by Springer in the Springer Proceedings in Advanced Robotics (SPAR) series</p></details> |
 | **[Agent-UCT: Upper Confidence Bounds Applied to Trees for Agentic Workflow Optimization with Cost-Awareness](https://arxiv.org/abs/2607.24162v2)** | 2026-07-28 |  |
 | **[Node-as-Agent: Graph Agentic Network](https://arxiv.org/abs/2508.00429v5)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, work in progress</p></details> |
@@ -58,5 +59,4 @@ labels: documentation
 | **[Experience Graphs: The Data Foundation for Self-Improving Agents](https://arxiv.org/abs/2606.29823v1)** | 2026-06-29 |  |
 | **[Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization](https://arxiv.org/abs/2606.25656v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 GEM Workshop</p></details> |
 | **[MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic Multimodal RAG in Long-Document QA](https://arxiv.org/abs/2606.15906v1)** | 2026-06-14 |  |
-| **[ForestHG-Trace: Traceable Long-Horizon Ecological Reasoning over Large-Scale Forest Scenes](https://arxiv.org/abs/2605.27590v2)** | 2026-06-01 | <details><summary>It ha...</summary><p>It has theoretical flaws and experimental errors</p></details> |
 
