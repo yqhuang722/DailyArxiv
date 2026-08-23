@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 19, 2026
+title: Latest 10 Papers - August 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489v4)** | 2026-08-20 |  |
 | **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v2)** | 2026-08-13 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
 | **[ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes](https://arxiv.org/abs/2608.10699v1)** | 2026-08-11 |  |
 | **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v2)** | 2026-08-01 | Under Review |
@@ -16,7 +17,6 @@ labels: documentation
 | **[AgentGFM: A Graph Foundation Model with Node-Agent Information-Flow Control](https://arxiv.org/abs/2607.26533v1)** | 2026-07-29 | 13 pages, 5 figures |
 | **[CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](https://arxiv.org/abs/2607.26023v1)** | 2026-07-28 |  |
 | **[Attacking Graph Foundation Models Through Their Shared Representation](https://arxiv.org/abs/2607.18567v1)** | 2026-07-20 |  |
-| **[A Weisfeiler-Leman Characterization of Global-Attention Graph Transformers for Mixed-Integer Linear Programs](https://arxiv.org/abs/2607.17570v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted to Topology, Algebra, and Geometry in Data Science (TAG-DS) 2026 (20 pages, 10 figures) [Lightning Oral Presentation]</p></details> |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
