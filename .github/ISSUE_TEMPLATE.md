@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 23, 2026
+title: Latest 10 Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReCoG: Reciprocal Co-Evolution for Multimodal Graph Learning](https://arxiv.org/abs/2608.22786v1)** | 2026-08-24 |  |
+| **[Trojaning the Alignment: Stealthy Backdoor Attacks against Graph Foundation Models](https://arxiv.org/abs/2608.20991v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
 | **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489v4)** | 2026-08-20 |  |
 | **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v2)** | 2026-08-13 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
 | **[ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes](https://arxiv.org/abs/2608.10699v1)** | 2026-08-11 |  |
@@ -15,8 +17,6 @@ labels: documentation
 | **[Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models](https://arxiv.org/abs/2607.28980v1)** | 2026-07-31 |  |
 | **[What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](https://arxiv.org/abs/2607.27966v1)** | 2026-07-30 |  |
 | **[AgentGFM: A Graph Foundation Model with Node-Agent Information-Flow Control](https://arxiv.org/abs/2607.26533v1)** | 2026-07-29 | 13 pages, 5 figures |
-| **[CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](https://arxiv.org/abs/2607.26023v1)** | 2026-07-28 |  |
-| **[Attacking Graph Foundation Models Through Their Shared Representation](https://arxiv.org/abs/2607.18567v1)** | 2026-07-20 |  |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
