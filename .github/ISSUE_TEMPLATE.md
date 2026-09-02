@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 31, 2026
+title: Latest 10 Papers - September 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking the Reasoning Horizon in Entity Alignment Foundation Models](https://arxiv.org/abs/2601.21174v3)** | 2026-09-01 |  |
 | **[Trojaning the Alignment: Stealthy Backdoor Attacks against Graph Foundation Models](https://arxiv.org/abs/2608.20991v2)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
 | **[ReCoG: Reciprocal Co-Evolution for Multimodal Graph Learning](https://arxiv.org/abs/2608.22786v1)** | 2026-08-24 |  |
 | **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489v4)** | 2026-08-20 |  |
@@ -16,21 +17,20 @@ labels: documentation
 | **[Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning](https://arxiv.org/abs/2608.06394v1)** | 2026-07-31 |  |
 | **[Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models](https://arxiv.org/abs/2607.28980v1)** | 2026-07-31 |  |
 | **[What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](https://arxiv.org/abs/2607.27966v1)** | 2026-07-30 |  |
-| **[AgentGFM: A Graph Foundation Model with Node-Agent Information-Flow Control](https://arxiv.org/abs/2607.26533v1)** | 2026-07-29 | 13 pages, 5 figures |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering](https://arxiv.org/abs/2609.00761v1)** | 2026-09-01 | <details><summary>Proce...</summary><p>Proceedings of the ACM Web Conference 2026</p></details> |
+| **[post-graph-rag: A PostgreSQL-Native Bi-Temporal Graph RAG Engine with Temporal Grounding at Synthesis](https://arxiv.org/abs/2608.24921v2)** | 2026-08-31 | <details><summary>31 pa...</summary><p>31 pages, 6 figures, 15 tables</p></details> |
+| **[Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation](https://arxiv.org/abs/2608.25952v2)** | 2026-08-29 | <details><summary>31 pa...</summary><p>31 pages, 4 figures, prototype framework</p></details> |
 | **[Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs](https://arxiv.org/abs/2608.25986v1)** | 2026-08-26 | Preprint |
 | **[LivingRAG: Augmenting Graph RAG with Experience](https://arxiv.org/abs/2608.25960v1)** | 2026-08-26 |  |
-| **[Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation](https://arxiv.org/abs/2608.25952v1)** | 2026-08-26 | <details><summary>31 pa...</summary><p>31 pages, 4 figures, prototype framework</p></details> |
 | **[CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA](https://arxiv.org/abs/2608.13706v2)** | 2026-08-18 |  |
 | **[Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery](https://arxiv.org/abs/2608.15919v1)** | 2026-08-16 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 4 tables. Patent pending</p></details> |
 | **[GraphLoom: Reliability-Calibrated Graph Evidence Routing for Multimodal KG-RAG](https://arxiv.org/abs/2608.15056v1)** | 2026-08-15 |  |
 | **[LlamaRec-LKG-RAG: A Single-Pass, Learnable Knowledge Graph-RAG Framework for LLM-Based Ranking](https://arxiv.org/abs/2506.07449v2)** | 2026-08-14 |  |
-| **[post-graph-rag: A PostgreSQL-Native Graph RAG Engine](https://arxiv.org/abs/2608.24921v1)** | 2026-08-14 | 22 pages, 6 figures |
 | **[GraFine: Retrieval-Time Refinement for Efficient Graph RAG over Corpus Graphs](https://arxiv.org/abs/2601.18579v2)** | 2026-08-11 | CIKM 2026 |
-| **[AkasicDB: Demonstrating Omni RAG with a Unified Vector-Graph-Relational DBMS](https://arxiv.org/abs/2608.09214v1)** | 2026-08-10 | <details><summary>SIGMO...</summary><p>SIGMOD 2026 demonstration</p></details> |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
