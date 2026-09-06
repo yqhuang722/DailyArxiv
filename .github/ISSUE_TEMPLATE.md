@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - September 03, 2026
+title: Latest 10 Papers - September 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](https://arxiv.org/abs/2503.03313v4)** | 2026-09-02 | EMNLP 2026 |
 | **[Breaking the Reasoning Horizon in Entity Alignment Foundation Models](https://arxiv.org/abs/2601.21174v3)** | 2026-09-01 |  |
 | **[Trojaning the Alignment: Stealthy Backdoor Attacks against Graph Foundation Models](https://arxiv.org/abs/2608.20991v2)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
 | **[ReCoG: Reciprocal Co-Evolution for Multimodal Graph Learning](https://arxiv.org/abs/2608.22786v1)** | 2026-08-24 |  |
@@ -16,7 +17,6 @@ labels: documentation
 | **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v2)** | 2026-08-01 | Under Review |
 | **[Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning](https://arxiv.org/abs/2608.06394v1)** | 2026-07-31 |  |
 | **[Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models](https://arxiv.org/abs/2607.28980v1)** | 2026-07-31 |  |
-| **[What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](https://arxiv.org/abs/2607.27966v1)** | 2026-07-30 |  |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
@@ -35,7 +35,8 @@ labels: documentation
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Storage-Retrieval Gap in Parametric Knowledge Graph Memory](https://arxiv.org/abs/2608.25489v1)** | 2026-08-26 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 7 tables, accepted at SKGi 2026</p></details> |
+| **[GRASP: Graph-Retrieval Automated Scoring Pipeline for Label-Free Multi-Topic Essay Grading](https://arxiv.org/abs/2609.03857v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted at ICONIP 2026</p></details> |
+| **[A Storage-Retrieval Gap in Parametric Knowledge Graph Memory](https://arxiv.org/abs/2608.25489v2)** | 2026-09-02 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 7 tables, accepted at SKGi 2026; v2: editorial corrections only</p></details> |
 | **[ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG](https://arxiv.org/abs/2608.01269v2)** | 2026-08-04 | <details><summary>Withd...</summary><p>Withdrawn because the manuscript was posted prematurely before completion of the required internal review and release authorization</p></details> |
 | **[HVM-GraphRAG: Holistic-View Multimodal Graph Retrieval-Augmented Generation on Complex Document](https://arxiv.org/abs/2607.24861v1)** | 2026-07-26 |  |
 | **[Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770v2)** | 2026-07-24 |  |
@@ -44,7 +45,6 @@ labels: documentation
 | **[AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2607.00052v1)** | 2026-06-30 |  |
 | **[From Detection to Action: Using LLM Agents for Fault-Tolerant Control](https://arxiv.org/abs/2606.28011v1)** | 2026-06-26 |  |
 | **[A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.18075v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference 2026 (WWW '26)</p></details> |
-| **[PathRouter: Aligning Rewards with Retrieval Quality in Agentic Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2606.16409v1)** | 2026-06-15 |  |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
