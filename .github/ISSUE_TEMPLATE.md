@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - September 24, 2026
+title: Latest 10 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ICE: Task-Aligned Clifford Latent Fields for Multimodal Graph Foundation Models](https://arxiv.org/abs/2609.29398v1)** | 2026-09-24 |  |
 | **[SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory](https://arxiv.org/abs/2605.12061v2)** | 2026-09-22 |  |
 | **[LADDER: Graph-Guided Diffusion Language Models for Efficient Multi-Hop Reasoning](https://arxiv.org/abs/2609.24346v1)** | 2026-09-21 |  |
 | **[SCGFM-ART: Amortized Relational Transport for Structure-Centric Graph Foundation Models](https://arxiv.org/abs/2609.20419v1)** | 2026-09-17 | 21 pages, 6 figures |
@@ -16,7 +17,6 @@ labels: documentation
 | **[A Graph Foundation Model for Large-Scale MIMO Detection](https://arxiv.org/abs/2609.06361v1)** | 2026-09-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Graph Foundation Models for Recommendation: A Comprehensive Survey](https://arxiv.org/abs/2502.08346v4)** | 2026-09-04 |  |
 | **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](https://arxiv.org/abs/2503.03313v4)** | 2026-09-02 | EMNLP 2026 |
-| **[Breaking the Reasoning Horizon in Entity Alignment Foundation Models](https://arxiv.org/abs/2601.21174v3)** | 2026-09-01 |  |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
@@ -29,12 +29,13 @@ labels: documentation
 | **[CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA](https://arxiv.org/abs/2608.13706v3)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted at FinNLP 2026 @ EMNLP 2026</p></details> |
 | **[post-graph-rag: A PostgreSQL-Native Bi-Temporal Graph RAG Engine with Temporal Grounding at Synthesis](https://arxiv.org/abs/2608.24921v3)** | 2026-09-05 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 15 tables</p></details> |
 | **[Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering](https://arxiv.org/abs/2609.00761v1)** | 2026-09-01 | <details><summary>Proce...</summary><p>Proceedings of the ACM Web Conference 2026</p></details> |
+| **[EvLink: Source-Grounded Evidence Linking for Graph RAG](https://arxiv.org/abs/2609.29695v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to EMNLP2026 MainConference</p></details> |
 | **[Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation](https://arxiv.org/abs/2608.25952v2)** | 2026-08-29 | <details><summary>31 pa...</summary><p>31 pages, 4 figures, prototype framework</p></details> |
-| **[Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs](https://arxiv.org/abs/2608.25986v1)** | 2026-08-26 | Preprint |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Advancing the Physical Internet with GraphRAG: A New Way to Review and Integrate Existing Research](https://arxiv.org/abs/2609.29083v1)** | 2026-09-24 |  |
 | **[LADDER: Graph-Guided Diffusion Language Models for Efficient Multi-Hop Reasoning](https://arxiv.org/abs/2609.24346v1)** | 2026-09-21 |  |
 | **[PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents](https://arxiv.org/abs/2605.13481v3)** | 2026-09-18 |  |
 | **[ModiGen: A Large Language Model-Based Workflow for Multi-Task Modelica Code Generation](https://arxiv.org/abs/2503.18460v2)** | 2026-09-13 |  |
@@ -44,7 +45,6 @@ labels: documentation
 | **[GRASP: Graph-Retrieval Automated Scoring Pipeline for Label-Free Multi-Topic Essay Grading](https://arxiv.org/abs/2609.03857v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted at ICONIP 2026</p></details> |
 | **[ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG](https://arxiv.org/abs/2608.01269v2)** | 2026-08-04 | <details><summary>Withd...</summary><p>Withdrawn because the manuscript was posted prematurely before completion of the required internal review and release authorization</p></details> |
 | **[HVM-GraphRAG: Holistic-View Multimodal Graph Retrieval-Augmented Generation on Complex Document](https://arxiv.org/abs/2607.24861v1)** | 2026-07-26 |  |
-| **[Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770v2)** | 2026-07-24 |  |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
