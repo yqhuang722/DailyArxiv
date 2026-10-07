@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - October 05, 2026
+title: Latest 10 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,16 +7,16 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[To Learn is to Wander: Learning Across Graphs and Tasks with Random Walks](https://arxiv.org/abs/2610.06694v2)** | 2026-10-06 |  |
+| **[MAGIC: Topology-Aware Analytic Graph Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2610.04963v1)** | 2026-10-04 |  |
+| **[KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907v2)** | 2026-10-02 |  |
+| **[Toward Omni Multimodal Graph Foundation Model: A Topology-Driven Binding Approach](https://arxiv.org/abs/2610.02881v1)** | 2026-10-02 |  |
+| **[A Generative Model of Complex Networks Using Graphons and Neural Inverse Operators](https://arxiv.org/abs/2610.02439v1)** | 2026-10-01 |  |
 | **[NodeGround: A Node Classification Benchmark in the Graph Foundation Model Era](https://arxiv.org/abs/2609.39673v1)** | 2026-09-30 |  |
 | **[Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling](https://arxiv.org/abs/2605.27023v5)** | 2026-09-30 |  |
 | **[GraphVQ: Structure-Aware Autoregressive Decoding over Context-Quantized Graph Tokens](https://arxiv.org/abs/2609.37604v1)** | 2026-09-29 |  |
 | **[The Universal Classifier for Graph Learning](https://arxiv.org/abs/2609.36302v1)** | 2026-09-28 |  |
 | **[Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids](https://arxiv.org/abs/2605.23194v2)** | 2026-09-28 | <details><summary>14 pa...</summary><p>14 pages, 9 tables, 8 figures</p></details> |
-| **[Relation-Aware Graph Foundation Model](https://arxiv.org/abs/2505.12027v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
-| **[SPR: Toward a Graph Foundation Model for Transferable Graph Cognition via Spectral Patterns and Relational Geometry](https://arxiv.org/abs/2606.03315v2)** | 2026-09-26 |  |
-| **[Training Graph Foundation Models on The Web Graph](https://arxiv.org/abs/2609.30894v1)** | 2026-09-25 |  |
-| **[Coupling Perception and Reasoning in Federated Multimodal Graph Foundation Models](https://arxiv.org/abs/2610.00277v1)** | 2026-09-24 |  |
-| **[ICE: Task-Aligned Clifford Latent Fields for Multimodal Graph Foundation Models](https://arxiv.org/abs/2609.29398v1)** | 2026-09-24 |  |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
@@ -49,6 +49,7 @@ labels: documentation
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synergizing Drone Delivery Order Pooling and Road Network Monitoring through Monitoring-Task Orderization](https://arxiv.org/abs/2610.05270v1)** | 2026-10-04 |  |
 | **[GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics](https://arxiv.org/abs/2609.38798v1)** | 2026-09-30 | Under review |
 | **[Brain API: An Intent-Aware Control Plane for Policy-Governed Agentic Systems](https://arxiv.org/abs/2609.21299v2)** | 2026-09-28 | <details><summary>32 pa...</summary><p>32 pages, 6 figures. Prototype evaluated against two external policy corpora: the OPA Gatekeeper constraint library and Cedar's published example policies. v2: adds figures; results unchanged</p></details> |
 | **[When More Evidence Hurts: Publication-Bias Drift and Principled Stopping for Biomedical Causal Search](https://arxiv.org/abs/2609.24101v1)** | 2026-09-21 |  |
@@ -58,5 +59,4 @@ labels: documentation
 | **[Scalable Multi-Agent Maze Traversal with Local Communication](https://arxiv.org/abs/2608.11895v1)** | 2026-08-12 | <details><summary>This ...</summary><p>This manuscript has been accepted for publication in the proceedings of the World Symposium on the Algorithmic Foundations of Robotics (WAFR 2026), to be published by Springer in the Springer Proceedings in Advanced Robotics (SPAR) series</p></details> |
 | **[Agent-UCT: Upper Confidence Bounds Applied to Trees for Agentic Workflow Optimization with Cost-Awareness](https://arxiv.org/abs/2607.24162v2)** | 2026-07-28 |  |
 | **[Node-as-Agent: Graph Agentic Network](https://arxiv.org/abs/2508.00429v5)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, work in progress</p></details> |
-| **[Agents-K1: Towards Agent-native Knowledge Orchestration](https://arxiv.org/abs/2606.13669v3)** | 2026-07-17 |  |
 
