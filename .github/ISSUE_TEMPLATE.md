@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - October 08, 2026
+title: Latest 10 Papers - October 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment](https://arxiv.org/abs/2610.09026v1)** | 2026-10-06 |  |
 | **[Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2609.37661v1)** | 2026-09-29 |  |
 | **[Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770v3)** | 2026-09-29 |  |
 | **[Advancing the Physical Internet with GraphRAG: A New Way to Review and Integrate Existing Research](https://arxiv.org/abs/2609.29083v1)** | 2026-09-24 |  |
@@ -44,7 +45,6 @@ labels: documentation
 | **[MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG](https://arxiv.org/abs/2609.11065v1)** | 2026-09-10 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 11 tables. Technical Report</p></details> |
 | **[The Answer Path and the Grounding Instruction in LLM Question Answering over Knowledge Graphs](https://arxiv.org/abs/2609.10237v1)** | 2026-09-09 |  |
 | **[A Storage-Retrieval Gap in Parametric Knowledge Graph Memory](https://arxiv.org/abs/2608.25489v3)** | 2026-09-07 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 7 tables, accepted at SKGi 2026; v2: editorial corrections only, v3: bibliography fix</p></details> |
-| **[GRASP: Graph-Retrieval Automated Scoring Pipeline for Label-Free Multi-Topic Essay Grading](https://arxiv.org/abs/2609.03857v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted at ICONIP 2026</p></details> |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
