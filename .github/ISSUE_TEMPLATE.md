@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - October 15, 2026
+title: Latest 10 Papers - October 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning](https://arxiv.org/abs/2610.19341v1)** | 2026-10-14 |  |
 | **[SEEK: Agentic Knowledge Graph Retrieval for Secure Code Generation](https://arxiv.org/abs/2610.14968v1)** | 2026-10-10 | <details><summary>21 Pa...</summary><p>21 Pages, 3 figures, Under revision</p></details> |
 | **[UltRAG: a Universal Simple Scalable Recipe for Knowledge Graph RAG](https://arxiv.org/abs/2603.28773v2)** | 2026-09-29 |  |
 | **[Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering](https://arxiv.org/abs/2609.18317v2)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at EMNLP ORACLE workshop 2026. Camera-ready version</p></details> |
@@ -30,11 +31,12 @@ labels: documentation
 | **[Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework](https://arxiv.org/abs/2609.13324v1)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted by ICCCBDA 2026</p></details> |
 | **[CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA](https://arxiv.org/abs/2608.13706v3)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted at FinNLP 2026 @ EMNLP 2026</p></details> |
 | **[post-graph-rag: A PostgreSQL-Native Bi-Temporal Graph RAG Engine with Temporal Grounding at Synthesis](https://arxiv.org/abs/2608.24921v3)** | 2026-09-05 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 15 tables</p></details> |
-| **[Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering](https://arxiv.org/abs/2609.00761v1)** | 2026-09-01 | <details><summary>Proce...</summary><p>Proceedings of the ACM Web Conference 2026</p></details> |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.19549v1)** | 2026-10-14 | 14 pages, 7 figures |
+| **[MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning](https://arxiv.org/abs/2610.19341v1)** | 2026-10-14 |  |
 | **[BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment](https://arxiv.org/abs/2610.09026v1)** | 2026-10-06 |  |
 | **[Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2609.37661v1)** | 2026-09-29 |  |
 | **[Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770v3)** | 2026-09-29 |  |
@@ -43,8 +45,6 @@ labels: documentation
 | **[PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents](https://arxiv.org/abs/2605.13481v3)** | 2026-09-18 |  |
 | **[ModiGen: A Large Language Model-Based Workflow for Multi-Task Modelica Code Generation](https://arxiv.org/abs/2503.18460v2)** | 2026-09-13 |  |
 | **[MOSAIC: Query-Aware Exploration Policy Adaptation for GraphRAG](https://arxiv.org/abs/2609.11065v1)** | 2026-09-10 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 11 tables. Technical Report</p></details> |
-| **[The Answer Path and the Grounding Instruction in LLM Question Answering over Knowledge Graphs](https://arxiv.org/abs/2609.10237v1)** | 2026-09-09 |  |
-| **[A Storage-Retrieval Gap in Parametric Knowledge Graph Memory](https://arxiv.org/abs/2608.25489v3)** | 2026-09-07 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 7 tables, accepted at SKGi 2026; v2: editorial corrections only, v3: bibliography fix</p></details> |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
