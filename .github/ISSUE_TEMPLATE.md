@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - October 22, 2026
+title: Latest 10 Papers - October 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Better Reasoning, Not Just Bigger Models: A Structure-Grounded Framework for Efficient and Reliable Inference](https://arxiv.org/abs/2610.30611v1)** | 2026-10-22 |  |
 | **[MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning](https://arxiv.org/abs/2610.19341v1)** | 2026-10-14 |  |
 | **[SEEK: Agentic Knowledge Graph Retrieval for Secure Code Generation](https://arxiv.org/abs/2610.14968v1)** | 2026-10-10 | <details><summary>21 Pa...</summary><p>21 Pages, 3 figures, Under revision</p></details> |
 | **[UltRAG: a Universal Simple Scalable Recipe for Knowledge Graph RAG](https://arxiv.org/abs/2603.28773v2)** | 2026-09-29 |  |
@@ -30,11 +31,12 @@ labels: documentation
 | **[Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration](https://arxiv.org/abs/2609.12464v1)** | 2026-09-11 | <details><summary>11 pa...</summary><p>11 pages, 2 images, 3 tables</p></details> |
 | **[Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework](https://arxiv.org/abs/2609.13324v1)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted by ICCCBDA 2026</p></details> |
 | **[CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA](https://arxiv.org/abs/2608.13706v3)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted at FinNLP 2026 @ EMNLP 2026</p></details> |
-| **[post-graph-rag: A PostgreSQL-Native Bi-Temporal Graph RAG Engine with Temporal Grounding at Synthesis](https://arxiv.org/abs/2608.24921v3)** | 2026-09-05 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 15 tables</p></details> |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Federated Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.30728v1)** | 2026-10-22 |  |
+| **[PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents](https://arxiv.org/abs/2605.13481v4)** | 2026-10-21 |  |
 | **[A Multimodal Engineering GraphRAG Framework for Post-Wind-Event Building Assessment and Recovery Inference](https://arxiv.org/abs/2610.28216v1)** | 2026-10-20 |  |
 | **[E-Layout: Layout-Stage Logic Restructuring via RL-Optimized Equality-Saturated Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.26432v1)** | 2026-10-19 | Accepted by ICCAD'26 |
 | **[GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.19549v1)** | 2026-10-14 | 14 pages, 7 figures |
@@ -43,8 +45,6 @@ labels: documentation
 | **[Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2609.37661v1)** | 2026-09-29 |  |
 | **[Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770v3)** | 2026-09-29 |  |
 | **[Advancing the Physical Internet with GraphRAG: A New Way to Review and Integrate Existing Research](https://arxiv.org/abs/2609.29083v1)** | 2026-09-24 |  |
-| **[LADDER: Graph-Guided Diffusion Language Models for Efficient Multi-Hop Reasoning](https://arxiv.org/abs/2609.24346v1)** | 2026-09-21 |  |
-| **[PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents](https://arxiv.org/abs/2605.13481v3)** | 2026-09-18 |  |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
