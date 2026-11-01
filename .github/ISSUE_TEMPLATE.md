@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - October 29, 2026
+title: Latest 10 Papers - November 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning a Prior-Data Fitted Network for Graph Foundation Models via Structural Causal Model Priors](https://arxiv.org/abs/2610.38335v1)** | 2026-10-28 |  |
 | **[Every Little Helps: Building Knowledge Graph Foundation Model with Fine-grained Transferable Multi-modal Tokens](https://arxiv.org/abs/2602.15896v2)** | 2026-10-27 | Work in progress |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](https://arxiv.org/abs/2502.09254v3)** | 2026-10-27 | Accepted by KDD2025 |
 | **[UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning](https://arxiv.org/abs/2610.34866v1)** | 2026-10-26 | 16 pages, 8 figures |
@@ -16,7 +17,6 @@ labels: documentation
 | **[More Domains, No Gains? FLO: Fast-Slow Reciprocal Learning for Multi-Domain Graph Pre-training](https://arxiv.org/abs/2610.14748v1)** | 2026-10-10 | 28pages,7 figures |
 | **[To Learn is to Wander: Learning Across Graphs and Tasks with Random Walks](https://arxiv.org/abs/2610.06694v2)** | 2026-10-06 |  |
 | **[MAGIC: Topology-Aware Analytic Graph Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2610.04963v1)** | 2026-10-04 |  |
-| **[KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907v2)** | 2026-10-02 |  |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Storage-Retrieval Gap in Parametric Knowledge Graph Memory](https://arxiv.org/abs/2608.25489v4)** | 2026-10-29 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 7 tables; v2: editorial corrections only; v3: bibliography fix; v4: retrieval protocol and metric clarification, figure 2 revision</p></details> |
 | **[UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning](https://arxiv.org/abs/2610.34866v1)** | 2026-10-26 | 16 pages, 8 figures |
 | **[Federated Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.30728v1)** | 2026-10-22 |  |
 | **[PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents](https://arxiv.org/abs/2605.13481v4)** | 2026-10-21 |  |
@@ -44,7 +45,6 @@ labels: documentation
 | **[MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning](https://arxiv.org/abs/2610.19341v1)** | 2026-10-14 |  |
 | **[BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment](https://arxiv.org/abs/2610.09026v1)** | 2026-10-06 |  |
 | **[Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2609.37661v1)** | 2026-09-29 |  |
-| **[Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770v3)** | 2026-09-29 |  |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
