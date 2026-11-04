@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - November 02, 2026
+title: Latest 10 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,20 +7,21 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Common Language for Dynamic Graphs: Interaction Tokenization Enables Foundation Models](https://arxiv.org/abs/2611.03246v1)** | 2026-11-02 | 13 pages, 6 figures |
+| **[GRATE: Temporal Extensions for Inductive KG Foundation Models via Gated Rotary Attention](https://arxiv.org/abs/2607.10197v2)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Graph Foundation Models: A New Era for Graph Machine Learning. 17 pages, 4 figures</p></details> |
+| **[ReCoG: Relative Node Contexts for Multi-Domain Graph Pre-training](https://arxiv.org/abs/2611.01753v1)** | 2026-11-01 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 8 tables</p></details> |
+| **[Versatile Graph Foundation Models from Frozen Time-Series Foundation Models via Parallel Flows](https://arxiv.org/abs/2611.00670v1)** | 2026-10-31 |  |
+| **[Deep Neural Sheaf Diffusion](https://arxiv.org/abs/2605.19021v3)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Graph Foundation Models (GFM@ICML 2026). Code available at https://github.com/remibourgerie/deep-neural-sheaf-diffusion v3: Corrected typographical errors in Eqs. (3) and (12)</p></details> |
 | **[Learning a Prior-Data Fitted Network for Graph Foundation Models via Structural Causal Model Priors](https://arxiv.org/abs/2610.38335v1)** | 2026-10-28 |  |
 | **[Every Little Helps: Building Knowledge Graph Foundation Model with Fine-grained Transferable Multi-modal Tokens](https://arxiv.org/abs/2602.15896v2)** | 2026-10-27 | Work in progress |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](https://arxiv.org/abs/2502.09254v3)** | 2026-10-27 | Accepted by KDD2025 |
 | **[UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning](https://arxiv.org/abs/2610.34866v1)** | 2026-10-26 | 16 pages, 8 figures |
 | **[Chimaera: A Mixture-of-Graph-Experts Architecture for Cross-Task and Cross-Dataset Graph Learning](https://arxiv.org/abs/2609.08709v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at WI-IAT 2026</p></details> |
-| **[Efficient Edge-aware Attention Network for Graph Generation](https://arxiv.org/abs/2610.28618v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Graph Foundation Models and the Workshop on Structured Probabilistic Inference & Generative Modeling, ICML 2026, Seoul, South Korea</p></details> |
-| **[PhyPro-FM: A Physics and Prompt-Guided Graph Foundation Model for Contingency Analysis](https://arxiv.org/abs/2610.26351v1)** | 2026-10-19 |  |
-| **[More Domains, No Gains? FLO: Fast-Slow Reciprocal Learning for Multi-Domain Graph Pre-training](https://arxiv.org/abs/2610.14748v1)** | 2026-10-10 | 28pages,7 figures |
-| **[To Learn is to Wander: Learning Across Graphs and Tasks with Random Walks](https://arxiv.org/abs/2610.06694v2)** | 2026-10-06 |  |
-| **[MAGIC: Topology-Aware Analytic Graph Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2610.04963v1)** | 2026-10-04 |  |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical Dual-Graph Retrieval for Long-form Audio Reasoning](https://arxiv.org/abs/2610.41390v1)** | 2026-10-30 |  |
 | **[Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG](https://arxiv.org/abs/2609.19622v2)** | 2026-10-26 |  |
 | **[Better Reasoning, Not Just Bigger Models: A Structure-Grounded Framework for Efficient and Reliable Inference](https://arxiv.org/abs/2610.30611v1)** | 2026-10-22 |  |
 | **[MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning](https://arxiv.org/abs/2610.19341v1)** | 2026-10-14 |  |
@@ -30,11 +31,11 @@ labels: documentation
 | **[Channel-Adaptive Region Adjacency Graph Carriers for Semantic Image Communication](https://arxiv.org/abs/2609.14616v1)** | 2026-09-13 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 7 tables. Accepted for presentation at IEEE GLOBECOM 2026, Macau. This is the author's accepted version; the final published version will be available via IEEE Xplore</p></details> |
 | **[Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration](https://arxiv.org/abs/2609.12464v1)** | 2026-09-11 | <details><summary>11 pa...</summary><p>11 pages, 2 images, 3 tables</p></details> |
 | **[Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework](https://arxiv.org/abs/2609.13324v1)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted by ICCCBDA 2026</p></details> |
-| **[CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA](https://arxiv.org/abs/2608.13706v3)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted at FinNLP 2026 @ EMNLP 2026</p></details> |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Don't Worry About Quality: Robust Multi-Hop Retrieval despite Issues in Knowledge Graphs](https://arxiv.org/abs/2603.14828v3)** | 2026-10-31 |  |
 | **[A Storage-Retrieval Gap in Parametric Knowledge Graph Memory](https://arxiv.org/abs/2608.25489v4)** | 2026-10-29 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 7 tables; v2: editorial corrections only; v3: bibliography fix; v4: retrieval protocol and metric clarification, figure 2 revision</p></details> |
 | **[UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning](https://arxiv.org/abs/2610.34866v1)** | 2026-10-26 | 16 pages, 8 figures |
 | **[Federated Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.30728v1)** | 2026-10-22 |  |
@@ -44,7 +45,6 @@ labels: documentation
 | **[GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.19549v1)** | 2026-10-14 | 14 pages, 7 figures |
 | **[MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning](https://arxiv.org/abs/2610.19341v1)** | 2026-10-14 |  |
 | **[BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment](https://arxiv.org/abs/2610.09026v1)** | 2026-10-06 |  |
-| **[Corpus-Guided Dual-Path Propagation for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2609.37661v1)** | 2026-09-29 |  |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
