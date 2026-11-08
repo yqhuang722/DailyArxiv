@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - November 05, 2026
+title: Latest 10 Papers - November 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Foundation Models Can Become Effective Multivariate Time Series Anomaly Detectors](https://arxiv.org/abs/2611.06441v1)** | 2026-11-04 |  |
 | **[A Common Language for Dynamic Graphs: Interaction Tokenization Enables Foundation Models](https://arxiv.org/abs/2611.03246v1)** | 2026-11-02 | 13 pages, 6 figures |
 | **[GRATE: Temporal Extensions for Inductive KG Foundation Models via Gated Rotary Attention](https://arxiv.org/abs/2607.10197v2)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Graph Foundation Models: A New Era for Graph Machine Learning. 17 pages, 4 figures</p></details> |
 | **[ReCoG: Relative Node Contexts for Multi-Domain Graph Pre-training](https://arxiv.org/abs/2611.01753v1)** | 2026-11-01 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 8 tables</p></details> |
@@ -16,11 +17,11 @@ labels: documentation
 | **[Every Little Helps: Building Knowledge Graph Foundation Model with Fine-grained Transferable Multi-modal Tokens](https://arxiv.org/abs/2602.15896v2)** | 2026-10-27 | Work in progress |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](https://arxiv.org/abs/2502.09254v3)** | 2026-10-27 | Accepted by KDD2025 |
 | **[UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning](https://arxiv.org/abs/2610.34866v1)** | 2026-10-26 | 16 pages, 8 figures |
-| **[Chimaera: A Mixture-of-Graph-Experts Architecture for Cross-Task and Cross-Dataset Graph Learning](https://arxiv.org/abs/2609.08709v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at WI-IAT 2026</p></details> |
 
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Graph RAG for Long-range Visually Rich Document Understanding](https://arxiv.org/abs/2606.28780v2)** | 2026-11-05 | WACV 2027 |
 | **[Hierarchical Dual-Graph Retrieval for Long-form Audio Reasoning](https://arxiv.org/abs/2610.41390v1)** | 2026-10-30 |  |
 | **[Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG](https://arxiv.org/abs/2609.19622v2)** | 2026-10-26 |  |
 | **[Better Reasoning, Not Just Bigger Models: A Structure-Grounded Framework for Efficient and Reliable Inference](https://arxiv.org/abs/2610.30611v1)** | 2026-10-22 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering](https://arxiv.org/abs/2609.18317v2)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at EMNLP ORACLE workshop 2026. Camera-ready version</p></details> |
 | **[Channel-Adaptive Region Adjacency Graph Carriers for Semantic Image Communication](https://arxiv.org/abs/2609.14616v1)** | 2026-09-13 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 7 tables. Accepted for presentation at IEEE GLOBECOM 2026, Macau. This is the author's accepted version; the final published version will be available via IEEE Xplore</p></details> |
 | **[Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration](https://arxiv.org/abs/2609.12464v1)** | 2026-09-11 | <details><summary>11 pa...</summary><p>11 pages, 2 images, 3 tables</p></details> |
-| **[Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework](https://arxiv.org/abs/2609.13324v1)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted by ICCCBDA 2026</p></details> |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
