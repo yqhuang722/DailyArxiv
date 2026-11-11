@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - November 09, 2026
+title: Latest 10 Papers - November 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph RAG
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EvLink: Source-Grounded Evidence Linking for Graph RAG](https://arxiv.org/abs/2609.29695v2)** | 2026-11-08 |  |
 | **[Multimodal Graph RAG for Long-range Visually Rich Document Understanding](https://arxiv.org/abs/2606.28780v2)** | 2026-11-05 | WACV 2027 |
 | **[Hierarchical Dual-Graph Retrieval for Long-form Audio Reasoning](https://arxiv.org/abs/2610.41390v1)** | 2026-10-30 |  |
 | **[Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG](https://arxiv.org/abs/2609.19622v2)** | 2026-10-26 |  |
@@ -30,21 +31,20 @@ labels: documentation
 | **[UltRAG: a Universal Simple Scalable Recipe for Knowledge Graph RAG](https://arxiv.org/abs/2603.28773v2)** | 2026-09-29 |  |
 | **[Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering](https://arxiv.org/abs/2609.18317v2)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at EMNLP ORACLE workshop 2026. Camera-ready version</p></details> |
 | **[Channel-Adaptive Region Adjacency Graph Carriers for Semantic Image Communication](https://arxiv.org/abs/2609.14616v1)** | 2026-09-13 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 7 tables. Accepted for presentation at IEEE GLOBECOM 2026, Macau. This is the author's accepted version; the final published version will be available via IEEE Xplore</p></details> |
-| **[Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration](https://arxiv.org/abs/2609.12464v1)** | 2026-09-11 | <details><summary>11 pa...</summary><p>11 pages, 2 images, 3 tables</p></details> |
 
 ## Graph Retrieval-Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DOTRAG: Retrieval-Time Reasoning Along Paths](https://arxiv.org/abs/2605.18760v2)** | 2026-11-10 |  |
+| **[Lightfoot: Graph Retrieval-Augmented Generation with Exact, Model-Free Document Deletion](https://arxiv.org/abs/2611.11010v1)** | 2026-11-07 | <details><summary>9 pag...</summary><p>9 pages, 1 figure. Code: https://github.com/udayallu-ml/Lightfoot-GraphRAG</p></details> |
+| **[RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/abs/2502.11371v4)** | 2026-11-07 |  |
+| **[Differentially Private GraphRAG: Protecting Relation Connectivity and Semantics](https://arxiv.org/abs/2611.09658v1)** | 2026-11-06 |  |
+| **[Typed-Centrality Grounding for Agentic GraphRAG: A Symbolic Approach for Agentic Reasoning](https://arxiv.org/abs/2611.09414v1)** | 2026-11-06 | <details><summary>Prepr...</summary><p>Preprint. 7 pages. Final version published in 2026 IEEE Symposium on Computers and Communications (ISCC), DOI: 10.1109/ISCC70364.2026.11739974</p></details> |
+| **[PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents](https://arxiv.org/abs/2605.13481v5)** | 2026-11-06 |  |
 | **[Don't Worry About Quality: Robust Multi-Hop Retrieval despite Issues in Knowledge Graphs](https://arxiv.org/abs/2603.14828v3)** | 2026-10-31 |  |
 | **[A Storage-Retrieval Gap in Parametric Knowledge Graph Memory](https://arxiv.org/abs/2608.25489v4)** | 2026-10-29 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 7 tables; v2: editorial corrections only; v3: bibliography fix; v4: retrieval protocol and metric clarification, figure 2 revision</p></details> |
 | **[UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning](https://arxiv.org/abs/2610.34866v1)** | 2026-10-26 | 16 pages, 8 figures |
 | **[Federated Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.30728v1)** | 2026-10-22 |  |
-| **[PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents](https://arxiv.org/abs/2605.13481v4)** | 2026-10-21 |  |
-| **[A Multimodal Engineering GraphRAG Framework for Post-Wind-Event Building Assessment and Recovery Inference](https://arxiv.org/abs/2610.28216v1)** | 2026-10-20 |  |
-| **[E-Layout: Layout-Stage Logic Restructuring via RL-Optimized Equality-Saturated Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.26432v1)** | 2026-10-19 | Accepted by ICCAD'26 |
-| **[GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2610.19549v1)** | 2026-10-14 | 14 pages, 7 figures |
-| **[MMKG-R1: Constructing Multimodal Knowledge Graphs via Reinforcement Learning](https://arxiv.org/abs/2610.19341v1)** | 2026-10-14 |  |
-| **[BEACON-SP: Ontology-Grounded GraphRAG Framework for Clinical Suicide Risk Assessment](https://arxiv.org/abs/2610.09026v1)** | 2026-10-06 |  |
 
 ## Graph Agentic
 | **Title** | **Date** | **Comment** |
